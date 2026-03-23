@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T15:25:50.131Z",
+  "updated": "2026-03-23T18:20:45.484Z",
   "models": [
     {
       "rank": 1,
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 20521720,
-      "likes": 1148,
+      "likes": 1149,
       "tags": [
         "transformers",
         "safetensors",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 13929860,
-      "likes": 204,
+      "likes": 205,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 13091863,
-      "likes": 859,
+      "likes": 860,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -396,7 +396,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11837634,
-      "likes": 1674,
+      "likes": 1675,
       "tags": [
         "pyannote-audio",
         "pyannote",
