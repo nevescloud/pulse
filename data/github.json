@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T03:50:39.038Z",
+  "updated": "2026-03-24T06:28:27.523Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
       "description": "Automate the process of making money online.",
       "language": "Python",
-      "stars": 23278,
-      "forks": 2391,
+      "stars": 23565,
+      "forks": 2416,
       "starsToday": 2880
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars": 40051,
-      "forks": 4709,
+      "stars": 40515,
+      "forks": 4758,
       "starsToday": 3546
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": 13600,
-      "forks": 1285,
+      "stars": 13778,
+      "forks": 1302,
       "starsToday": 4138
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars": 13103,
-      "forks": 1631,
+      "stars": 13175,
+      "forks": 1637,
       "starsToday": 1309
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/browser-use/browser-use",
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "language": "Python",
-      "stars": 83817,
-      "forks": 9738,
+      "stars": 83918,
+      "forks": 9748,
       "starsToday": 1157
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 39572,
-      "forks": 7349,
+      "stars": 39754,
+      "forks": 7376,
       "starsToday": 2530
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/tinygrad/tinygrad",
       "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
       "language": "Python",
-      "stars": 31915,
-      "forks": 3979,
+      "stars": 31939,
+      "forks": 3981,
       "starsToday": 56
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 102402,
-      "forks": 13337,
+      "stars": 102725,
+      "forks": 13380,
       "starsToday": 4458
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 11695,
-      "forks": 1423,
+      "stars": 11786,
+      "forks": 1433,
       "starsToday": 919
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
       "language": "Python",
-      "stars": 42693,
-      "forks": 5135,
+      "stars": 42780,
+      "forks": 5146,
       "starsToday": 487
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/hsliuping/TradingAgents-CN",
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
-      "stars": 20409,
-      "forks": 4287,
+      "stars": 20522,
+      "forks": 4300,
       "starsToday": 676
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/kepano/obsidian-skills",
       "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
       "language": null,
-      "stars": 16462,
-      "forks": 944,
+      "stars": 16545,
+      "forks": 947,
       "starsToday": 354
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/czlonkowski/n8n-mcp",
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "language": "TypeScript",
-      "stars": 16115,
-      "forks": 2773,
+      "stars": 16154,
+      "forks": 2778,
       "starsToday": 146
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars": 113664,
-      "forks": 5785,
+      "stars": 113705,
+      "forks": 5788,
       "starsToday": 106
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
-      "stars": 31129,
-      "forks": 2173,
+      "stars": 31230,
+      "forks": 2178,
       "starsToday": 429
     }
   ]

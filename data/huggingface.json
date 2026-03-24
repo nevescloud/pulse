@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T03:50:38.138Z",
+  "updated": "2026-03-24T06:28:26.566Z",
   "models": [
     {
       "rank": 1,
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 19232304,
-      "likes": 668,
+      "likes": 669,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 16119277,
-      "likes": 2844,
+      "likes": 2845,
       "tags": [
         "sentence-transformers",
         "pytorch",
