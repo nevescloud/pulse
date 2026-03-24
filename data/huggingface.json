@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T12:21:32.644Z",
+  "updated": "2026-03-24T15:28:48.815Z",
   "models": [
     {
       "rank": 1,
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 41264876,
-      "likes": 1016,
+      "likes": 1018,
       "tags": [
         "transformers",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 15855061,
-      "likes": 2846,
+      "likes": 2847,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 13126397,
-      "likes": 862,
+      "likes": 863,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -396,7 +396,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11981413,
-      "likes": 1678,
+      "likes": 1679,
       "tags": [
         "pyannote-audio",
         "pyannote",
@@ -478,7 +478,7 @@
       "url": "https://huggingface.co/Kijai/WanVideo_comfy",
       "pipelineTag": null,
       "downloads": 10031526,
-      "likes": 2194,
+      "likes": 2195,
       "tags": [
         "diffusion-single-file",
         "comfyui",
