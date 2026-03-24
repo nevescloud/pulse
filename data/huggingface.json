@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T00:29:37.183Z",
+  "updated": "2026-03-24T03:50:38.138Z",
   "models": [
     {
       "rank": 1,
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 20521720,
-      "likes": 1149,
+      "likes": 1151,
       "tags": [
         "transformers",
         "safetensors",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 16119277,
-      "likes": 2843,
+      "likes": 2844,
       "tags": [
         "sentence-transformers",
         "pytorch",
