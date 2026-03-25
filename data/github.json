@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T21:15:52.079Z",
+  "updated": "2026-03-25T00:33:34.903Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/pascalorg/editor",
       "description": "",
       "language": "TypeScript",
-      "stars": 5002,
-      "forks": 704,
-      "starsToday": 1513
+      "stars": 5187,
+      "forks": 720,
+      "starsToday": 1449
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars": 42935,
-      "forks": 5030,
-      "starsToday": 4319
+      "stars": 43184,
+      "forks": 5063,
+      "starsToday": 4346
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars": 18467,
-      "forks": 1780,
-      "starsToday": 407
+      "stars": 18530,
+      "forks": 1781,
+      "starsToday": 344
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
       "description": "Automate the process of making money online.",
       "language": "Python",
-      "stars": 24683,
-      "forks": 2562,
-      "starsToday": 2937
+      "stars": 24787,
+      "forks": 2574,
+      "starsToday": 3006
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars": 52541,
-      "forks": 7434,
-      "starsToday": 695
+      "stars": 52595,
+      "forks": 7442,
+      "starsToday": 728
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": 15106,
-      "forks": 1430,
-      "starsToday": 2450
+      "stars": 15310,
+      "forks": 1456,
+      "starsToday": 2513
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 40693,
-      "forks": 7507,
-      "starsToday": 1746
+      "stars": 40838,
+      "forks": 7519,
+      "starsToday": 1760
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 5404,
-      "forks": 580,
-      "starsToday": 208
+      "stars": 5541,
+      "forks": 587,
+      "starsToday": 209
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars": 24942,
-      "forks": 2720,
+      "stars": 25080,
+      "forks": 2733,
       "starsToday": 1397
     },
     {
@@ -118,9 +118,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 12427,
-      "forks": 1505,
-      "starsToday": 1251
+      "stars": 12528,
+      "forks": 1514,
+      "starsToday": 1278
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
       "language": "Python",
-      "stars": 31743,
-      "forks": 2209,
-      "starsToday": 993
+      "stars": 31825,
+      "forks": 2214,
+      "starsToday": 995
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/hsliuping/TradingAgents-CN",
       "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "language": "Python",
-      "stars": 20858,
-      "forks": 4354,
-      "starsToday": 559
+      "stars": 20880,
+      "forks": 4358,
+      "starsToday": 557
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars": 33972,
-      "forks": 191,
-      "starsToday": 103
+      "stars": 33983,
+      "forks": 192,
+      "starsToday": 104
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 41164,
-      "forks": 5649,
-      "starsToday": 1020
+      "stars": 41282,
+      "forks": 5661,
+      "starsToday": 861
     }
   ]
 }
