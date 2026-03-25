@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T09:21:45.860Z",
+  "updated": "2026-03-25T12:20:48.684Z",
   "models": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 28344265,
-      "likes": 1261,
+      "likes": 1262,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 19626645,
-      "likes": 1153,
+      "likes": 1152,
       "tags": [
         "transformers",
         "safetensors",
@@ -296,7 +296,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 13820887,
-      "likes": 1153,
+      "likes": 1154,
       "tags": [
         "transformers",
         "safetensors",
@@ -396,7 +396,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11959539,
-      "likes": 1681,
+      "likes": 1683,
       "tags": [
         "pyannote-audio",
         "pyannote",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 11832115,
-      "likes": 3134,
+      "likes": 3135,
       "tags": [
         "transformers",
         "pytorch",
