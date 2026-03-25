@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T15:29:42.571Z",
+  "updated": "2026-03-25T18:23:41.392Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 206994378,
-      "likes": 4606,
+      "likes": 4607,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 19626645,
-      "likes": 1153,
+      "likes": 1154,
       "tags": [
         "transformers",
         "safetensors",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 11832115,
-      "likes": 3135,
+      "likes": 3136,
       "tags": [
         "transformers",
         "pytorch",
@@ -495,7 +495,7 @@
       "url": "https://huggingface.co/Kijai/WanVideo_comfy",
       "pipelineTag": null,
       "downloads": 9826258,
-      "likes": 2198,
+      "likes": 2197,
       "tags": [
         "diffusion-single-file",
         "comfyui",
