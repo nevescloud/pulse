@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T15:32:21.510Z",
+  "updated": "2026-03-26T18:25:53.425Z",
   "models": [
     {
       "rank": 1,
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 19513095,
-      "likes": 1156,
+      "likes": 1157,
       "tags": [
         "transformers",
         "safetensors",
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 18512065,
-      "likes": 671,
+      "likes": 672,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -379,7 +379,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 12538508,
-      "likes": 206,
+      "likes": 207,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -464,7 +464,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 10258288,
-      "likes": 781,
+      "likes": 782,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -481,7 +481,7 @@
       "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
       "pipelineTag": null,
       "downloads": 10148149,
-      "likes": 637,
+      "likes": 638,
       "tags": [
         "diffusion-single-file",
         "comfyui",
@@ -495,7 +495,7 @@
       "url": "https://huggingface.co/Kijai/WanVideo_comfy",
       "pipelineTag": null,
       "downloads": 9625681,
-      "likes": 2200,
+      "likes": 2201,
       "tags": [
         "diffusion-single-file",
         "comfyui",
