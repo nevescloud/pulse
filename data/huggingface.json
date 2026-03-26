@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T21:14:31.633Z",
+  "updated": "2026-03-26T00:35:49.122Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 206994378,
-      "likes": 4607,
+      "likes": 4609,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 22482658,
-      "likes": 1973,
+      "likes": 1974,
       "tags": [
         "transformers",
         "pytorch",
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 18758645,
-      "likes": 669,
+      "likes": 670,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 15614645,
-      "likes": 2850,
+      "likes": 2851,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 14309926,
-      "likes": 201,
+      "likes": 202,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -296,7 +296,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 13820887,
-      "likes": 1154,
+      "likes": 1155,
       "tags": [
         "transformers",
         "safetensors",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 11832115,
-      "likes": 3136,
+      "likes": 3137,
       "tags": [
         "transformers",
         "pytorch",
@@ -461,7 +461,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 10260932,
-      "likes": 426,
+      "likes": 427,
       "tags": [
         "sentence-transformers",
         "pytorch",
