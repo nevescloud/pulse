@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T12:19:03.528Z",
+  "updated": "2026-03-27T15:20:50.119Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 11725,
-      "forks": 954,
+      "stars": 12021,
+      "forks": 975,
       "starsToday": 2824
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 82008,
-      "forks": 11982,
+      "stars": 82374,
+      "forks": 12022,
       "starsToday": 1546
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
-      "stars": 2631,
-      "forks": 460,
+      "stars": 2705,
+      "forks": 466,
       "starsToday": 125
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 24392,
-      "forks": 2683,
+      "stars": 24490,
+      "forks": 2691,
       "starsToday": 320
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
-      "stars": 41657,
-      "forks": 5533,
+      "stars": 41768,
+      "forks": 5546,
       "starsToday": 661
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/datalab-to/chandra",
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
-      "stars": 6628,
-      "forks": 706,
+      "stars": 6784,
+      "forks": 720,
       "starsToday": 913
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 117438,
-      "forks": 9442,
+      "stars": 117812,
+      "forks": 9485,
       "starsToday": 2993
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars": 19358,
-      "forks": 2366,
+      "stars": 19471,
+      "forks": 2373,
       "starsToday": 673
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
-      "stars": 13378,
-      "forks": 874,
+      "stars": 13569,
+      "forks": 889,
       "starsToday": 1402
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/FreeCAD/FreeCAD",
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
-      "stars": 29418,
-      "forks": 5312,
+      "stars": 29488,
+      "forks": 5314,
       "starsToday": 99
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
       "description": "",
       "language": "Jupyter Notebook",
-      "stars": 11631,
-      "forks": 837,
+      "stars": 11710,
+      "forks": 839,
       "starsToday": 1075
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 18623,
-      "forks": 2546,
+      "stars": 18804,
+      "forks": 2565,
       "starsToday": 512
     }
   ]

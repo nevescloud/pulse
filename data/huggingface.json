@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T12:19:02.478Z",
+  "updated": "2026-03-27T15:20:49.268Z",
   "models": [
     {
       "rank": 1,
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 18271242,
-      "likes": 672,
+      "likes": 673,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -447,7 +447,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 10858834,
-      "likes": 427,
+      "likes": 428,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -481,7 +481,7 @@
       "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
       "pipelineTag": null,
       "downloads": 10026166,
-      "likes": 640,
+      "likes": 641,
       "tags": [
         "diffusion-single-file",
         "comfyui",
