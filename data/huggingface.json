@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T09:21:51.280Z",
+  "updated": "2026-03-27T12:19:02.478Z",
   "models": [
     {
       "rank": 1,
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 40993861,
-      "likes": 1019,
+      "likes": 1020,
       "tags": [
         "transformers",
         "pytorch",
@@ -92,7 +92,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 26483425,
-      "likes": 1170,
+      "likes": 1171,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 19095515,
-      "likes": 1159,
+      "likes": 1160,
       "tags": [
         "transformers",
         "safetensors",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 15125553,
-      "likes": 2854,
+      "likes": 2856,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11743148,
-      "likes": 1690,
+      "likes": 1691,
       "tags": [
         "pyannote-audio",
         "pyannote",
