@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T15:20:50.119Z",
+  "updated": "2026-03-27T18:22:54.784Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 12021,
-      "forks": 975,
+      "stars": 12295,
+      "forks": 995,
       "starsToday": 2824
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 82374,
-      "forks": 12022,
+      "stars": 82655,
+      "forks": 12075,
       "starsToday": 1546
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
-      "stars": 2705,
-      "forks": 466,
+      "stars": 2763,
+      "forks": 472,
       "starsToday": 125
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 24490,
-      "forks": 2691,
+      "stars": 24559,
+      "forks": 2699,
       "starsToday": 320
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
-      "stars": 41768,
-      "forks": 5546,
+      "stars": 41848,
+      "forks": 5561,
       "starsToday": 661
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/datalab-to/chandra",
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
-      "stars": 6784,
-      "forks": 720,
+      "stars": 6871,
+      "forks": 727,
       "starsToday": 913
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 117812,
-      "forks": 9485,
-      "starsToday": 2993
+      "stars": 118100,
+      "forks": 9520,
+      "starsToday": 2797
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars": 19471,
-      "forks": 2373,
+      "stars": 19565,
+      "forks": 2380,
       "starsToday": 673
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
-      "stars": 13569,
-      "forks": 889,
+      "stars": 13734,
+      "forks": 898,
       "starsToday": 1402
     },
     {
@@ -118,9 +118,9 @@
       "url": "https://github.com/FreeCAD/FreeCAD",
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
-      "stars": 29488,
-      "forks": 5314,
-      "starsToday": 99
+      "stars": 29545,
+      "forks": 5317,
+      "starsToday": 173
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
       "description": "",
       "language": "Jupyter Notebook",
-      "stars": 11710,
-      "forks": 839,
+      "stars": 11766,
+      "forks": 842,
       "starsToday": 1075
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 18804,
-      "forks": 2565,
+      "stars": 18919,
+      "forks": 2577,
       "starsToday": 512
     }
   ]
