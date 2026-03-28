@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T03:50:51.837Z",
+  "updated": "2026-03-28T06:25:17.142Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 206907723,
-      "likes": 4616,
+      "likes": 4617,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11743148,
-      "likes": 1693,
+      "likes": 1694,
       "tags": [
         "pyannote-audio",
         "pyannote",
@@ -481,7 +481,7 @@
       "url": "https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
       "pipelineTag": null,
       "downloads": 10026166,
-      "likes": 642,
+      "likes": 643,
       "tags": [
         "diffusion-single-file",
         "comfyui",
@@ -495,7 +495,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9481869,
-      "likes": 649,
+      "likes": 650,
       "tags": [
         "transformers",
         "safetensors",
