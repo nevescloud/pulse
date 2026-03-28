@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T00:33:17.601Z",
+  "updated": "2026-03-28T03:50:51.837Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 206907723,
-      "likes": 4615,
+      "likes": 4616,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 19095515,
-      "likes": 1160,
+      "likes": 1161,
       "tags": [
         "transformers",
         "safetensors",
@@ -362,7 +362,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 12354138,
-      "likes": 871,
+      "likes": 872,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -464,7 +464,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 10308176,
-      "likes": 783,
+      "likes": 784,
       "tags": [
         "sentence-transformers",
         "onnx",
