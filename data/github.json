@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T21:13:34.794Z",
+  "updated": "2026-03-28T00:33:18.419Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 12441,
-      "forks": 1005,
-      "starsToday": 2824
+      "stars": 12612,
+      "forks": 1013,
+      "starsToday": 2821
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 82860,
-      "forks": 12102,
-      "starsToday": 1546
+      "stars": 83029,
+      "forks": 12135,
+      "starsToday": 1616
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
-      "stars": 2806,
-      "forks": 474,
-      "starsToday": 125
+      "stars": 2852,
+      "forks": 476,
+      "starsToday": 143
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 24613,
-      "forks": 2701,
-      "starsToday": 320
+      "stars": 24677,
+      "forks": 2703,
+      "starsToday": 337
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "Building a modern alternative to Salesforce, powered by the community.",
       "language": "TypeScript",
-      "stars": 41922,
-      "forks": 5567,
-      "starsToday": 661
+      "stars": 42003,
+      "forks": 5575,
+      "starsToday": 668
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/datalab-to/chandra",
       "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
       "language": "Python",
-      "stars": 6937,
-      "forks": 729,
-      "starsToday": 913
+      "stars": 7010,
+      "forks": 733,
+      "starsToday": 912
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 118288,
-      "forks": 9539,
-      "starsToday": 2797
+      "stars": 118497,
+      "forks": 9560,
+      "starsToday": 2752
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars": 19614,
-      "forks": 2382,
-      "starsToday": 673
+      "stars": 19675,
+      "forks": 2386,
+      "starsToday": 672
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
-      "stars": 13832,
-      "forks": 899,
-      "starsToday": 1402
+      "stars": 13940,
+      "forks": 903,
+      "starsToday": 1411
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/FreeCAD/FreeCAD",
       "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
-      "stars": 29593,
-      "forks": 5319,
-      "starsToday": 173
+      "stars": 29647,
+      "forks": 5321,
+      "starsToday": 79
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
       "description": "",
       "language": "Jupyter Notebook",
-      "stars": 11811,
-      "forks": 844,
-      "starsToday": 1075
+      "stars": 11863,
+      "forks": 845,
+      "starsToday": 1066
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 19017,
-      "forks": 2581,
-      "starsToday": 512
+      "stars": 19127,
+      "forks": 2591,
+      "starsToday": 547
     }
   ]
 }
