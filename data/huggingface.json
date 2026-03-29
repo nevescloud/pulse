@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T09:15:27.879Z",
+  "updated": "2026-03-29T12:14:51.035Z",
   "models": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14962258,
-      "likes": 2856,
+      "likes": 2857,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -379,7 +379,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 11636493,
-      "likes": 3153,
+      "likes": 3154,
       "tags": [
         "transformers",
         "pytorch",
@@ -396,7 +396,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11580047,
-      "likes": 1697,
+      "likes": 1698,
       "tags": [
         "pyannote-audio",
         "pyannote",
