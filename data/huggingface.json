@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T12:14:51.035Z",
+  "updated": "2026-03-29T15:11:22.967Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 206073068,
-      "likes": 4620,
+      "likes": 4622,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 71392969,
-      "likes": 2595,
+      "likes": 2596,
       "tags": [
         "transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20480777,
-      "likes": 890,
+      "likes": 891,
       "tags": [
         "transformers",
         "pytorch",
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 17926632,
-      "likes": 675,
+      "likes": 676,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14962258,
-      "likes": 2857,
+      "likes": 2858,
       "tags": [
         "sentence-transformers",
         "pytorch",
