@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T12:24:13.446Z",
+  "updated": "2026-03-30T15:32:22.383Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 206238498,
-      "likes": 4625,
+      "likes": 4626,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 29358404,
-      "likes": 1263,
+      "likes": 1264,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20594681,
-      "likes": 891,
+      "likes": 892,
       "tags": [
         "transformers",
         "pytorch",
@@ -379,7 +379,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 11787319,
-      "likes": 3158,
+      "likes": 3159,
       "tags": [
         "transformers",
         "pytorch",
@@ -396,7 +396,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 11673570,
-      "likes": 876,
+      "likes": 877,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11525210,
-      "likes": 1700,
+      "likes": 1701,
       "tags": [
         "pyannote-audio",
         "pyannote",
