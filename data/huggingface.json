@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T09:36:33.183Z",
+  "updated": "2026-03-30T12:24:13.446Z",
   "models": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14916546,
-      "likes": 2859,
+      "likes": 2860,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 14799221,
-      "likes": 574,
+      "likes": 575,
       "tags": [
         "transformers",
         "pytorch",
@@ -379,7 +379,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 11787319,
-      "likes": 3157,
+      "likes": 3158,
       "tags": [
         "transformers",
         "pytorch",
@@ -430,7 +430,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 11258280,
-      "likes": 209,
+      "likes": 210,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -481,7 +481,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 9630156,
-      "likes": 5859,
+      "likes": 5861,
       "tags": [
         "text-to-speech",
         "en",
