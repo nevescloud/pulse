@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T00:36:11.706Z",
+  "updated": "2026-03-31T04:00:22.245Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 30237,
-      "forks": 3331,
+      "stars": 31032,
+      "forks": 3439,
       "starsToday": 2492
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars": 9850,
-      "forks": 983,
+      "stars": 10309,
+      "forks": 1038,
       "starsToday": 4232
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 26100,
-      "forks": 2189,
+      "stars": 26529,
+      "forks": 2211,
       "starsToday": 1108
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 86330,
-      "forks": 12541,
+      "stars": 86495,
+      "forks": 12557,
       "starsToday": 1136
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/OpenBB-finance/OpenBB",
       "description": "Financial data platform for analysts, quants and AI agents.",
       "language": "Python",
-      "stars": 64527,
-      "forks": 6348,
+      "stars": 64617,
+      "forks": 6353,
       "starsToday": 502
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 439706,
-      "forks": 43894,
+      "stars": 439819,
+      "forks": 43905,
       "starsToday": 368
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars": 74703,
-      "forks": 8838,
+      "stars": 74845,
+      "forks": 8845,
       "starsToday": 76
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/apache/superset",
       "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
       "language": "TypeScript",
-      "stars": 71914,
-      "forks": 16938,
+      "stars": 71993,
+      "forks": 16944,
       "starsToday": 49
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
       "language": "C",
-      "stars": 21412,
+      "stars": 21445,
       "forks": 726,
       "starsToday": 276
     },
@@ -118,8 +118,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 18584,
-      "forks": 2259,
+      "stars": 18893,
+      "forks": 2292,
       "starsToday": 1851
     }
   ]
