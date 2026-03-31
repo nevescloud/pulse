@@ -1,30 +1,30 @@
 {
-  "updated": "2026-03-31T09:28:23.126Z",
+  "updated": "2026-03-31T12:24:59.488Z",
   "since": "daily",
   "repos": [
     {
       "rank": 1,
-      "owner": "microsoft",
-      "name": "VibeVoice",
-      "fullName": "microsoft/VibeVoice",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars": 31981,
-      "forks": 3536,
-      "starsToday": 2492
-    },
-    {
-      "rank": 2,
       "owner": "luongnv89",
       "name": "claude-howto",
       "fullName": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars": 11074,
-      "forks": 1123,
-      "starsToday": 4232
+      "stars": 11455,
+      "forks": 1172,
+      "starsToday": 2390
+    },
+    {
+      "rank": 2,
+      "owner": "microsoft",
+      "name": "VibeVoice",
+      "fullName": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": 32298,
+      "forks": 3581,
+      "starsToday": 3862
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
       "description": "Teams-first Multi-agent orchestration for Claude Code",
       "language": "TypeScript",
-      "stars": 17937,
-      "forks": 1258,
-      "starsToday": 1791
+      "stars": 18080,
+      "forks": 1270,
+      "starsToday": 1127
     },
     {
       "rank": 4,
@@ -46,93 +46,129 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 27164,
-      "forks": 2263,
-      "starsToday": 1108
+      "stars": 27440,
+      "forks": 2277,
+      "starsToday": 2408
     },
     {
       "rank": 5,
-      "owner": "hacksider",
-      "name": "Deep-Live-Cam",
-      "fullName": "hacksider/Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 86769,
-      "forks": 12589,
-      "starsToday": 1136
-    },
-    {
-      "rank": 6,
-      "owner": "OpenBB-finance",
-      "name": "OpenBB",
-      "fullName": "OpenBB-finance/OpenBB",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "language": "Python",
-      "stars": 64747,
-      "forks": 6362,
-      "starsToday": 502
-    },
-    {
-      "rank": 7,
-      "owner": "freeCodeCamp",
-      "name": "freeCodeCamp",
-      "fullName": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars": 440054,
-      "forks": 43915,
-      "starsToday": 368
-    },
-    {
-      "rank": 8,
-      "owner": "sherlock-project",
-      "name": "sherlock",
-      "fullName": "sherlock-project/sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars": 75071,
-      "forks": 8859,
-      "starsToday": 76
-    },
-    {
-      "rank": 9,
-      "owner": "apache",
-      "name": "superset",
-      "fullName": "apache/superset",
-      "url": "https://github.com/apache/superset",
-      "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
-      "language": "TypeScript",
-      "stars": 72109,
-      "forks": 16953,
-      "starsToday": 49
-    },
-    {
-      "rank": 10,
-      "owner": "fastfetch-cli",
-      "name": "fastfetch",
-      "fullName": "fastfetch-cli/fastfetch",
-      "url": "https://github.com/fastfetch-cli/fastfetch",
-      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "language": "C",
-      "stars": 21509,
-      "forks": 729,
-      "starsToday": 276
-    },
-    {
-      "rank": 11,
       "owner": "NousResearch",
       "name": "hermes-agent",
       "fullName": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 19362,
-      "forks": 2342,
-      "starsToday": 1851
+      "stars": 19538,
+      "forks": 2365,
+      "starsToday": 1909
+    },
+    {
+      "rank": 6,
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 127194,
+      "forks": 10371,
+      "starsToday": 2846
+    },
+    {
+      "rank": 7,
+      "owner": "microsoft",
+      "name": "agent-lightning",
+      "fullName": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
+      "description": "The absolute trainer to light up AI agents.",
+      "language": "Python",
+      "stars": 16082,
+      "forks": 1388,
+      "starsToday": 251
+    },
+    {
+      "rank": 8,
+      "owner": "PaddlePaddle",
+      "name": "PaddleOCR",
+      "fullName": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "language": "Python",
+      "stars": 73843,
+      "forks": 10094,
+      "starsToday": 440
+    },
+    {
+      "rank": 9,
+      "owner": "Dimillian",
+      "name": "Skills",
+      "fullName": "Dimillian/Skills",
+      "url": "https://github.com/Dimillian/Skills",
+      "description": "My Codex Skills",
+      "language": "Shell",
+      "stars": 2670,
+      "forks": 141,
+      "starsToday": 173
+    },
+    {
+      "rank": 10,
+      "owner": "sherlock-project",
+      "name": "sherlock",
+      "fullName": "sherlock-project/sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
+      "language": "Python",
+      "stars": 75148,
+      "forks": 8867,
+      "starsToday": 862
+    },
+    {
+      "rank": 11,
+      "owner": "neovim",
+      "name": "neovim",
+      "fullName": "neovim/neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "stars": 97755,
+      "forks": 6700,
+      "starsToday": 95
+    },
+    {
+      "rank": 12,
+      "owner": "vas3k",
+      "name": "TaxHacker",
+      "fullName": "vas3k/TaxHacker",
+      "url": "https://github.com/vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "language": "TypeScript",
+      "stars": 3480,
+      "forks": 564,
+      "starsToday": 810
+    },
+    {
+      "rank": 13,
+      "owner": "OpenBMB",
+      "name": "ChatDev",
+      "fullName": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "language": "Python",
+      "stars": 32288,
+      "forks": 3984,
+      "starsToday": 254
+    },
+    {
+      "rank": 14,
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "fullName": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null,
+      "stars": 339212,
+      "forks": 81718,
+      "starsToday": 874
     }
   ]
 }

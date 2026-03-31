@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T09:28:21.996Z",
+  "updated": "2026-03-31T12:24:58.225Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 206574084,
-      "likes": 4633,
+      "likes": 4634,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20725092,
-      "likes": 892,
+      "likes": 893,
       "tags": [
         "transformers",
         "pytorch",
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 14968503,
-      "likes": 576,
+      "likes": 577,
       "tags": [
         "transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 13857383,
-      "likes": 1163,
+      "likes": 1164,
       "tags": [
         "transformers",
         "safetensors",
@@ -379,7 +379,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 12046044,
-      "likes": 3160,
+      "likes": 3161,
       "tags": [
         "transformers",
         "pytorch",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11655560,
-      "likes": 1702,
+      "likes": 1703,
       "tags": [
         "pyannote-audio",
         "pyannote",
@@ -447,7 +447,7 @@
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
       "downloads": 10748692,
-      "likes": 24,
+      "likes": 25,
       "tags": [
         "safetensors",
         "t5",
