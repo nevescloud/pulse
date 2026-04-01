@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T18:23:33.337Z",
+  "updated": "2026-04-01T21:18:46.281Z",
   "models": [
     {
       "rank": 1,
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14549466,
-      "likes": 2871,
+      "likes": 2872,
       "tags": [
         "sentence-transformers",
         "pytorch",
