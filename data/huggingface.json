@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T12:24:54.411Z",
+  "updated": "2026-04-01T15:33:04.527Z",
   "models": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 28727656,
-      "likes": 1265,
+      "likes": 1266,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -92,7 +92,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 26446082,
-      "likes": 1177,
+      "likes": 1178,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 24840562,
-      "likes": 1981,
+      "likes": 1982,
       "tags": [
         "transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20292547,
-      "likes": 894,
+      "likes": 895,
       "tags": [
         "transformers",
         "pytorch",
@@ -379,7 +379,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 11824607,
-      "likes": 3166,
+      "likes": 3167,
       "tags": [
         "transformers",
         "pytorch",
@@ -413,7 +413,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 11291824,
-      "likes": 1707,
+      "likes": 1709,
       "tags": [
         "pyannote-audio",
         "pyannote",
@@ -430,7 +430,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 10737256,
-      "likes": 214,
+      "likes": 215,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -498,7 +498,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9609206,
-      "likes": 652,
+      "likes": 651,
       "tags": [
         "transformers",
         "safetensors",
