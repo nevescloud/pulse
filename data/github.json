@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T03:57:25.195Z",
+  "updated": "2026-04-02T06:31:45.942Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Shell",
-      "stars": 102222,
-      "forks": 15982,
+      "stars": 103102,
+      "forks": 16217,
       "starsToday": 10749
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 34596,
-      "forks": 3936,
+      "stars": 34704,
+      "forks": 3946,
       "starsToday": 1685
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": 12321,
-      "forks": 1012,
+      "stars": 12518,
+      "forks": 1032,
       "starsToday": 380
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars": 15910,
-      "forks": 1845,
+      "stars": 16101,
+      "forks": 1870,
       "starsToday": 3301
     },
     {
@@ -58,7 +58,7 @@
       "url": "https://github.com/axios/axios",
       "description": "Promise based HTTP client for the browser and node.js",
       "language": "JavaScript",
-      "stars": 108891,
+      "stars": 108911,
       "forks": 11587,
       "starsToday": 93
     },
@@ -70,8 +70,8 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars": 71958,
-      "forks": 10055,
+      "stars": 72083,
+      "forks": 10073,
       "starsToday": 2390
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "HTML",
-      "stars": 156182,
-      "forks": 20507,
+      "stars": 156299,
+      "forks": 20517,
       "starsToday": 398
     }
   ]

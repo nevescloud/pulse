@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T03:57:24.366Z",
+  "updated": "2026-04-02T06:31:45.285Z",
   "models": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 14635048,
-      "likes": 578,
+      "likes": 579,
       "tags": [
         "transformers",
         "pytorch",
@@ -430,7 +430,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 10737256,
-      "likes": 215,
+      "likes": 216,
       "tags": [
         "chronos-forecasting",
         "safetensors",
