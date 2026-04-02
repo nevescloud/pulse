@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T12:24:13.510Z",
+  "updated": "2026-04-02T15:26:01.044Z",
   "models": [
     {
       "rank": 1,
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 20274048,
-      "likes": 805,
+      "likes": 806,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14636883,
-      "likes": 2876,
+      "likes": 2877,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 12114967,
-      "likes": 3168,
+      "likes": 3169,
       "tags": [
         "transformers",
         "pytorch",
