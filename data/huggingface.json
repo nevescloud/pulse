@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T09:25:38.572Z",
+  "updated": "2026-04-02T12:24:13.510Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 200411800,
-      "likes": 4641,
+      "likes": 4642,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 49309333,
-      "likes": 87,
+      "likes": 88,
       "tags": [
         "transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 40009827,
-      "likes": 1024,
+      "likes": 1026,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14636883,
-      "likes": 2874,
+      "likes": 2876,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 12114967,
-      "likes": 3167,
+      "likes": 3168,
       "tags": [
         "transformers",
         "pytorch",
