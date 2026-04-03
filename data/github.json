@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T12:18:19.933Z",
+  "updated": "2026-04-03T15:18:54.392Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
-      "stars": 13125,
-      "forks": 1205,
-      "starsToday": 2867
+      "stars": 13485,
+      "forks": 1238,
+      "starsToday": 2984
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 22559,
-      "forks": 3040,
+      "stars": 22792,
+      "forks": 3068,
       "starsToday": 1872
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": 13719,
-      "forks": 1170,
+      "stars": 13823,
+      "forks": 1179,
       "starsToday": 912
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars": 17316,
-      "forks": 1182,
-      "starsToday": 2573
+      "stars": 17596,
+      "forks": 1195,
+      "starsToday": 2855
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "url": "https://github.com/dmtrKovalenko/fff.nvim",
       "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
       "language": "Rust",
-      "stars": 2969,
-      "forks": 117,
+      "stars": 3059,
+      "forks": 122,
       "starsToday": 767
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/f/prompts.chat",
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "language": "HTML",
-      "stars": 156879,
-      "forks": 20575,
+      "stars": 156968,
+      "forks": 20583,
       "starsToday": 369
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars": 77946,
-      "forks": 9115,
-      "starsToday": 827
+      "stars": 78105,
+      "forks": 9131,
+      "starsToday": 1230
     }
   ]
 }
