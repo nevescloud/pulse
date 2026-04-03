@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T21:14:39.438Z",
+  "updated": "2026-04-03T00:36:17.133Z",
   "models": [
     {
       "rank": 1,
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 25651625,
-      "likes": 1982,
+      "likes": 1983,
       "tags": [
         "transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20321219,
-      "likes": 896,
+      "likes": 897,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14636883,
-      "likes": 2877,
+      "likes": 2878,
       "tags": [
         "sentence-transformers",
         "pytorch",

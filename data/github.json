@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T21:14:40.069Z",
+  "updated": "2026-04-03T00:36:18.388Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars": 15503,
-      "forks": 1058,
-      "starsToday": 2496
+      "stars": 15820,
+      "forks": 1076,
+      "starsToday": 2573
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
-      "stars": 11333,
-      "forks": 1055,
-      "starsToday": 2852
+      "stars": 11659,
+      "forks": 1084,
+      "starsToday": 2867
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.",
       "language": null,
-      "stars": 36197,
-      "forks": 5989,
-      "starsToday": 323
+      "stars": 36333,
+      "forks": 6005,
+      "starsToday": 306
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars": 77117,
-      "forks": 9057,
-      "starsToday": 807
+      "stars": 77255,
+      "forks": 9066,
+      "starsToday": 827
     }
   ]
 }
