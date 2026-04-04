@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T09:16:08.066Z",
+  "updated": "2026-04-04T12:14:47.655Z",
   "models": [
     {
       "rank": 1,
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 14192774,
-      "likes": 1168,
+      "likes": 1169,
       "tags": [
         "transformers",
         "safetensors",
@@ -447,7 +447,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10988992,
-      "likes": 1717,
+      "likes": 1718,
       "tags": [
         "pyannote-audio",
         "pyannote",

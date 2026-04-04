@@ -1,18 +1,18 @@
 {
-  "updated": "2026-04-04T09:16:09.143Z",
+  "updated": "2026-04-04T12:14:48.403Z",
   "since": "daily",
   "repos": [
     {
       "rank": 1,
-      "owner": "Yeachan-Heo",
-      "name": "oh-my-codex",
-      "fullName": "Yeachan-Heo/oh-my-codex",
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "language": "TypeScript",
-      "stars": 14693,
-      "forks": 1363,
-      "starsToday": 3047
+      "owner": "Blaizzy",
+      "name": "mlx-vlm",
+      "fullName": "Blaizzy/mlx-vlm",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "language": "Python",
+      "stars": 3363,
+      "forks": 369,
+      "starsToday": 499
     },
     {
       "rank": 2,
@@ -22,21 +22,21 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 23594,
-      "forks": 3163,
-      "starsToday": 1852
+      "stars": 23705,
+      "forks": 3175,
+      "starsToday": 1212
     },
     {
       "rank": 3,
-      "owner": "google-research",
-      "name": "timesfm",
-      "fullName": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars": 14340,
-      "forks": 1236,
-      "starsToday": 916
+      "owner": "Yeachan-Heo",
+      "name": "oh-my-codex",
+      "fullName": "Yeachan-Heo/oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "stars": 14856,
+      "forks": 1386,
+      "starsToday": 1803
     },
     {
       "rank": 4,
@@ -46,45 +46,57 @@
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars": 18659,
-      "forks": 1282,
-      "starsToday": 2771
+      "stars": 18852,
+      "forks": 1295,
+      "starsToday": 1600
     },
     {
       "rank": 5,
-      "owner": "dmtrKovalenko",
-      "name": "fff.nvim",
-      "fullName": "dmtrKovalenko/fff.nvim",
-      "url": "https://github.com/dmtrKovalenko/fff.nvim",
-      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-      "language": "Rust",
-      "stars": 3406,
-      "forks": 141,
-      "starsToday": 750
+      "owner": "telegramdesktop",
+      "name": "tdesktop",
+      "fullName": "telegramdesktop/tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
+      "language": "C++",
+      "stars": 30675,
+      "forks": 6504,
+      "starsToday": 47
     },
     {
       "rank": 6,
-      "owner": "f",
-      "name": "prompts.chat",
-      "fullName": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "language": "HTML",
-      "stars": 157346,
-      "forks": 20613,
-      "starsToday": 375
+      "owner": "block",
+      "name": "goose",
+      "fullName": "block/goose",
+      "url": "https://github.com/block/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 35289,
+      "forks": 3311,
+      "starsToday": 947
     },
     {
       "rank": 7,
+      "owner": "microsoft",
+      "name": "agent-framework",
+      "fullName": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "language": "Python",
+      "stars": 8514,
+      "forks": 1420,
+      "starsToday": 66
+    },
+    {
+      "rank": 8,
       "owner": "sherlock-project",
       "name": "sherlock",
       "fullName": "sherlock-project/sherlock",
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars": 78788,
-      "forks": 9204,
-      "starsToday": 1192
+      "stars": 78894,
+      "forks": 9214,
+      "starsToday": 993
     }
   ]
 }
