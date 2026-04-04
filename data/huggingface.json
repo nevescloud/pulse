@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T12:14:47.655Z",
+  "updated": "2026-04-04T15:11:05.895Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 70403989,
-      "likes": 2603,
+      "likes": 2604,
       "tags": [
         "transformers",
         "pytorch",
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 49259374,
-      "likes": 88,
+      "likes": 89,
       "tags": [
         "transformers",
         "pytorch",
