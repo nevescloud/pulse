@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T15:11:05.895Z",
+  "updated": "2026-04-04T18:12:45.160Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 70403989,
-      "likes": 2604,
+      "likes": 2606,
       "tags": [
         "transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 39596582,
-      "likes": 1026,
+      "likes": 1027,
       "tags": [
         "transformers",
         "pytorch",
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 29039340,
-      "likes": 1267,
+      "likes": 1268,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
       "downloads": 24214130,
-      "likes": 69,
+      "likes": 70,
       "tags": [
         "transformers",
         "pytorch",
@@ -143,7 +143,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
       "downloads": 20905223,
-      "likes": 270,
+      "likes": 271,
       "tags": [
         "transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20326689,
-      "likes": 897,
+      "likes": 898,
       "tags": [
         "transformers",
         "pytorch",
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 15169670,
-      "likes": 579,
+      "likes": 580,
       "tags": [
         "transformers",
         "pytorch",
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 14640431,
-      "likes": 2883,
+      "likes": 2884,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 14505396,
-      "likes": 317,
+      "likes": 318,
       "tags": [
         "transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 14192774,
-      "likes": 1169,
+      "likes": 1170,
       "tags": [
         "transformers",
         "safetensors",
@@ -330,7 +330,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 13549530,
-      "likes": 430,
+      "likes": 431,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -447,7 +447,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10988992,
-      "likes": 1718,
+      "likes": 1720,
       "tags": [
         "pyannote-audio",
         "pyannote",
@@ -464,7 +464,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 10492536,
-      "likes": 790,
+      "likes": 791,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -481,7 +481,7 @@
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
       "downloads": 10219552,
-      "likes": 27,
+      "likes": 28,
       "tags": [
         "safetensors",
         "t5",
@@ -498,7 +498,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9613872,
-      "likes": 653,
+      "likes": 654,
       "tags": [
         "transformers",
         "safetensors",
