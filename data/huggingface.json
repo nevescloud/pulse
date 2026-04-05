@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T21:10:34.570Z",
+  "updated": "2026-04-05T00:38:24.559Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 198054516,
-      "likes": 4650,
+      "likes": 4651,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -330,7 +330,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 13549530,
-      "likes": 431,
+      "likes": 432,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/omni-research/Tarsier2-Recap-7b",
       "pipelineTag": null,
       "downloads": 11386080,
-      "likes": 29,
+      "likes": 30,
       "tags": [
         "safetensors",
         "video LLM",
