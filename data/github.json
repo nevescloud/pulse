@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T00:38:25.218Z",
+  "updated": "2026-04-05T04:02:01.726Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Blaizzy/mlx-vlm",
       "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "language": "Python",
-      "stars": 3594,
-      "forks": 395,
+      "stars": 3654,
+      "forks": 399,
       "starsToday": 343
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 24233,
-      "forks": 3250,
+      "stars": 24371,
+      "forks": 3267,
       "starsToday": 1197
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
-      "stars": 15626,
-      "forks": 1468,
+      "stars": 15804,
+      "forks": 1489,
       "starsToday": 1789
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars": 19793,
-      "forks": 1349,
+      "stars": 20358,
+      "forks": 1395,
       "starsToday": 1591
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/telegramdesktop/tdesktop",
       "description": "Telegram Desktop messaging app",
       "language": "C++",
-      "stars": 30832,
-      "forks": 6515,
+      "stars": 30857,
+      "forks": 6521,
       "starsToday": 249
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 35688,
-      "forks": 3345,
+      "stars": 35768,
+      "forks": 3359,
       "starsToday": 935
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/microsoft/agent-framework",
       "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
       "language": "Python",
-      "stars": 8699,
-      "forks": 1431,
+      "stars": 8742,
+      "forks": 1441,
       "starsToday": 72
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/sherlock-project/sherlock",
       "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
-      "stars": 79355,
-      "forks": 9248,
+      "stars": 79450,
+      "forks": 9253,
       "starsToday": 994
     }
   ]
