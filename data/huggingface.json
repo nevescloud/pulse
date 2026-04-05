@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T15:12:14.911Z",
+  "updated": "2026-04-05T18:13:30.061Z",
   "models": [
     {
       "rank": 1,
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 39292595,
-      "likes": 1028,
+      "likes": 1029,
       "tags": [
         "transformers",
         "pytorch",
@@ -330,7 +330,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13544700,
-      "likes": 1182,
+      "likes": 1183,
       "tags": [
         "transformers",
         "safetensors",
@@ -364,7 +364,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 12712959,
-      "likes": 3174,
+      "likes": 3175,
       "tags": [
         "transformers",
         "pytorch",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10877296,
-      "likes": 1723,
+      "likes": 1724,
       "tags": [
         "pyannote-audio",
         "pyannote",
