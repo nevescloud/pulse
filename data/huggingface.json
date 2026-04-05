@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T09:17:35.558Z",
+  "updated": "2026-04-05T12:15:10.686Z",
   "models": [
     {
       "rank": 1,
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 39292595,
-      "likes": 1027,
+      "likes": 1028,
       "tags": [
         "transformers",
         "pytorch",
