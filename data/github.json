@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T18:13:31.448Z",
+  "updated": "2026-04-05T21:10:36.194Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
-      "stars": 16704,
-      "forks": 1519,
+      "stars": 16814,
+      "forks": 1539,
       "starsToday": 495
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/Blaizzy/mlx-vlm",
       "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "language": "Python",
-      "stars": 3849,
-      "forks": 413,
+      "stars": 3882,
+      "forks": 418,
       "starsToday": 408
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/siddharthvaddem/openscreen",
       "description": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.",
       "language": "TypeScript",
-      "stars": 22159,
-      "forks": 1487,
+      "stars": 22333,
+      "forks": 1495,
       "starsToday": 2692
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/block/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 36630,
-      "forks": 3477,
+      "stars": 36824,
+      "forks": 3512,
       "starsToday": 866
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": 24842,
-      "forks": 3321,
+      "stars": 24929,
+      "forks": 3330,
       "starsToday": 960
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/badlogic/pi-mono",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars": 31800,
-      "forks": 3466,
+      "stars": 31857,
+      "forks": 3469,
       "starsToday": 340
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://github.com/dmtrKovalenko/fff.nvim",
       "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
       "language": "Rust",
-      "stars": 3611,
+      "stars": 3653,
       "forks": 148,
       "starsToday": 111
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "",
       "language": "C++",
-      "stars": 1443,
-      "forks": 178,
+      "stars": 1493,
+      "forks": 180,
       "starsToday": 193
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/telegramdesktop/tdesktop",
       "description": "Telegram Desktop messaging app",
       "language": "C++",
-      "stars": 31017,
-      "forks": 6534,
+      "stars": 31039,
+      "forks": 6535,
       "starsToday": 265
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 441365,
-      "forks": 44092,
+      "stars": 441439,
+      "forks": 44097,
       "starsToday": 292
     }
   ]
