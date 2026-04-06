@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T15:20:05.795Z",
+  "updated": "2026-04-06T18:23:24.861Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 196618730,
-      "likes": 4653,
+      "likes": 4654,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 68894766,
-      "likes": 2610,
+      "likes": 2611,
       "tags": [
         "transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 39152071,
-      "likes": 1029,
+      "likes": 1030,
       "tags": [
         "transformers",
         "pytorch",
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
       "downloads": 22199758,
-      "likes": 70,
+      "likes": 71,
       "tags": [
         "transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 19921653,
-      "likes": 807,
+      "likes": 808,
       "tags": [
         "transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 14197109,
-      "likes": 1174,
+      "likes": 1175,
       "tags": [
         "transformers",
         "safetensors",
@@ -398,7 +398,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 11795361,
-      "likes": 223,
+      "likes": 224,
       "tags": [
         "chronos-forecasting",
         "safetensors",
