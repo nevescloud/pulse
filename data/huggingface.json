@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T21:10:35.430Z",
+  "updated": "2026-04-06T00:38:04.302Z",
   "models": [
     {
       "rank": 1,
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 16267089,
-      "likes": 677,
+      "likes": 678,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -364,7 +364,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 12712959,
-      "likes": 3177,
+      "likes": 3178,
       "tags": [
         "transformers",
         "pytorch",
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 11080728,
-      "likes": 884,
+      "likes": 885,
       "tags": [
         "pyannote-audio",
         "pytorch",
