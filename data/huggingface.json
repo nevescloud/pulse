@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T04:03:54.784Z",
+  "updated": "2026-04-06T06:43:50.736Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 68501660,
-      "likes": 2609,
+      "likes": 2610,
       "tags": [
         "transformers",
         "pytorch",
@@ -398,7 +398,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 11662321,
-      "likes": 222,
+      "likes": 223,
       "tags": [
         "chronos-forecasting",
         "safetensors",
