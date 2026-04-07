@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T12:24:54.824Z",
+  "updated": "2026-04-07T15:33:39.802Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 196881242,
-      "likes": 4654,
+      "likes": 4655,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 38620349,
-      "likes": 1031,
+      "likes": 1032,
       "tags": [
         "transformers",
         "pytorch",
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 28017066,
-      "likes": 1183,
+      "likes": 1184,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -364,7 +364,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13006654,
-      "likes": 1186,
+      "likes": 1187,
       "tags": [
         "transformers",
         "safetensors",
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 11140299,
-      "likes": 886,
+      "likes": 888,
       "tags": [
         "pyannote-audio",
         "pytorch",
