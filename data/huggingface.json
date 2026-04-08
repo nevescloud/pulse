@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T21:19:16.826Z",
+  "updated": "2026-04-08T00:37:48.161Z",
   "models": [
     {
       "rank": 1,
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 15865963,
-      "likes": 206,
+      "likes": 207,
       "tags": [
         "sentence-transformers",
         "pytorch",

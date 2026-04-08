@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T21:19:17.798Z",
+  "updated": "2026-04-08T00:37:48.917Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
-      "stars": 18681,
-      "forks": 1745,
-      "starsToday": 899
+      "stars": 18758,
+      "forks": 1749,
+      "starsToday": 897
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "",
       "language": "C++",
-      "stars": 2488,
-      "forks": 247,
-      "starsToday": 522
+      "stars": 2531,
+      "forks": 251,
+      "starsToday": 528
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/NVIDIA/personaplex",
       "description": "PersonaPlex code.",
       "language": "Python",
-      "stars": 7874,
-      "forks": 1154,
-      "starsToday": 663
+      "stars": 7937,
+      "forks": 1155,
+      "starsToday": 662
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 24399,
-      "forks": 2725,
-      "starsToday": 1174
+      "stars": 24485,
+      "forks": 2729,
+      "starsToday": 1195
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "url": "https://github.com/tobi/qmd",
       "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
       "language": "TypeScript",
-      "stars": 19479,
-      "forks": 1172,
+      "stars": 19536,
+      "forks": 1175,
       "starsToday": 859
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "",
       "language": null,
-      "stars": 7975,
-      "forks": 565,
-      "starsToday": 42
+      "stars": 8041,
+      "forks": 566,
+      "starsToday": 51
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/elebumm/RedditVideoMakerBot",
       "description": "Create Reddit Videos with just✨ one command ✨",
       "language": "Python",
-      "stars": 9977,
-      "forks": 2516,
-      "starsToday": 656
+      "stars": 10029,
+      "forks": 2522,
+      "starsToday": 636
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars": 12020,
-      "forks": 1657,
-      "starsToday": 339
+      "stars": 12170,
+      "forks": 1663,
+      "starsToday": 168
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/TheCraigHewitt/seomachine",
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
-      "stars": 3807,
-      "forks": 656,
-      "starsToday": 213
+      "stars": 3876,
+      "forks": 658,
+      "starsToday": 215
     }
   ]
 }
