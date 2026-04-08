@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T12:24:27.880Z",
+  "updated": "2026-04-08T15:34:00.006Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "",
       "language": null,
-      "stars": 8441,
-      "forks": 584,
+      "stars": 8624,
+      "forks": 599,
       "starsToday": 686
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/TheCraigHewitt/seomachine",
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
-      "stars": 4222,
-      "forks": 679,
+      "stars": 4344,
+      "forks": 690,
       "starsToday": 645
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
-      "stars": 19215,
-      "forks": 1792,
+      "stars": 19320,
+      "forks": 1803,
       "starsToday": 853
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/NVIDIA/personaplex",
       "description": "PersonaPlex code.",
       "language": "Python",
-      "stars": 8236,
-      "forks": 1187,
+      "stars": 8301,
+      "forks": 1194,
       "starsToday": 589
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "",
       "language": "C++",
-      "stars": 2804,
-      "forks": 264,
+      "stars": 2863,
+      "forks": 270,
       "starsToday": 500
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/elebumm/RedditVideoMakerBot",
       "description": "Create Reddit Videos with just✨ one command ✨",
       "language": "Python",
-      "stars": 10279,
-      "forks": 2552,
+      "stars": 10341,
+      "forks": 2559,
       "starsToday": 572
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 140627,
-      "forks": 11986,
+      "stars": 140982,
+      "forks": 12021,
       "starsToday": 1926
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
       "language": "Python",
-      "stars": 3913,
-      "forks": 411,
+      "stars": 3964,
+      "forks": 416,
       "starsToday": 67
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 25025,
-      "forks": 2789,
+      "stars": 25107,
+      "forks": 2798,
       "starsToday": 981
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 50461,
-      "forks": 8764,
+      "stars": 50534,
+      "forks": 8772,
       "starsToday": 123
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/goharbor/harbor",
       "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
       "language": "Go",
-      "stars": 27971,
-      "forks": 5165,
+      "stars": 28005,
+      "forks": 5168,
       "starsToday": 23
     }
   ]

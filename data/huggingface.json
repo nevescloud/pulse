@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T12:24:27.154Z",
+  "updated": "2026-04-08T15:33:59.291Z",
   "models": [
     {
       "rank": 1,
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 38214276,
-      "likes": 1035,
+      "likes": 1036,
       "tags": [
         "transformers",
         "pytorch",
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 28205790,
-      "likes": 1187,
+      "likes": 1188,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 16159250,
-      "likes": 209,
+      "likes": 210,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -296,7 +296,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 14721753,
-      "likes": 1178,
+      "likes": 1179,
       "tags": [
         "transformers",
         "safetensors",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12930159,
-      "likes": 1191,
+      "likes": 1192,
       "tags": [
         "transformers",
         "safetensors",
