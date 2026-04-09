@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T21:19:19.007Z",
+  "updated": "2026-04-09T00:31:27.830Z",
   "models": [
     {
       "rank": 1,
@@ -92,7 +92,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 28607706,
-      "likes": 1984,
+      "likes": 1985,
       "tags": [
         "transformers",
         "pytorch",
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 15828309,
-      "likes": 680,
+      "likes": 681,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10923242,
-      "likes": 1729,
+      "likes": 1730,
       "tags": [
         "pyannote-audio",
         "pyannote",

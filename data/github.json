@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T21:19:19.873Z",
+  "updated": "2026-04-09T00:31:28.904Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "",
       "language": null,
-      "stars": 8856,
-      "forks": 612,
-      "starsToday": 686
+      "stars": 8964,
+      "forks": 621,
+      "starsToday": 702
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/TheCraigHewitt/seomachine",
       "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
       "language": "Python",
-      "stars": 4495,
-      "forks": 701,
-      "starsToday": 645
+      "stars": 4579,
+      "forks": 707,
+      "starsToday": 649
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/google-ai-edge/gallery",
       "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
       "language": "Kotlin",
-      "stars": 19442,
-      "forks": 1814,
+      "stars": 19494,
+      "forks": 1820,
       "starsToday": 853
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://github.com/NVIDIA/personaplex",
       "description": "PersonaPlex code.",
       "language": "Python",
-      "stars": 8369,
-      "forks": 1200,
-      "starsToday": 589
+      "stars": 8405,
+      "forks": 1204,
+      "starsToday": 586
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/google-ai-edge/LiteRT-LM",
       "description": "",
       "language": "C++",
-      "stars": 2947,
-      "forks": 276,
-      "starsToday": 500
+      "stars": 2983,
+      "forks": 281,
+      "starsToday": 501
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/elebumm/RedditVideoMakerBot",
       "description": "Create Reddit Videos with just✨ one command ✨",
       "language": "Python",
-      "stars": 10429,
-      "forks": 2568,
-      "starsToday": 572
+      "stars": 10479,
+      "forks": 2577,
+      "starsToday": 555
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 141349,
-      "forks": 12054,
-      "starsToday": 2170
+      "stars": 141480,
+      "forks": 12069,
+      "starsToday": 2028
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/newton-physics/newton",
       "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
       "language": "Python",
-      "stars": 4045,
-      "forks": 421,
-      "starsToday": 67
+      "stars": 4086,
+      "forks": 423,
+      "starsToday": 91
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 25229,
-      "forks": 2806,
-      "starsToday": 981
+      "stars": 25287,
+      "forks": 2815,
+      "starsToday": 980
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 50626,
-      "forks": 8780,
-      "starsToday": 123
+      "stars": 50674,
+      "forks": 8789,
+      "starsToday": 151
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/goharbor/harbor",
       "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
       "language": "Go",
-      "stars": 28078,
-      "forks": 5172,
-      "starsToday": 23
+      "stars": 28111,
+      "forks": 5173,
+      "starsToday": 42
     }
   ]
 }
