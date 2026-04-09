@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T09:32:41.475Z",
+  "updated": "2026-04-09T12:27:38.143Z",
   "models": [
     {
       "rank": 1,
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 11128609,
-      "likes": 892,
+      "likes": 893,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -498,7 +498,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 9771415,
-      "likes": 5935,
+      "likes": 5936,
       "tags": [
         "text-to-speech",
         "en",
