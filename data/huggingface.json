@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T18:25:04.579Z",
+  "updated": "2026-04-09T21:18:58.263Z",
   "models": [
     {
       "rank": 1,
@@ -498,7 +498,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 9771415,
-      "likes": 5936,
+      "likes": 5937,
       "tags": [
         "text-to-speech",
         "en",
