@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T03:58:58.153Z",
+  "updated": "2026-04-09T06:38:02.528Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 195695802,
-      "likes": 4664,
+      "likes": 4665,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 68478915,
-      "likes": 2615,
+      "likes": 2616,
       "tags": [
         "transformers",
         "pytorch",
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 49061380,
-      "likes": 89,
+      "likes": 90,
       "tags": [
         "transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 38214276,
-      "likes": 1037,
+      "likes": 1038,
       "tags": [
         "transformers",
         "pytorch",
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 29382494,
-      "likes": 1273,
+      "likes": 1274,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 28205790,
-      "likes": 1189,
+      "likes": 1190,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
       "downloads": 20709773,
-      "likes": 73,
+      "likes": 74,
       "tags": [
         "transformers",
         "pytorch",
@@ -143,7 +143,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20582516,
-      "likes": 901,
+      "likes": 902,
       "tags": [
         "transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
       "downloads": 20040741,
-      "likes": 271,
+      "likes": 273,
       "tags": [
         "transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 19559305,
-      "likes": 809,
+      "likes": 811,
       "tags": [
         "transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 16159250,
-      "likes": 211,
+      "likes": 212,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 15828309,
-      "likes": 681,
+      "likes": 682,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 15453944,
-      "likes": 318,
+      "likes": 319,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 15009848,
-      "likes": 2892,
+      "likes": 2893,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
       "pipelineTag": "image-classification",
       "downloads": 14600683,
-      "likes": 59,
+      "likes": 60,
       "tags": [
         "timm",
         "pytorch",
@@ -364,7 +364,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 13032279,
-      "likes": 227,
+      "likes": 228,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -398,7 +398,7 @@
       "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
       "pipelineTag": null,
       "downloads": 11982633,
-      "likes": 114,
+      "likes": 115,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 11142595,
-      "likes": 891,
+      "likes": 892,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10923242,
-      "likes": 1730,
+      "likes": 1731,
       "tags": [
         "pyannote-audio",
         "pyannote",
@@ -449,7 +449,7 @@
       "url": "https://huggingface.co/omni-research/Tarsier2-Recap-7b",
       "pipelineTag": null,
       "downloads": 10808823,
-      "likes": 31,
+      "likes": 32,
       "tags": [
         "safetensors",
         "video LLM",
@@ -464,7 +464,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 10750304,
-      "likes": 791,
+      "likes": 792,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -481,7 +481,7 @@
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
       "downloads": 10205932,
-      "likes": 28,
+      "likes": 29,
       "tags": [
         "safetensors",
         "t5",
@@ -498,7 +498,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9880305,
-      "likes": 658,
+      "likes": 659,
       "tags": [
         "transformers",
         "safetensors",
