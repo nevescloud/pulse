@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T12:21:27.851Z",
+  "updated": "2026-04-10T15:20:51.470Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 66872132,
-      "likes": 2616,
+      "likes": 2617,
       "tags": [
         "transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 37968104,
-      "likes": 1040,
+      "likes": 1041,
       "tags": [
         "transformers",
         "pytorch",
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 29616352,
-      "likes": 1274,
+      "likes": 1275,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 28989731,
-      "likes": 1192,
+      "likes": 1193,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14-336",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 15708322,
-      "likes": 296,
+      "likes": 297,
       "tags": [
         "transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 13963080,
-      "likes": 228,
+      "likes": 229,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12111952,
-      "likes": 1196,
+      "likes": 1197,
       "tags": [
         "transformers",
         "safetensors",

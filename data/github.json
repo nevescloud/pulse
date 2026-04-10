@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T12:21:28.749Z",
+  "updated": "2026-04-10T15:20:52.574Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 97938,
-      "forks": 5995,
+      "stars": 98585,
+      "forks": 6035,
       "starsToday": 2353
     },
     {
@@ -22,9 +22,9 @@
       "url": "https://github.com/coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars": 14813,
-      "forks": 2500,
-      "starsToday": 185
+      "stars": 15090,
+      "forks": 2516,
+      "starsToday": 756
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 49235,
-      "forks": 6334,
-      "starsToday": 6485
+      "stars": 50410,
+      "forks": 6505,
+      "starsToday": 7674
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
-      "stars": 11410,
-      "forks": 1073,
+      "stars": 11506,
+      "forks": 1080,
       "starsToday": 1187
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 5137,
-      "forks": 635,
+      "stars": 5435,
+      "forks": 663,
       "starsToday": 1680
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 11237,
-      "forks": 743,
-      "starsToday": 1364
+      "stars": 11381,
+      "forks": 752,
+      "starsToday": 1454
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 12481,
-      "forks": 2525,
-      "starsToday": 245
+      "stars": 12532,
+      "forks": 2529,
+      "starsToday": 602
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars": 15552,
-      "forks": 2056,
-      "starsToday": 1310
+      "stars": 15672,
+      "forks": 2064,
+      "starsToday": 1426
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
-      "stars": 14422,
-      "forks": 1225,
-      "starsToday": 1124
+      "stars": 14556,
+      "forks": 1236,
+      "starsToday": 1309
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 144930,
-      "forks": 12418,
-      "starsToday": 2299
+      "stars": 145243,
+      "forks": 12447,
+      "starsToday": 2150
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "url": "https://github.com/jqlang/jq",
       "description": "Command-line JSON processor",
       "language": "C",
-      "stars": 34144,
-      "forks": 1753,
+      "stars": 34189,
+      "forks": 1757,
       "starsToday": 48
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 35023,
-      "forks": 3306,
+      "stars": 35272,
+      "forks": 3332,
       "starsToday": 1248
     }
   ]
