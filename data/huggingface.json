@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T15:20:51.470Z",
+  "updated": "2026-04-10T18:21:46.023Z",
   "models": [
     {
       "rank": 1,
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20738321,
-      "likes": 903,
+      "likes": 904,
       "tags": [
         "transformers",
         "pytorch",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12111952,
-      "likes": 1197,
+      "likes": 1198,
       "tags": [
         "transformers",
         "safetensors",
@@ -481,7 +481,7 @@
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
       "downloads": 10236709,
-      "likes": 29,
+      "likes": 30,
       "tags": [
         "safetensors",
         "t5",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T15:20:52.574Z",
+  "updated": "2026-04-10T18:21:46.862Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 98585,
-      "forks": 6035,
+      "stars": 99038,
+      "forks": 6066,
       "starsToday": 2353
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars": 15090,
-      "forks": 2516,
+      "stars": 15286,
+      "forks": 2526,
       "starsToday": 756
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 50410,
-      "forks": 6505,
+      "stars": 51199,
+      "forks": 6615,
       "starsToday": 7674
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://github.com/rowboatlabs/rowboat",
       "description": "Open-source AI coworker, with memory",
       "language": "TypeScript",
-      "stars": 11506,
-      "forks": 1080,
-      "starsToday": 1187
+      "stars": 11603,
+      "forks": 1087,
+      "starsToday": 498
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 5435,
-      "forks": 663,
-      "starsToday": 1680
+      "stars": 5675,
+      "forks": 686,
+      "starsToday": 1544
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 11381,
-      "forks": 752,
+      "stars": 11501,
+      "forks": 754,
       "starsToday": 1454
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 12532,
-      "forks": 2529,
+      "stars": 12607,
+      "forks": 2538,
       "starsToday": 602
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars": 15672,
-      "forks": 2064,
+      "stars": 15779,
+      "forks": 2079,
       "starsToday": 1426
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
-      "stars": 14556,
-      "forks": 1236,
+      "stars": 14642,
+      "forks": 1240,
       "starsToday": 1309
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 145243,
-      "forks": 12447,
+      "stars": 145482,
+      "forks": 12467,
       "starsToday": 2150
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/jqlang/jq",
       "description": "Command-line JSON processor",
       "language": "C",
-      "stars": 34189,
-      "forks": 1757,
+      "stars": 34228,
+      "forks": 1759,
       "starsToday": 48
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 35272,
-      "forks": 3332,
+      "stars": 35471,
+      "forks": 3350,
       "starsToday": 1248
     }
   ]
