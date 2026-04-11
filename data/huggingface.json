@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T15:13:19.456Z",
+  "updated": "2026-04-11T18:14:00.046Z",
   "models": [
     {
       "rank": 1,
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20806605,
-      "likes": 905,
+      "likes": 906,
       "tags": [
         "transformers",
         "pytorch",
