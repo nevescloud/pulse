@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T00:40:21.836Z",
+  "updated": "2026-04-12T04:04:56.494Z",
   "models": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 48673892,
-      "likes": 90,
+      "likes": 91,
       "tags": [
         "transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 37915338,
-      "likes": 1042,
+      "likes": 1044,
       "tags": [
         "transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
       "downloads": 19267851,
-      "likes": 75,
+      "likes": 76,
       "tags": [
         "transformers",
         "pytorch",
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14-336",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 16533672,
-      "likes": 298,
+      "likes": 299,
       "tags": [
         "transformers",
         "pytorch",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 10919520,
-      "likes": 794,
+      "likes": 795,
       "tags": [
         "sentence-transformers",
         "onnx",

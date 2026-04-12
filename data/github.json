@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T00:40:22.881Z",
+  "updated": "2026-04-12T04:04:57.159Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 58853,
-      "forks": 7815,
+      "stars": 60070,
+      "forks": 7999,
       "starsToday": 6438
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 102168,
-      "forks": 6315,
+      "stars": 102557,
+      "forks": 6360,
       "starsToday": 3086
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars": 16460,
-      "forks": 2640,
+      "stars": 16538,
+      "forks": 2650,
       "starsToday": 1346
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 13571,
-      "forks": 925,
+      "stars": 13846,
+      "forks": 957,
       "starsToday": 1066
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 7898,
-      "forks": 1009,
+      "stars": 8138,
+      "forks": 1032,
       "starsToday": 1948
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 37054,
-      "forks": 3470,
+      "stars": 37244,
+      "forks": 3488,
       "starsToday": 1475
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 67775,
-      "forks": 15137,
+      "stars": 67866,
+      "forks": 15155,
       "starsToday": 361
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars": 9888,
-      "forks": 1156,
+      "stars": 10011,
+      "forks": 1171,
       "starsToday": 1084
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 14237,
-      "forks": 2808,
+      "stars": 14463,
+      "forks": 2843,
       "starsToday": 595
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
-      "stars": 15604,
-      "forks": 1323,
+      "stars": 15684,
+      "forks": 1330,
       "starsToday": 775
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars": 16757,
-      "forks": 2204,
+      "stars": 16865,
+      "forks": 2216,
       "starsToday": 837
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 147146,
-      "forks": 12635,
+      "stars": 147298,
+      "forks": 12655,
       "starsToday": 1591
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/alexpate/awesome-design-systems",
       "description": "💅🏻 ⚒ A collection of awesome design systems",
       "language": null,
-      "stars": 22349,
-      "forks": 1383,
+      "stars": 22603,
+      "forks": 1398,
       "starsToday": 2050
     }
   ]
