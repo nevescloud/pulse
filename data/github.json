@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T21:11:39.034Z",
+  "updated": "2026-04-12T00:40:22.881Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 58370,
-      "forks": 7727,
-      "starsToday": 6437
+      "stars": 58853,
+      "forks": 7815,
+      "starsToday": 6438
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 101935,
-      "forks": 6292,
-      "starsToday": 3069
+      "stars": 102168,
+      "forks": 6315,
+      "starsToday": 3086
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars": 16404,
-      "forks": 2635,
-      "starsToday": 1339
+      "stars": 16460,
+      "forks": 2640,
+      "starsToday": 1346
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 13266,
-      "forks": 895,
-      "starsToday": 1070
+      "stars": 13571,
+      "forks": 925,
+      "starsToday": 1066
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 7720,
-      "forks": 984,
-      "starsToday": 1950
+      "stars": 7898,
+      "forks": 1009,
+      "starsToday": 1948
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 36937,
-      "forks": 3462,
-      "starsToday": 1476
+      "stars": 37054,
+      "forks": 3470,
+      "starsToday": 1475
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 67753,
-      "forks": 15135,
-      "starsToday": 472
+      "stars": 67775,
+      "forks": 15137,
+      "starsToday": 361
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars": 9779,
-      "forks": 1141,
-      "starsToday": 1136
+      "stars": 9888,
+      "forks": 1156,
+      "starsToday": 1084
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 14029,
-      "forks": 2773,
-      "starsToday": 607
+      "stars": 14237,
+      "forks": 2808,
+      "starsToday": 595
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
-      "stars": 15546,
-      "forks": 1320,
-      "starsToday": 777
+      "stars": 15604,
+      "forks": 1323,
+      "starsToday": 775
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars": 16678,
-      "forks": 2192,
-      "starsToday": 836
+      "stars": 16757,
+      "forks": 2204,
+      "starsToday": 837
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 147028,
-      "forks": 12622,
-      "starsToday": 1589
+      "stars": 147146,
+      "forks": 12635,
+      "starsToday": 1591
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/alexpate/awesome-design-systems",
       "description": "💅🏻 ⚒ A collection of awesome design systems",
       "language": null,
-      "stars": 22149,
-      "forks": 1369,
-      "starsToday": 1978
+      "stars": 22349,
+      "forks": 1383,
+      "starsToday": 2050
     }
   ]
 }
