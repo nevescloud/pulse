@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T18:31:37.950Z",
+  "updated": "2026-04-13T21:19:28.963Z",
   "models": [
     {
       "rank": 1,
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 17831716,
-      "likes": 436,
+      "likes": 437,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 11154179,
-      "likes": 795,
+      "likes": 796,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 10720899,
-      "likes": 898,
+      "likes": 899,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -449,7 +449,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10509517,
-      "likes": 1737,
+      "likes": 1738,
       "tags": [
         "pyannote-audio",
         "pyannote",
