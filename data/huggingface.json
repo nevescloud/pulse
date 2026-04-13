@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T15:33:33.642Z",
+  "updated": "2026-04-13T18:31:37.950Z",
   "models": [
     {
       "rank": 1,
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 17831716,
-      "likes": 435,
+      "likes": 436,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 15055909,
-      "likes": 322,
+      "likes": 323,
       "tags": [
         "transformers",
         "pytorch",
@@ -364,7 +364,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13743378,
-      "likes": 3194,
+      "likes": 3195,
       "tags": [
         "transformers",
         "pytorch",
@@ -498,7 +498,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9909829,
-      "likes": 666,
+      "likes": 667,
       "tags": [
         "transformers",
         "safetensors",
