@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T00:41:00.431Z",
+  "updated": "2026-04-13T04:09:26.898Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 66363,
-      "forks": 8881,
+      "stars": 69322,
+      "forks": 9253,
       "starsToday": 7454
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 15760,
-      "forks": 3013,
+      "stars": 16051,
+      "forks": 3052,
       "starsToday": 1985
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 16789,
-      "forks": 1240,
+      "stars": 17627,
+      "forks": 1333,
       "starsToday": 2369
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 104644,
-      "forks": 6530,
+      "stars": 105300,
+      "forks": 6590,
       "starsToday": 2513
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 9374,
-      "forks": 1196,
+      "stars": 9708,
+      "forks": 1234,
       "starsToday": 1609
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars": 17047,
-      "forks": 2707,
+      "stars": 17180,
+      "forks": 2720,
       "starsToday": 612
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 38993,
-      "forks": 3679,
+      "stars": 39447,
+      "forks": 3725,
       "starsToday": 1548
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars": 11294,
-      "forks": 1311,
+      "stars": 11521,
+      "forks": 1329,
       "starsToday": 1278
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 50005,
-      "forks": 3940,
+      "stars": 50521,
+      "forks": 3985,
       "starsToday": 753
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/ahujasid/blender-mcp",
       "description": "",
       "language": "Python",
-      "stars": 19143,
-      "forks": 1862,
+      "stars": 19207,
+      "forks": 1866,
       "starsToday": 215
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/rustfs/rustfs",
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
-      "stars": 25205,
-      "forks": 1072,
+      "stars": 25337,
+      "forks": 1078,
       "starsToday": 182
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 52169,
-      "forks": 9051,
+      "stars": 52286,
+      "forks": 9066,
       "starsToday": 663
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/snarktank/ralph",
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "language": "TypeScript",
-      "stars": 15921,
-      "forks": 1589,
+      "stars": 16064,
+      "forks": 1596,
       "starsToday": 463
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 68209,
-      "forks": 15222,
+      "stars": 68443,
+      "forks": 15288,
       "starsToday": 454
     }
   ]
