@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T04:04:06.675Z",
+  "updated": "2026-04-14T06:42:16.410Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 196242264,
-      "likes": 4675,
+      "likes": 4676,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -143,7 +143,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20679610,
-      "likes": 909,
+      "likes": 910,
       "tags": [
         "transformers",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 15622338,
-      "likes": 585,
+      "likes": 586,
       "tags": [
         "transformers",
         "pytorch",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12901134,
-      "likes": 1202,
+      "likes": 1203,
       "tags": [
         "transformers",
         "safetensors",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 10720899,
-      "likes": 899,
+      "likes": 900,
       "tags": [
         "pyannote-audio",
         "pytorch",
