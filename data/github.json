@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T09:36:38.610Z",
+  "updated": "2026-04-14T12:27:21.497Z",
   "since": "daily",
   "repos": [
     {
@@ -10,45 +10,45 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 28564,
-      "forks": 2342,
-      "starsToday": 5733
+      "stars": 29541,
+      "forks": 2418,
+      "starsToday": 9230
     },
     {
       "rank": 2,
-      "owner": "NousResearch",
-      "name": "hermes-agent",
-      "fullName": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "stars": 81463,
-      "forks": 10903,
-      "starsToday": 11289
-    },
-    {
-      "rank": 3,
-      "owner": "shiyu-coder",
-      "name": "Kronos",
-      "fullName": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "language": "Python",
-      "stars": 17433,
-      "forks": 3267,
-      "starsToday": 1554
-    },
-    {
-      "rank": 4,
       "owner": "thedotmack",
       "name": "claude-mem",
       "fullName": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 54311,
-      "forks": 4348,
-      "starsToday": 3175
+      "stars": 54605,
+      "forks": 4371,
+      "starsToday": 2979
+    },
+    {
+      "rank": 3,
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "fullName": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": 16805,
+      "forks": 1983,
+      "starsToday": 1165
+    },
+    {
+      "rank": 4,
+      "owner": "pascalorg",
+      "name": "editor",
+      "fullName": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 10806,
+      "forks": 1384,
+      "starsToday": 769
     },
     {
       "rank": 5,
@@ -58,141 +58,93 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 107694,
-      "forks": 6810,
-      "starsToday": 2808
+      "stars": 107858,
+      "forks": 6826,
+      "starsToday": 1672
     },
     {
       "rank": 6,
-      "owner": "multica-ai",
-      "name": "multica",
-      "fullName": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "language": "TypeScript",
-      "stars": 11828,
-      "forks": 1460,
-      "starsToday": 1715
+      "owner": "obra",
+      "name": "superpowers",
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 151475,
+      "forks": 13112,
+      "starsToday": 1928
     },
     {
       "rank": 7,
-      "owner": "coleam00",
-      "name": "Archon",
-      "fullName": "coleam00/Archon",
-      "url": "https://github.com/coleam00/Archon",
-      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-      "language": "TypeScript",
-      "stars": 17815,
-      "forks": 2797,
-      "starsToday": 677
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "fullName": "chrislgarry/Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 65998,
+      "forks": 7559,
+      "starsToday": 390
     },
     {
       "rank": 8,
-      "owner": "snarktank",
-      "name": "ralph",
-      "fullName": "snarktank/ralph",
-      "url": "https://github.com/snarktank/ralph",
-      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
-      "language": "TypeScript",
-      "stars": 16721,
-      "forks": 1649,
-      "starsToday": 691
-    },
-    {
-      "rank": 9,
       "owner": "virattt",
       "name": "ai-hedge-fund",
       "fullName": "virattt/ai-hedge-fund",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 53490,
-      "forks": 9289,
-      "starsToday": 783
+      "stars": 53640,
+      "forks": 9313,
+      "starsToday": 1007
+    },
+    {
+      "rank": 9,
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "fullName": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 17539,
+      "forks": 3279,
+      "starsToday": 965
     },
     {
       "rank": 10,
+      "owner": "NousResearch",
+      "name": "hermes-agent",
+      "fullName": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 82304,
+      "forks": 11028,
+      "starsToday": 8282
+    },
+    {
+      "rank": 11,
       "owner": "anthropics",
       "name": "claude-cookbooks",
       "fullName": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 39829,
-      "forks": 4419,
-      "starsToday": 1012
+      "stars": 39906,
+      "forks": 4426,
+      "starsToday": 922
     },
     {
-      "rank": 11,
+      "rank": 12,
       "owner": "shanraisshan",
       "name": "claude-code-best-practice",
       "fullName": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
-      "stars": 42712,
-      "forks": 4083,
-      "starsToday": 2461
-    },
-    {
-      "rank": 12,
-      "owner": "jamiepine",
-      "name": "voicebox",
-      "fullName": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source voice synthesis studio",
-      "language": "TypeScript",
-      "stars": 16666,
-      "forks": 1972,
-      "starsToday": 512
-    },
-    {
-      "rank": 13,
-      "owner": "ahujasid",
-      "name": "blender-mcp",
-      "fullName": "ahujasid/blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "",
-      "language": "Python",
-      "stars": 19636,
-      "forks": 1891,
-      "starsToday": 339
-    },
-    {
-      "rank": 14,
-      "owner": "hacksider",
-      "name": "Deep-Live-Cam",
-      "fullName": "hacksider/Deep-Live-Cam",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": 90462,
-      "forks": 13151,
-      "starsToday": 217
-    },
-    {
-      "rank": 15,
-      "owner": "gsd-build",
-      "name": "get-shit-done",
-      "fullName": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-      "language": "JavaScript",
-      "stars": 52500,
-      "forks": 4385,
-      "starsToday": 655
-    },
-    {
-      "rank": 16,
-      "owner": "TapXWorld",
-      "name": "ChinaTextbook",
-      "fullName": "TapXWorld/ChinaTextbook",
-      "url": "https://github.com/TapXWorld/ChinaTextbook",
-      "description": "所有小初高、大学PDF教材。",
-      "language": "Roff",
-      "stars": 69204,
-      "forks": 15439,
-      "starsToday": 703
+      "stars": 42952,
+      "forks": 4110,
+      "starsToday": 2569
     }
   ]
 }
