@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T15:30:03.802Z",
+  "updated": "2026-04-14T18:30:00.417Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 30874,
-      "forks": 2536,
+      "stars": 31890,
+      "forks": 2612,
       "starsToday": 9230
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 54999,
-      "forks": 4407,
+      "stars": 55301,
+      "forks": 4432,
       "starsToday": 2979
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars": 16976,
-      "forks": 2004,
+      "stars": 17107,
+      "forks": 2018,
       "starsToday": 1165
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars": 11054,
-      "forks": 1421,
+      "stars": 11264,
+      "forks": 1443,
       "starsToday": 769
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 108081,
-      "forks": 6838,
+      "stars": 108223,
+      "forks": 6850,
       "starsToday": 1672
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 151788,
-      "forks": 13165,
+      "stars": 151982,
+      "forks": 13179,
       "starsToday": 1928
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 66134,
-      "forks": 7566,
+      "stars": 66221,
+      "forks": 7573,
       "starsToday": 390
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 53838,
-      "forks": 9340,
+      "stars": 53964,
+      "forks": 9357,
       "starsToday": 1007
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 17628,
-      "forks": 3296,
+      "stars": 17692,
+      "forks": 3302,
       "starsToday": 965
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 83176,
-      "forks": 11166,
+      "stars": 83694,
+      "forks": 11268,
       "starsToday": 8282
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 40015,
-      "forks": 4436,
+      "stars": 40100,
+      "forks": 4440,
       "starsToday": 922
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
-      "stars": 43229,
-      "forks": 4137,
+      "stars": 43441,
+      "forks": 4153,
       "starsToday": 2569
     }
   ]
