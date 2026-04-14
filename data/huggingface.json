@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T00:42:04.152Z",
+  "updated": "2026-04-14T04:04:06.675Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 196242264,
-      "likes": 4674,
+      "likes": 4675,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 48441319,
-      "likes": 93,
+      "likes": 94,
       "tags": [
         "transformers",
         "pytorch",
@@ -330,7 +330,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 15132434,
-      "likes": 1189,
+      "likes": 1188,
       "tags": [
         "transformers",
         "safetensors",
@@ -449,7 +449,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10509517,
-      "likes": 1738,
+      "likes": 1739,
       "tags": [
         "pyannote-audio",
         "pyannote",
