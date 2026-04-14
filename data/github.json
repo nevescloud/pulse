@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T18:30:00.417Z",
+  "updated": "2026-04-14T21:20:30.157Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 31890,
-      "forks": 2612,
+      "stars": 32710,
+      "forks": 2681,
       "starsToday": 9230
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 55301,
-      "forks": 4432,
+      "stars": 55514,
+      "forks": 4454,
       "starsToday": 2979
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars": 17107,
-      "forks": 2018,
+      "stars": 17215,
+      "forks": 2021,
       "starsToday": 1165
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars": 11264,
-      "forks": 1443,
+      "stars": 11456,
+      "forks": 1464,
       "starsToday": 769
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 108223,
-      "forks": 6850,
+      "stars": 108315,
+      "forks": 6857,
       "starsToday": 1672
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 151982,
-      "forks": 13179,
+      "stars": 152107,
+      "forks": 13192,
       "starsToday": 1928
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 66221,
-      "forks": 7573,
-      "starsToday": 390
+      "stars": 66289,
+      "forks": 7578,
+      "starsToday": 559
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 53964,
-      "forks": 9357,
+      "stars": 54039,
+      "forks": 9364,
       "starsToday": 1007
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 17692,
+      "stars": 17740,
       "forks": 3302,
       "starsToday": 965
     },
@@ -118,8 +118,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 83694,
-      "forks": 11268,
+      "stars": 83928,
+      "forks": 11307,
       "starsToday": 8282
     },
     {
@@ -130,20 +130,32 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 40100,
-      "forks": 4440,
+      "stars": 40170,
+      "forks": 4443,
       "starsToday": 922
     },
     {
       "rank": 12,
+      "owner": "tw93",
+      "name": "Mole",
+      "fullName": "tw93/Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Deep clean and optimize your Mac.",
+      "language": "Shell",
+      "stars": 47007,
+      "forks": 1426,
+      "starsToday": 269
+    },
+    {
+      "rank": 13,
       "owner": "shanraisshan",
       "name": "claude-code-best-practice",
       "fullName": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
-      "stars": 43441,
-      "forks": 4153,
+      "stars": 43595,
+      "forks": 4171,
       "starsToday": 2569
     }
   ]
