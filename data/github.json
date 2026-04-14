@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T21:19:29.921Z",
+  "updated": "2026-04-14T00:42:05.039Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 24252,
-      "forks": 1962,
-      "starsToday": 5828
+      "stars": 25066,
+      "forks": 2037,
+      "starsToday": 5733
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 76484,
-      "forks": 10224,
-      "starsToday": 11297
+      "stars": 76958,
+      "forks": 10291,
+      "starsToday": 11289
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 16919,
-      "forks": 3189,
-      "starsToday": 1552
+      "stars": 16999,
+      "forks": 3204,
+      "starsToday": 1554
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 52942,
-      "forks": 4210,
-      "starsToday": 3185
+      "stars": 53252,
+      "forks": 4250,
+      "starsToday": 3175
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 106779,
-      "forks": 6716,
-      "starsToday": 2811
+      "stars": 106917,
+      "forks": 6734,
+      "starsToday": 2808
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 10949,
-      "forks": 1365,
-      "starsToday": 1724
+      "stars": 11103,
+      "forks": 1387,
+      "starsToday": 1715
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/coleam00/Archon",
       "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
       "language": "TypeScript",
-      "stars": 17561,
-      "forks": 2766,
-      "starsToday": 679
+      "stars": 17609,
+      "forks": 2774,
+      "starsToday": 677
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/snarktank/ralph",
       "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
       "language": "TypeScript",
-      "stars": 16471,
-      "forks": 1629,
-      "starsToday": 683
+      "stars": 16512,
+      "forks": 1635,
+      "starsToday": 691
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 52859,
-      "forks": 9179,
-      "starsToday": 782
+      "stars": 52928,
+      "forks": 9191,
+      "starsToday": 783
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 39392,
-      "forks": 4375,
-      "starsToday": 1127
+      "stars": 39497,
+      "forks": 4392,
+      "starsToday": 1012
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "practice made claude perfect",
       "language": "HTML",
-      "stars": 41421,
-      "forks": 3925,
-      "starsToday": 2477
+      "stars": 41719,
+      "forks": 3965,
+      "starsToday": 2461
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars": 16189,
-      "forks": 1929,
-      "starsToday": 652
+      "stars": 16301,
+      "forks": 1940,
+      "starsToday": 512
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/ahujasid/blender-mcp",
       "description": "",
       "language": "Python",
-      "stars": 19455,
-      "forks": 1880,
-      "starsToday": 335
+      "stars": 19487,
+      "forks": 1883,
+      "starsToday": 339
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/hacksider/Deep-Live-Cam",
       "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": 90185,
-      "forks": 13121,
-      "starsToday": 235
+      "stars": 90229,
+      "forks": 13125,
+      "starsToday": 217
     },
     {
       "rank": 15,
@@ -178,9 +178,9 @@
       "url": "https://github.com/gsd-build/get-shit-done",
       "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
       "language": "JavaScript",
-      "stars": 52013,
-      "forks": 4361,
-      "starsToday": 630
+      "stars": 52099,
+      "forks": 4366,
+      "starsToday": 655
     },
     {
       "rank": 16,
@@ -190,9 +190,9 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 68862,
-      "forks": 15362,
-      "starsToday": 701
+      "stars": 68890,
+      "forks": 15365,
+      "starsToday": 703
     }
   ]
 }
