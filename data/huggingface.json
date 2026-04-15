@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T09:36:37.102Z",
+  "updated": "2026-04-15T12:27:35.141Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 197617014,
-      "likes": 4681,
+      "likes": 4683,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 18796468,
-      "likes": 814,
+      "likes": 815,
       "tags": [
         "transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 18647361,
-      "likes": 437,
+      "likes": 438,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -296,7 +296,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 15482789,
-      "likes": 2907,
+      "likes": 2908,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12731921,
-      "likes": 1204,
+      "likes": 1205,
       "tags": [
         "transformers",
         "safetensors",
@@ -500,7 +500,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
       "pipelineTag": "text-generation",
       "downloads": 9952544,
-      "likes": 1389,
+      "likes": 1391,
       "tags": [
         "transformers",
         "safetensors",
