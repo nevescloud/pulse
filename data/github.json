@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T21:20:30.157Z",
+  "updated": "2026-04-15T00:42:25.350Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 32710,
-      "forks": 2681,
-      "starsToday": 9230
+      "stars": 33703,
+      "forks": 2762,
+      "starsToday": 9263
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 55514,
-      "forks": 4454,
-      "starsToday": 2979
+      "stars": 55773,
+      "forks": 4480,
+      "starsToday": 2997
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars": 17215,
-      "forks": 2021,
-      "starsToday": 1165
+      "stars": 17328,
+      "forks": 2031,
+      "starsToday": 1162
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars": 11456,
-      "forks": 1464,
-      "starsToday": 769
+      "stars": 11627,
+      "forks": 1475,
+      "starsToday": 820
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 108315,
-      "forks": 6857,
-      "starsToday": 1672
+      "stars": 108446,
+      "forks": 6867,
+      "starsToday": 1675
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 152107,
-      "forks": 13192,
-      "starsToday": 1928
+      "stars": 152260,
+      "forks": 13204,
+      "starsToday": 1919
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 66289,
-      "forks": 7578,
-      "starsToday": 559
+      "stars": 66358,
+      "forks": 7580,
+      "starsToday": 472
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 54039,
-      "forks": 9364,
+      "stars": 54127,
+      "forks": 9383,
       "starsToday": 1007
     },
     {
@@ -106,9 +106,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 17740,
-      "forks": 3302,
-      "starsToday": 965
+      "stars": 17792,
+      "forks": 3306,
+      "starsToday": 963
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 83928,
-      "forks": 11307,
-      "starsToday": 8282
+      "stars": 84256,
+      "forks": 11370,
+      "starsToday": 8301
     },
     {
       "rank": 11,
@@ -130,33 +130,21 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 40170,
-      "forks": 4443,
-      "starsToday": 922
+      "stars": 40242,
+      "forks": 4446,
+      "starsToday": 931
     },
     {
       "rank": 12,
-      "owner": "tw93",
-      "name": "Mole",
-      "fullName": "tw93/Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Deep clean and optimize your Mac.",
-      "language": "Shell",
-      "stars": 47007,
-      "forks": 1426,
-      "starsToday": 269
-    },
-    {
-      "rank": 13,
       "owner": "shanraisshan",
       "name": "claude-code-best-practice",
       "fullName": "shanraisshan/claude-code-best-practice",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
-      "stars": 43595,
-      "forks": 4171,
-      "starsToday": 2569
+      "stars": 43760,
+      "forks": 4185,
+      "starsToday": 2583
     }
   ]
 }
