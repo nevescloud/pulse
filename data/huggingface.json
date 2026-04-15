@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T00:42:24.545Z",
+  "updated": "2026-04-15T04:04:01.964Z",
   "models": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15705375,
-      "likes": 235,
+      "likes": 236,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12506262,
-      "likes": 1203,
+      "likes": 1204,
       "tags": [
         "transformers",
         "safetensors",
@@ -449,7 +449,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10545113,
-      "likes": 1741,
+      "likes": 1742,
       "tags": [
         "pyannote-audio",
         "pyannote",
