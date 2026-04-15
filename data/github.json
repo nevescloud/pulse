@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T18:29:41.619Z",
+  "updated": "2026-04-15T21:21:16.929Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 41668,
-      "forks": 3382,
+      "stars": 42306,
+      "forks": 3436,
       "starsToday": 9622
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/pascalorg/editor",
       "description": "Create and share 3D architectural projects.",
       "language": "TypeScript",
-      "stars": 12456,
-      "forks": 1531,
+      "stars": 12531,
+      "forks": 1540,
       "starsToday": 1422
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 57428,
-      "forks": 4637,
+      "stars": 57627,
+      "forks": 4657,
       "starsToday": 2330
     },
     {
@@ -46,7 +46,7 @@
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars": 29295,
+      "stars": 29329,
       "forks": 3562,
       "starsToday": 1068
     },
@@ -58,8 +58,8 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 54911,
-      "forks": 9530,
+      "stars": 54977,
+      "forks": 9540,
       "starsToday": 1062
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 66712,
-      "forks": 7603,
+      "stars": 66751,
+      "forks": 7605,
       "starsToday": 625
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 153964,
-      "forks": 13366,
+      "stars": 154112,
+      "forks": 13379,
       "starsToday": 2079
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars": 18044,
-      "forks": 2098,
+      "stars": 18141,
+      "forks": 2113,
       "starsToday": 1079
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 423021,
-      "forks": 46060,
+      "stars": 423154,
+      "forks": 46074,
       "starsToday": 839
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/vercel-labs/open-agents",
       "description": "An open source template for building cloud agents.",
       "language": "TypeScript",
-      "stars": 2459,
-      "forks": 271,
+      "stars": 2541,
+      "forks": 281,
       "starsToday": 1020
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
-      "stars": 1798,
-      "forks": 236,
+      "stars": 1853,
+      "forks": 240,
       "starsToday": 413
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/google/magika",
       "description": "Fast and accurate AI powered file content types detection",
       "language": "Python",
-      "stars": 13623,
-      "forks": 712,
+      "stars": 13684,
+      "forks": 716,
       "starsToday": 833
     },
     {
@@ -154,9 +154,9 @@
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
-      "stars": 10167,
-      "forks": 1570,
-      "starsToday": 523
+      "stars": 10286,
+      "forks": 1575,
+      "starsToday": 737
     }
   ]
 }
