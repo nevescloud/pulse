@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T00:43:10.342Z",
+  "updated": "2026-04-16T04:06:09.635Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 65122944,
-      "likes": 2618,
+      "likes": 2619,
       "tags": [
         "transformers",
         "pytorch",
@@ -449,7 +449,7 @@
       "url": "https://huggingface.co/pyannote/speaker-diarization-3.1",
       "pipelineTag": "automatic-speech-recognition",
       "downloads": 10498090,
-      "likes": 1742,
+      "likes": 1743,
       "tags": [
         "pyannote-audio",
         "pyannote",
