@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T00:41:06.551Z",
+  "updated": "2026-04-17T04:05:17.833Z",
   "models": [
     {
       "rank": 1,
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 24244530,
-      "likes": 1990,
+      "likes": 1991,
       "tags": [
         "transformers",
         "pytorch",
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 16231998,
-      "likes": 237,
+      "likes": 238,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -296,7 +296,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 15636241,
-      "likes": 2912,
+      "likes": 2913,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 15063024,
-      "likes": 1190,
+      "likes": 1195,
       "tags": [
         "transformers",
         "safetensors",

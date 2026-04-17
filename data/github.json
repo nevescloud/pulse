@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T00:41:07.338Z",
+  "updated": "2026-04-17T04:05:18.766Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 49801,
-      "forks": 4106,
+      "stars": 50884,
+      "forks": 4214,
       "starsToday": 7959
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
       "language": "TypeScript",
-      "stars": 59715,
-      "forks": 4901,
+      "stars": 60177,
+      "forks": 4961,
       "starsToday": 1897
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
-      "stars": 2763,
-      "forks": 319,
+      "stars": 2938,
+      "forks": 329,
       "starsToday": 872
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source voice synthesis studio",
       "language": "TypeScript",
-      "stars": 19055,
-      "forks": 2197,
+      "stars": 19181,
+      "forks": 2212,
       "starsToday": 880
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/vercel-labs/open-agents",
       "description": "An open source template for building cloud agents.",
       "language": "TypeScript",
-      "stars": 3189,
-      "forks": 350,
+      "stars": 3290,
+      "forks": 356,
       "starsToday": 738
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/google/magika",
       "description": "Fast and accurate AI powered file content types detection",
       "language": "Python",
-      "stars": 14741,
-      "forks": 791,
+      "stars": 14900,
+      "forks": 799,
       "starsToday": 854
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/steipete/wacli",
       "description": "WhatsApp CLI",
       "language": "Go",
-      "stars": 1678,
-      "forks": 197,
+      "stars": 1725,
+      "forks": 200,
       "starsToday": 321
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/topoteretes/cognee",
       "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
       "language": "Python",
-      "stars": 15799,
-      "forks": 1627,
+      "stars": 15888,
+      "forks": 1636,
       "starsToday": 170
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/z-lab/dflash",
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars": 1598,
-      "forks": 109,
+      "stars": 1654,
+      "forks": 113,
       "starsToday": 195
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars": 30666,
-      "forks": 3712,
+      "stars": 30890,
+      "forks": 3744,
       "starsToday": 1385
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars": 21227,
-      "forks": 3453,
+      "stars": 21346,
+      "forks": 3457,
       "starsToday": 172
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/EvoMap/evolver",
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
-      "stars": 3155,
-      "forks": 337,
+      "stars": 3293,
+      "forks": 350,
       "starsToday": 812
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
-      "stars": 2223,
-      "forks": 250,
+      "stars": 2348,
+      "forks": 257,
       "starsToday": 375
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/BasedHardware/omi",
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
-      "stars": 9095,
-      "forks": 1617,
+      "stars": 9224,
+      "forks": 1625,
       "starsToday": 378
     }
   ]
