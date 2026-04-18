@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T18:16:59.011Z",
+  "updated": "2026-04-18T21:13:12.906Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars": 1413,
-      "forks": 69,
+      "stars": 1488,
+      "forks": 76,
       "starsToday": 458
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/BasedHardware/omi",
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
-      "stars": 10299,
-      "forks": 1707,
+      "stars": 10355,
+      "forks": 1711,
       "starsToday": 617
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars": 22205,
-      "forks": 3533,
+      "stars": 22255,
+      "forks": 3539,
       "starsToday": 473
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/EvoMap/evolver",
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
-      "stars": 4901,
-      "forks": 481,
+      "stars": 4942,
+      "forks": 488,
       "starsToday": 1150
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
-      "stars": 6481,
-      "forks": 872,
+      "stars": 6503,
+      "forks": 876,
       "starsToday": 31
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars": 31966,
+      "stars": 31988,
       "forks": 3888,
       "starsToday": 562
     },
@@ -82,7 +82,7 @@
       "url": "https://github.com/aaddrick/claude-desktop-debian",
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
-      "stars": 3428,
+      "stars": 3446,
       "forks": 380,
       "starsToday": 39
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
-      "stars": 111969,
-      "forks": 16754,
+      "stars": 112036,
+      "forks": 16756,
       "starsToday": 351
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
-      "stars": 3038,
-      "forks": 312,
+      "stars": 3084,
+      "forks": 315,
       "starsToday": 408
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/tractorjuice/arc-kit",
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
-      "stars": 664,
-      "forks": 95,
+      "stars": 701,
+      "forks": 99,
       "starsToday": 143
     }
   ]
