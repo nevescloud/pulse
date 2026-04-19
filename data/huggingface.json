@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T00:41:43.308Z",
+  "updated": "2026-04-19T04:06:06.187Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 201120323,
-      "likes": 4704,
+      "likes": 4705,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 20446278,
-      "likes": 444,
+      "likes": 445,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -465,7 +465,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 10545825,
-      "likes": 915,
+      "likes": 916,
       "tags": [
         "pyannote-audio",
         "pytorch",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T00:41:44.547Z",
+  "updated": "2026-04-19T04:06:07.271Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars": 1556,
-      "forks": 79,
+      "stars": 1649,
+      "forks": 84,
       "starsToday": 447
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/BasedHardware/omi",
       "description": "AI that sees your screen, listens to your conversations and tells you what to do",
       "language": "Dart",
-      "stars": 10446,
-      "forks": 1718,
+      "stars": 10548,
+      "forks": 1727,
       "starsToday": 609
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars": 22321,
-      "forks": 3547,
+      "stars": 22444,
+      "forks": 3554,
       "starsToday": 470
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/EvoMap/evolver",
       "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
       "language": "JavaScript",
-      "stars": 4997,
-      "forks": 490,
+      "stars": 5085,
+      "forks": 492,
       "starsToday": 1131
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
-      "stars": 6535,
-      "forks": 876,
+      "stars": 6568,
+      "forks": 879,
       "starsToday": 31
     },
     {
@@ -68,10 +68,10 @@
       "name": "dive-into-llms",
       "fullName": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "description": "《动手学大模型Dive into LLMs》��列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars": 32015,
-      "forks": 3894,
+      "stars": 32101,
+      "forks": 3904,
       "starsToday": 547
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/aaddrick/claude-desktop-debian",
       "description": "Claude Desktop for Debian-based Linux distributions",
       "language": "Shell",
-      "stars": 3471,
-      "forks": 380,
+      "stars": 3489,
+      "forks": 382,
       "starsToday": 44
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/rustdesk/rustdesk",
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
-      "stars": 112088,
-      "forks": 16760,
+      "stars": 112145,
+      "forks": 16764,
       "starsToday": 393
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
-      "stars": 3124,
-      "forks": 318,
+      "stars": 3198,
+      "forks": 324,
       "starsToday": 403
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/tractorjuice/arc-kit",
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
-      "stars": 734,
-      "forks": 102,
+      "stars": 768,
+      "forks": 104,
       "starsToday": 135
     }
   ]
