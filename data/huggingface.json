@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T12:16:42.395Z",
+  "updated": "2026-04-19T15:17:06.596Z",
   "models": [
     {
       "rank": 1,
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 16315813,
-      "likes": 2926,
+      "likes": 2927,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -448,7 +448,7 @@
       "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
       "pipelineTag": null,
       "downloads": 11316222,
-      "likes": 116,
+      "likes": 117,
       "tags": [
         "pyannote-audio",
         "pytorch",
