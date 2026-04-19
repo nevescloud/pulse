@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T21:13:11.696Z",
+  "updated": "2026-04-19T00:41:43.308Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 201120323,
-      "likes": 4702,
+      "likes": 4704,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 21408176,
-      "likes": 1991,
+      "likes": 1992,
       "tags": [
         "transformers",
         "pytorch",
@@ -465,7 +465,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 10545825,
-      "likes": 914,
+      "likes": 915,
       "tags": [
         "pyannote-audio",
         "pytorch",
