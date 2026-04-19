@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T18:17:24.054Z",
+  "updated": "2026-04-19T21:13:37.102Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 61107059,
-      "likes": 2627,
+      "likes": 2628,
       "tags": [
         "transformers",
         "pytorch",
@@ -482,7 +482,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10575525,
-      "likes": 669,
+      "likes": 670,
       "tags": [
         "transformers",
         "safetensors",
