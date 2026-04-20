@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T09:40:11.122Z",
+  "updated": "2026-04-20T12:31:56.054Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 64924584,
-      "likes": 367,
+      "likes": 368,
       "tags": [
         "transformers",
         "safetensors",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20239833,
-      "likes": 915,
+      "likes": 916,
       "tags": [
         "transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 15538030,
-      "likes": 329,
+      "likes": 330,
       "tags": [
         "transformers",
         "pytorch",
@@ -499,7 +499,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 10388358,
-      "likes": 918,
+      "likes": 919,
       "tags": [
         "pyannote-audio",
         "pytorch",
