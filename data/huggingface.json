@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T00:41:19.755Z",
+  "updated": "2026-04-20T04:09:12.798Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 202457760,
-      "likes": 4706,
+      "likes": 4707,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 61107059,
-      "likes": 2629,
+      "likes": 2630,
       "tags": [
         "transformers",
         "pytorch",
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 32965582,
-      "likes": 1278,
+      "likes": 1279,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 21113197,
-      "likes": 1992,
+      "likes": 1993,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 16315813,
-      "likes": 2929,
+      "likes": 2931,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -482,7 +482,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10575525,
-      "likes": 670,
+      "likes": 671,
       "tags": [
         "transformers",
         "safetensors",
@@ -499,7 +499,7 @@
       "url": "https://huggingface.co/pyannote/segmentation-3.0",
       "pipelineTag": "voice-activity-detection",
       "downloads": 10451403,
-      "likes": 917,
+      "likes": 918,
       "tags": [
         "pyannote-audio",
         "pytorch",
