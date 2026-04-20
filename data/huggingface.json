@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T21:13:37.102Z",
+  "updated": "2026-04-20T00:41:19.755Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 61107059,
-      "likes": 2628,
+      "likes": 2629,
       "tags": [
         "transformers",
         "pytorch",
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 23161908,
-      "likes": 219,
+      "likes": 220,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20265013,
-      "likes": 912,
+      "likes": 914,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 16315813,
-      "likes": 2928,
+      "likes": 2929,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -465,7 +465,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 10731324,
-      "likes": 650,
+      "likes": 651,
       "tags": [
         "sentence-transformers",
         "pytorch",
