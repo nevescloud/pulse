@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T15:33:35.747Z",
+  "updated": "2026-04-20T18:25:38.409Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars": 8772,
-      "forks": 1234,
+      "stars": 9064,
+      "forks": 1263,
       "starsToday": 3129
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 47977,
-      "forks": 6430,
+      "stars": 48048,
+      "forks": 6436,
       "starsToday": 716
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/thunderbird/thunderbolt",
       "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
       "language": "TypeScript",
-      "stars": 2635,
-      "forks": 149,
+      "stars": 2703,
+      "forks": 153,
       "starsToday": 667
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/paperless-ngx/paperless-ngx",
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
-      "stars": 39241,
-      "forks": 2524,
+      "stars": 39301,
+      "forks": 2526,
       "starsToday": 611
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/tractorjuice/arc-kit",
       "description": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
       "language": "HTML",
-      "stars": 1226,
-      "forks": 152,
+      "stars": 1262,
+      "forks": 157,
       "starsToday": 334
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 49670,
-      "forks": 8119,
-      "starsToday": 343
+      "stars": 49807,
+      "forks": 8127,
+      "starsToday": 477
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "url": "https://github.com/openai/openai-agents-python",
       "description": "A lightweight, powerful framework for multi-agent workflows",
       "language": "Python",
-      "stars": 23765,
-      "forks": 3675,
+      "stars": 23834,
+      "forks": 3681,
       "starsToday": 909
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/deepseek-ai/DeepGEMM",
       "description": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
       "language": "Cuda",
-      "stars": 6771,
-      "forks": 897,
+      "stars": 6789,
+      "forks": 900,
       "starsToday": 155
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/pi-hole/pi-hole",
       "description": "A black hole for Internet advertisements",
       "language": "Shell",
-      "stars": 56915,
-      "forks": 3032,
+      "stars": 57015,
+      "forks": 3034,
       "starsToday": 154
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/XTLS/Xray-core",
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
-      "stars": 37354,
-      "forks": 5206,
+      "stars": 37386,
+      "forks": 5207,
       "starsToday": 124
     }
   ]

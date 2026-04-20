@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T15:33:34.948Z",
+  "updated": "2026-04-20T18:25:37.610Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 203915902,
-      "likes": 4707,
+      "likes": 4708,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20239833,
-      "likes": 916,
+      "likes": 917,
       "tags": [
         "transformers",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 17155779,
-      "likes": 240,
+      "likes": 241,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -448,7 +448,7 @@
       "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
       "pipelineTag": null,
       "downloads": 11217063,
-      "likes": 117,
+      "likes": 120,
       "tags": [
         "pyannote-audio",
         "pytorch",
