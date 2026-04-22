@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T21:18:49.677Z",
+  "updated": "2026-04-22T00:38:58.661Z",
   "models": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 35095841,
-      "likes": 1204,
+      "likes": 1205,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 14192930,
-      "likes": 3215,
+      "likes": 3216,
       "tags": [
         "transformers",
         "pytorch",
