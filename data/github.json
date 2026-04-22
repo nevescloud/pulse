@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T12:27:44.941Z",
+  "updated": "2026-04-22T15:31:43.808Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars": 7082,
-      "forks": 593,
-      "starsToday": 169
+      "stars": 7228,
+      "forks": 601,
+      "starsToday": 873
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars": 12563,
-      "forks": 1648,
-      "starsToday": 2548
+      "stars": 12771,
+      "forks": 1672,
+      "starsToday": 1737
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 51090,
-      "forks": 8256,
-      "starsToday": 1187
+      "stars": 51247,
+      "forks": 8265,
+      "starsToday": 449
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/langfuse/langfuse",
       "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
       "language": "TypeScript",
-      "stars": 25381,
-      "forks": 2576,
-      "starsToday": 67
+      "stars": 25453,
+      "forks": 2585,
+      "starsToday": 160
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "url": "https://github.com/KeygraphHQ/shannon",
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
-      "stars": 39250,
-      "forks": 4333,
+      "stars": 39342,
+      "forks": 4339,
       "starsToday": 346
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/open-metadata/OpenMetadata",
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
-      "stars": 11889,
-      "forks": 1971,
+      "stars": 11985,
+      "forks": 1977,
       "starsToday": 609
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 49180,
-      "forks": 6534,
-      "starsToday": 824
+      "stars": 49242,
+      "forks": 6542,
+      "starsToday": 551
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars": 17286,
-      "forks": 2035,
-      "starsToday": 162
+      "stars": 17365,
+      "forks": 2041,
+      "starsToday": 770
     },
     {
       "rank": 9,
@@ -104,11 +104,11 @@
       "name": "TrendRadar",
       "fullName": "sansan0/TrendRadar",
       "url": "https://github.com/sansan0/TrendRadar",
-      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推��机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
       "language": "Python",
-      "stars": 54181,
-      "forks": 23631,
-      "starsToday": 534
+      "stars": 54285,
+      "forks": 23633,
+      "starsToday": 932
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "url": "https://github.com/AIDC-AI/Pixelle-Video",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
-      "stars": 5177,
-      "forks": 854,
+      "stars": 5339,
+      "forks": 867,
       "starsToday": 237
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars": 59048,
-      "forks": 6665,
+      "stars": 59248,
+      "forks": 6680,
       "starsToday": 509
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/vercel-labs/skills",
       "description": "The open agent skills tool - npx skills",
       "language": "TypeScript",
-      "stars": 15189,
-      "forks": 1256,
+      "stars": 15274,
+      "forks": 1262,
       "starsToday": 317
     }
   ]

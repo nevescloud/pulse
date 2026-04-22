@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T12:27:43.534Z",
+  "updated": "2026-04-22T15:31:42.737Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 209210613,
-      "likes": 4713,
+      "likes": 4715,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20378484,
-      "likes": 918,
+      "likes": 919,
       "tags": [
         "transformers",
         "pytorch",
@@ -296,7 +296,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 17234822,
-      "likes": 2938,
+      "likes": 2939,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 17011810,
-      "likes": 586,
+      "likes": 587,
       "tags": [
         "transformers",
         "pytorch",
@@ -482,7 +482,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
       "pipelineTag": "text-generation",
       "downloads": 10654004,
-      "likes": 1416,
+      "likes": 1417,
       "tags": [
         "transformers",
         "safetensors",
