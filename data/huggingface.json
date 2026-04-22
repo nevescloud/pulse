@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T18:27:34.225Z",
+  "updated": "2026-04-22T21:20:44.742Z",
   "models": [
     {
       "rank": 1,
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12433595,
-      "likes": 1224,
+      "likes": 1225,
       "tags": [
         "transformers",
         "safetensors",
