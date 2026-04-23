@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T00:43:43.796Z",
+  "updated": "2026-04-23T04:05:28.199Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 209210613,
-      "likes": 4716,
+      "likes": 4717,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 35800432,
-      "likes": 1206,
+      "likes": 1207,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 34024086,
-      "likes": 1054,
+      "likes": 1055,
       "tags": [
         "transformers",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 17812133,
-      "likes": 243,
+      "likes": 244,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12433595,
-      "likes": 1225,
+      "likes": 1227,
       "tags": [
         "transformers",
         "safetensors",
