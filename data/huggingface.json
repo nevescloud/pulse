@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T18:29:41.363Z",
+  "updated": "2026-04-23T21:19:31.159Z",
   "models": [
     {
       "rank": 1,
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 17383748,
-      "likes": 1206,
+      "likes": 1207,
       "tags": [
         "transformers",
         "safetensors",
