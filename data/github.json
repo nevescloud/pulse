@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T04:08:03.033Z",
+  "updated": "2026-04-24T06:44:57.101Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/huggingface/ml-intern",
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
-      "stars": 3693,
-      "forks": 312,
+      "stars": 4031,
+      "forks": 338,
       "starsToday": 720
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars": 8538,
-      "forks": 669,
+      "stars": 8626,
+      "forks": 672,
       "starsToday": 1011
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars": 18300,
-      "forks": 2108,
+      "stars": 18377,
+      "forks": 2117,
       "starsToday": 590
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars": 61289,
-      "forks": 6874,
+      "stars": 61433,
+      "forks": 6886,
       "starsToday": 1383
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 49890,
-      "forks": 6593,
+      "stars": 49949,
+      "forks": 6597,
       "starsToday": 429
     },
     {
@@ -68,10 +68,10 @@
       "name": "Open-Generative-AI",
       "fullName": "Anil-matcha/Open-Generative-AI",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars": 7115,
-      "forks": 1348,
+      "stars": 7216,
+      "forks": 1361,
       "starsToday": 316
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars": 5835,
-      "forks": 971,
+      "stars": 6015,
+      "forks": 1002,
       "starsToday": 1962
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/open-metadata/OpenMetadata",
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
-      "stars": 13001,
-      "forks": 2017,
+      "stars": 13064,
+      "forks": 2020,
       "starsToday": 776
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
-      "stars": 58940,
-      "forks": 20049,
+      "stars": 59005,
+      "forks": 20056,
       "starsToday": 208
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/PowerShell/PowerShell",
       "description": "PowerShell for every system!",
       "language": "C#",
-      "stars": 52825,
-      "forks": 8278,
+      "stars": 52847,
+      "forks": 8279,
       "starsToday": 67
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/cline/cline",
       "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
       "language": "TypeScript",
-      "stars": 60863,
-      "forks": 6259,
+      "stars": 60898,
+      "forks": 6264,
       "starsToday": 123
     },
     {
@@ -142,7 +142,7 @@
       "url": "https://github.com/microsoft/onnxruntime",
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
-      "stars": 20229,
+      "stars": 20258,
       "forks": 3856,
       "starsToday": 49
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
       "language": "TypeScript",
-      "stars": 9534,
+      "stars": 9588,
       "forks": 660,
       "starsToday": 238
     },
@@ -166,8 +166,8 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars": 23992,
-      "forks": 3807,
+      "stars": 24094,
+      "forks": 3818,
       "starsToday": 285
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/chiphuyen/aie-book",
       "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
       "language": "Jupyter Notebook",
-      "stars": 15238,
-      "forks": 2191,
+      "stars": 15264,
+      "forks": 2194,
       "starsToday": 215
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "language": null,
-      "stars": 18246,
-      "forks": 1938,
+      "stars": 18358,
+      "forks": 1950,
       "starsToday": 228
     }
   ]
