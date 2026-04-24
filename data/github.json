@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T06:44:57.101Z",
+  "updated": "2026-04-24T09:38:01.680Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/huggingface/ml-intern",
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
-      "stars": 4031,
-      "forks": 338,
+      "stars": 4443,
+      "forks": 373,
       "starsToday": 720
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars": 8626,
-      "forks": 672,
+      "stars": 8712,
+      "forks": 676,
       "starsToday": 1011
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/HKUDS/RAG-Anything",
       "description": "\"RAG-Anything: All-in-One RAG Framework\"",
       "language": "Python",
-      "stars": 18377,
-      "forks": 2117,
+      "stars": 18471,
+      "forks": 2127,
       "starsToday": 590
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars": 61433,
-      "forks": 6886,
+      "stars": 61624,
+      "forks": 6915,
       "starsToday": 1383
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 49949,
-      "forks": 6597,
+      "stars": 50009,
+      "forks": 6603,
       "starsToday": 429
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars": 7216,
-      "forks": 1361,
+      "stars": 7326,
+      "forks": 1381,
       "starsToday": 316
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars": 6015,
-      "forks": 1002,
+      "stars": 6258,
+      "forks": 1040,
       "starsToday": 1962
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/open-metadata/OpenMetadata",
       "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
       "language": "TypeScript",
-      "stars": 13064,
-      "forks": 2020,
+      "stars": 13118,
+      "forks": 2022,
       "starsToday": 776
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
-      "stars": 59005,
-      "forks": 20056,
+      "stars": 59111,
+      "forks": 20065,
       "starsToday": 208
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/PowerShell/PowerShell",
       "description": "PowerShell for every system!",
       "language": "C#",
-      "stars": 52847,
-      "forks": 8279,
+      "stars": 52872,
+      "forks": 8282,
       "starsToday": 67
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/cline/cline",
       "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
       "language": "TypeScript",
-      "stars": 60898,
-      "forks": 6264,
+      "stars": 60934,
+      "forks": 6267,
       "starsToday": 123
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/microsoft/onnxruntime",
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
-      "stars": 20258,
-      "forks": 3856,
+      "stars": 20284,
+      "forks": 3859,
       "starsToday": 49
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/mksglu/context-mode",
       "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms",
       "language": "TypeScript",
-      "stars": 9588,
-      "forks": 660,
+      "stars": 9653,
+      "forks": 662,
       "starsToday": 238
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars": 24094,
-      "forks": 3818,
+      "stars": 24227,
+      "forks": 3842,
       "starsToday": 285
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/chiphuyen/aie-book",
       "description": "[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)",
       "language": "Jupyter Notebook",
-      "stars": 15264,
-      "forks": 2194,
+      "stars": 15298,
+      "forks": 2197,
       "starsToday": 215
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "language": null,
-      "stars": 18358,
-      "forks": 1950,
+      "stars": 18482,
+      "forks": 1961,
       "starsToday": 228
     }
   ]
