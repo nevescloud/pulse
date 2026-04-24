@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T18:18:41.787Z",
+  "updated": "2026-04-24T21:20:07.552Z",
   "models": [
     {
       "rank": 1,
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 27983072,
-      "likes": 222,
+      "likes": 223,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 17702036,
-      "likes": 1207,
+      "likes": 1208,
       "tags": [
         "transformers",
         "safetensors",
@@ -330,7 +330,7 @@
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
       "downloads": 16808261,
-      "likes": 79,
+      "likes": 81,
       "tags": [
         "transformers",
         "pytorch",
@@ -398,7 +398,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 13284225,
-      "likes": 803,
+      "likes": 804,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 11962459,
-      "likes": 1235,
+      "likes": 1236,
       "tags": [
         "transformers",
         "safetensors",
