@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T21:19:31.159Z",
+  "updated": "2026-04-24T00:43:42.158Z",
   "models": [
     {
       "rank": 1,
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
       "downloads": 20304819,
-      "likes": 280,
+      "likes": 281,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 17585837,
-      "likes": 2942,
+      "likes": 2943,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -330,7 +330,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 17276579,
-      "likes": 589,
+      "likes": 591,
       "tags": [
         "transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 15204290,
-      "likes": 331,
+      "likes": 332,
       "tags": [
         "transformers",
         "pytorch",
