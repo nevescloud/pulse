@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T00:39:31.856Z",
+  "updated": "2026-04-25T04:00:42.377Z",
   "models": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 60307895,
-      "likes": 2633,
+      "likes": 2634,
       "tags": [
         "transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20427361,
-      "likes": 920,
+      "likes": 921,
       "tags": [
         "transformers",
         "pytorch",
@@ -398,7 +398,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 13284225,
-      "likes": 804,
+      "likes": 805,
       "tags": [
         "sentence-transformers",
         "onnx",
