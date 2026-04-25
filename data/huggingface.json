@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T18:18:00.040Z",
+  "updated": "2026-04-25T21:14:34.787Z",
   "models": [
     {
       "rank": 1,
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20995175,
-      "likes": 1996,
+      "likes": 1997,
       "tags": [
         "transformers",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 18616361,
-      "likes": 246,
+      "likes": 247,
       "tags": [
         "chronos-forecasting",
         "safetensors",
