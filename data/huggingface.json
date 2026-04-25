@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T21:20:07.552Z",
+  "updated": "2026-04-25T00:39:31.856Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 212219347,
-      "likes": 4721,
+      "likes": 4722,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 48536022,
-      "likes": 95,
+      "likes": 99,
       "tags": [
         "transformers",
         "pytorch",
@@ -109,7 +109,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 31683745,
-      "likes": 1058,
+      "likes": 1059,
       "tags": [
         "transformers",
         "pytorch",
@@ -126,7 +126,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 27983072,
-      "likes": 223,
+      "likes": 224,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -482,7 +482,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
       "pipelineTag": "text-generation",
       "downloads": 10887895,
-      "likes": 1421,
+      "likes": 1422,
       "tags": [
         "transformers",
         "safetensors",
