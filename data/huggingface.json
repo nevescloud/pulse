@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T15:18:16.936Z",
+  "updated": "2026-04-26T18:18:45.312Z",
   "models": [
     {
       "rank": 1,
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 18455573,
-      "likes": 248,
+      "likes": 249,
       "tags": [
         "chronos-forecasting",
         "safetensors",
