@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T21:14:35.527Z",
+  "updated": "2026-04-26T00:44:07.373Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
       "language": "Python",
-      "stars": 11329,
-      "forks": 1677,
-      "starsToday": 3975
+      "stars": 11484,
+      "forks": 1709,
+      "starsToday": 4007
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "My personal directory of skills, straight from my .claude directory.",
       "language": "Shell",
-      "stars": 19709,
-      "forks": 1646,
-      "starsToday": 857
+      "stars": 20021,
+      "forks": 1669,
+      "starsToday": 1139
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars": 63679,
-      "forks": 7134,
+      "stars": 63859,
+      "forks": 7156,
       "starsToday": 1200
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
       "language": "Python",
-      "stars": 33440,
-      "forks": 2600,
-      "starsToday": 469
+      "stars": 33495,
+      "forks": 2602,
+      "starsToday": 471
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars": 25310,
-      "forks": 2524,
-      "starsToday": 78
+      "stars": 25345,
+      "forks": 2528,
+      "starsToday": 87
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "url": "https://github.com/deepseek-ai/DeepEP",
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
-      "stars": 9475,
-      "forks": 1193,
+      "stars": 9493,
+      "forks": 1197,
       "starsToday": 189
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/PowerShell/PowerShell",
       "description": "PowerShell for every system!",
       "language": "C#",
-      "stars": 53029,
-      "forks": 8295,
-      "starsToday": 68
+      "stars": 53069,
+      "forks": 8296,
+      "starsToday": 48
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/RooCodeInc/Roo-Code",
       "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
       "language": "TypeScript",
-      "stars": 23488,
-      "forks": 3120,
-      "starsToday": 55
+      "stars": 23508,
+      "forks": 3122,
+      "starsToday": 57
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/huggingface/ml-intern",
       "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
       "language": "Python",
-      "stars": 6155,
-      "forks": 554,
-      "starsToday": 1236
+      "stars": 6233,
+      "forks": 561,
+      "starsToday": 1240
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 495864,
-      "forks": 46989,
-      "starsToday": 1431
+      "stars": 495973,
+      "forks": 47004,
+      "starsToday": 1432
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/CJackHwang/ds2api",
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
-      "stars": 1386,
-      "forks": 445,
-      "starsToday": 37
+      "stars": 1408,
+      "forks": 452,
+      "starsToday": 44
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/Universal-Commerce-Protocol/ucp",
       "description": "Specification and documentation for the Universal Commerce Protocol (UCP)",
       "language": "Python",
-      "stars": 2766,
-      "forks": 347,
-      "starsToday": 16
+      "stars": 2789,
+      "forks": 349,
+      "starsToday": 26
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/ComposioHQ/awesome-codex-skills",
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
-      "stars": 1419,
-      "forks": 128,
-      "starsToday": 174
+      "stars": 1477,
+      "forks": 132,
+      "starsToday": 188
     }
   ]
 }
