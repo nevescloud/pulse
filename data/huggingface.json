@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T00:44:06.931Z",
+  "updated": "2026-04-27T04:16:18.197Z",
   "models": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 58864524,
-      "likes": 2637,
+      "likes": 2638,
       "tags": [
         "transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 49149729,
-      "likes": 99,
+      "likes": 100,
       "tags": [
         "transformers",
         "pytorch",
@@ -92,7 +92,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 34802154,
-      "likes": 1282,
+      "likes": 1284,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20387212,
-      "likes": 921,
+      "likes": 922,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 17571972,
-      "likes": 592,
+      "likes": 593,
       "tags": [
         "transformers",
         "pytorch",
