@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T09:50:40.835Z",
+  "updated": "2026-04-27T12:38:31.662Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 154595190,
-      "likes": 373,
+      "likes": 374,
       "tags": [
         "transformers",
         "safetensors",
@@ -364,7 +364,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 14858310,
-      "likes": 687,
+      "likes": 688,
       "tags": [
         "ultralytics",
         "pytorch",
