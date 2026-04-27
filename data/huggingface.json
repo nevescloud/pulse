@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T18:32:45.282Z",
+  "updated": "2026-04-27T21:26:20.357Z",
   "models": [
     {
       "rank": 1,
@@ -499,7 +499,7 @@
       "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
       "pipelineTag": null,
       "downloads": 10947339,
-      "likes": 122,
+      "likes": 123,
       "tags": [
         "pyannote-audio",
         "pytorch",
