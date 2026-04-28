@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T21:26:20.357Z",
+  "updated": "2026-04-28T00:46:35.763Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 154595190,
-      "likes": 375,
+      "likes": 376,
       "tags": [
         "transformers",
         "safetensors",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 15124398,
-      "likes": 3220,
+      "likes": 3221,
       "tags": [
         "transformers",
         "pytorch",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12417989,
-      "likes": 1242,
+      "likes": 1243,
       "tags": [
         "transformers",
         "safetensors",
