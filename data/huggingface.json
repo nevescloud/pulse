@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T00:46:35.763Z",
+  "updated": "2026-04-28T04:18:29.624Z",
   "models": [
     {
       "rank": 1,
@@ -41,7 +41,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 58815021,
-      "likes": 2639,
+      "likes": 2640,
       "tags": [
         "transformers",
         "pytorch",
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 12831152,
-      "likes": 653,
+      "likes": 654,
       "tags": [
         "sentence-transformers",
         "pytorch",
