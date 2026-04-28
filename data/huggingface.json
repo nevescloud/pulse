@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T09:51:12.864Z",
+  "updated": "2026-04-28T12:41:59.182Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 165732702,
-      "likes": 376,
+      "likes": 377,
       "tags": [
         "transformers",
         "safetensors",
@@ -228,7 +228,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 18654488,
-      "likes": 2954,
+      "likes": 2956,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18497766,
-      "likes": 1213,
+      "likes": 1214,
       "tags": [
         "transformers",
         "safetensors",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12582644,
-      "likes": 1243,
+      "likes": 1244,
       "tags": [
         "transformers",
         "safetensors",
@@ -482,7 +482,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
       "pipelineTag": "text-generation",
       "downloads": 11290376,
-      "likes": 1423,
+      "likes": 1424,
       "tags": [
         "transformers",
         "safetensors",
