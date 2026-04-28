@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T18:37:15.054Z",
+  "updated": "2026-04-28T21:26:56.345Z",
   "models": [
     {
       "rank": 1,
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18497766,
-      "likes": 1214,
+      "likes": 1215,
       "tags": [
         "transformers",
         "safetensors",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 14121693,
-      "likes": 333,
+      "likes": 334,
       "tags": [
         "transformers",
         "pytorch",
