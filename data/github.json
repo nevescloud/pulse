@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T04:15:52.608Z",
+  "updated": "2026-04-29T06:55:44.665Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 38582,
-      "forks": 3035,
+      "stars": 39416,
+      "forks": 3100,
       "starsToday": 7321
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 32757,
-      "forks": 3716,
+      "stars": 32852,
+      "forks": 3726,
       "starsToday": 1607
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/ComposioHQ/awesome-codex-skills",
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
-      "stars": 4180,
-      "forks": 267,
+      "stars": 4286,
+      "forks": 272,
       "starsToday": 953
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 45017,
-      "forks": 4994,
+      "stars": 45151,
+      "forks": 5005,
       "starsToday": 1483
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/davila7/claude-code-templates",
       "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
-      "stars": 26228,
-      "forks": 2617,
+      "stars": 26285,
+      "forks": 2620,
       "starsToday": 346
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars": 10790,
-      "forks": 1509,
+      "stars": 10895,
+      "forks": 1518,
       "starsToday": 967
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/fspecii/ace-step-ui",
       "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
       "language": "JavaScript",
-      "stars": 1827,
-      "forks": 269,
+      "stars": 1921,
+      "forks": 277,
       "starsToday": 162
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 428369,
-      "forks": 46767,
+      "stars": 428506,
+      "forks": 46780,
       "starsToday": 644
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/CJackHwang/ds2api",
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
-      "stars": 2428,
-      "forks": 659,
+      "stars": 2472,
+      "forks": 673,
       "starsToday": 417
     },
     {
@@ -116,10 +116,10 @@
       "name": "free-claude-code",
       "fullName": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
-      "description": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+      "description": "Use claude-code for free in the terminal, VSCode extension or discord like openclaw",
       "language": "Python",
-      "stars": 17683,
-      "forks": 2480,
+      "stars": 17807,
+      "forks": 2502,
       "starsToday": 1741
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/donnemartin/system-design-primer",
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
-      "stars": 345942,
-      "forks": 55837,
+      "stars": 346025,
+      "forks": 55844,
       "starsToday": 744
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": "📚 Freely available programming books",
       "language": "Python",
-      "stars": 386733,
-      "forks": 66163,
+      "stars": 386812,
+      "forks": 66167,
       "starsToday": 147
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/iamgio/quarkdown",
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
-      "stars": 12189,
-      "forks": 324,
+      "stars": 12319,
+      "forks": 327,
       "starsToday": 699
     }
   ]
