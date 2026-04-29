@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T12:39:05.097Z",
+  "updated": "2026-04-29T15:43:31.336Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars": 39334,
-      "forks": 2158,
+      "stars": 41124,
+      "forks": 2349,
       "starsToday": 11955
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 41473,
-      "forks": 3249,
+      "stars": 42359,
+      "forks": 3334,
       "starsToday": 7356
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars": 11135,
-      "forks": 1535,
+      "stars": 11300,
+      "forks": 1555,
       "starsToday": 1036
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/ComposioHQ/awesome-codex-skills",
       "description": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
       "language": "Python",
-      "stars": 4497,
-      "forks": 284,
+      "stars": 4597,
+      "forks": 288,
       "starsToday": 1180
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 1035,
-      "forks": 111,
+      "stars": 1155,
+      "forks": 114,
       "starsToday": 386
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
       "language": "TypeScript",
-      "stars": 33057,
-      "forks": 3747,
+      "stars": 33153,
+      "forks": 3756,
       "starsToday": 777
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 45418,
-      "forks": 5023,
+      "stars": 45493,
+      "forks": 5028,
       "starsToday": 1688
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/CJackHwang/ds2api",
       "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
       "language": "Go",
-      "stars": 2582,
-      "forks": 697,
+      "stars": 2621,
+      "forks": 706,
       "starsToday": 461
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 172480,
-      "forks": 15215,
+      "stars": 172732,
+      "forks": 15238,
       "starsToday": 1683
     },
     {
@@ -118,9 +118,9 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
       "language": "Python",
-      "stars": 32420,
-      "forks": 32818,
-      "starsToday": 278
+      "stars": 32556,
+      "forks": 32865,
+      "starsToday": 358
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "url": "https://github.com/lukilabs/craft-agents-oss",
       "description": "",
       "language": "TypeScript",
-      "stars": 5180,
-      "forks": 710,
+      "stars": 5236,
+      "forks": 717,
       "starsToday": 432
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": "📚 Freely available programming books",
       "language": "Python",
-      "stars": 386951,
-      "forks": 66173,
+      "stars": 387021,
+      "forks": 66177,
       "starsToday": 609
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 19863,
-      "forks": 1405,
+      "stars": 19975,
+      "forks": 1409,
       "starsToday": 31
     },
     {
@@ -166,7 +166,7 @@
       "url": "https://github.com/iv-org/invidious",
       "description": "Invidious is an alternative front-end to YouTube",
       "language": "Crystal",
-      "stars": 19284,
+      "stars": 19325,
       "forks": 2132,
       "starsToday": 143
     },
@@ -178,8 +178,8 @@
       "url": "https://github.com/gorhill/uBlock",
       "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
       "language": "JavaScript",
-      "stars": 63885,
-      "forks": 4069,
+      "stars": 63929,
+      "forks": 4070,
       "starsToday": 569
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C#",
-      "stars": 132196,
-      "forks": 7907,
+      "stars": 132257,
+      "forks": 7909,
       "starsToday": 79
     }
   ]
