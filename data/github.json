@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T15:38:34.219Z",
+  "updated": "2026-04-30T18:34:55.905Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars": 48149,
-      "forks": 3084,
+      "stars": 48627,
+      "forks": 3143,
       "starsToday": 8262
     },
     {
@@ -22,9 +22,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 56865,
-      "forks": 10697,
-      "starsToday": 386
+      "stars": 57189,
+      "forks": 10800,
+      "starsToday": 2203
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 48178,
-      "forks": 3920,
+      "stars": 48684,
+      "forks": 3973,
       "starsToday": 6175
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 174234,
-      "forks": 15368,
+      "stars": 174369,
+      "forks": 15380,
       "starsToday": 1623
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/lukilabs/craft-agents-oss",
       "description": "",
       "language": "TypeScript",
-      "stars": 5502,
-      "forks": 733,
+      "stars": 5526,
+      "forks": 738,
       "starsToday": 314
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 429219,
-      "forks": 46844,
+      "stars": 429331,
+      "forks": 46851,
       "starsToday": 307
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 1769,
-      "forks": 161,
+      "stars": 1814,
+      "forks": 165,
       "starsToday": 670
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 20648,
-      "forks": 1442,
+      "stars": 20707,
+      "forks": 1446,
       "starsToday": 723
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars": 12015,
-      "forks": 1618,
+      "stars": 12076,
+      "forks": 1622,
       "starsToday": 830
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/iamgio/quarkdown",
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
-      "stars": 12839,
-      "forks": 348,
+      "stars": 12919,
+      "forks": 353,
       "starsToday": 799
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://github.com/ghostty-org/ghostty",
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
-      "stars": 52609,
-      "forks": 2546,
-      "starsToday": 411
+      "stars": 52706,
+      "forks": 2554,
+      "starsToday": 379
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "url": "https://github.com/ForrestKnight/open-source-cs",
       "description": "Video discussing this curriculum:",
       "language": null,
-      "stars": 22282,
-      "forks": 3207,
+      "stars": 22334,
+      "forks": 3208,
       "starsToday": 133
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 722,
-      "forks": 59,
+      "stars": 762,
+      "forks": 63,
       "starsToday": 54
     }
   ]
