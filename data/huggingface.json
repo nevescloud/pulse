@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T04:17:39.363Z",
+  "updated": "2026-04-30T06:58:03.343Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 165732702,
-      "likes": 380,
+      "likes": 382,
       "tags": [
         "transformers",
         "safetensors",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 20530458,
-      "likes": 924,
+      "likes": 925,
       "tags": [
         "transformers",
         "pytorch",
@@ -482,7 +482,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
       "pipelineTag": "text-generation",
       "downloads": 11290376,
-      "likes": 1424,
+      "likes": 1425,
       "tags": [
         "transformers",
         "safetensors",
