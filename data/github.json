@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T21:24:36.710Z",
+  "updated": "2026-05-01T00:50:33.760Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars": 48905,
-      "forks": 3167,
-      "starsToday": 8262
+      "stars": 49219,
+      "forks": 3198,
+      "starsToday": 8399
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 57472,
-      "forks": 10875,
-      "starsToday": 2203
+      "stars": 57754,
+      "forks": 10958,
+      "starsToday": 2023
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 49105,
-      "forks": 4015,
-      "starsToday": 6175
+      "stars": 49471,
+      "forks": 4054,
+      "starsToday": 6187
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 174480,
-      "forks": 15397,
-      "starsToday": 1623
+      "stars": 174580,
+      "forks": 15407,
+      "starsToday": 1632
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/lukilabs/craft-agents-oss",
       "description": "",
       "language": "TypeScript",
-      "stars": 5545,
-      "forks": 738,
-      "starsToday": 314
+      "stars": 5573,
+      "forks": 739,
+      "starsToday": 319
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 429416,
-      "forks": 46860,
-      "starsToday": 307
+      "stars": 429521,
+      "forks": 46865,
+      "starsToday": 322
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 1840,
-      "forks": 170,
-      "starsToday": 670
+      "stars": 1883,
+      "forks": 172,
+      "starsToday": 675
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 20772,
-      "forks": 1446,
-      "starsToday": 723
+      "stars": 20839,
+      "forks": 1449,
+      "starsToday": 730
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars": 12125,
-      "forks": 1626,
-      "starsToday": 830
+      "stars": 12175,
+      "forks": 1629,
+      "starsToday": 841
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/iamgio/quarkdown",
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
-      "stars": 12992,
-      "forks": 354,
-      "starsToday": 350
+      "stars": 13073,
+      "forks": 358,
+      "starsToday": 177
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/ghostty-org/ghostty",
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
-      "stars": 52785,
-      "forks": 2558,
-      "starsToday": 379
+      "stars": 52861,
+      "forks": 2563,
+      "starsToday": 341
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/ForrestKnight/open-source-cs",
       "description": "Video discussing this curriculum:",
       "language": null,
-      "stars": 22346,
-      "forks": 3210,
-      "starsToday": 133
+      "stars": 22376,
+      "forks": 3213,
+      "starsToday": 140
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 797,
+      "stars": 834,
       "forks": 64,
-      "starsToday": 54
+      "starsToday": 69
     }
   ]
 }
