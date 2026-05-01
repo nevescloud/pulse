@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T04:26:37.672Z",
+  "updated": "2026-05-01T07:00:33.974Z",
   "models": [
     {
       "rank": 1,
@@ -364,7 +364,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 15338752,
-      "likes": 688,
+      "likes": 689,
       "tags": [
         "ultralytics",
         "pytorch",

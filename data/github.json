@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T04:26:39.421Z",
+  "updated": "2026-05-01T07:00:34.031Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars": 49619,
-      "forks": 3255,
+      "stars": 49976,
+      "forks": 3286,
       "starsToday": 8399
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 58012,
-      "forks": 11028,
+      "stars": 58222,
+      "forks": 11102,
       "starsToday": 2023
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 49929,
-      "forks": 4104,
+      "stars": 50303,
+      "forks": 4135,
       "starsToday": 6187
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 174729,
-      "forks": 15417,
+      "stars": 174863,
+      "forks": 15430,
       "starsToday": 1632
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/lukilabs/craft-agents-oss",
       "description": "",
       "language": "TypeScript",
-      "stars": 5601,
-      "forks": 740,
+      "stars": 5617,
+      "forks": 746,
       "starsToday": 319
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 429636,
-      "forks": 46875,
+      "stars": 429734,
+      "forks": 46887,
       "starsToday": 322
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 1946,
-      "forks": 175,
+      "stars": 1984,
+      "forks": 182,
       "starsToday": 675
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 20910,
-      "forks": 1454,
+      "stars": 20966,
+      "forks": 1457,
       "starsToday": 730
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars": 12228,
-      "forks": 1635,
+      "stars": 12281,
+      "forks": 1640,
       "starsToday": 841
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/iamgio/quarkdown",
       "description": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
       "language": "Kotlin",
-      "stars": 13160,
-      "forks": 360,
+      "stars": 13239,
+      "forks": 361,
       "starsToday": 177
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/ghostty-org/ghostty",
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
-      "stars": 52943,
-      "forks": 2568,
+      "stars": 53006,
+      "forks": 2573,
       "starsToday": 341
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/ForrestKnight/open-source-cs",
       "description": "Video discussing this curriculum:",
       "language": null,
-      "stars": 22408,
-      "forks": 3216,
+      "stars": 22436,
+      "forks": 3217,
       "starsToday": 140
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 885,
-      "forks": 66,
+      "stars": 918,
+      "forks": 67,
       "starsToday": 69
     }
   ]
