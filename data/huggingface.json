@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T12:22:55.953Z",
+  "updated": "2026-05-02T15:18:54.011Z",
   "models": [
     {
       "rank": 1,
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 14319659,
-      "likes": 656,
+      "likes": 657,
       "tags": [
         "sentence-transformers",
         "pytorch",
