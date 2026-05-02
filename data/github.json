@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T09:28:37.263Z",
+  "updated": "2026-05-02T12:22:57.049Z",
   "since": "daily",
   "repos": [
     {
@@ -10,105 +10,105 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 60556,
-      "forks": 11680,
-      "starsToday": 2112
+      "stars": 60888,
+      "forks": 11751,
+      "starsToday": 2227
     },
     {
       "rank": 2,
-      "owner": "soxoj",
-      "name": "maigret",
-      "fullName": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "stars": 22029,
-      "forks": 1555,
-      "starsToday": 535
+      "owner": "ruvnet",
+      "name": "ruflo",
+      "fullName": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": 35786,
+      "forks": 4092,
+      "starsToday": 1258
     },
     {
       "rank": 3,
-      "owner": "warpdotdev",
-      "name": "warp",
-      "fullName": "warpdotdev/warp",
-      "url": "https://github.com/warpdotdev/warp",
-      "description": "Warp is an agentic development environment, born out of the terminal.",
-      "language": "Rust",
-      "stars": 52039,
-      "forks": 3534,
-      "starsToday": 3401
-    },
-    {
-      "rank": 4,
-      "owner": "1jehuang",
-      "name": "jcode",
-      "fullName": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "description": "Coding Agent Harness",
-      "language": "Rust",
-      "stars": 2519,
-      "forks": 227,
-      "starsToday": 403
-    },
-    {
-      "rank": 5,
-      "owner": "mattpocock",
-      "name": "skills",
-      "fullName": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .claude directory.",
-      "language": "Shell",
-      "stars": 53550,
-      "forks": 4505,
-      "starsToday": 3645
-    },
-    {
-      "rank": 6,
       "owner": "browserbase",
       "name": "skills",
       "fullName": "browserbase/skills",
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 1293,
-      "forks": 90,
-      "starsToday": 334
+      "stars": 1339,
+      "forks": 92,
+      "starsToday": 347
     },
     {
-      "rank": 7,
-      "owner": "simstudioai",
-      "name": "sim",
-      "fullName": "simstudioai/sim",
-      "url": "https://github.com/simstudioai/sim",
-      "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "language": "TypeScript",
-      "stars": 28259,
-      "forks": 3564,
-      "starsToday": 56
+      "rank": 4,
+      "owner": "D4Vinci",
+      "name": "Scrapling",
+      "fullName": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "language": "Python",
+      "stars": 40771,
+      "forks": 3669,
+      "starsToday": 1284
     },
     {
-      "rank": 8,
-      "owner": "obra",
-      "name": "superpowers",
-      "fullName": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 176025,
-      "forks": 15572,
-      "starsToday": 1096
+      "rank": 5,
+      "owner": "soxoj",
+      "name": "maigret",
+      "fullName": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 22157,
+      "forks": 1560,
+      "starsToday": 1065
     },
     {
-      "rank": 9,
+      "rank": 6,
       "owner": "Flowseal",
       "name": "zapret-discord-youtube",
       "fullName": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars": 27013,
+      "stars": 27038,
       "forks": 2111,
-      "starsToday": 145
+      "starsToday": 179
+    },
+    {
+      "rank": 7,
+      "owner": "1jehuang",
+      "name": "jcode",
+      "fullName": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 2568,
+      "forks": 232,
+      "starsToday": 482
+    },
+    {
+      "rank": 8,
+      "owner": "ShareX",
+      "name": "ShareX",
+      "fullName": "ShareX/ShareX",
+      "url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "language": "C#",
+      "stars": 36543,
+      "forks": 3671,
+      "starsToday": 129
+    },
+    {
+      "rank": 9,
+      "owner": "jwasham",
+      "name": "coding-interview-university",
+      "fullName": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "language": null,
+      "stars": 344181,
+      "forks": 82446,
+      "starsToday": 717
     }
   ]
 }
