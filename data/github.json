@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T21:20:19.437Z",
+  "updated": "2026-05-02T00:45:38.978Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 59607,
-      "forks": 11432,
-      "starsToday": 2115
+      "stars": 59875,
+      "forks": 11504,
+      "starsToday": 2112
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 21525,
-      "forks": 1504,
+      "stars": 21655,
+      "forks": 1512,
       "starsToday": 535
     },
     {
@@ -34,9 +34,9 @@
       "url": "https://github.com/warpdotdev/warp",
       "description": "Warp is an agentic development environment, born out of the terminal.",
       "language": "Rust",
-      "stars": 51309,
-      "forks": 3430,
-      "starsToday": 3403
+      "stars": 51458,
+      "forks": 3448,
+      "starsToday": 3401
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 2304,
-      "forks": 202,
-      "starsToday": 404
+      "stars": 2362,
+      "forks": 207,
+      "starsToday": 403
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 52298,
-      "forks": 4371,
-      "starsToday": 3649
+      "stars": 52549,
+      "forks": 4394,
+      "starsToday": 3645
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 1132,
-      "forks": 78,
+      "stars": 1181,
+      "forks": 82,
       "starsToday": 334
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/simstudioai/sim",
       "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
       "language": "TypeScript",
-      "stars": 28114,
-      "forks": 3555,
-      "starsToday": 38
+      "stars": 28155,
+      "forks": 3557,
+      "starsToday": 56
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 175533,
-      "forks": 15504,
-      "starsToday": 1098
+      "stars": 175627,
+      "forks": 15517,
+      "starsToday": 1096
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars": 26950,
-      "forks": 2105,
-      "starsToday": 165
+      "stars": 26972,
+      "forks": 2107,
+      "starsToday": 145
     }
   ]
 }
