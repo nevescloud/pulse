@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T04:21:43.863Z",
+  "updated": "2026-05-03T06:56:17.954Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 231440352,
-      "likes": 4744,
+      "likes": 4745,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 21768716,
-      "likes": 258,
+      "likes": 259,
       "tags": [
         "chronos-forecasting",
         "safetensors",
