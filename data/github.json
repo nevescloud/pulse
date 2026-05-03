@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T06:56:18.670Z",
+  "updated": "2026-05-03T09:33:47.763Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 63468,
-      "forks": 12291,
+      "stars": 63808,
+      "forks": 12348,
       "starsToday": 2225
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars": 37139,
-      "forks": 4252,
+      "stars": 37318,
+      "forks": 4271,
       "starsToday": 1299
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 1586,
-      "forks": 104,
+      "stars": 1619,
+      "forks": 107,
       "starsToday": 346
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 23026,
-      "forks": 1617,
+      "stars": 23128,
+      "forks": 1625,
       "starsToday": 1064
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars": 27141,
-      "forks": 2114,
+      "stars": 27163,
+      "forks": 2116,
       "starsToday": 181
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 2998,
-      "forks": 268,
+      "stars": 3068,
+      "forks": 274,
       "starsToday": 482
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/ShareX/ShareX",
       "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
       "language": "C#",
-      "stars": 36930,
-      "forks": 3689,
+      "stars": 36988,
+      "forks": 3691,
       "starsToday": 152
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "language": null,
-      "stars": 344696,
-      "forks": 82494,
+      "stars": 344758,
+      "forks": 82498,
       "starsToday": 694
     }
   ]
