@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T12:40:25.530Z",
+  "updated": "2026-05-04T15:44:49.545Z",
   "models": [
     {
       "rank": 1,
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
       "pipelineTag": "image-classification",
       "downloads": 22730674,
-      "likes": 65,
+      "likes": 66,
       "tags": [
         "timm",
         "pytorch",
@@ -194,7 +194,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 21698637,
-      "likes": 263,
+      "likes": 264,
       "tags": [
         "chronos-forecasting",
         "safetensors",
