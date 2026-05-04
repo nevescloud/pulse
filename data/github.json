@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T21:18:24.653Z",
+  "updated": "2026-05-04T00:47:30.866Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars": 38710,
-      "forks": 4398,
-      "starsToday": 1834
+      "stars": 38994,
+      "forks": 4426,
+      "starsToday": 1840
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": 65044,
-      "forks": 12577,
-      "starsToday": 3315
+      "stars": 65279,
+      "forks": 12625,
+      "starsToday": 3313
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 23686,
-      "forks": 1667,
-      "starsToday": 1117
+      "stars": 23804,
+      "forks": 1673,
+      "starsToday": 1119
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars": 2067,
-      "forks": 119,
-      "starsToday": 389
+      "stars": 2155,
+      "forks": 124,
+      "starsToday": 343
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/AIDC-AI/Pixelle-Video",
       "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
       "language": "Python",
-      "stars": 9850,
-      "forks": 1541,
-      "starsToday": 478
+      "stars": 9959,
+      "forks": 1554,
+      "starsToday": 497
     },
     {
       "rank": 6,
@@ -70,8 +70,8 @@
       "url": "https://github.com/browserbase/skills",
       "description": "Claude Agent SDK with a web browsing tool",
       "language": "JavaScript",
-      "stars": 1784,
-      "forks": 117,
+      "stars": 1824,
+      "forks": 119,
       "starsToday": 322
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/czlonkowski/n8n-mcp",
       "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
       "language": "TypeScript",
-      "stars": 19454,
-      "forks": 3232,
-      "starsToday": 264
+      "stars": 19519,
+      "forks": 3235,
+      "starsToday": 282
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 3371,
-      "forks": 315,
-      "starsToday": 587
+      "stars": 3434,
+      "forks": 319,
+      "starsToday": 591
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/openwrt/openwrt",
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
-      "stars": 26589,
-      "forks": 12344,
-      "starsToday": 14
+      "stars": 26610,
+      "forks": 12346,
+      "starsToday": 26
     }
   ]
 }
