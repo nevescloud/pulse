@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T00:44:15.339Z",
+  "updated": "2026-05-05T04:06:39.573Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 236334438,
-      "likes": 4750,
+      "likes": 4751,
       "tags": [
         "sentence-transformers",
         "pytorch",
