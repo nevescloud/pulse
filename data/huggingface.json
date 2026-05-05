@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T21:27:12.786Z",
+  "updated": "2026-05-05T00:44:15.339Z",
   "models": [
     {
       "rank": 1,
@@ -211,7 +211,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 21150649,
-      "likes": 928,
+      "likes": 929,
       "tags": [
         "transformers",
         "pytorch",
@@ -245,7 +245,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 19054066,
-      "likes": 1221,
+      "likes": 1222,
       "tags": [
         "transformers",
         "safetensors",
