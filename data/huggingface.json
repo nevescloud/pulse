@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T04:18:38.880Z",
+  "updated": "2026-05-06T07:02:10.271Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 186904434,
-      "likes": 386,
+      "likes": 387,
       "tags": [
         "transformers",
         "safetensors",
@@ -40,7 +40,7 @@
       "id": "google-bert/bert-base-uncased",
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
-      "downloads": 59598776,
+      "downloads": 60360648,
       "likes": 2641,
       "tags": [
         "transformers",
@@ -75,7 +75,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 44875889,
-      "likes": 1218,
+      "likes": 1219,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -91,7 +91,7 @@
       "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
-      "downloads": 40186774,
+      "downloads": 41549281,
       "likes": 229,
       "tags": [
         "sentence-transformers",
@@ -142,7 +142,7 @@
       "id": "openai/clip-vit-large-patch14",
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
-      "downloads": 25187308,
+      "downloads": 25743686,
       "likes": 2000,
       "tags": [
         "transformers",
@@ -159,7 +159,7 @@
       "id": "timm/mobilenetv3_small_100.lamb_in1k",
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
       "pipelineTag": "image-classification",
-      "downloads": 22549780,
+      "downloads": 22350008,
       "likes": 66,
       "tags": [
         "timm",
@@ -210,7 +210,7 @@
       "id": "openai/clip-vit-base-patch32",
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
-      "downloads": 21261234,
+      "downloads": 21434970,
       "likes": 931,
       "tags": [
         "transformers",
@@ -258,27 +258,10 @@
     },
     {
       "rank": 16,
-      "id": "FacebookAI/roberta-base",
-      "url": "https://huggingface.co/FacebookAI/roberta-base",
-      "pipelineTag": "fill-mask",
-      "downloads": 18684651,
-      "likes": 595,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "rust",
-        "safetensors"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 17,
       "id": "FacebookAI/roberta-large",
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
-      "downloads": 18627609,
+      "downloads": 18999741,
       "likes": 283,
       "tags": [
         "transformers",
@@ -291,11 +274,11 @@
       "lastModified": null
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "FacebookAI/xlm-roberta-base",
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
-      "downloads": 18605818,
+      "downloads": 18706123,
       "likes": 822,
       "tags": [
         "transformers",
@@ -303,6 +286,23 @@
         "tf",
         "jax",
         "onnx",
+        "safetensors"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 18,
+      "id": "FacebookAI/roberta-base",
+      "url": "https://huggingface.co/FacebookAI/roberta-base",
+      "pipelineTag": "fill-mask",
+      "downloads": 18659549,
+      "likes": 595,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "rust",
         "safetensors"
       ],
       "lastModified": null
@@ -329,7 +329,7 @@
       "id": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
-      "downloads": 15630303,
+      "downloads": 15627413,
       "likes": 3227,
       "tags": [
         "transformers",
@@ -411,6 +411,23 @@
     },
     {
       "rank": 25,
+      "id": "distilbert/distilbert-base-uncased",
+      "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
+      "pipelineTag": "fill-mask",
+      "downloads": 14376295,
+      "likes": 873,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "rust",
+        "safetensors"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 26,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
@@ -427,7 +444,7 @@
       "lastModified": null
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "openai/clip-vit-large-patch14-336",
       "url": "https://huggingface.co/openai/clip-vit-large-patch14-336",
       "pipelineTag": "zero-shot-image-classification",
@@ -440,23 +457,6 @@
         "clip",
         "zero-shot-image-classification",
         "generated_from_keras_callback"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 27,
-      "id": "distilbert/distilbert-base-uncased",
-      "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
-      "pipelineTag": "fill-mask",
-      "downloads": 13940511,
-      "likes": 872,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "rust",
-        "safetensors"
       ],
       "lastModified": null
     },
