@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T12:44:03.198Z",
+  "updated": "2026-05-07T15:48:28.129Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 187061679,
-      "likes": 390,
+      "likes": 391,
       "tags": [
         "transformers",
         "safetensors",
