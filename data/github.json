@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T04:18:54.949Z",
+  "updated": "2026-05-07T07:06:02.712Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars": 15206,
-      "forks": 1188,
+      "stars": 15986,
+      "forks": 1231,
       "starsToday": 6175
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 31037,
-      "forks": 3665,
+      "stars": 31470,
+      "forks": 3693,
       "starsToday": 800
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/PriorLabs/TabPFN",
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
       "language": "Python",
-      "stars": 6626,
-      "forks": 660,
+      "stars": 6657,
+      "forks": 662,
       "starsToday": 218
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
-      "stars": 15016,
-      "forks": 1367,
+      "stars": 15120,
+      "forks": 1375,
       "starsToday": 774
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/LearningCircuit/local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
-      "stars": 5760,
-      "forks": 523,
+      "stars": 5836,
+      "forks": 527,
       "starsToday": 532
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/LadybirdBrowser/ladybird",
       "description": "Truly independent web browser",
       "language": "C++",
-      "stars": 63023,
-      "forks": 2997,
+      "stars": 63061,
+      "forks": 3000,
       "starsToday": 113
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/InsForge/InsForge",
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
-      "stars": 8534,
-      "forks": 708,
+      "stars": 8584,
+      "forks": 710,
       "starsToday": 230
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/virattt/dexter",
       "description": "An autonomous agent for deep financial research",
       "language": "TypeScript",
-      "stars": 24441,
-      "forks": 2972,
+      "stars": 24496,
+      "forks": 2981,
       "starsToday": 666
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars": 9339,
-      "forks": 1267,
+      "stars": 9473,
+      "forks": 1280,
       "starsToday": 641
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/ruvnet/ruflo",
       "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
       "language": "TypeScript",
-      "stars": 45434,
-      "forks": 5026,
+      "stars": 45552,
+      "forks": 5037,
       "starsToday": 2192
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/cheahjs/free-llm-api-resources",
       "description": "A list of free LLM inference resources accessible via API.",
       "language": "Python",
-      "stars": 20596,
-      "forks": 2095,
+      "stars": 20683,
+      "forks": 2098,
       "starsToday": 198
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 23246,
-      "forks": 4069,
+      "stars": 23282,
+      "forks": 4070,
       "starsToday": 234
     },
     {
@@ -154,7 +154,7 @@
       "url": "https://github.com/bwya77/vscode-dark-islands",
       "description": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
       "language": "PowerShell",
-      "stars": 8242,
+      "stars": 8279,
       "forks": 256,
       "starsToday": 503
     },
@@ -166,8 +166,8 @@
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars": 65633,
-      "forks": 8676,
+      "stars": 65702,
+      "forks": 8685,
       "starsToday": 337
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars": 46483,
-      "forks": 4302,
+      "stars": 46626,
+      "forks": 4313,
       "starsToday": 1125
     }
   ]
