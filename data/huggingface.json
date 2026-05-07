@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T18:39:28.806Z",
+  "updated": "2026-05-07T21:23:46.556Z",
   "models": [
     {
       "rank": 1,
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15746851,
-      "likes": 815,
+      "likes": 816,
       "tags": [
         "sentence-transformers",
         "onnx",
