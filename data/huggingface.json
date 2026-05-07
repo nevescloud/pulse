@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T15:48:28.129Z",
+  "updated": "2026-05-07T18:39:28.806Z",
   "models": [
     {
       "rank": 1,
@@ -177,7 +177,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 21708057,
-      "likes": 2980,
+      "likes": 2981,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15746851,
-      "likes": 814,
+      "likes": 815,
       "tags": [
         "sentence-transformers",
         "onnx",
