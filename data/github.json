@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T04:06:51.175Z",
+  "updated": "2026-05-08T06:41:41.479Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars": 12254,
-      "forks": 1572,
+      "stars": 12611,
+      "forks": 1613,
       "starsToday": 1343
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars": 19556,
-      "forks": 1491,
+      "stars": 20071,
+      "forks": 1537,
       "starsToday": 5799
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/z-lab/dflash",
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars": 3556,
-      "forks": 254,
+      "stars": 3584,
+      "forks": 256,
       "starsToday": 671
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/InsForge/InsForge",
       "description": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
       "language": "TypeScript",
-      "stars": 8925,
-      "forks": 735,
+      "stars": 8959,
+      "forks": 740,
       "starsToday": 460
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/LearningCircuit/local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
-      "stars": 6358,
-      "forks": 555,
+      "stars": 6420,
+      "forks": 560,
       "starsToday": 559
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 33281,
-      "forks": 3843,
+      "stars": 33459,
+      "forks": 3859,
       "starsToday": 3062
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/VectifyAI/PageIndex",
       "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
       "language": "Python",
-      "stars": 29697,
-      "forks": 2501,
+      "stars": 29792,
+      "forks": 2507,
       "starsToday": 943
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/vercel-labs/open-agents",
       "description": "An open source template for building cloud agents.",
       "language": "TypeScript",
-      "stars": 5103,
-      "forks": 640,
+      "stars": 5138,
+      "forks": 645,
       "starsToday": 131
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
-      "stars": 15690,
-      "forks": 1416,
+      "stars": 15750,
+      "forks": 1419,
       "starsToday": 900
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/decolua/9router",
       "description": "🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars": 4736,
-      "forks": 998,
+      "stars": 4852,
+      "forks": 1013,
       "starsToday": 149
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/PriorLabs/TabPFN",
       "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
       "language": "Python",
-      "stars": 6815,
-      "forks": 670,
+      "stars": 6836,
+      "forks": 672,
       "starsToday": 230
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 44569,
-      "forks": 4557,
+      "stars": 44611,
+      "forks": 4562,
       "starsToday": 390
     }
   ]
