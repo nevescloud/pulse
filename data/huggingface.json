@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T15:36:44.473Z",
+  "updated": "2026-05-08T18:34:58.413Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 249496644,
-      "likes": 4766,
+      "likes": 4767,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -58,7 +58,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 56170243,
-      "likes": 103,
+      "likes": 104,
       "tags": [
         "transformers",
         "pytorch",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18773327,
-      "likes": 1229,
+      "likes": 1231,
       "tags": [
         "transformers",
         "safetensors",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 15509817,
-      "likes": 659,
+      "likes": 660,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -500,7 +500,7 @@
       "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
       "pipelineTag": null,
       "downloads": 11075557,
-      "likes": 124,
+      "likes": 125,
       "tags": [
         "pyannote-audio",
         "pytorch",
