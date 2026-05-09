@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T04:11:44.844Z",
+  "updated": "2026-05-09T06:48:33.379Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars": 15641,
-      "forks": 1968,
+      "stars": 15976,
+      "forks": 2005,
       "starsToday": 3660
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 35871,
-      "forks": 4061,
+      "stars": 36186,
+      "forks": 4086,
       "starsToday": 1893
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "language": "Rust",
-      "stars": 22155,
-      "forks": 1738,
+      "stars": 22362,
+      "forks": 1766,
       "starsToday": 3731
     },
     {
@@ -46,7 +46,7 @@
       "url": "https://github.com/z-lab/dflash",
       "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
       "language": "Python",
-      "stars": 3891,
+      "stars": 3920,
       "forks": 269,
       "starsToday": 379
     },
@@ -58,8 +58,8 @@
       "url": "https://github.com/decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars": 5765,
-      "forks": 1085,
+      "stars": 5885,
+      "forks": 1097,
       "starsToday": 1052
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars": 3254,
-      "forks": 256,
+      "stars": 3406,
+      "forks": 261,
       "starsToday": 526
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/awslabs/aidlc-workflows",
       "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
       "language": "Python",
-      "stars": 1812,
-      "forks": 307,
+      "stars": 1835,
+      "forks": 308,
       "starsToday": 58
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/HKUDS/AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
-      "stars": 14782,
-      "forks": 2444,
+      "stars": 14879,
+      "forks": 2454,
       "starsToday": 202
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/LearningCircuit/local-deep-research",
       "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
       "language": "Python",
-      "stars": 6800,
-      "forks": 602,
+      "stars": 6839,
+      "forks": 609,
       "starsToday": 559
     },
     {
@@ -118,7 +118,7 @@
       "url": "https://github.com/lobehub/lobehub",
       "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
       "language": "TypeScript",
-      "stars": 76573,
+      "stars": 76625,
       "forks": 15117,
       "starsToday": 125
     },
@@ -130,8 +130,8 @@
       "url": "https://github.com/datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars": 44867,
-      "forks": 5450,
+      "stars": 45004,
+      "forks": 5475,
       "starsToday": 667
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/flutter/skills",
       "description": "",
       "language": "Dart",
-      "stars": 1738,
-      "forks": 94,
+      "stars": 1776,
+      "forks": 95,
       "starsToday": 118
     }
   ]
