@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T00:50:15.016Z",
+  "updated": "2026-05-10T04:24:26.129Z",
   "models": [
     {
       "rank": 1,
@@ -415,7 +415,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 14894955,
-      "likes": 336,
+      "likes": 337,
       "tags": [
         "transformers",
         "pytorch",
