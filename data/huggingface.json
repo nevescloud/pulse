@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T15:23:48.002Z",
+  "updated": "2026-05-10T18:23:49.513Z",
   "models": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 18572035,
-      "likes": 270,
+      "likes": 271,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -279,7 +279,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18271115,
-      "likes": 1234,
+      "likes": 1236,
       "tags": [
         "transformers",
         "safetensors",
@@ -449,7 +449,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12078264,
-      "likes": 690,
+      "likes": 691,
       "tags": [
         "transformers",
         "safetensors",
