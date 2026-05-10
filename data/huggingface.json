@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T09:34:34.354Z",
+  "updated": "2026-05-10T12:24:18.834Z",
   "models": [
     {
       "rank": 1,
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15929646,
-      "likes": 818,
+      "likes": 819,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 14018215,
-      "likes": 1267,
+      "likes": 1268,
       "tags": [
         "transformers",
         "safetensors",
@@ -449,7 +449,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12078264,
-      "likes": 688,
+      "likes": 690,
       "tags": [
         "transformers",
         "safetensors",
