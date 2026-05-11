@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T18:42:44.293Z",
+  "updated": "2026-05-11T21:32:37.566Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 39561954,
-      "likes": 454,
+      "likes": 455,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 23211662,
-      "likes": 2989,
+      "likes": 2990,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 15384704,
-      "likes": 1066,
+      "likes": 1067,
       "tags": [
         "transformers",
         "pytorch",
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13227755,
-      "likes": 1270,
+      "likes": 1272,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
       "downloads": 279,
-      "likes": 24,
+      "likes": 25,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
       "downloads": 178233,
-      "likes": 131,
+      "likes": 132,
       "tags": [
         "transformers",
         "safetensors",
@@ -652,6 +652,24 @@
     },
     {
       "rank": 7,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 13227755,
+      "likes": 1272,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 8,
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
@@ -667,24 +685,6 @@
       ],
       "lastModified": null,
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 8,
-      "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
-      "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
-      "pipelineTag": "text-generation",
-      "downloads": 19434,
-      "likes": 48,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "text-generation",
-        "code",
-        "coding",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
     },
     {
       "rank": 9,
@@ -706,6 +706,24 @@
     },
     {
       "rank": 10,
+      "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "pipelineTag": "text-generation",
+      "downloads": 19434,
+      "likes": 48,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "text-generation",
+        "code",
+        "coding",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
+    },
+    {
+      "rank": 11,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -722,43 +740,7 @@
       "lastModified": null
     },
     {
-      "rank": 11,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 13227755,
-      "likes": 1270,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
       "rank": 12,
-      "id": "nvidia/Efficient-DLM-4B",
-      "url": "https://huggingface.co/nvidia/Efficient-DLM-4B",
-      "pipelineTag": "text-generation",
-      "downloads": 1533,
-      "likes": 25,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "feature-extraction",
-        "text-generation",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "📄 Tech Report &nbsp&nbsp|&nbsp&nbsp 🤗 Efficient-DLM-4B &nbsp&nbsp|&nbsp&nbsp 🤗 Efficient-DLM-8B"
-    },
-    {
-      "rank": 13,
       "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
@@ -776,7 +758,7 @@
       "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
       "pipelineTag": "text-generation",
@@ -794,12 +776,30 @@
       "description": "We introduce the updated version of the Qwen3-4B non-thinking mode, named Qwen3-4B-Instruct-2507, featuring the following key enhancements:"
     },
     {
+      "rank": 14,
+      "id": "nvidia/Efficient-DLM-4B",
+      "url": "https://huggingface.co/nvidia/Efficient-DLM-4B",
+      "pipelineTag": "text-generation",
+      "downloads": 1533,
+      "likes": 25,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "feature-extraction",
+        "text-generation",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "📄 Tech Report &nbsp&nbsp|&nbsp&nbsp 🤗 Efficient-DLM-4B &nbsp&nbsp|&nbsp&nbsp 🤗 Efficient-DLM-8B"
+    },
+    {
       "rank": 15,
       "id": "faunix/QwenSeek-2B-GGUF",
       "url": "https://huggingface.co/faunix/QwenSeek-2B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 4726,
-      "likes": 13,
+      "likes": 14,
       "tags": [
         "transformers",
         "gguf",
