@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T00:50:31.577Z",
+  "updated": "2026-05-11T04:29:34.479Z",
   "models": [
     {
       "rank": 1,
@@ -262,7 +262,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 18572035,
-      "likes": 272,
+      "likes": 273,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -347,7 +347,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15929646,
-      "likes": 819,
+      "likes": 820,
       "tags": [
         "sentence-transformers",
         "onnx",

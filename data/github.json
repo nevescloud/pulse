@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T00:50:31.533Z",
+  "updated": "2026-05-11T04:29:34.371Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars": 32109,
-      "forks": 3185,
+      "stars": 32349,
+      "forks": 3200,
       "starsToday": 669
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/anthropics/financial-services",
       "description": "",
       "language": "Python",
-      "stars": 18806,
-      "forks": 2434,
+      "stars": 19183,
+      "forks": 2486,
       "starsToday": 1449
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 38411,
-      "forks": 4263,
+      "stars": 38717,
+      "forks": 4282,
       "starsToday": 1065
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars": 4703,
-      "forks": 365,
+      "stars": 4990,
+      "forks": 380,
       "starsToday": 496
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/HKUDS/AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
-      "stars": 15551,
-      "forks": 2529,
+      "stars": 15734,
+      "forks": 2542,
       "starsToday": 163
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/jundot/omlx",
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
-      "stars": 13282,
-      "forks": 1136,
+      "stars": 13379,
+      "forks": 1141,
       "starsToday": 185
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/datawhalechina/easy-vibe",
       "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
       "language": "JavaScript",
-      "stars": 9146,
-      "forks": 896,
+      "stars": 9327,
+      "forks": 903,
       "starsToday": 635
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/playcanvas/supersplat",
       "description": "3D Gaussian Splat Editor",
       "language": "TypeScript",
-      "stars": 6805,
-      "forks": 767,
+      "stars": 6908,
+      "forks": 771,
       "starsToday": 579
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/lsdefine/GenericAgent",
       "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
       "language": "Python",
-      "stars": 10514,
-      "forks": 1197,
+      "stars": 10628,
+      "forks": 1201,
       "starsToday": 174
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars": 7282,
-      "forks": 1232,
+      "stars": 7484,
+      "forks": 1250,
       "starsToday": 803
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 178185,
-      "forks": 27516,
+      "stars": 178518,
+      "forks": 27552,
       "starsToday": 1081
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars": 46473,
-      "forks": 5596,
+      "stars": 46832,
+      "forks": 5636,
       "starsToday": 748
     }
   ]
