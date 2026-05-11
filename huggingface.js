@@ -34,7 +34,7 @@ function hfFmtNum(n) {
   return String(n);
 }
 
-function buildModelCard(model, onSelect) {
+function buildModelCard(model, onSelect, history) {
   const card = document.createElement('div');
   card.className = 'model-card';
   card.dataset.rank = model.rank;
@@ -64,8 +64,14 @@ function buildModelCard(model, onSelect) {
     <div class="card-meta">
       <span class="card-meta-item">↓ ${hfFmtNum(model.downloads)}</span>
       <span class="card-meta-item">♥ ${hfFmtNum(model.likes)}</span>
+      <span class="card-spark"></span>
     </div>
   `;
+
+  const sparkSlot = card.querySelector('.card-spark');
+  const spark = history && typeof buildSparkline === 'function' ? buildSparkline(history[model.id]) : null;
+  if (spark) sparkSlot.appendChild(spark);
+  else sparkSlot.remove();
 
   card.addEventListener('click', e => {
     if (e.target.closest('a')) return;
@@ -82,7 +88,23 @@ function buildModelCard(model, onSelect) {
   return card;
 }
 
-function renderHFCards(data, container, onSelect) {
+function renderHFSection(title, models, onSelect, history) {
+  const section = document.createElement('div');
+  section.className = 'spaces-section';
+
+  const heading = document.createElement('h2');
+  heading.className = 'spaces-section-heading';
+  heading.textContent = title;
+  section.appendChild(heading);
+
+  const frag = document.createDocumentFragment();
+  models.forEach(m => frag.appendChild(buildModelCard(m, onSelect, history)));
+  section.appendChild(frag);
+
+  return section;
+}
+
+function renderHFCards(data, container, onSelect, history) {
   container.innerHTML = '';
 
   if (!data?.models?.length) {
@@ -97,7 +119,10 @@ function renderHFCards(data, container, onSelect) {
   }
 
   const frag = document.createDocumentFragment();
-  data.models.forEach(model => frag.appendChild(buildModelCard(model, onSelect)));
+  if (data.smallModels?.length) {
+    frag.appendChild(renderHFSection('Small & Distilled', data.smallModels, onSelect, history));
+  }
+  frag.appendChild(renderHFSection('Top by Downloads', data.models, onSelect, history));
   container.appendChild(frag);
 }
 

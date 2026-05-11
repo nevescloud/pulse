@@ -95,16 +95,19 @@ async function fetchGitHub() {
   return { updated: new Date().toISOString(), since: 'daily', repos };
 }
 
-async function fetchHuggingFace() {
-  console.log('Fetching HuggingFace trending…');
-  const { status, body } = await get(
-    'https://huggingface.co/api/models?sort=downloads&direction=-1&limit=30',
-    { Accept: 'application/json' }
-  );
-  if (status !== 200) throw new Error(`HuggingFace API returned HTTP ${status}`);
-  const raw = JSON.parse(body);
-  const models = raw.map((m, i) => ({
-    rank: i + 1,
+// Matches small model size markers in a model ID (case-insensitive).
+// Covers: 0.5B 1B 1.5B 2B 3B 3.8B 4B 6B 7B 8B
+const SMALL_SIZE_RE = /\b(0\.5|1\.5|3\.8|[1-8])b\b/i;
+// Matches distillation or reasoning fine-tune patterns
+const DISTILL_RE = /distill|reason|\br1[-_]|[-_]r1\b/i;
+
+function isSmallDistilled(id) {
+  return SMALL_SIZE_RE.test(id) || DISTILL_RE.test(id);
+}
+
+function parseModel(m, rank) {
+  return {
+    rank,
     id: m.id,
     url: `https://huggingface.co/${m.id}`,
     pipelineTag: m.pipeline_tag || null,
@@ -112,21 +115,145 @@ async function fetchHuggingFace() {
     likes: m.likes || 0,
     tags: (m.tags || []).filter(t => !t.startsWith('arxiv:') && !t.startsWith('base_model:')).slice(0, 6),
     lastModified: m.lastModified || null,
+  };
+}
+
+async function fetchHuggingFace() {
+  console.log('Fetching HuggingFace models…');
+  const [topRes, trendingRes] = await Promise.allSettled([
+    get('https://huggingface.co/api/models?sort=downloads&direction=-1&limit=30', { Accept: 'application/json' }),
+    get('https://huggingface.co/api/models?pipeline_tag=text-generation&sort=trendingScore&direction=-1&limit=60', { Accept: 'application/json' }),
+  ]);
+
+  if (topRes.status !== 'fulfilled' || topRes.value.status !== 200) {
+    throw new Error(`HuggingFace top models API failed`);
+  }
+  const models = JSON.parse(topRes.value.body).map((m, i) => parseModel(m, i + 1));
+  console.log(`  Found ${models.length} top models`);
+
+  let smallModels = [];
+  if (trendingRes.status === 'fulfilled' && trendingRes.value.status === 200) {
+    const raw = JSON.parse(trendingRes.value.body);
+    const filtered = raw.filter(m => isSmallDistilled(m.id));
+    smallModels = filtered.map((m, i) => parseModel(m, i + 1));
+    console.log(`  Found ${smallModels.length} small/distilled models (from ${raw.length} trending)`);
+  } else {
+    console.warn('  Trending models fetch failed — small models section will be empty');
+  }
+
+  return { updated: new Date().toISOString(), models, smallModels };
+}
+
+function parseSpaces(raw) {
+  return raw.map((s, i) => ({
+    rank: i + 1,
+    id: s.id,
+    url: `https://huggingface.co/spaces/${s.id}`,
+    sdk: s.sdk || null,
+    likes: s.likes || 0,
+    tags: (s.tags || []).filter(t => !t.startsWith('arxiv:') && !t.startsWith('base_model:')).slice(0, 6),
+    lastModified: s.lastModified || null,
   }));
-  console.log(`  Found ${models.length} models`);
-  return { updated: new Date().toISOString(), models };
+}
+
+async function fetchHuggingFaceSpaces() {
+  console.log('Fetching HuggingFace spaces…');
+  const [trendingRes, webmlRes] = await Promise.allSettled([
+    get('https://huggingface.co/api/spaces?sort=likes&direction=-1&limit=30', { Accept: 'application/json' }),
+    get('https://huggingface.co/api/spaces?author=webml-community&sort=likes&direction=-1&limit=30', { Accept: 'application/json' }),
+  ]);
+
+  let trending = [];
+  if (trendingRes.status === 'fulfilled' && trendingRes.value.status === 200) {
+    trending = parseSpaces(JSON.parse(trendingRes.value.body));
+    console.log(`  Found ${trending.length} trending spaces`);
+  } else {
+    console.warn('  Trending spaces fetch failed');
+  }
+
+  let webml = [];
+  if (webmlRes.status === 'fulfilled' && webmlRes.value.status === 200) {
+    webml = parseSpaces(JSON.parse(webmlRes.value.body));
+    console.log(`  Found ${webml.length} webml-community spaces`);
+  } else {
+    console.warn('  WebML community spaces fetch failed');
+  }
+
+  if (trending.length === 0 && webml.length === 0) throw new Error('All spaces fetches returned empty');
+  return { updated: new Date().toISOString(), trending, webml };
+}
+
+// ── History accumulation ──────────────────────────────────────────────────
+// data/history.json tracks day-keyed observations per item for the last 30 days.
+// scripts/build-history.js bootstraps this from git log; here we just append.
+
+const HISTORY_MAX_DAYS = 90;
+
+function extractObservations(sourceKey, snapshot) {
+  if (sourceKey === 'github') {
+    return (snapshot.repos || []).map(r => ({ id: r.fullName, v: r.stars, r: r.rank }));
+  }
+  if (sourceKey === 'huggingface') {
+    const out = [];
+    for (const m of (snapshot.models || []))      out.push({ id: m.id, v: m.downloads, r: m.rank });
+    for (const m of (snapshot.smallModels || [])) out.push({ id: m.id, v: m.downloads, r: m.rank });
+    return out;
+  }
+  if (sourceKey === 'spaces') {
+    const out = [];
+    for (const s of (snapshot.trending || [])) out.push({ id: s.id, v: s.likes, r: s.rank });
+    for (const s of (snapshot.webml || []))    out.push({ id: s.id, v: s.likes, r: s.rank });
+    return out;
+  }
+  return [];
+}
+
+function updateHistory(historyPath, updates) {
+  let history = {};
+  try { history = JSON.parse(fs.readFileSync(historyPath, 'utf8')); } catch {}
+
+  const today    = new Date().toISOString().slice(0, 10);
+  const cutoffMs = Date.now() - HISTORY_MAX_DAYS * 86_400_000;
+  const cutoff   = new Date(cutoffMs).toISOString().slice(0, 10);
+
+  for (const [sourceKey, observations] of Object.entries(updates)) {
+    if (!history[sourceKey]) history[sourceKey] = {};
+    const bucket = history[sourceKey];
+
+    // Append/replace today's observation per item
+    for (const { id, v, r } of observations) {
+      const arr = bucket[id] || [];
+      const filtered = arr.filter(o => o.d !== today && o.d >= cutoff);
+      filtered.push({ d: today, v, r });
+      filtered.sort((a, b) => a.d.localeCompare(b.d));
+      bucket[id] = filtered;
+    }
+
+    // Drop items whose newest observation is older than cutoff
+    for (const id of Object.keys(bucket)) {
+      const arr = bucket[id];
+      if (arr.length === 0 || arr[arr.length - 1].d < cutoff) delete bucket[id];
+    }
+  }
+
+  history.updated = new Date().toISOString();
+  fs.writeFileSync(historyPath, JSON.stringify(history));
 }
 
 async function main() {
   const dataDir = path.join(__dirname, '..', 'data');
   fs.mkdirSync(dataDir, { recursive: true });
 
-  const [ghResult, hfResult] = await Promise.allSettled([fetchGitHub(), fetchHuggingFace()]);
+  const [ghResult, hfResult, spacesResult] = await Promise.allSettled([
+    fetchGitHub(), fetchHuggingFace(), fetchHuggingFaceSpaces(),
+  ]);
 
   let anyFailed = false;
+  const historyUpdates = {};
 
   if (ghResult.status === 'fulfilled') {
     fs.writeFileSync(path.join(dataDir, 'github.json'), JSON.stringify(ghResult.value, null, 2));
+    historyUpdates.github = extractObservations('github', ghResult.value);
     console.log('Wrote data/github.json');
   } else {
     console.error('GitHub fetch failed:', ghResult.reason.message);
@@ -135,14 +262,29 @@ async function main() {
 
   if (hfResult.status === 'fulfilled') {
     fs.writeFileSync(path.join(dataDir, 'huggingface.json'), JSON.stringify(hfResult.value, null, 2));
+    historyUpdates.huggingface = extractObservations('huggingface', hfResult.value);
     console.log('Wrote data/huggingface.json');
   } else {
     console.error('HuggingFace fetch failed:', hfResult.reason.message);
     anyFailed = true;
   }
 
-  // Only fail hard if both sources failed — partial data is better than no commit
-  if (anyFailed && ghResult.status !== 'fulfilled' && hfResult.status !== 'fulfilled') {
+  if (spacesResult.status === 'fulfilled') {
+    fs.writeFileSync(path.join(dataDir, 'spaces.json'), JSON.stringify(spacesResult.value, null, 2));
+    historyUpdates.spaces = extractObservations('spaces', spacesResult.value);
+    console.log('Wrote data/spaces.json');
+  } else {
+    console.error('HuggingFace Spaces fetch failed:', spacesResult.reason.message);
+    anyFailed = true;
+  }
+
+  if (Object.keys(historyUpdates).length > 0) {
+    updateHistory(path.join(dataDir, 'history.json'), historyUpdates);
+    console.log('Updated data/history.json');
+  }
+
+  // Only fail hard if all sources failed — partial data is better than no commit
+  if (anyFailed && ghResult.status !== 'fulfilled' && hfResult.status !== 'fulfilled' && spacesResult.status !== 'fulfilled') {
     process.exitCode = 1;
   }
 }

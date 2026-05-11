@@ -2,9 +2,12 @@
 let activeTab       = 'github';
 let githubData      = null;
 let huggingfaceData = null;
+let spacesData      = null;
+let historyData     = null;
 
 // ── Elements ──────────────────────────────────────────────────────────────
 const cardList     = document.getElementById('card-list');
+const velocityPane = document.getElementById('velocity-pane');
 const updatedLabel = document.getElementById('updated-label');
 
 // ── Theme toggle ──────────────────────────────────────────────────────────
@@ -34,20 +37,24 @@ document.querySelectorAll('.tab-btn').forEach(btn => {
 
 // ── Data loading ──────────────────────────────────────────────────────────
 async function loadData() {
-  const [gh, hf] = await Promise.allSettled([
+  const [gh, hf, sp, hist] = await Promise.allSettled([
     fetch('data/github.json').then(r => r.ok ? r.json() : null),
     fetch('data/huggingface.json').then(r => r.ok ? r.json() : null),
+    fetch('data/spaces.json').then(r => r.ok ? r.json() : null),
+    fetch('data/history.json').then(r => r.ok ? r.json() : null),
   ]);
 
-  if (gh.status === 'fulfilled') githubData = gh.value;
-  if (hf.status === 'fulfilled') huggingfaceData = hf.value;
+  if (gh.status   === 'fulfilled') githubData      = gh.value;
+  if (hf.status   === 'fulfilled') huggingfaceData = hf.value;
+  if (sp.status   === 'fulfilled') spacesData      = sp.value;
+  if (hist.status === 'fulfilled') historyData     = hist.value;
 
   renderCurrentTab();
   updateTimestamp();
 }
 
 function updateTimestamp() {
-  const data = activeTab === 'github' ? githubData : huggingfaceData;
+  const data = activeTab === 'github' ? githubData : activeTab === 'spaces' ? spacesData : huggingfaceData;
   updatedLabel.textContent = data?.updated
     ? `updated ${new Date(data.updated).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}`
     : '';
@@ -55,11 +62,33 @@ function updateTimestamp() {
 
 // ── Card rendering ────────────────────────────────────────────────────────
 function renderCurrentTab() {
+  const ghHist = historyData?.github      || {};
+  const hfHist = historyData?.huggingface || {};
+  const spHist = historyData?.spaces      || {};
+
   if (activeTab === 'github') {
-    renderGitHubCards(githubData, cardList, handleCardSelect);
+    renderGitHubCards(githubData, cardList, handleCardSelect, ghHist);
+    renderTabVelocity('github', githubData?.repos, ghHist);
+  } else if (activeTab === 'spaces') {
+    renderSpacesCards(spacesData, cardList, handleCardSelect, spHist);
+    const allSpaces = [...(spacesData?.trending || []), ...(spacesData?.webml || [])];
+    renderTabVelocity('spaces', allSpaces, spHist);
   } else {
-    renderHFCards(huggingfaceData, cardList, handleCardSelect);
+    renderHFCards(huggingfaceData, cardList, handleCardSelect, hfHist);
+    const allModels = [...(huggingfaceData?.models || []), ...(huggingfaceData?.smallModels || [])];
+    renderTabVelocity('huggingface', allModels, hfHist);
   }
+}
+
+function renderTabVelocity(source, items, history) {
+  if (!velocityPane || !items || typeof renderVelocityChart !== 'function') return;
+  const config = {
+    github:      { idKey: 'fullName', labelKey: 'fullName', metricLabel: 'stars' },
+    huggingface: { idKey: 'id',       labelKey: 'id',       metricLabel: 'downloads' },
+    spaces:      { idKey: 'id',       labelKey: 'id',       metricLabel: 'likes' },
+  }[source];
+  const mapped = items.map(it => ({ id: it[config.idKey], label: it[config.labelKey] }));
+  renderVelocityChart(mapped, history, velocityPane, { metricLabel: config.metricLabel });
 }
 
 function handleCardSelect(cardEl) {

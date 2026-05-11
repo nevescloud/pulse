@@ -39,7 +39,7 @@ function fmtNum(n) {
   return String(n);
 }
 
-function buildRepoCard(repo, onSelect) {
+function buildRepoCard(repo, onSelect, history) {
   const card = document.createElement('div');
   card.className = 'repo-card';
   card.dataset.rank = repo.rank;
@@ -66,8 +66,14 @@ function buildRepoCard(repo, onSelect) {
         </span>` : ''}
       ${repo.stars ? `<span class="card-meta-item">★ ${fmtNum(repo.stars)}</span>` : ''}
       ${repo.forks ? `<span class="card-meta-item">⑂ ${fmtNum(repo.forks)}</span>` : ''}
+      <span class="card-spark"></span>
     </div>
   `;
+
+  const sparkSlot = card.querySelector('.card-spark');
+  const spark = history && typeof buildSparkline === 'function' ? buildSparkline(history[repo.fullName]) : null;
+  if (spark) sparkSlot.appendChild(spark);
+  else sparkSlot.remove();
 
   // Click selects card (but not if clicking the link itself)
   card.addEventListener('click', e => {
@@ -85,7 +91,7 @@ function buildRepoCard(repo, onSelect) {
   return card;
 }
 
-function renderGitHubCards(data, container, onSelect) {
+function renderGitHubCards(data, container, onSelect, history) {
   container.innerHTML = '';
 
   if (!data?.repos?.length) {
@@ -100,7 +106,7 @@ function renderGitHubCards(data, container, onSelect) {
   }
 
   const frag = document.createDocumentFragment();
-  data.repos.forEach(repo => frag.appendChild(buildRepoCard(repo, onSelect)));
+  data.repos.forEach(repo => frag.appendChild(buildRepoCard(repo, onSelect, history)));
   container.appendChild(frag);
 }
 

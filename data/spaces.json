@@ -1,0 +1,747 @@
+{
+  "updated": "2026-05-11T13:51:44.061Z",
+  "trending": [
+    {
+      "rank": 1,
+      "id": "open-llm-leaderboard/open_llm_leaderboard",
+      "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+      "sdk": "docker",
+      "likes": 13980,
+      "tags": [
+        "docker",
+        "leaderboard",
+        "modality:text",
+        "submission:automatic",
+        "test:public",
+        "language:english"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 2,
+      "id": "jbilcke-hf/ai-comic-factory",
+      "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
+      "sdk": "docker",
+      "likes": 11077,
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 3,
+      "id": "Kwai-Kolors/Kolors-Virtual-Try-On",
+      "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+      "sdk": "gradio",
+      "likes": 10067,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 4,
+      "id": "black-forest-labs/FLUX.1-dev",
+      "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
+      "sdk": "gradio",
+      "likes": 9446,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 5,
+      "id": "mteb/leaderboard",
+      "url": "https://huggingface.co/spaces/mteb/leaderboard",
+      "sdk": "docker",
+      "likes": 7353,
+      "tags": [
+        "docker",
+        "leaderboard",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 6,
+      "id": "dalle-mini/dalle-mini",
+      "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
+      "sdk": "static",
+      "likes": 5683,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 7,
+      "id": "AP123/IllusionDiffusion",
+      "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
+      "sdk": "gradio",
+      "likes": 5401,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 8,
+      "id": "Wan-AI/Wan2.2-Animate",
+      "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
+      "sdk": "gradio",
+      "likes": 5117,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
+      "id": "facebook/MusicGen",
+      "url": "https://huggingface.co/spaces/facebook/MusicGen",
+      "sdk": "gradio",
+      "likes": 5067,
+      "tags": [
+        "gradio",
+        "music generation",
+        "language models",
+        "LLMs",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 10,
+      "id": "black-forest-labs/FLUX.1-schnell",
+      "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
+      "sdk": "gradio",
+      "likes": 5061,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 11,
+      "id": "lmarena-ai/arena-leaderboard",
+      "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
+      "sdk": "static",
+      "likes": 4880,
+      "tags": [
+        "static",
+        "leaderboard",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 12,
+      "id": "microsoft/TRELLIS",
+      "url": "https://huggingface.co/spaces/microsoft/TRELLIS",
+      "sdk": "gradio",
+      "likes": 4776,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 13,
+      "id": "KingNish/OpenGPT-4o",
+      "url": "https://huggingface.co/spaces/KingNish/OpenGPT-4o",
+      "sdk": "gradio",
+      "likes": 4310,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 14,
+      "id": "nanotron/ultrascale-playbook",
+      "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
+      "sdk": "static",
+      "likes": 3834,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 15,
+      "id": "KlingTeam/LivePortrait",
+      "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
+      "sdk": "gradio",
+      "likes": 3741,
+      "tags": [
+        "gradio",
+        "Multimodal",
+        "Motion control",
+        "Image-to-Video",
+        "Video-to-Video",
+        "language models"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 16,
+      "id": "InstantX/InstantID",
+      "url": "https://huggingface.co/spaces/InstantX/InstantID",
+      "sdk": "gradio",
+      "likes": 3598,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 17,
+      "id": "hexgrad/Kokoro-TTS",
+      "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
+      "sdk": "gradio",
+      "likes": 3310,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 18,
+      "id": "tencent/Hunyuan3D-2",
+      "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
+      "sdk": "gradio",
+      "likes": 3269,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 19,
+      "id": "akhaliq/anycoder",
+      "url": "https://huggingface.co/spaces/akhaliq/anycoder",
+      "sdk": "docker",
+      "likes": 3255,
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 20,
+      "id": "HuggingFaceTB/smol-training-playbook",
+      "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
+      "sdk": "docker",
+      "likes": 3162,
+      "tags": [
+        "docker",
+        "research-article-template",
+        "research paper",
+        "scientific paper",
+        "data visualization",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 21,
+      "id": "mrfakename/Z-Image-Turbo",
+      "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
+      "sdk": "gradio",
+      "likes": 3138,
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 22,
+      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "sdk": "gradio",
+      "likes": 3029,
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 23,
+      "id": "mukaist/Midjourney",
+      "url": "https://huggingface.co/spaces/mukaist/Midjourney",
+      "sdk": "gradio",
+      "likes": 2976,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 24,
+      "id": "pharmapsychotic/CLIP-Interrogator",
+      "url": "https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator",
+      "sdk": "gradio",
+      "likes": 2970,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 25,
+      "id": "mrfakename/E2-F5-TTS",
+      "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
+      "sdk": "gradio",
+      "likes": 2857,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 26,
+      "id": "not-lain/background-removal",
+      "url": "https://huggingface.co/spaces/not-lain/background-removal",
+      "sdk": "gradio",
+      "likes": 2834,
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 27,
+      "id": "sanchit-gandhi/whisper-jax",
+      "url": "https://huggingface.co/spaces/sanchit-gandhi/whisper-jax",
+      "sdk": "docker",
+      "likes": 2828,
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 28,
+      "id": "HumanAIGC/OutfitAnyone",
+      "url": "https://huggingface.co/spaces/HumanAIGC/OutfitAnyone",
+      "sdk": "gradio",
+      "likes": 2805,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 29,
+      "id": "coqui/xtts",
+      "url": "https://huggingface.co/spaces/coqui/xtts",
+      "sdk": "gradio",
+      "likes": 2768,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 30,
+      "id": "openai/whisper",
+      "url": "https://huggingface.co/spaces/openai/whisper",
+      "sdk": "gradio",
+      "likes": 2757,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": null
+    }
+  ],
+  "webml": [
+    {
+      "rank": 1,
+      "id": "webml-community/deepseek-r1-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/deepseek-r1-webgpu",
+      "sdk": "static",
+      "likes": 556,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 2,
+      "id": "webml-community/kokoro-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/kokoro-webgpu",
+      "sdk": "static",
+      "likes": 359,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 3,
+      "id": "webml-community/conversational-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/conversational-webgpu",
+      "sdk": "static",
+      "likes": 233,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 4,
+      "id": "webml-community/llama-3.2-reasoning-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/llama-3.2-reasoning-webgpu",
+      "sdk": "static",
+      "likes": 231,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 5,
+      "id": "webml-community/kokoro-web",
+      "url": "https://huggingface.co/spaces/webml-community/kokoro-web",
+      "sdk": "static",
+      "likes": 223,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 6,
+      "id": "webml-community/Gemma-4-WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU",
+      "sdk": "static",
+      "likes": 217,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 7,
+      "id": "webml-community/janus-pro-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/janus-pro-webgpu",
+      "sdk": "static",
+      "likes": 216,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 8,
+      "id": "webml-community/attention-visualization",
+      "url": "https://huggingface.co/spaces/webml-community/attention-visualization",
+      "sdk": "static",
+      "likes": 197,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
+      "id": "webml-community/whisper-large-v3-turbo-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu",
+      "sdk": "static",
+      "likes": 173,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 10,
+      "id": "webml-community/bedtime-story-generator",
+      "url": "https://huggingface.co/spaces/webml-community/bedtime-story-generator",
+      "sdk": "static",
+      "likes": 172,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 11,
+      "id": "webml-community/bonsai-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "sdk": "static",
+      "likes": 169,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 12,
+      "id": "webml-community/smolvlm-realtime-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/smolvlm-realtime-webgpu",
+      "sdk": "static",
+      "likes": 161,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 13,
+      "id": "webml-community/dinov3-web",
+      "url": "https://huggingface.co/spaces/webml-community/dinov3-web",
+      "sdk": "static",
+      "likes": 158,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 14,
+      "id": "webml-community/remove-background-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/remove-background-webgpu",
+      "sdk": "static",
+      "likes": 157,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 15,
+      "id": "webml-community/semantic-galaxy",
+      "url": "https://huggingface.co/spaces/webml-community/semantic-galaxy",
+      "sdk": "static",
+      "likes": 142,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 16,
+      "id": "webml-community/moonshine-web",
+      "url": "https://huggingface.co/spaces/webml-community/moonshine-web",
+      "sdk": "static",
+      "likes": 139,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 17,
+      "id": "webml-community/bonsai-ternary-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-ternary-webgpu",
+      "sdk": "static",
+      "likes": 134,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 18,
+      "id": "webml-community/Supertonic-TTS-WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/Supertonic-TTS-WebGPU",
+      "sdk": "static",
+      "likes": 110,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 19,
+      "id": "webml-community/FunctionGemma-Physics-Playground",
+      "url": "https://huggingface.co/spaces/webml-community/FunctionGemma-Physics-Playground",
+      "sdk": "static",
+      "likes": 106,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 20,
+      "id": "webml-community/qwen3-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/qwen3-webgpu",
+      "sdk": "static",
+      "likes": 103,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 21,
+      "id": "webml-community/llama-3.2-webgpu",
+      "url": "https://huggingface.co/spaces/webml-community/llama-3.2-webgpu",
+      "sdk": "static",
+      "likes": 94,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 22,
+      "id": "webml-community/KittenTTS-web",
+      "url": "https://huggingface.co/spaces/webml-community/KittenTTS-web",
+      "sdk": "static",
+      "likes": 86,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 23,
+      "id": "webml-community/DINOv3-video-tracking",
+      "url": "https://huggingface.co/spaces/webml-community/DINOv3-video-tracking",
+      "sdk": "static",
+      "likes": 86,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 24,
+      "id": "webml-community/Nemotron-3-Nano-WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/Nemotron-3-Nano-WebGPU",
+      "sdk": "static",
+      "likes": 77,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 25,
+      "id": "webml-community/os1",
+      "url": "https://huggingface.co/spaces/webml-community/os1",
+      "sdk": "static",
+      "likes": 76,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 26,
+      "id": "webml-community/Qwen3.5-WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU",
+      "sdk": "static",
+      "likes": 75,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 27,
+      "id": "webml-community/Voxtral-WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/Voxtral-WebGPU",
+      "sdk": "static",
+      "likes": 72,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 28,
+      "id": "webml-community/GPT-OSS-WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/GPT-OSS-WebGPU",
+      "sdk": "static",
+      "likes": 72,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 29,
+      "id": "webml-community/microgpt-playground",
+      "url": "https://huggingface.co/spaces/webml-community/microgpt-playground",
+      "sdk": "static",
+      "likes": 67,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 30,
+      "id": "webml-community/YOLO26-WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/YOLO26-WebGPU",
+      "sdk": "static",
+      "likes": 65,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": null
+    }
+  ]
+}
