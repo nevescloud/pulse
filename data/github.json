@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T14:41:11.244Z",
+  "updated": "2026-05-11T14:42:05.809Z",
   "since": "daily",
   "repos": [
     {
@@ -35,7 +35,7 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "stars": 10401,
-      "forks": 1968,
+      "forks": 1969,
       "starsToday": 397
     },
     {
@@ -58,7 +58,7 @@
       "url": "https://github.com/datawhalechina/easy-vibe",
       "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
       "language": "JavaScript",
-      "stars": 9697,
+      "stars": 9698,
       "forks": 925,
       "starsToday": 808
     },
@@ -83,7 +83,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "stars": 1069,
-      "forks": 148,
+      "forks": 149,
       "starsToday": 154
     },
     {
@@ -142,7 +142,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 144025,
+      "stars": 144026,
       "forks": 22494,
       "starsToday": 1496
     },
