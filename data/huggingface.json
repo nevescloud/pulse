@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T13:06:18.412Z",
+  "updated": "2026-05-11T14:06:59.667Z",
   "models": [
     {
       "rank": 1,
@@ -160,7 +160,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 23211662,
-      "likes": 2988,
+      "likes": 2989,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -296,7 +296,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 17696259,
-      "likes": 275,
+      "likes": 276,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -381,7 +381,7 @@
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
       "downloads": 15384704,
-      "likes": 1065,
+      "likes": 1064,
       "tags": [
         "transformers",
         "pytorch",
@@ -432,7 +432,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13227755,
-      "likes": 1269,
+      "likes": 1270,
       "tags": [
         "transformers",
         "safetensors",
@@ -508,6 +508,229 @@
         "asr",
         "quantized",
         "automatic-speech-recognition"
+      ],
+      "lastModified": null
+    }
+  ],
+  "smallModels": [
+    {
+      "rank": 1,
+      "id": "Qwen/WebWorld-8B",
+      "url": "https://huggingface.co/Qwen/WebWorld-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 279,
+      "likes": 22,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "WebWorld",
+        "web-agent"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 2,
+      "id": "ibm-granite/granite-4.1-8b",
+      "url": "https://huggingface.co/ibm-granite/granite-4.1-8b",
+      "pipelineTag": "text-generation",
+      "downloads": 34216,
+      "likes": 165,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "granite",
+        "text-generation",
+        "language",
+        "granite-4.1"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 3,
+      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "pipelineTag": "text-generation",
+      "downloads": 178233,
+      "likes": 129,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "text-generation",
+        "reasoning"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 4,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 18238415,
+      "likes": 1237,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 5,
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "url": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 64199,
+      "likes": 113,
+      "tags": [
+        "gguf",
+        "nvidia",
+        "unsloth",
+        "nemotron-3",
+        "multimodal",
+        "text-generation"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 6,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 9389311,
+      "likes": 5810,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 7,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1686123,
+      "likes": 4515,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 8,
+      "id": "Qwen/Qwen3-8B",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 11478261,
+      "likes": 1085,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
+      "id": "CoreWorxLab/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-int4-AutoRound",
+      "url": "https://huggingface.co/CoreWorxLab/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-int4-AutoRound",
+      "pipelineTag": "text-generation",
+      "downloads": 1024,
+      "likes": 13,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "qwen",
+        "qwen3"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 10,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 13227755,
+      "likes": 1270,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 11,
+      "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "pipelineTag": "text-generation",
+      "downloads": 19434,
+      "likes": 47,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "text-generation",
+        "code",
+        "coding",
+        "reasoning"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 12,
+      "id": "nvidia/Efficient-DLM-4B",
+      "url": "https://huggingface.co/nvidia/Efficient-DLM-4B",
+      "pipelineTag": "text-generation",
+      "downloads": 1533,
+      "likes": 25,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "feature-extraction",
+        "text-generation",
+        "conversational"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 13,
+      "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
+      "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
+      "pipelineTag": "text-generation",
+      "downloads": 1328,
+      "likes": 9,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "qwen3",
+        "qwen3.6"
       ],
       "lastModified": null
     }

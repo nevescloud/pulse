@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T13:06:19.418Z",
+  "updated": "2026-05-11T14:07:00.848Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars": 32717,
-      "forks": 3239,
+      "stars": 32753,
+      "forks": 3240,
       "starsToday": 956
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars": 5538,
-      "forks": 421,
+      "stars": 5613,
+      "forks": 426,
       "starsToday": 1325
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars": 10291,
-      "forks": 1962,
+      "stars": 10370,
+      "forks": 1966,
       "starsToday": 397
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/playcanvas/supersplat",
       "description": "3D Gaussian Splat Editor",
       "language": "TypeScript",
-      "stars": 7086,
-      "forks": 783,
+      "stars": 7119,
+      "forks": 784,
       "starsToday": 533
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/datawhalechina/easy-vibe",
       "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
       "language": "JavaScript",
-      "stars": 9654,
-      "forks": 922,
+      "stars": 9678,
+      "forks": 924,
       "starsToday": 808
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/decolua/9router",
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
-      "stars": 7877,
-      "forks": 1285,
+      "stars": 7930,
+      "forks": 1289,
       "starsToday": 942
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars": 1001,
-      "forks": 139,
+      "stars": 1041,
+      "forks": 145,
       "starsToday": 154
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/millionco/react-doctor",
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
-      "stars": 7684,
+      "stars": 7723,
       "forks": 242,
       "starsToday": 312
     },
@@ -106,8 +106,8 @@
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
-      "stars": 37156,
-      "forks": 4561,
+      "stars": 37183,
+      "forks": 4565,
       "starsToday": 373
     },
     {
@@ -118,7 +118,7 @@
       "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
       "description": "Stable Diffusion web UI",
       "language": "Python",
-      "stars": 162829,
+      "stars": 162842,
       "forks": 30326,
       "starsToday": 29
     },
@@ -130,8 +130,8 @@
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 92653,
-      "forks": 14308,
+      "stars": 92693,
+      "forks": 14310,
       "starsToday": 141
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 143819,
-      "forks": 22452,
+      "stars": 143961,
+      "forks": 22480,
       "starsToday": 1496
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars": 4248,
-      "forks": 405,
+      "stars": 4321,
+      "forks": 408,
       "starsToday": 655
     }
   ]
