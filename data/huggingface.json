@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T21:32:37.566Z",
+  "updated": "2026-05-12T00:45:53.366Z",
   "models": [
     {
       "rank": 1,
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
       "pipelineTag": "text-generation",
       "downloads": 11120947,
-      "likes": 1430,
+      "likes": 1431,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
       "downloads": 178233,
-      "likes": 132,
+      "likes": 133,
       "tags": [
         "transformers",
         "safetensors",
@@ -777,24 +777,6 @@
     },
     {
       "rank": 14,
-      "id": "nvidia/Efficient-DLM-4B",
-      "url": "https://huggingface.co/nvidia/Efficient-DLM-4B",
-      "pipelineTag": "text-generation",
-      "downloads": 1533,
-      "likes": 25,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "feature-extraction",
-        "text-generation",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "📄 Tech Report &nbsp&nbsp|&nbsp&nbsp 🤗 Efficient-DLM-4B &nbsp&nbsp|&nbsp&nbsp 🤗 Efficient-DLM-8B"
-    },
-    {
-      "rank": 15,
       "id": "faunix/QwenSeek-2B-GGUF",
       "url": "https://huggingface.co/faunix/QwenSeek-2B-GGUF",
       "pipelineTag": "text-generation",
@@ -810,6 +792,24 @@
       ],
       "lastModified": null,
       "description": "QwenSeek-2B - distillation of thinking of DeepSeek V4 into Qwen3.5-2B!"
+    },
+    {
+      "rank": 15,
+      "id": "AIDC-AI/Marco-DeepResearch-8B",
+      "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 88,
+      "likes": 10,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "deep-research",
+        "agent"
+      ],
+      "lastModified": null,
+      "description": "Marco DeepResearch is an efficient 8B-scale deep research agent developed by Alibaba International Digital Commerce (AIDC-AI). It autonomously conducts open-ended investigations by integrating complex information retrieval with multi-ste…"
     }
   ]
 }
