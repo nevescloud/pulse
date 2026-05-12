@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T07:05:07.986Z",
+  "updated": "2026-05-12T09:57:08.785Z",
   "models": [
     {
       "rank": 1,
@@ -114,7 +114,7 @@
       "id": "BAAI/bge-small-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 39561954,
+      "downloads": 40607415,
       "likes": 455,
       "tags": [
         "sentence-transformers",
@@ -168,7 +168,7 @@
       "id": "BAAI/bge-m3",
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
-      "downloads": 23211662,
+      "downloads": 23743215,
       "likes": 2990,
       "tags": [
         "sentence-transformers",
@@ -366,7 +366,7 @@
       "id": "nomic-ai/nomic-embed-text-v1.5",
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
-      "downloads": 15837783,
+      "downloads": 15847724,
       "likes": 822,
       "tags": [
         "sentence-transformers",
@@ -417,28 +417,10 @@
     },
     {
       "rank": 24,
-      "id": "Falconsai/nsfw_image_detection",
-      "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-      "pipelineTag": "image-classification",
-      "downloads": 15384704,
-      "likes": 1067,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "safetensors",
-        "vit",
-        "image-classification",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "The Fine-Tuned Vision Transformer (ViT) is a variant of the transformer encoder architecture, similar to BERT, that has been adapted for image classification tasks. This specific model, named \"google/vit-base-patch16-224-in21k,\" is pre-t…"
-    },
-    {
-      "rank": 25,
       "id": "BAAI/bge-large-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 15312924,
+      "downloads": 15418380,
       "likes": 661,
       "tags": [
         "sentence-transformers",
@@ -452,11 +434,29 @@
       "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
     },
     {
+      "rank": 25,
+      "id": "Falconsai/nsfw_image_detection",
+      "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
+      "pipelineTag": "image-classification",
+      "downloads": 14239572,
+      "likes": 1067,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "safetensors",
+        "vit",
+        "image-classification",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "The Fine-Tuned Vision Transformer (ViT) is a variant of the transformer encoder architecture, similar to BERT, that has been adapted for image classification tasks. This specific model, named \"google/vit-base-patch16-224-in21k,\" is pre-t…"
+    },
+    {
       "rank": 26,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 13227755,
+      "downloads": 13252297,
       "likes": 1272,
       "tags": [
         "transformers",
@@ -474,7 +474,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12189925,
+      "downloads": 12184309,
       "likes": 692,
       "tags": [
         "transformers",
@@ -525,21 +525,21 @@
     },
     {
       "rank": 30,
-      "id": "argmaxinc/whisperkit-coreml",
-      "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-      "pipelineTag": "automatic-speech-recognition",
-      "downloads": 10934303,
-      "likes": 175,
+      "id": "pyannote/wespeaker-voxceleb-resnet34-LM",
+      "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
+      "pipelineTag": null,
+      "downloads": 10961115,
+      "likes": 129,
       "tags": [
-        "whisperkit",
-        "coreml",
-        "whisper",
-        "asr",
-        "quantized",
-        "automatic-speech-recognition"
+        "pyannote-audio",
+        "pytorch",
+        "pyannote",
+        "pyannote-audio-model",
+        "wespeaker",
+        "audio"
       ],
       "lastModified": null,
-      "description": "pretty_name: \"WhisperKit\" viewer: false library_name: whisperkit tags:"
+      "description": "Using this open-source model in production? Consider switching to pyannoteAI for better and faster options."
     }
   ],
   "smallModels": [
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
       "downloads": 279,
-      "likes": 26,
+      "likes": 27,
       "tags": [
         "transformers",
         "safetensors",
@@ -617,10 +617,28 @@
     },
     {
       "rank": 5,
+      "id": "IAAR-Shanghai/MemPrivacy-1.7B-SFT",
+      "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
+      "pipelineTag": "text-generation",
+      "downloads": 74,
+      "likes": 14,
+      "tags": [
+        "safetensors",
+        "qwen3",
+        "privacy",
+        "privacy-detection",
+        "memory",
+        "personalized-memory"
+      ],
+      "lastModified": null,
+      "description": "MemPrivacy-1.7B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-1.7B base model. It is designed specifically for personalized memory management in edge-cloud agents."
+    },
+    {
+      "rank": 6,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 9389311,
+      "downloads": 9548227,
       "likes": 5811,
       "tags": [
         "transformers",
@@ -633,7 +651,7 @@
       "lastModified": null
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "url": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "pipelineTag": "text-generation",
@@ -651,11 +669,11 @@
       "description": "NVIDIA Nemotron 3 Nano Omni is a multimodal large language model that unifies video, audio, image, and text understanding to support enterprise-grade Q&A, summarization, transcription, and document intelligence workflows. It extends the …"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 13227755,
+      "downloads": 13252297,
       "likes": 1272,
       "tags": [
         "transformers",
@@ -669,7 +687,7 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
@@ -687,7 +705,7 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "CoreWorxLab/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-int4-AutoRound",
       "url": "https://huggingface.co/CoreWorxLab/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2-int4-AutoRound",
       "pipelineTag": "text-generation",
@@ -705,11 +723,29 @@
       "description": "Int4 AutoRound quantized version of TeichAI/Qwen3.6-27B-Claude-Opus-Reasoning-Distill-v2."
     },
     {
-      "rank": 10,
+      "rank": 11,
+      "id": "AIDC-AI/Marco-DeepResearch-8B",
+      "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 88,
+      "likes": 12,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "deep-research",
+        "agent"
+      ],
+      "lastModified": null,
+      "description": "Marco DeepResearch is an efficient 8B-scale deep research agent developed by Alibaba International Digital Commerce (AIDC-AI). It autonomously conducts open-ended investigations by integrating complex information retrieval with multi-ste…"
+    },
+    {
+      "rank": 12,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 1686123,
+      "downloads": 1689850,
       "likes": 4515,
       "tags": [
         "transformers",
@@ -722,7 +758,7 @@
       "lastModified": null
     },
     {
-      "rank": 11,
+      "rank": 13,
       "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
@@ -740,25 +776,7 @@
       "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
     },
     {
-      "rank": 12,
-      "id": "Qwen/Qwen3-4B-Instruct-2507",
-      "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
-      "pipelineTag": "text-generation",
-      "downloads": 10701536,
-      "likes": 840,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "We introduce the updated version of the Qwen3-4B non-thinking mode, named Qwen3-4B-Instruct-2507, featuring the following key enhancements:"
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "pipelineTag": "text-generation",
@@ -776,7 +794,7 @@
       "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "faunix/QwenSeek-2B-GGUF",
       "url": "https://huggingface.co/faunix/QwenSeek-2B-GGUF",
       "pipelineTag": "text-generation",
@@ -792,24 +810,6 @@
       ],
       "lastModified": null,
       "description": "QwenSeek-2B - distillation of thinking of DeepSeek V4 into Qwen3.5-2B!"
-    },
-    {
-      "rank": 15,
-      "id": "AIDC-AI/Marco-DeepResearch-8B",
-      "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 88,
-      "likes": 10,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "deep-research",
-        "agent"
-      ],
-      "lastModified": null,
-      "description": "Marco DeepResearch is an efficient 8B-scale deep research agent developed by Alibaba International Digital Commerce (AIDC-AI). It autonomously conducts open-ended investigations by integrating complex information retrieval with multi-ste…"
     }
   ]
 }
