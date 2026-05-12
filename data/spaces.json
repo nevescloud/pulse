@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T00:45:53.184Z",
+  "updated": "2026-05-12T04:19:00.880Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10067,
+      "likes": 10068,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3163,
+      "likes": 3164,
       "tags": [
         "docker",
         "research-article-template",
@@ -363,7 +363,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2857,
+      "likes": 2858,
       "tags": [
         "gradio",
         "region:us"
