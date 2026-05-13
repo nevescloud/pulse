@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T00:50:18.997Z",
+  "updated": "2026-05-13T04:22:48.390Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars": 2706,
-      "forks": 263,
+      "stars": 3022,
+      "forks": 293,
       "starsToday": 1014
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars": 5865,
-      "forks": 549,
+      "stars": 6122,
+      "forks": 570,
       "starsToday": 1048
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars": 7856,
-      "forks": 567,
+      "stars": 8157,
+      "forks": 596,
       "starsToday": 1606
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/apernet/hysteria",
       "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
       "language": "Go",
-      "stars": 20227,
-      "forks": 2094,
+      "stars": 20310,
+      "forks": 2103,
       "starsToday": 51
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 76031,
-      "forks": 6549,
+      "stars": 76626,
+      "forks": 6609,
       "starsToday": 3867
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/anonfaded/FadCam",
       "description": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
       "language": "Java",
-      "stars": 2210,
-      "forks": 168,
+      "stars": 2279,
+      "forks": 172,
       "starsToday": 116
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://github.com/millionco/react-doctor",
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
-      "stars": 8765,
+      "stars": 8854,
       "forks": 281,
       "starsToday": 788
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 93778,
-      "forks": 14412,
+      "stars": 93932,
+      "forks": 14428,
       "starsToday": 772
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/datawhalechina/hello-agents",
       "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
       "language": "Python",
-      "stars": 48218,
-      "forks": 5803,
+      "stars": 48458,
+      "forks": 5825,
       "starsToday": 599
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars": 11852,
-      "forks": 2083,
+      "stars": 12054,
+      "forks": 2100,
       "starsToday": 1282
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/HKUDS/AI-Trader",
       "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
       "language": "Python",
-      "stars": 16606,
-      "forks": 2612,
+      "stars": 16746,
+      "forks": 2618,
       "starsToday": 229
     }
   ]

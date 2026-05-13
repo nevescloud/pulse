@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T00:50:19.355Z",
+  "updated": "2026-05-13T04:22:47.721Z",
   "models": [
     {
       "rank": 1,
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 47227307,
-      "likes": 1223,
+      "likes": 1224,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 29398068,
-      "likes": 2008,
+      "likes": 2009,
       "tags": [
         "transformers",
         "pytorch",
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13252297,
-      "likes": 1272,
+      "likes": 1273,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 74,
-      "likes": 17,
+      "likes": 20,
       "tags": [
         "safetensors",
         "qwen3",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9548227,
-      "likes": 5816,
+      "likes": 5818,
       "tags": [
         "transformers",
         "safetensors",
@@ -616,24 +616,6 @@
     },
     {
       "rank": 5,
-      "id": "ibm-granite/granite-4.1-8b",
-      "url": "https://huggingface.co/ibm-granite/granite-4.1-8b",
-      "pipelineTag": "text-generation",
-      "downloads": 34216,
-      "likes": 168,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "granite",
-        "text-generation",
-        "language",
-        "granite-4.1"
-      ],
-      "lastModified": null,
-      "description": "Model Summary: Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. G…"
-    },
-    {
-      "rank": 6,
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
@@ -649,6 +631,24 @@
       ],
       "lastModified": null,
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
+      "rank": 6,
+      "id": "ibm-granite/granite-4.1-8b",
+      "url": "https://huggingface.co/ibm-granite/granite-4.1-8b",
+      "pipelineTag": "text-generation",
+      "downloads": 34216,
+      "likes": 168,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "granite",
+        "text-generation",
+        "language",
+        "granite-4.1"
+      ],
+      "lastModified": null,
+      "description": "Model Summary: Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. G…"
     },
     {
       "rank": 7,
@@ -727,7 +727,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13252297,
-      "likes": 1272,
+      "likes": 1273,
       "tags": [
         "transformers",
         "safetensors",
