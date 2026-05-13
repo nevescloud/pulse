@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T07:08:58.857Z",
+  "updated": "2026-05-13T09:56:29.534Z",
   "models": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
       "id": "Qwen/Qwen3-VL-2B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
-      "downloads": 186971599,
+      "downloads": 184863356,
       "likes": 401,
       "tags": [
         "transformers",
@@ -258,7 +258,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18238415,
+      "downloads": 18775733,
       "likes": 1240,
       "tags": [
         "transformers",
@@ -291,24 +291,6 @@
     },
     {
       "rank": 17,
-      "id": "amazon/chronos-2",
-      "url": "https://huggingface.co/amazon/chronos-2",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 17696259,
-      "likes": 277,
-      "tags": [
-        "chronos-forecasting",
-        "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "foundation models"
-      ],
-      "lastModified": null,
-      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
-    },
-    {
-      "rank": 18,
       "id": "FacebookAI/roberta-base",
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
@@ -326,7 +308,7 @@
       "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in this paper and first released in this repository. This model is case-sensitive: it makes a difference between english and English."
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "distilbert/distilbert-base-uncased",
       "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
       "pipelineTag": "fill-mask",
@@ -344,12 +326,30 @@
       "description": "This model is a distilled version of the BERT base model. It was introduced in this paper. The code for the distillation process can be found here. This model is uncased: it does not make a difference between english and English."
     },
     {
+      "rank": 19,
+      "id": "amazon/chronos-2",
+      "url": "https://huggingface.co/amazon/chronos-2",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 16540653,
+      "likes": 277,
+      "tags": [
+        "chronos-forecasting",
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
+    },
+    {
       "rank": 20,
       "id": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 16195419,
-      "likes": 3238,
+      "likes": 3239,
       "tags": [
         "transformers",
         "pytorch",
@@ -384,7 +384,7 @@
       "id": "nomic-ai/nomic-embed-text-v1.5",
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
-      "downloads": 15847724,
+      "downloads": 15949480,
       "likes": 822,
       "tags": [
         "sentence-transformers",
@@ -438,7 +438,7 @@
       "id": "Falconsai/nsfw_image_detection",
       "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
       "pipelineTag": "image-classification",
-      "downloads": 14239572,
+      "downloads": 13255152,
       "likes": 1067,
       "tags": [
         "transformers",
@@ -456,7 +456,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 13252297,
+      "downloads": 12797133,
       "likes": 1273,
       "tags": [
         "transformers",
@@ -474,7 +474,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12184309,
+      "downloads": 12262870,
       "likes": 692,
       "tags": [
         "transformers",
@@ -492,7 +492,7 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 11478261,
+      "downloads": 11740911,
       "likes": 1086,
       "tags": [
         "transformers",
@@ -507,21 +507,21 @@
     },
     {
       "rank": 29,
-      "id": "deepseek-ai/DeepSeek-V3.2",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2",
-      "pipelineTag": "text-generation",
-      "downloads": 11120947,
-      "likes": 1432,
+      "id": "argmaxinc/whisperkit-coreml",
+      "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
+      "pipelineTag": "automatic-speech-recognition",
+      "downloads": 11101624,
+      "likes": 175,
       "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v32",
-        "text-generation",
-        "conversational",
-        "license:mit"
+        "whisperkit",
+        "coreml",
+        "whisper",
+        "asr",
+        "quantized",
+        "automatic-speech-recognition"
       ],
       "lastModified": null,
-      "description": "We introduce DeepSeek-V3.2, a model that harmonizes high computational efficiency with superior reasoning and agent performance. Our approach is built upon three key technical breakthroughs:"
+      "description": "pretty_name: \"WhisperKit\" viewer: false library_name: whisperkit tags:"
     },
     {
       "rank": 30,
@@ -548,8 +548,8 @@
       "id": "Qwen/WebWorld-8B",
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
-      "downloads": 279,
-      "likes": 32,
+      "downloads": 555,
+      "likes": 33,
       "tags": [
         "transformers",
         "safetensors",
@@ -563,11 +563,28 @@
     },
     {
       "rank": 2,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 9708754,
+      "likes": 5821,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 3,
       "id": "IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 74,
-      "likes": 20,
+      "downloads": 123,
+      "likes": 21,
       "tags": [
         "safetensors",
         "qwen3",
@@ -580,28 +597,11 @@
       "description": "MemPrivacy-1.7B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-1.7B base model. It is designed specifically for personalized memory management in edge-cloud agents."
     },
     {
-      "rank": 3,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 9548227,
-      "likes": 5819,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 4,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18238415,
+      "downloads": 18775733,
       "likes": 1240,
       "tags": [
         "transformers",
@@ -616,29 +616,11 @@
     },
     {
       "rank": 5,
-      "id": "Qwen/Qwen3-8B",
-      "url": "https://huggingface.co/Qwen/Qwen3-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 11478261,
-      "likes": 1086,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 6,
       "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
-      "downloads": 1328,
-      "likes": 13,
+      "downloads": 1538,
+      "likes": 14,
       "tags": [
         "transformers",
         "safetensors",
@@ -651,11 +633,29 @@
       "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
     },
     {
+      "rank": 6,
+      "id": "ibm-granite/granite-4.1-8b",
+      "url": "https://huggingface.co/ibm-granite/granite-4.1-8b",
+      "pipelineTag": "text-generation",
+      "downloads": 39396,
+      "likes": 170,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "granite",
+        "text-generation",
+        "language",
+        "granite-4.1"
+      ],
+      "lastModified": null,
+      "description": "Model Summary: Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. G…"
+    },
+    {
       "rank": 7,
       "id": "AIDC-AI/Marco-DeepResearch-8B",
       "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
       "pipelineTag": "text-generation",
-      "downloads": 88,
+      "downloads": 159,
       "likes": 14,
       "tags": [
         "transformers",
@@ -670,28 +670,10 @@
     },
     {
       "rank": 8,
-      "id": "ibm-granite/granite-4.1-8b",
-      "url": "https://huggingface.co/ibm-granite/granite-4.1-8b",
-      "pipelineTag": "text-generation",
-      "downloads": 34216,
-      "likes": 168,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "granite",
-        "text-generation",
-        "language",
-        "granite-4.1"
-      ],
-      "lastModified": null,
-      "description": "Model Summary: Granite-4.1-8B is a 8B parameter long-context instruct model finetuned from Granite-4.1-8B-Base using a combination of open source instruction datasets with permissive license and internally collected synthetic datasets. G…"
-    },
-    {
-      "rank": 9,
       "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
-      "downloads": 178233,
+      "downloads": 180128,
       "likes": 134,
       "tags": [
         "transformers",
@@ -705,11 +687,11 @@
       "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 13252297,
+      "downloads": 12797133,
       "likes": 1273,
       "tags": [
         "transformers",
@@ -723,12 +705,30 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
+      "rank": 10,
+      "id": "Qwen/Qwen3-8B",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 11740911,
+      "likes": 1086,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
       "rank": 11,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 1689850,
-      "likes": 4516,
+      "downloads": 1695104,
+      "likes": 4517,
       "tags": [
         "transformers",
         "safetensors",
@@ -744,7 +744,7 @@
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "url": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 64199,
+      "downloads": 66694,
       "likes": 113,
       "tags": [
         "gguf",
@@ -762,7 +762,7 @@
       "id": "faunix/QwenSeek-2B-GGUF",
       "url": "https://huggingface.co/faunix/QwenSeek-2B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 4726,
+      "downloads": 6103,
       "likes": 16,
       "tags": [
         "transformers",
@@ -780,7 +780,7 @@
       "id": "IAAR-Shanghai/MemPrivacy-1.7B-RL",
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-RL",
       "pipelineTag": "text-generation",
-      "downloads": 52,
+      "downloads": 99,
       "likes": 10,
       "tags": [
         "safetensors",
@@ -792,6 +792,24 @@
       ],
       "lastModified": null,
       "description": "MemPrivacy-1.7B-RL is a lightweight, privacy-preserving model developed from the Qwen3-1.7B base model and further optimized through reinforcement learning. It is designed specifically for personalized memory management in edge-cloud age…"
+    },
+    {
+      "rank": 15,
+      "id": "IAAR-Shanghai/MemPrivacy-4B-SFT",
+      "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-4B-SFT",
+      "pipelineTag": "text-generation",
+      "downloads": 121,
+      "likes": 9,
+      "tags": [
+        "safetensors",
+        "qwen3",
+        "privacy",
+        "privacy-detection",
+        "memory",
+        "personalized-memory"
+      ],
+      "lastModified": null,
+      "description": "MemPrivacy-4B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-4B base model. It is designed specifically for personalized memory management in edge-cloud agents."
     }
   ]
 }
