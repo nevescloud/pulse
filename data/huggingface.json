@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T18:41:37.125Z",
+  "updated": "2026-05-14T21:29:24.777Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 259230702,
-      "likes": 4788,
+      "likes": 4789,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 24970361,
-      "likes": 3000,
+      "likes": 3001,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
       "downloads": 673,
-      "likes": 37,
+      "likes": 38,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9751974,
-      "likes": 5826,
+      "likes": 5827,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 184,
-      "likes": 21,
+      "likes": 22,
       "tags": [
         "transformers",
         "safetensors",
@@ -674,7 +674,7 @@
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
       "downloads": 181329,
-      "likes": 135,
+      "likes": 136,
       "tags": [
         "transformers",
         "safetensors",
@@ -723,6 +723,24 @@
     },
     {
       "rank": 11,
+      "id": "Qwen/Qwen3-1.7B",
+      "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+      "pipelineTag": "text-generation",
+      "downloads": 3535359,
+      "likes": 468,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
+      "rank": 12,
       "id": "faunix/QwenSeek-2B-GGUF",
       "url": "https://huggingface.co/faunix/QwenSeek-2B-GGUF",
       "pipelineTag": "text-generation",
@@ -738,24 +756,6 @@
       ],
       "lastModified": null,
       "description": "QwenSeek-2B - distillation of thinking of DeepSeek V4 into Qwen3.5-2B!"
-    },
-    {
-      "rank": 12,
-      "id": "Qwen/Qwen3-1.7B",
-      "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
-      "pipelineTag": "text-generation",
-      "downloads": 3535359,
-      "likes": 467,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 13,
