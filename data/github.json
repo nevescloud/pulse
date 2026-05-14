@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T04:22:11.953Z",
+  "updated": "2026-05-14T07:06:51.389Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars": 6001,
-      "forks": 492,
+      "stars": 6426,
+      "forks": 522,
       "starsToday": 1696
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars": 7952,
-      "forks": 679,
+      "stars": 8206,
+      "forks": 695,
       "starsToday": 1379
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 189832,
-      "forks": 16903,
+      "stars": 190056,
+      "forks": 16920,
       "starsToday": 1401
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars": 13134,
-      "forks": 2255,
+      "stars": 13297,
+      "forks": 2272,
       "starsToday": 981
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/influxdata/telegraf",
       "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
       "language": "Go",
-      "stars": 17042,
-      "forks": 5783,
+      "stars": 17068,
+      "forks": 5785,
       "starsToday": 13
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/millionco/react-doctor",
       "description": "Your agent writes bad React. This catches it",
       "language": "TypeScript",
-      "stars": 9353,
-      "forks": 291,
+      "stars": 9410,
+      "forks": 295,
       "starsToday": 604
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars": 21248,
-      "forks": 2337,
+      "stars": 21317,
+      "forks": 2343,
       "starsToday": 99
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars": 13463,
-      "forks": 1875,
+      "stars": 13533,
+      "forks": 1877,
       "starsToday": 435
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars": 4502,
-      "forks": 454,
+      "stars": 4694,
+      "forks": 471,
       "starsToday": 859
     },
     {
@@ -118,116 +118,104 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars": 9751,
-      "forks": 726,
+      "stars": 9916,
+      "forks": 743,
       "starsToday": 1835
     },
     {
       "rank": 11,
-      "owner": "Greedeks",
-      "name": "GTweak",
-      "fullName": "Greedeks/GTweak",
-      "url": "https://github.com/Greedeks/GTweak",
-      "description": "Portable Tool for an Ideal Windows Setup",
-      "language": "C#",
-      "stars": 972,
-      "forks": 80,
-      "starsToday": 75
-    },
-    {
-      "rank": 12,
       "owner": "mattpocock",
       "name": "skills",
       "fullName": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 79474,
-      "forks": 6852,
+      "stars": 79891,
+      "forks": 6889,
       "starsToday": 3392
     },
     {
-      "rank": 13,
+      "rank": 12,
       "owner": "ArthurBrussee",
       "name": "brush",
       "fullName": "ArthurBrussee/brush",
       "url": "https://github.com/ArthurBrussee/brush",
       "description": "3D Reconstruction for all",
       "language": "Rust",
-      "stars": 4406,
-      "forks": 236,
+      "stars": 4425,
+      "forks": 238,
       "starsToday": 81
     },
     {
-      "rank": 14,
+      "rank": 13,
       "owner": "imthenachoman",
       "name": "How-To-Secure-A-Linux-Server",
       "fullName": "imthenachoman/How-To-Secure-A-Linux-Server",
       "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
       "description": "An evolving how-to guide for securing a Linux server.",
       "language": null,
-      "stars": 27166,
-      "forks": 1777,
+      "stars": 27219,
+      "forks": 1780,
       "starsToday": 234
     },
     {
-      "rank": 15,
+      "rank": 14,
       "owner": "apernet",
       "name": "hysteria",
       "fullName": "apernet/hysteria",
       "url": "https://github.com/apernet/hysteria",
       "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
       "language": "Go",
-      "stars": 20656,
-      "forks": 2138,
+      "stars": 20687,
+      "forks": 2140,
       "starsToday": 485
     },
     {
-      "rank": 16,
+      "rank": 15,
       "owner": "rasbt",
       "name": "LLMs-from-scratch",
       "fullName": "rasbt/LLMs-from-scratch",
       "url": "https://github.com/rasbt/LLMs-from-scratch",
       "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "language": "Jupyter Notebook",
-      "stars": 94551,
-      "forks": 14492,
+      "stars": 94613,
+      "forks": 14497,
       "starsToday": 821
     },
     {
-      "rank": 17,
+      "rank": 16,
       "owner": "ton-blockchain",
       "name": "acton",
       "fullName": "ton-blockchain/acton",
       "url": "https://github.com/ton-blockchain/acton",
       "description": "Toolchain for TON smart contract development and beyond",
       "language": "Rust",
-      "stars": 232,
-      "forks": 31,
+      "stars": 262,
+      "forks": 35,
       "starsToday": 18
     },
     {
-      "rank": 18,
+      "rank": 17,
       "owner": "trycua",
       "name": "cua",
       "fullName": "trycua/cua",
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars": 16607,
-      "forks": 1043,
+      "stars": 16647,
+      "forks": 1047,
       "starsToday": 245
     },
     {
-      "rank": 19,
+      "rank": 18,
       "owner": "github",
       "name": "spec-kit",
       "fullName": "github/spec-kit",
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
-      "stars": 98557,
-      "forks": 8582,
+      "stars": 98717,
+      "forks": 8595,
       "starsToday": 1120
     }
   ]
