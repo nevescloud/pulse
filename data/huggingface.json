@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T07:06:50.715Z",
+  "updated": "2026-05-14T09:50:24.562Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 259230702,
-      "likes": 4785,
+      "likes": 4786,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -24,8 +24,8 @@
       "id": "Qwen/Qwen3-VL-2B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
-      "downloads": 184863356,
-      "likes": 402,
+      "downloads": 183999222,
+      "likes": 403,
       "tags": [
         "transformers",
         "safetensors",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 50880509,
-      "likes": 236,
+      "likes": 238,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -114,8 +114,8 @@
       "id": "BAAI/bge-small-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 41629690,
-      "likes": 457,
+      "downloads": 42635548,
+      "likes": 458,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -168,8 +168,8 @@
       "id": "BAAI/bge-m3",
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
-      "downloads": 24319063,
-      "likes": 2996,
+      "downloads": 24970361,
+      "likes": 2997,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 20698741,
-      "likes": 826,
+      "likes": 827,
       "tags": [
         "transformers",
         "pytorch",
@@ -258,7 +258,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18775733,
+      "downloads": 18989268,
       "likes": 1241,
       "tags": [
         "transformers",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 16838576,
-      "likes": 878,
+      "likes": 879,
       "tags": [
         "transformers",
         "pytorch",
@@ -327,24 +327,6 @@
     },
     {
       "rank": 19,
-      "id": "amazon/chronos-2",
-      "url": "https://huggingface.co/amazon/chronos-2",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 16540653,
-      "likes": 278,
-      "tags": [
-        "chronos-forecasting",
-        "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "foundation models"
-      ],
-      "lastModified": null,
-      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
-    },
-    {
-      "rank": 20,
       "id": "colbert-ir/colbertv2.0",
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
@@ -360,6 +342,24 @@
       ],
       "lastModified": null,
       "description": "As Figure 1 illustrates, ColBERT relies on fine-grained contextual late interaction: it encodes each passage into a matrix of token-level embeddings (shown above in blue). Then at search time, it embeds every query into another matrix (s…"
+    },
+    {
+      "rank": 20,
+      "id": "amazon/chronos-2",
+      "url": "https://huggingface.co/amazon/chronos-2",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 16168368,
+      "likes": 278,
+      "tags": [
+        "chronos-forecasting",
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
     },
     {
       "rank": 21,
@@ -384,8 +384,8 @@
       "id": "nomic-ai/nomic-embed-text-v1.5",
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
-      "downloads": 15949480,
-      "likes": 822,
+      "downloads": 16069880,
+      "likes": 823,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -399,24 +399,6 @@
     },
     {
       "rank": 23,
-      "id": "BAAI/bge-large-en-v1.5",
-      "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
-      "pipelineTag": "feature-extraction",
-      "downloads": 15515158,
-      "likes": 662,
-      "tags": [
-        "sentence-transformers",
-        "pytorch",
-        "onnx",
-        "safetensors",
-        "bert",
-        "feature-extraction"
-      ],
-      "lastModified": null,
-      "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
-    },
-    {
-      "rank": 24,
       "id": "Bingsu/adetailer",
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
@@ -434,29 +416,29 @@
       "description": "Since getattr is classified as a dangerous pickle function, any segmentation model that uses it is classified as unsafe."
     },
     {
-      "rank": 25,
-      "id": "Falconsai/nsfw_image_detection",
-      "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-      "pipelineTag": "image-classification",
-      "downloads": 13255152,
-      "likes": 1067,
+      "rank": 24,
+      "id": "BAAI/bge-large-en-v1.5",
+      "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
+      "pipelineTag": "feature-extraction",
+      "downloads": 15429159,
+      "likes": 662,
       "tags": [
-        "transformers",
+        "sentence-transformers",
         "pytorch",
+        "onnx",
         "safetensors",
-        "vit",
-        "image-classification",
-        "license:apache-2.0"
+        "bert",
+        "feature-extraction"
       ],
       "lastModified": null,
-      "description": "The Fine-Tuned Vision Transformer (ViT) is a variant of the transformer encoder architecture, similar to BERT, that has been adapted for image classification tasks. This specific model, named \"google/vit-base-patch16-224-in21k,\" is pre-t…"
+      "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12797133,
+      "downloads": 12418113,
       "likes": 1276,
       "tags": [
         "transformers",
@@ -470,11 +452,11 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12262870,
+      "downloads": 12081067,
       "likes": 693,
       "tags": [
         "transformers",
@@ -488,12 +470,30 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
+      "rank": 27,
+      "id": "Falconsai/nsfw_image_detection",
+      "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
+      "pipelineTag": "image-classification",
+      "downloads": 11834655,
+      "likes": 1068,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "safetensors",
+        "vit",
+        "image-classification",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "The Fine-Tuned Vision Transformer (ViT) is a variant of the transformer encoder architecture, similar to BERT, that has been adapted for image classification tasks. This specific model, named \"google/vit-base-patch16-224-in21k,\" is pre-t…"
+    },
+    {
       "rank": 28,
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 11740911,
-      "likes": 1086,
+      "downloads": 11735972,
+      "likes": 1087,
       "tags": [
         "transformers",
         "safetensors",
@@ -507,28 +507,10 @@
     },
     {
       "rank": 29,
-      "id": "argmaxinc/whisperkit-coreml",
-      "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-      "pipelineTag": "automatic-speech-recognition",
-      "downloads": 11101624,
-      "likes": 175,
-      "tags": [
-        "whisperkit",
-        "coreml",
-        "whisper",
-        "asr",
-        "quantized",
-        "automatic-speech-recognition"
-      ],
-      "lastModified": null,
-      "description": "pretty_name: \"WhisperKit\" viewer: false library_name: whisperkit tags:"
-    },
-    {
-      "rank": 30,
       "id": "pyannote/wespeaker-voxceleb-resnet34-LM",
       "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
       "pipelineTag": null,
-      "downloads": 11097990,
+      "downloads": 11227165,
       "likes": 129,
       "tags": [
         "pyannote-audio",
@@ -540,6 +522,24 @@
       ],
       "lastModified": null,
       "description": "Using this open-source model in production? Consider switching to pyannoteAI for better and faster options."
+    },
+    {
+      "rank": 30,
+      "id": "argmaxinc/whisperkit-coreml",
+      "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
+      "pipelineTag": "automatic-speech-recognition",
+      "downloads": 11105746,
+      "likes": 175,
+      "tags": [
+        "whisperkit",
+        "coreml",
+        "whisper",
+        "asr",
+        "quantized",
+        "automatic-speech-recognition"
+      ],
+      "lastModified": null,
+      "description": "pretty_name: \"WhisperKit\" viewer: false library_name: whisperkit tags:"
     }
   ],
   "smallModels": [
@@ -548,8 +548,8 @@
       "id": "Qwen/WebWorld-8B",
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
-      "downloads": 555,
-      "likes": 35,
+      "downloads": 673,
+      "likes": 36,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,8 +566,8 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 9708754,
-      "likes": 5824,
+      "downloads": 9751974,
+      "likes": 5825,
       "tags": [
         "transformers",
         "safetensors",
@@ -583,15 +583,15 @@
       "id": "IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 123,
+      "downloads": 184,
       "likes": 21,
       "tags": [
+        "transformers",
         "safetensors",
         "qwen3",
+        "text-generation",
         "privacy",
-        "privacy-detection",
-        "memory",
-        "personalized-memory"
+        "privacy-detection"
       ],
       "lastModified": null,
       "description": "MemPrivacy-1.7B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-1.7B base model. It is designed specifically for personalized memory management in edge-cloud agents."
@@ -601,8 +601,8 @@
       "id": "AIDC-AI/Marco-DeepResearch-8B",
       "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
       "pipelineTag": "text-generation",
-      "downloads": 159,
-      "likes": 17,
+      "downloads": 187,
+      "likes": 18,
       "tags": [
         "transformers",
         "safetensors",
@@ -619,7 +619,7 @@
       "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
-      "downloads": 1538,
+      "downloads": 1957,
       "likes": 15,
       "tags": [
         "transformers",
@@ -637,7 +637,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18775733,
+      "downloads": 18989268,
       "likes": 1241,
       "tags": [
         "transformers",
@@ -655,7 +655,7 @@
       "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
-      "downloads": 180128,
+      "downloads": 181329,
       "likes": 135,
       "tags": [
         "transformers",
@@ -673,7 +673,7 @@
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12797133,
+      "downloads": 12418113,
       "likes": 1276,
       "tags": [
         "transformers",
@@ -691,15 +691,15 @@
       "id": "IAAR-Shanghai/MemPrivacy-1.7B-RL",
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-RL",
       "pipelineTag": "text-generation",
-      "downloads": 99,
+      "downloads": 137,
       "likes": 11,
       "tags": [
+        "transformers",
         "safetensors",
         "qwen3",
+        "text-generation",
         "privacy",
-        "privacy-detection",
-        "memory",
-        "personalized-memory"
+        "privacy-detection"
       ],
       "lastModified": null,
       "description": "MemPrivacy-1.7B-RL is a lightweight, privacy-preserving model developed from the Qwen3-1.7B base model and further optimized through reinforcement learning. It is designed specifically for personalized memory management in edge-cloud age…"
@@ -709,7 +709,7 @@
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 1695104,
+      "downloads": 1701048,
       "likes": 4518,
       "tags": [
         "transformers",
@@ -726,8 +726,8 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 11740911,
-      "likes": 1086,
+      "downloads": 11735972,
+      "likes": 1087,
       "tags": [
         "transformers",
         "safetensors",
@@ -744,7 +744,7 @@
       "id": "ibm-granite/granite-4.1-8b",
       "url": "https://huggingface.co/ibm-granite/granite-4.1-8b",
       "pipelineTag": "text-generation",
-      "downloads": 39396,
+      "downloads": 42192,
       "likes": 170,
       "tags": [
         "transformers",
@@ -762,7 +762,7 @@
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 267079,
+      "downloads": 272541,
       "likes": 242,
       "tags": [
         "gguf",
@@ -780,7 +780,7 @@
       "id": "prism-ml/Ternary-Bonsai-8B-gguf",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf",
       "pipelineTag": "text-generation",
-      "downloads": 26200,
+      "downloads": 26835,
       "likes": 71,
       "tags": [
         "gguf",
@@ -798,7 +798,7 @@
       "id": "faunix/QwenSeek-2B-GGUF",
       "url": "https://huggingface.co/faunix/QwenSeek-2B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 6103,
+      "downloads": 6899,
       "likes": 16,
       "tags": [
         "transformers",
@@ -816,15 +816,15 @@
       "id": "IAAR-Shanghai/MemPrivacy-4B-SFT",
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-4B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 121,
+      "downloads": 161,
       "likes": 9,
       "tags": [
+        "transformers",
         "safetensors",
         "qwen3",
+        "text-generation",
         "privacy",
-        "privacy-detection",
-        "memory",
-        "personalized-memory"
+        "privacy-detection"
       ],
       "lastModified": null,
       "description": "MemPrivacy-4B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-4B base model. It is designed specifically for personalized memory management in edge-cloud agents."
@@ -834,15 +834,15 @@
       "id": "IAAR-Shanghai/MemPrivacy-4B-RL",
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-4B-RL",
       "pipelineTag": "text-generation",
-      "downloads": 159,
+      "downloads": 200,
       "likes": 9,
       "tags": [
+        "transformers",
         "safetensors",
         "qwen3",
+        "text-generation",
         "privacy",
-        "privacy-detection",
-        "memory",
-        "personalized-memory"
+        "privacy-detection"
       ],
       "lastModified": null,
       "description": "MemPrivacy-4B-RL is a lightweight, privacy-preserving model developed from the Qwen3-4B base model and further optimized through reinforcement learning. It is designed specifically for personalized memory management in edge-cloud agents,…"

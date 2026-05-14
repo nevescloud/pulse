@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T07:06:50.224Z",
+  "updated": "2026-05-14T09:50:24.228Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10070,
+      "likes": 10071,
       "tags": [
         "gradio",
         "region:us"
@@ -273,7 +273,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3262,
+      "likes": 3263,
       "tags": [
         "docker",
         "region:us"
@@ -305,7 +305,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3155,
+      "likes": 3157,
       "tags": [
         "gradio",
         "mcp-server",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3049,
+      "likes": 3050,
       "tags": [
         "gradio",
         "mcp-server",
