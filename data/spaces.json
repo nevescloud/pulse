@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T00:49:21.586Z",
+  "updated": "2026-05-15T04:25:24.996Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9449,
+      "likes": 9450,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7367,
+      "likes": 7370,
       "tags": [
         "docker",
         "leaderboard",
@@ -199,7 +199,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3841,
+      "likes": 3842,
       "tags": [
         "static",
         "region:us"
@@ -273,7 +273,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3264,
+      "likes": 3265,
       "tags": [
         "docker",
         "region:us"
@@ -305,7 +305,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3161,
+      "likes": 3162,
       "tags": [
         "gradio",
         "mcp-server",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3058,
+      "likes": 3061,
       "tags": [
         "gradio",
         "mcp-server",
@@ -520,7 +520,7 @@
       "description": "Run Gemma 4 locally in-browser on WebGPU w/ Transformers.js",
       "url": "https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU",
       "sdk": "static",
-      "likes": 219,
+      "likes": 220,
       "tags": [
         "static",
         "region:us"
@@ -702,7 +702,7 @@
       "description": "Use natural language to solve fun physics simulation puzzles",
       "url": "https://huggingface.co/spaces/webml-community/FunctionGemma-Physics-Playground",
       "sdk": "static",
-      "likes": 106,
+      "likes": 107,
       "tags": [
         "static",
         "region:us"
