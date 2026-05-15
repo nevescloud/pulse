@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T04:25:26.284Z",
+  "updated": "2026-05-15T07:13:19.283Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 56288,
-      "forks": 7439,
+      "stars": 56518,
+      "forks": 7457,
       "starsToday": 1715
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars": 7970,
-      "forks": 644,
+      "stars": 8119,
+      "forks": 658,
       "starsToday": 3329
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars": 9120,
-      "forks": 755,
+      "stars": 9216,
+      "forks": 762,
       "starsToday": 1879
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 191503,
-      "forks": 17031,
+      "stars": 191705,
+      "forks": 17052,
       "starsToday": 1780
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars": 21911,
-      "forks": 2386,
+      "stars": 21982,
+      "forks": 2390,
       "starsToday": 654
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 24900,
-      "forks": 4354,
+      "stars": 24949,
+      "forks": 4361,
       "starsToday": 363
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars": 38955,
-      "forks": 3487,
+      "stars": 39006,
+      "forks": 3490,
       "starsToday": 83
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/influxdata/telegraf",
       "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
       "language": "Go",
-      "stars": 17246,
-      "forks": 5796,
+      "stars": 17271,
+      "forks": 5798,
       "starsToday": 215
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars": 5451,
-      "forks": 534,
+      "stars": 5514,
+      "forks": 546,
       "starsToday": 1128
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/Genymobile/scrcpy",
       "description": "Display and control your Android device",
       "language": "C",
-      "stars": 141456,
-      "forks": 13059,
+      "stars": 141523,
+      "forks": 13067,
       "starsToday": 851
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
       "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
       "language": "Python",
-      "stars": 886,
-      "forks": 250,
+      "stars": 930,
+      "forks": 253,
       "starsToday": 62
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "language": "Python",
-      "stars": 11101,
-      "forks": 830,
+      "stars": 11266,
+      "forks": 845,
       "starsToday": 1354
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 82846,
-      "forks": 7168,
+      "stars": 83206,
+      "forks": 7197,
       "starsToday": 2987
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
-      "stars": 99641,
-      "forks": 8682,
+      "stars": 99751,
+      "forks": 8693,
       "starsToday": 1232
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars": 96952,
-      "forks": 14418,
+      "stars": 97084,
+      "forks": 14434,
       "starsToday": 915
     }
   ]
