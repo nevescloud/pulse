@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T12:42:56.307Z",
+  "updated": "2026-05-15T15:45:45.113Z",
   "models": [
     {
       "rank": 1,
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/pyannote/wespeaker-voxceleb-resnet34-LM",
       "pipelineTag": null,
       "downloads": 11269436,
-      "likes": 129,
+      "likes": 130,
       "tags": [
         "pyannote-audio",
         "pytorch",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9785417,
-      "likes": 5832,
+      "likes": 5834,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 415,
-      "likes": 23,
+      "likes": 24,
       "tags": [
         "transformers",
         "safetensors",
@@ -652,21 +652,21 @@
     },
     {
       "rank": 7,
-      "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
-      "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
+      "id": "IAAR-Shanghai/MemPrivacy-1.7B-RL",
+      "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-RL",
       "pipelineTag": "text-generation",
-      "downloads": 3669,
-      "likes": 18,
+      "downloads": 347,
+      "likes": 12,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
         "qwen3",
-        "qwen3.6"
+        "text-generation",
+        "privacy",
+        "privacy-detection"
       ],
       "lastModified": null,
-      "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
+      "description": "MemPrivacy-1.7B-RL is a lightweight, privacy-preserving model developed from the Qwen3-1.7B base model and further optimized through reinforcement learning. It is designed specifically for personalized memory management in edge-cloud age…"
     },
     {
       "rank": 8,
@@ -688,21 +688,21 @@
     },
     {
       "rank": 9,
-      "id": "IAAR-Shanghai/MemPrivacy-1.7B-RL",
-      "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-RL",
+      "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
+      "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
-      "downloads": 347,
-      "likes": 11,
+      "downloads": 3669,
+      "likes": 18,
       "tags": [
         "transformers",
         "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
         "qwen3",
-        "text-generation",
-        "privacy",
-        "privacy-detection"
+        "qwen3.6"
       ],
       "lastModified": null,
-      "description": "MemPrivacy-1.7B-RL is a lightweight, privacy-preserving model developed from the Qwen3-1.7B base model and further optimized through reinforcement learning. It is designed specifically for personalized memory management in edge-cloud age…"
+      "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
     },
     {
       "rank": 10,
@@ -742,23 +742,42 @@
     },
     {
       "rank": 12,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "id": "IAAR-Shanghai/MemPrivacy-4B-SFT",
+      "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-4B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 1706848,
-      "likes": 4520,
+      "downloads": 341,
+      "likes": 10,
       "tags": [
         "transformers",
         "safetensors",
-        "llama",
+        "qwen3",
         "text-generation",
-        "facebook",
-        "meta"
+        "privacy",
+        "privacy-detection"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "MemPrivacy-4B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-4B base model. It is designed specifically for personalized memory management in edge-cloud agents."
     },
     {
       "rank": 13,
+      "id": "IAAR-Shanghai/MemPrivacy-4B-RL",
+      "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-4B-RL",
+      "pipelineTag": "text-generation",
+      "downloads": 371,
+      "likes": 10,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "privacy",
+        "privacy-detection"
+      ],
+      "lastModified": null,
+      "description": "MemPrivacy-4B-RL is a lightweight, privacy-preserving model developed from the Qwen3-4B base model and further optimized through reinforcement learning. It is designed specifically for personalized memory management in edge-cloud agents,…"
+    },
+    {
+      "rank": 14,
       "id": "deepseek-ai/DeepSeek-R1",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
@@ -774,24 +793,6 @@
       ],
       "lastModified": null,
       "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
-    },
-    {
-      "rank": 14,
-      "id": "Qwen/Qwen3-1.7B",
-      "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
-      "pipelineTag": "text-generation",
-      "downloads": 3559992,
-      "likes": 468,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     }
   ]
 }
