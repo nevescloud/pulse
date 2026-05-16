@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T06:52:22.089Z",
+  "updated": "2026-05-16T09:35:08.750Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7377,
+      "likes": 7379,
       "tags": [
         "docker",
         "leaderboard",
@@ -287,7 +287,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3173,
+      "likes": 3174,
       "tags": [
         "docker",
         "research-article-template",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3066,
+      "likes": 3067,
       "tags": [
         "gradio",
         "mcp-server",
