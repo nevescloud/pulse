@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T21:25:36.974Z",
+  "updated": "2026-05-16T00:46:30.764Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10075,
+      "likes": 10076,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3172,
+      "likes": 3173,
       "tags": [
         "docker",
         "research-article-template",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3065,
+      "likes": 3066,
       "tags": [
         "gradio",
         "mcp-server",
@@ -349,7 +349,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator",
       "sdk": "gradio",
-      "likes": 2970,
+      "likes": 2971,
       "tags": [
         "gradio",
         "region:us"
@@ -368,7 +368,7 @@
         "gradio",
         "region:us"
       ],
-      "lastModified": "2025-08-01T19:38:50.000Z"
+      "lastModified": "2026-05-16T00:26:26.000Z"
     },
     {
       "rank": 26,
