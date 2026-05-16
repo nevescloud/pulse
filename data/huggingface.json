@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T15:25:20.688Z",
+  "updated": "2026-05-16T18:23:21.595Z",
   "models": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 19274965,
-      "likes": 1247,
+      "likes": 1248,
       "tags": [
         "transformers",
         "safetensors",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 16406787,
-      "likes": 825,
+      "likes": 826,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10029057,
-      "likes": 5839,
+      "likes": 5840,
       "tags": [
         "transformers",
         "safetensors",
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/Simplified-Reasoning/SU-01",
       "pipelineTag": "text-generation",
       "downloads": 30,
-      "likes": 11,
+      "likes": 12,
       "tags": [
         "transformers",
         "safetensors",
@@ -835,7 +835,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 19274965,
-      "likes": 1247,
+      "likes": 1248,
       "tags": [
         "transformers",
         "safetensors",
