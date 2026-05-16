@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T18:23:21.328Z",
+  "updated": "2026-05-16T21:19:46.862Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars": 91043,
-      "forks": 4536,
+      "stars": 91125,
+      "forks": 4541,
       "starsToday": 414
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars": 22999,
-      "forks": 2479,
+      "stars": 23068,
+      "forks": 2483,
       "starsToday": 669
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 193768,
-      "forks": 17237,
+      "stars": 193898,
+      "forks": 17251,
       "starsToday": 1281
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars": 14284,
-      "forks": 2502,
+      "stars": 14357,
+      "forks": 2509,
       "starsToday": 393
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/supertone-inc/supertonic",
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "language": "Swift",
-      "stars": 6671,
-      "forks": 677,
+      "stars": 6766,
+      "forks": 693,
       "starsToday": 745
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars": 10466,
-      "forks": 894,
+      "stars": 10583,
+      "forks": 909,
       "starsToday": 1601
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 58147,
-      "forks": 7597,
+      "stars": 58253,
+      "forks": 7612,
       "starsToday": 990
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 2344,
-      "forks": 200,
+      "stars": 2425,
+      "forks": 206,
       "starsToday": 397
     }
   ]
