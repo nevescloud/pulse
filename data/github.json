@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T12:25:07.218Z",
+  "updated": "2026-05-17T15:25:49.897Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars": 11641,
-      "forks": 1015,
+      "stars": 12169,
+      "forks": 1055,
       "starsToday": 1694
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": 35254,
-      "forks": 3465,
+      "stars": 35361,
+      "forks": 3468,
       "starsToday": 333
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/calcom/cal.diy",
       "description": "Scheduling infrastructure for absolutely everyone.",
       "language": "TypeScript",
-      "stars": 43005,
-      "forks": 13353,
+      "stars": 43083,
+      "forks": 13368,
       "starsToday": 425
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/oven-sh/bun",
       "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
       "language": "Rust",
-      "stars": 91590,
-      "forks": 4566,
+      "stars": 91633,
+      "forks": 4568,
       "starsToday": 908
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars": 14770,
-      "forks": 2555,
+      "stars": 14861,
+      "forks": 2567,
       "starsToday": 704
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/BigBodyCobain/Shadowbroker",
       "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
       "language": "Python",
-      "stars": 6708,
-      "forks": 1078,
+      "stars": 6817,
+      "forks": 1085,
       "starsToday": 165
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/tech-leads-club/agent-skills",
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
-      "stars": 2587,
-      "forks": 292,
-      "starsToday": 44
+      "stars": 3304,
+      "forks": 308,
+      "starsToday": 923
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "url": "https://github.com/NirDiamant/agents-towards-production",
       "description": "End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.",
       "language": "Jupyter Notebook",
-      "stars": 19732,
-      "forks": 2634,
+      "stars": 19781,
+      "forks": 2638,
       "starsToday": 225
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/dograh-hq/dograh",
       "description": "Open Source Voice Agent Platform",
       "language": "Python",
-      "stars": 1427,
-      "forks": 334,
+      "stars": 1477,
+      "forks": 341,
       "starsToday": 287
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
-      "stars": 23546,
-      "forks": 2516,
+      "stars": 23636,
+      "forks": 2527,
       "starsToday": 764
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/Light-Heart-Labs/DreamServer",
       "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
       "language": "Python",
-      "stars": 952,
-      "forks": 192,
+      "stars": 997,
+      "forks": 196,
       "starsToday": 89
     },
     {
@@ -142,9 +142,9 @@
       "url": "https://github.com/KeygraphHQ/shannon",
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "language": "TypeScript",
-      "stars": 42478,
-      "forks": 4856,
-      "starsToday": 335
+      "stars": 42539,
+      "forks": 4862,
+      "starsToday": 213
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "url": "https://github.com/TryGhost/Ghost",
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "language": "JavaScript",
-      "stars": 53069,
-      "forks": 11590,
+      "stars": 53128,
+      "forks": 11597,
       "starsToday": 209
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/medusajs/medusa",
       "description": "The world's most flexible commerce platform.",
       "language": "TypeScript",
-      "stars": 33256,
-      "forks": 4442,
+      "stars": 33316,
+      "forks": 4449,
       "starsToday": 200
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/knadh/listmonk",
       "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
       "language": "Go",
-      "stars": 20360,
-      "forks": 2123,
+      "stars": 20418,
+      "forks": 2129,
       "starsToday": 222
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/plausible/analytics",
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
-      "stars": 25085,
-      "forks": 1430,
+      "stars": 25179,
+      "forks": 1440,
       "starsToday": 128
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 2967,
-      "forks": 239,
+      "stars": 3067,
+      "forks": 248,
       "starsToday": 860
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "description": "12 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
-      "stars": 62107,
-      "forks": 20974,
+      "stars": 62249,
+      "forks": 20995,
       "starsToday": 180
     }
   ]
