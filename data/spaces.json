@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T09:37:10.734Z",
+  "updated": "2026-05-17T12:25:07.219Z",
   "trending": [
     {
       "rank": 1,
@@ -199,7 +199,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3844,
+      "likes": 3845,
       "tags": [
         "static",
         "region:us"
@@ -287,7 +287,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3175,
+      "likes": 3176,
       "tags": [
         "docker",
         "research-article-template",
