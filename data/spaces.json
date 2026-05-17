@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T00:52:01.916Z",
+  "updated": "2026-05-17T04:27:17.660Z",
   "trending": [
     {
       "rank": 1,
@@ -377,7 +377,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2834,
+      "likes": 2835,
       "tags": [
         "gradio",
         "mcp-server",
