@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T00:52:21.196Z",
+  "updated": "2026-05-18T04:32:02.098Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 259484016,
-      "likes": 4796,
+      "likes": 4797,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 26216514,
-      "likes": 3007,
+      "likes": 3009,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10025379,
-      "likes": 5844,
+      "likes": 5845,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
       "downloads": 1297,
-      "likes": 42,
+      "likes": 43,
       "tags": [
         "transformers",
         "safetensors",
@@ -846,6 +846,24 @@
       ],
       "lastModified": null,
       "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
+    },
+    {
+      "rank": 18,
+      "id": "rico03/Qwen3.6-27B-Claude-Opus-Reasoning-Distilled-GGUF",
+      "url": "https://huggingface.co/rico03/Qwen3.6-27B-Claude-Opus-Reasoning-Distilled-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 47730,
+      "likes": 38,
+      "tags": [
+        "gguf",
+        "qwen3_5",
+        "qwen3.6",
+        "reasoning",
+        "distillation",
+        "claude-opus"
+      ],
+      "lastModified": null,
+      "description": "Qwen3.6-27B fine-tuned on ~14k Claude 4.6 Opus reasoning traces. The model adopts a structured, efficient thinking style — concise on simple tasks, deep on hard ones — while fully preserving the base model's exceptional coding and math c…"
     }
   ]
 }
