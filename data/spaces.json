@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T04:32:01.931Z",
+  "updated": "2026-05-18T07:31:12.478Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10076,
+      "likes": 10077,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7382,
+      "likes": 7383,
       "tags": [
         "docker",
         "leaderboard",
@@ -377,7 +377,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2835,
+      "likes": 2836,
       "tags": [
         "gradio",
         "mcp-server",

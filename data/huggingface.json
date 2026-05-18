@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-18T04:32:02.098Z",
+  "updated": "2026-05-18T07:31:13.067Z",
   "models": [
     {
       "rank": 1,
       "id": "sentence-transformers/all-MiniLM-L6-v2",
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 259484016,
+      "downloads": 258983755,
       "likes": 4797,
       "tags": [
         "sentence-transformers",
@@ -24,7 +24,7 @@
       "id": "Qwen/Qwen3-VL-2B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
-      "downloads": 148960143,
+      "downloads": 137944458,
       "likes": 405,
       "tags": [
         "transformers",
@@ -42,7 +42,7 @@
       "id": "google-bert/bert-base-uncased",
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
-      "downloads": 66791895,
+      "downloads": 67673868,
       "likes": 2653,
       "tags": [
         "transformers",
@@ -57,28 +57,10 @@
     },
     {
       "rank": 4,
-      "id": "google/electra-base-discriminator",
-      "url": "https://huggingface.co/google/electra-base-discriminator",
-      "pipelineTag": null,
-      "downloads": 54265556,
-      "likes": 106,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "rust",
-        "electra"
-      ],
-      "lastModified": null,
-      "description": "ELECTRA is a new method for self-supervised language representation learning. It can be used to pre-train transformer networks using relatively little compute. ELECTRA models are trained to distinguish \"real\" input tokens vs \"fake\" input…"
-    },
-    {
-      "rank": 5,
       "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
-      "downloads": 54165137,
+      "downloads": 55108223,
       "likes": 239,
       "tags": [
         "sentence-transformers",
@@ -92,12 +74,30 @@
       "description": "This model was trained on the MS Marco Passage Ranking task."
     },
     {
+      "rank": 5,
+      "id": "google/electra-base-discriminator",
+      "url": "https://huggingface.co/google/electra-base-discriminator",
+      "pipelineTag": null,
+      "downloads": 54716118,
+      "likes": 106,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "rust",
+        "electra"
+      ],
+      "lastModified": null,
+      "description": "ELECTRA is a new method for self-supervised language representation learning. It can be used to pre-train transformer networks using relatively little compute. ELECTRA models are trained to distinguish \"real\" input tokens vs \"fake\" input…"
+    },
+    {
       "rank": 6,
       "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 47919812,
-      "likes": 1226,
+      "downloads": 48103530,
+      "likes": 1227,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -114,7 +114,7 @@
       "id": "BAAI/bge-small-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 45166052,
+      "downloads": 45716238,
       "likes": 460,
       "tags": [
         "sentence-transformers",
@@ -132,7 +132,7 @@
       "id": "sentence-transformers/all-mpnet-base-v2",
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 35514116,
+      "downloads": 35485512,
       "likes": 1291,
       "tags": [
         "sentence-transformers",
@@ -150,7 +150,7 @@
       "id": "openai/clip-vit-large-patch14",
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
-      "downloads": 33112236,
+      "downloads": 32829794,
       "likes": 2012,
       "tags": [
         "transformers",
@@ -168,7 +168,7 @@
       "id": "BAAI/bge-m3",
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
-      "downloads": 26216514,
+      "downloads": 26601814,
       "likes": 3009,
       "tags": [
         "sentence-transformers",
@@ -183,28 +183,10 @@
     },
     {
       "rank": 11,
-      "id": "openai/clip-vit-base-patch32",
-      "url": "https://huggingface.co/openai/clip-vit-base-patch32",
-      "pipelineTag": "zero-shot-image-classification",
-      "downloads": 21641409,
-      "likes": 935,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "clip",
-        "zero-shot-image-classification"
-      ],
-      "lastModified": null,
-      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
-    },
-    {
-      "rank": 12,
       "id": "FacebookAI/xlm-roberta-base",
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
-      "downloads": 21343749,
+      "downloads": 21723904,
       "likes": 827,
       "tags": [
         "transformers",
@@ -218,29 +200,29 @@
       "description": "XLM-RoBERTa model pre-trained on 2.5TB of filtered CommonCrawl data containing 100 languages. It was introduced in the paper Unsupervised Cross-lingual Representation Learning at Scale by Conneau et al. and first released in this reposit…"
     },
     {
-      "rank": 13,
-      "id": "laion/clap-htsat-fused",
-      "url": "https://huggingface.co/laion/clap-htsat-fused",
-      "pipelineTag": "audio-classification",
-      "downloads": 20497495,
-      "likes": 85,
+      "rank": 12,
+      "id": "openai/clip-vit-base-patch32",
+      "url": "https://huggingface.co/openai/clip-vit-base-patch32",
+      "pipelineTag": "zero-shot-image-classification",
+      "downloads": 21567997,
+      "likes": 935,
       "tags": [
         "transformers",
         "pytorch",
-        "safetensors",
-        "clap",
-        "feature-extraction",
-        "zero-shot audio classification"
+        "tf",
+        "jax",
+        "clip",
+        "zero-shot-image-classification"
       ],
       "lastModified": null,
-      "description": "You can use this model for zero shot audio classification or extracting audio and/or textual features."
+      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "FacebookAI/roberta-large",
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
-      "downloads": 20005774,
+      "downloads": 20433874,
       "likes": 288,
       "tags": [
         "transformers",
@@ -254,11 +236,29 @@
       "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in this paper and first released in this repository. This model is case-sensitive: it makes a difference between english and English."
     },
     {
+      "rank": 14,
+      "id": "laion/clap-htsat-fused",
+      "url": "https://huggingface.co/laion/clap-htsat-fused",
+      "pipelineTag": "audio-classification",
+      "downloads": 20227390,
+      "likes": 85,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "safetensors",
+        "clap",
+        "feature-extraction",
+        "zero-shot audio classification"
+      ],
+      "lastModified": null,
+      "description": "You can use this model for zero shot audio classification or extracting audio and/or textual features."
+    },
+    {
       "rank": 15,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18893896,
+      "downloads": 18506640,
       "likes": 1248,
       "tags": [
         "transformers",
@@ -276,7 +276,7 @@
       "id": "FacebookAI/roberta-base",
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
-      "downloads": 17547052,
+      "downloads": 18064942,
       "likes": 600,
       "tags": [
         "transformers",
@@ -294,7 +294,7 @@
       "id": "colbert-ir/colbertv2.0",
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
-      "downloads": 16973159,
+      "downloads": 17231821,
       "likes": 342,
       "tags": [
         "transformers",
@@ -309,28 +309,10 @@
     },
     {
       "rank": 18,
-      "id": "distilbert/distilbert-base-uncased",
-      "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
-      "pipelineTag": "fill-mask",
-      "downloads": 16753119,
-      "likes": 879,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "rust",
-        "safetensors"
-      ],
-      "lastModified": null,
-      "description": "This model is a distilled version of the BERT base model. It was introduced in this paper. The code for the distillation process can be found here. This model is uncased: it does not make a difference between english and English."
-    },
-    {
-      "rank": 19,
       "id": "nomic-ai/nomic-embed-text-v1.5",
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
-      "downloads": 16537509,
+      "downloads": 16700889,
       "likes": 826,
       "tags": [
         "sentence-transformers",
@@ -344,29 +326,29 @@
       "description": "Exciting Update!: nomic-embed-text-v1.5 is now multimodal! nomic-embed-vision-v1.5 is aligned to the embedding space of nomic-embed-text-v1.5, meaning any text embedding is multimodal!"
     },
     {
-      "rank": 20,
-      "id": "timm/mobilenetv3_small_100.lamb_in1k",
-      "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
-      "pipelineTag": "image-classification",
-      "downloads": 16045892,
-      "likes": 70,
+      "rank": 19,
+      "id": "distilbert/distilbert-base-uncased",
+      "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
+      "pipelineTag": "fill-mask",
+      "downloads": 16688644,
+      "likes": 879,
       "tags": [
-        "timm",
-        "pytorch",
-        "safetensors",
-        "image-classification",
         "transformers",
-        "dataset:imagenet-1k"
+        "pytorch",
+        "tf",
+        "jax",
+        "rust",
+        "safetensors"
       ],
       "lastModified": null,
-      "description": "A MobileNet-v3 image classification model. Trained on ImageNet-1k in timm using recipe template described below."
+      "description": "This model is a distilled version of the BERT base model. It was introduced in this paper. The code for the distillation process can be found here. This model is uncased: it does not make a difference between english and English."
     },
     {
-      "rank": 21,
+      "rank": 20,
       "id": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
-      "downloads": 15974270,
+      "downloads": 16285281,
       "likes": 3241,
       "tags": [
         "transformers",
@@ -380,11 +362,29 @@
       "description": "Test the whole generation capabilities here: https://transformer.huggingface.co/doc/gpt2-large"
     },
     {
+      "rank": 21,
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+      "pipelineTag": "image-classification",
+      "downloads": 15726667,
+      "likes": 70,
+      "tags": [
+        "timm",
+        "pytorch",
+        "safetensors",
+        "image-classification",
+        "transformers",
+        "dataset:imagenet-1k"
+      ],
+      "lastModified": null,
+      "description": "A MobileNet-v3 image classification model. Trained on ImageNet-1k in timm using recipe template described below."
+    },
+    {
       "rank": 22,
       "id": "amazon/chronos-2",
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 15614579,
+      "downloads": 15680010,
       "likes": 284,
       "tags": [
         "chronos-forecasting",
@@ -402,7 +402,7 @@
       "id": "Bingsu/adetailer",
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
-      "downloads": 15331598,
+      "downloads": 15294258,
       "likes": 696,
       "tags": [
         "ultralytics",
@@ -420,7 +420,7 @@
       "id": "BAAI/bge-large-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 14894014,
+      "downloads": 14692306,
       "likes": 664,
       "tags": [
         "sentence-transformers",
@@ -438,7 +438,7 @@
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 13065099,
+      "downloads": 13212301,
       "likes": 699,
       "tags": [
         "transformers",
@@ -453,28 +453,10 @@
     },
     {
       "rank": 26,
-      "id": "autogluon/chronos-2",
-      "url": "https://huggingface.co/autogluon/chronos-2",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 12730498,
-      "likes": 18,
-      "tags": [
-        "chronos-forecasting",
-        "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "foundation models"
-      ],
-      "lastModified": null,
-      "description": "Chronos-2 is a 120M-parameter, encoder-only time series foundation model for zero-shot forecasting. It supports univariate, multivariate, and covariate-informed tasks within a single architecture. Inspired by the T5 encoder, Chronos-2 pr…"
-    },
-    {
-      "rank": 27,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12681487,
+      "downloads": 12767574,
       "likes": 1281,
       "tags": [
         "transformers",
@@ -488,11 +470,29 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
+      "rank": 27,
+      "id": "autogluon/chronos-2",
+      "url": "https://huggingface.co/autogluon/chronos-2",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 12731271,
+      "likes": 18,
+      "tags": [
+        "chronos-forecasting",
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "Chronos-2 is a 120M-parameter, encoder-only time series foundation model for zero-shot forecasting. It supports univariate, multivariate, and covariate-informed tasks within a single architecture. Inspired by the T5 encoder, Chronos-2 pr…"
+    },
+    {
       "rank": 28,
       "id": "lpiccinelli/unidepth-v2-vitl14",
       "url": "https://huggingface.co/lpiccinelli/unidepth-v2-vitl14",
       "pipelineTag": null,
-      "downloads": 11767138,
+      "downloads": 12055575,
       "likes": 16,
       "tags": [
         "UniDepth",
@@ -510,7 +510,7 @@
       "id": "BAAI/bge-reranker-v2-m3",
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
-      "downloads": 11639047,
+      "downloads": 11755046,
       "likes": 987,
       "tags": [
         "sentence-transformers",
@@ -528,7 +528,7 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 11636634,
+      "downloads": 11578295,
       "likes": 1091,
       "tags": [
         "transformers",
@@ -548,8 +548,8 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 10025379,
-      "likes": 5845,
+      "downloads": 10442933,
+      "likes": 5847,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 285417,
-      "likes": 252,
+      "likes": 253,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
       "pipelineTag": "text-generation",
       "downloads": 282,
-      "likes": 22,
+      "likes": 23,
       "tags": [
         "transformers",
         "safetensors",
@@ -688,10 +688,28 @@
     },
     {
       "rank": 9,
+      "id": "chiennv/Orthrus-Qwen3-8B",
+      "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 1366,
+      "likes": 12,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "diffusion",
+        "parallel-decoding"
+      ],
+      "lastModified": null,
+      "description": "Orthrus is a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. By augmenting a fr…"
+    },
+    {
+      "rank": 10,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12681487,
+      "downloads": 12767574,
       "likes": 1281,
       "tags": [
         "transformers",
@@ -705,7 +723,7 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
@@ -721,24 +739,6 @@
       ],
       "lastModified": null,
       "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
-    },
-    {
-      "rank": 11,
-      "id": "chiennv/Orthrus-Qwen3-8B",
-      "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1366,
-      "likes": 11,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "diffusion",
-        "parallel-decoding"
-      ],
-      "lastModified": null,
-      "description": "Orthrus is a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. By augmenting a fr…"
     },
     {
       "rank": 12,
@@ -763,7 +763,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
       "pipelineTag": "text-generation",
-      "downloads": 3549428,
+      "downloads": 3550364,
       "likes": 471,
       "tags": [
         "transformers",
@@ -814,10 +814,28 @@
     },
     {
       "rank": 16,
+      "id": "Abiray/ZAYA1-8B-GGUF",
+      "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 644,
+      "likes": 9,
+      "tags": [
+        "gguf",
+        "zaya",
+        "moe",
+        "zyphra",
+        "text-generation",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "This repository contains GGUF quantizations of Zyphra/ZAYA1-8B."
+    },
+    {
+      "rank": 17,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 2408377,
+      "downloads": 2393297,
       "likes": 2131,
       "tags": [
         "transformers",
@@ -830,7 +848,7 @@
       "lastModified": null
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "pipelineTag": "text-generation",
@@ -848,7 +866,7 @@
       "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "rico03/Qwen3.6-27B-Claude-Opus-Reasoning-Distilled-GGUF",
       "url": "https://huggingface.co/rico03/Qwen3.6-27B-Claude-Opus-Reasoning-Distilled-GGUF",
       "pipelineTag": "text-generation",
