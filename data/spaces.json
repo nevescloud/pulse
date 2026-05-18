@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T13:21:15.115Z",
+  "updated": "2026-05-18T16:10:25.611Z",
   "trending": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11084,
+      "likes": 11085,
       "tags": [
         "docker",
         "region:us"
@@ -68,13 +68,13 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7385,
+      "likes": 7386,
       "tags": [
         "docker",
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-05-17T23:26:26.000Z"
+      "lastModified": "2026-05-18T15:44:09.000Z"
     },
     {
       "rank": 6,
@@ -363,7 +363,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2863,
+      "likes": 2864,
       "tags": [
         "gradio",
         "region:us"
