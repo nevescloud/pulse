@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T21:21:12.236Z",
+  "updated": "2026-05-18T00:52:20.834Z",
   "trending": [
     {
       "rank": 1,
@@ -74,7 +74,7 @@
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-05-13T18:43:10.000Z"
+      "lastModified": "2026-05-17T23:26:26.000Z"
     },
     {
       "rank": 6,
@@ -125,7 +125,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/facebook/MusicGen",
       "sdk": "gradio",
-      "likes": 5068,
+      "likes": 5067,
       "tags": [
         "gradio",
         "music generation",
@@ -245,7 +245,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3315,
+      "likes": 3316,
       "tags": [
         "gradio",
         "region:us"
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3077,
+      "likes": 3080,
       "tags": [
         "gradio",
         "mcp-server",
