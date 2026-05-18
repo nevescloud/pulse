@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T16:10:27.724Z",
+  "updated": "2026-05-18T18:41:21.428Z",
   "models": [
     {
       "rank": 1,
@@ -652,6 +652,24 @@
     },
     {
       "rank": 7,
+      "id": "chiennv/Orthrus-Qwen3-8B",
+      "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 1535,
+      "likes": 14,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "diffusion",
+        "parallel-decoding"
+      ],
+      "lastModified": null,
+      "description": "Orthrus is a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. By augmenting a fr…"
+    },
+    {
+      "rank": 8,
       "id": "Simplified-Reasoning/SU-01",
       "url": "https://huggingface.co/Simplified-Reasoning/SU-01",
       "pipelineTag": "text-generation",
@@ -669,7 +687,7 @@
       "description": "A compact 30B-A3B reasoning model for rigorous mathematical and scientific olympiad problem solving."
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
@@ -685,24 +703,6 @@
       ],
       "lastModified": null,
       "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
-    },
-    {
-      "rank": 9,
-      "id": "chiennv/Orthrus-Qwen3-8B",
-      "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1535,
-      "likes": 13,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "diffusion",
-        "parallel-decoding"
-      ],
-      "lastModified": null,
-      "description": "Orthrus is a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. By augmenting a fr…"
     },
     {
       "rank": 10,
@@ -760,24 +760,6 @@
     },
     {
       "rank": 13,
-      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "pipelineTag": "text-generation",
-      "downloads": 183319,
-      "likes": 140,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5_moe",
-        "image-text-to-text",
-        "text-generation",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
-    },
-    {
-      "rank": 14,
       "id": "Abiray/ZAYA1-8B-GGUF",
       "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF",
       "pipelineTag": "text-generation",
@@ -793,6 +775,24 @@
       ],
       "lastModified": null,
       "description": "This repository contains GGUF quantizations of Zyphra/ZAYA1-8B."
+    },
+    {
+      "rank": 14,
+      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "pipelineTag": "text-generation",
+      "downloads": 183319,
+      "likes": 140,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "text-generation",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
     },
     {
       "rank": 15,
@@ -886,20 +886,21 @@
     },
     {
       "rank": 20,
-      "id": "meta-llama/Llama-3.2-1B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+      "id": "NousResearch/Hermes-3-Llama-3.1-8B",
+      "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
       "pipelineTag": "text-generation",
-      "downloads": 7532787,
-      "likes": 1409,
+      "downloads": 217198,
+      "likes": 425,
       "tags": [
         "transformers",
         "safetensors",
         "llama",
         "text-generation",
-        "facebook",
-        "meta"
+        "Llama-3",
+        "instruct"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "Hermes 3 is the latest version of our flagship Hermes series of LLMs by Nous Research."
     }
   ]
 }

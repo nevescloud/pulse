@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T16:10:25.611Z",
+  "updated": "2026-05-18T18:41:20.661Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7386,
+      "likes": 7387,
       "tags": [
         "docker",
         "leaderboard",
@@ -111,7 +111,7 @@
       "description": "Wan2.2 Animate",
       "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
       "sdk": "gradio",
-      "likes": 5119,
+      "likes": 5120,
       "tags": [
         "gradio",
         "region:us"
@@ -125,7 +125,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/facebook/MusicGen",
       "sdk": "gradio",
-      "likes": 5067,
+      "likes": 5068,
       "tags": [
         "gradio",
         "music generation",
@@ -213,7 +213,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3741,
+      "likes": 3742,
       "tags": [
         "gradio",
         "Multimodal",
@@ -245,7 +245,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3316,
+      "likes": 3317,
       "tags": [
         "gradio",
         "region:us"
@@ -305,7 +305,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3172,
+      "likes": 3173,
       "tags": [
         "gradio",
         "mcp-server",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3084,
+      "likes": 3085,
       "tags": [
         "gradio",
         "mcp-server",
