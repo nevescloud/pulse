@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T21:30:17.860Z",
+  "updated": "2026-05-19T00:53:46.936Z",
   "trending": [
     {
       "rank": 1,
@@ -199,7 +199,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3847,
+      "likes": 3848,
       "tags": [
         "static",
         "region:us"
@@ -305,7 +305,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3175,
+      "likes": 3176,
       "tags": [
         "gradio",
         "mcp-server",
