@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T16:08:35.928Z",
+  "updated": "2026-05-19T18:41:57.684Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10078,
+      "likes": 10079,
       "tags": [
         "gradio",
         "region:us"
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4885,
+      "likes": 4886,
       "tags": [
         "static",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3278,
+      "likes": 3279,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3181,
+      "likes": 3182,
       "tags": [
         "gradio",
         "mcp-server",
