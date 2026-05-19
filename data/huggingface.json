@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T18:41:57.851Z",
+  "updated": "2026-05-19T21:34:23.846Z",
   "models": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18497660,
-      "likes": 1251,
+      "likes": 1252,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 884,
-      "likes": 97,
+      "likes": 109,
       "tags": [
         "transformers",
         "safetensors",
@@ -634,24 +634,6 @@
     },
     {
       "rank": 6,
-      "id": "Simplified-Reasoning/SU-01",
-      "url": "https://huggingface.co/Simplified-Reasoning/SU-01",
-      "pipelineTag": "text-generation",
-      "downloads": 265,
-      "likes": 16,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_moe",
-        "text-generation",
-        "reasoning",
-        "olympiad"
-      ],
-      "lastModified": null,
-      "description": "A compact 30B-A3B reasoning model for rigorous mathematical and scientific olympiad problem solving."
-    },
-    {
-      "rank": 7,
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "pipelineTag": "text-generation",
@@ -669,7 +651,43 @@
       "description": "GGUF quantizations of hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled, a reasoning SFT fine-tune of Qwen/Qwen3.6-35B-A3B on Claude Opus 4.6-style chain-of-thought distillation data."
     },
     {
+      "rank": 7,
+      "id": "Simplified-Reasoning/SU-01",
+      "url": "https://huggingface.co/Simplified-Reasoning/SU-01",
+      "pipelineTag": "text-generation",
+      "downloads": 265,
+      "likes": 16,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_moe",
+        "text-generation",
+        "reasoning",
+        "olympiad"
+      ],
+      "lastModified": null,
+      "description": "A compact 30B-A3B reasoning model for rigorous mathematical and scientific olympiad problem solving."
+    },
+    {
       "rank": 8,
+      "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
+      "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
+      "pipelineTag": "text-generation",
+      "downloads": 43424,
+      "likes": 28,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "qwen3",
+        "qwen3.6"
+      ],
+      "lastModified": null,
+      "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
+    },
+    {
+      "rank": 9,
       "id": "AIDC-AI/Marco-DeepResearch-8B",
       "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
       "pipelineTag": "text-generation",
@@ -685,24 +703,6 @@
       ],
       "lastModified": null,
       "description": "Marco DeepResearch is an efficient 8B-scale deep research agent developed by Alibaba International Digital Commerce (AIDC-AI). It autonomously conducts open-ended investigations by integrating complex information retrieval with multi-ste…"
-    },
-    {
-      "rank": 9,
-      "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
-      "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
-      "pipelineTag": "text-generation",
-      "downloads": 43424,
-      "likes": 26,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "qwen3",
-        "qwen3.6"
-      ],
-      "lastModified": null,
-      "description": "Claude Opus + Sonnet distilled Qwen 3.6 27B optimized for higher token efficiency, preserved deep reasoning, and MTP-accelerated vLLM deployment on Blackwell-class GPUs."
     },
     {
       "rank": 10,
@@ -782,7 +782,7 @@
       "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "pipelineTag": "text-generation",
       "downloads": 28807,
-      "likes": 60,
+      "likes": 59,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -796,21 +796,21 @@
     },
     {
       "rank": 15,
-      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "id": "mistralai/Mistral-7B-Instruct-v0.2",
+      "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
       "pipelineTag": "text-generation",
-      "downloads": 183203,
-      "likes": 143,
+      "downloads": 3274617,
+      "likes": 3143,
       "tags": [
         "transformers",
+        "pytorch",
         "safetensors",
-        "qwen3_5_moe",
-        "image-text-to-text",
+        "mistral",
         "text-generation",
-        "reasoning"
+        "finetuned"
       ],
       "lastModified": null,
-      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
+      "description": "The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.2."
     },
     {
       "rank": 16,
@@ -832,29 +832,11 @@
     },
     {
       "rank": 17,
-      "id": "mistralai/Mistral-7B-Instruct-v0.2",
-      "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
-      "pipelineTag": "text-generation",
-      "downloads": 3274617,
-      "likes": 3142,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "safetensors",
-        "mistral",
-        "text-generation",
-        "finetuned"
-      ],
-      "lastModified": null,
-      "description": "The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.2."
-    },
-    {
-      "rank": 18,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18497660,
-      "likes": 1251,
+      "likes": 1252,
       "tags": [
         "transformers",
         "safetensors",
@@ -867,29 +849,30 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
+      "rank": 18,
+      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "pipelineTag": "text-generation",
+      "downloads": 183203,
+      "likes": 143,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "text-generation",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
+    },
+    {
       "rank": 19,
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 7743597,
-      "likes": 1411,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 20,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 2400226,
-      "likes": 2134,
+      "likes": 1412,
       "tags": [
         "transformers",
         "safetensors",

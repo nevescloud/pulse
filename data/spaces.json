@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T18:41:57.684Z",
+  "updated": "2026-05-19T21:34:23.516Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10079,
+      "likes": 10080,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7389,
+      "likes": 7390,
       "tags": [
         "docker",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3279,
+      "likes": 3280,
       "tags": [
         "gradio",
         "region:us"
@@ -273,7 +273,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3268,
+      "likes": 3269,
       "tags": [
         "docker",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3182,
+      "likes": 3184,
       "tags": [
         "gradio",
         "mcp-server",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3091,
+      "likes": 3092,
       "tags": [
         "gradio",
         "mcp-server",
@@ -363,7 +363,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2864,
+      "likes": 2865,
       "tags": [
         "gradio",
         "region:us"
@@ -377,7 +377,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2837,
+      "likes": 2838,
       "tags": [
         "gradio",
         "mcp-server",
@@ -557,6 +557,20 @@
     },
     {
       "rank": 9,
+      "id": "webml-community/bonsai-webgpu",
+      "title": "Bonsai 1-bit WebGPU",
+      "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "sdk": "static",
+      "likes": 174,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-04-15T16:05:17.000Z"
+    },
+    {
+      "rank": 10,
       "id": "webml-community/whisper-large-v3-turbo-webgpu",
       "title": "Whisper Large V3 Turbo WebGPU",
       "description": "ML-powered speech recognition directly in your browser",
@@ -570,7 +584,7 @@
       "lastModified": "2024-10-03T13:09:32.000Z"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "webml-community/bedtime-story-generator",
       "title": "Bedtime Story Generator",
       "description": "Craft magical tales in seconds.",
@@ -582,20 +596,6 @@
         "region:us"
       ],
       "lastModified": "2026-05-12T19:30:44.000Z"
-    },
-    {
-      "rank": 11,
-      "id": "webml-community/bonsai-webgpu",
-      "title": "Bonsai 1-bit WebGPU",
-      "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-      "sdk": "static",
-      "likes": 173,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-04-15T16:05:17.000Z"
     },
     {
       "rank": 12,
@@ -655,6 +655,20 @@
     },
     {
       "rank": 16,
+      "id": "webml-community/bonsai-ternary-webgpu",
+      "title": "Ternary Bonsai WebGPU",
+      "description": "Run 1.58-bit Bonsai LLMs locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-ternary-webgpu",
+      "sdk": "static",
+      "likes": 140,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-04-16T17:29:51.000Z"
+    },
+    {
+      "rank": 17,
       "id": "webml-community/moonshine-web",
       "title": "Moonshine Web",
       "description": "Real-time in-browser speech recognition",
@@ -666,20 +680,6 @@
         "region:us"
       ],
       "lastModified": "2024-12-18T15:11:39.000Z"
-    },
-    {
-      "rank": 17,
-      "id": "webml-community/bonsai-ternary-webgpu",
-      "title": "Ternary Bonsai WebGPU",
-      "description": "Run 1.58-bit Bonsai LLMs locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-ternary-webgpu",
-      "sdk": "static",
-      "likes": 139,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-04-16T17:29:51.000Z"
     },
     {
       "rank": 18,
