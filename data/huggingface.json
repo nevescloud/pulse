@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T10:19:58.007Z",
+  "updated": "2026-05-19T13:13:09.446Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 260293932,
-      "likes": 4800,
+      "likes": 4801,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 48458741,
-      "likes": 1227,
+      "likes": 1228,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 884,
-      "likes": 66,
+      "likes": 75,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10785213,
-      "likes": 5852,
+      "likes": 5854,
       "tags": [
         "transformers",
         "safetensors",
@@ -580,24 +580,6 @@
     },
     {
       "rank": 3,
-      "id": "Qwen/WebWorld-8B",
-      "url": "https://huggingface.co/Qwen/WebWorld-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1565,
-      "likes": 46,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "WebWorld",
-        "web-agent"
-      ],
-      "lastModified": null,
-      "description": "WebWorld is a large-scale open-web world model series for training and evaluating web agents. It is trained on 1M+ real-world web interaction trajectories via a scalable hierarchical data pipeline, supporting:"
-    },
-    {
-      "rank": 4,
       "id": "FINAL-Bench/Darwin-28B-REASON",
       "url": "https://huggingface.co/FINAL-Bench/Darwin-28B-REASON",
       "pipelineTag": "text-generation",
@@ -613,6 +595,24 @@
       ],
       "lastModified": null,
       "description": "Darwin-28B-REASON is a reasoning-enhanced standalone model derived from Darwin-28B-Opus. It combines two components:"
+    },
+    {
+      "rank": 4,
+      "id": "Qwen/WebWorld-8B",
+      "url": "https://huggingface.co/Qwen/WebWorld-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 1565,
+      "likes": 46,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "WebWorld",
+        "web-agent"
+      ],
+      "lastModified": null,
+      "description": "WebWorld is a large-scale open-web world model series for training and evaluating web agents. It is trained on 1M+ real-world web interaction trajectories via a scalable hierarchical data pipeline, supporting:"
     },
     {
       "rank": 5,
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 1720,
-      "likes": 15,
+      "likes": 16,
       "tags": [
         "transformers",
         "safetensors",
@@ -674,7 +674,7 @@
       "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
       "downloads": 43424,
-      "likes": 25,
+      "likes": 26,
       "tags": [
         "transformers",
         "safetensors",
@@ -706,6 +706,24 @@
     },
     {
       "rank": 10,
+      "id": "Qwen/Qwen3-1.7B",
+      "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+      "pipelineTag": "text-generation",
+      "downloads": 3588521,
+      "likes": 473,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
+      "rank": 11,
       "id": "IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
       "pipelineTag": "text-generation",
@@ -723,7 +741,7 @@
       "description": "MemPrivacy-1.7B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-1.7B base model. It is designed specifically for personalized memory management in edge-cloud agents."
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
@@ -739,24 +757,6 @@
       ],
       "lastModified": null,
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 12,
-      "id": "Qwen/Qwen3-1.7B",
-      "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
-      "pipelineTag": "text-generation",
-      "downloads": 3588521,
-      "likes": 472,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 13,
@@ -854,7 +854,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 7743597,
-      "likes": 1410,
+      "likes": 1411,
       "tags": [
         "transformers",
         "safetensors",
