@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T00:55:30.432Z",
+  "updated": "2026-05-20T04:29:43.234Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 260293932,
-      "likes": 4803,
+      "likes": 4805,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 68707797,
-      "likes": 2655,
+      "likes": 2656,
       "tags": [
         "transformers",
         "pytorch",
@@ -439,7 +439,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13480118,
-      "likes": 700,
+      "likes": 701,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 884,
-      "likes": 119,
+      "likes": 128,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10785213,
-      "likes": 5854,
+      "likes": 5857,
       "tags": [
         "transformers",
         "safetensors",
@@ -724,42 +724,6 @@
     },
     {
       "rank": 11,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 12975576,
-      "likes": 1284,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 12,
-      "id": "IAAR-Shanghai/MemPrivacy-1.7B-SFT",
-      "url": "https://huggingface.co/IAAR-Shanghai/MemPrivacy-1.7B-SFT",
-      "pipelineTag": "text-generation",
-      "downloads": 901,
-      "likes": 29,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "privacy",
-        "privacy-detection"
-      ],
-      "lastModified": null,
-      "description": "MemPrivacy-1.7B-SFT is a lightweight, privacy-preserving model fine-tuned from the Qwen3-1.7B base model. It is designed specifically for personalized memory management in edge-cloud agents."
-    },
-    {
-      "rank": 13,
       "id": "Abiray/ZAYA1-8B-GGUF",
       "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF",
       "pipelineTag": "text-generation",
@@ -775,6 +739,42 @@
       ],
       "lastModified": null,
       "description": "This repository contains GGUF quantizations of Zyphra/ZAYA1-8B."
+    },
+    {
+      "rank": 12,
+      "id": "NousResearch/Hermes-3-Llama-3.1-8B",
+      "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 217037,
+      "likes": 430,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "Llama-3",
+        "instruct"
+      ],
+      "lastModified": null,
+      "description": "Hermes 3 is the latest version of our flagship Hermes series of LLMs by Nous Research."
+    },
+    {
+      "rank": 13,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 12975576,
+      "likes": 1284,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
       "rank": 14,
@@ -814,6 +814,24 @@
     },
     {
       "rank": 16,
+      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "pipelineTag": "text-generation",
+      "downloads": 183203,
+      "likes": 144,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5_moe",
+        "image-text-to-text",
+        "text-generation",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
+    },
+    {
+      "rank": 17,
       "id": "mistralai/Mistral-7B-Instruct-v0.2",
       "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
       "pipelineTag": "text-generation",
@@ -831,58 +849,40 @@
       "description": "The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.2."
     },
     {
-      "rank": 17,
-      "id": "NousResearch/Hermes-3-Llama-3.1-8B",
-      "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
+      "rank": 18,
+      "id": "HuggingFaceBio/Carbon-3B",
+      "url": "https://huggingface.co/HuggingFaceBio/Carbon-3B",
       "pipelineTag": "text-generation",
-      "downloads": 217037,
-      "likes": 428,
+      "downloads": 1861,
+      "likes": 9,
       "tags": [
         "transformers",
         "safetensors",
         "llama",
         "text-generation",
-        "Llama-3",
-        "instruct"
+        "dna",
+        "genomic"
       ],
       "lastModified": null,
-      "description": "Hermes 3 is the latest version of our flagship Hermes series of LLMs by Nous Research."
-    },
-    {
-      "rank": 18,
-      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "pipelineTag": "text-generation",
-      "downloads": 183203,
-      "likes": 143,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5_moe",
-        "image-text-to-text",
-        "text-generation",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
+      "description": "Carbon-3B is a 3B-parameter decoder-only autoregressive genomic foundation model trained on DNA and RNA sequences, with a primary focus on eukaryotes. It has a native context length of 32,768 6-mer tokens (≈ 197k DNA base pairs) and exte…"
     },
     {
       "rank": 19,
-      "id": "BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4",
-      "url": "https://huggingface.co/BennyDaBall/Qwen3-4b-Z-Image-Engineer-V4",
+      "id": "HuggingFaceBio/Carbon-8B",
+      "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
-      "downloads": 23311,
-      "likes": 140,
+      "downloads": 149,
+      "likes": 9,
       "tags": [
         "transformers",
         "safetensors",
-        "gguf",
+        "llama",
         "text-generation",
-        "prompt-engineering",
-        "image-generation"
+        "dna",
+        "genomic"
       ],
       "lastModified": null,
-      "description": "This is Z-Engineer V4, the culmination of extensive research into what makes an AI prompt engineer actually good at its job. Built on the Qwen 3 architecture and trained using a novel SMART Training methodology, this 4B parameter model d…"
+      "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
     }
   ]
 }
