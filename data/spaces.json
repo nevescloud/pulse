@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T10:10:04.172Z",
+  "updated": "2026-05-20T12:59:10.233Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9452,
+      "likes": 9453,
       "tags": [
         "gradio",
         "region:us"
@@ -68,13 +68,13 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7391,
+      "likes": 7393,
       "tags": [
         "docker",
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-05-18T15:44:09.000Z"
+      "lastModified": "2026-05-20T12:19:41.000Z"
     },
     {
       "rank": 6,
@@ -377,7 +377,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2840,
+      "likes": 2841,
       "tags": [
         "gradio",
         "mcp-server",
