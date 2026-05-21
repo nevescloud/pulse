@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T07:24:04.951Z",
+  "updated": "2026-05-21T10:18:42.430Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 259912583,
-      "likes": 4806,
+      "likes": 4807,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -24,8 +24,8 @@
       "id": "Qwen/Qwen3-VL-2B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
-      "downloads": 116430439,
-      "likes": 407,
+      "downloads": 102298575,
+      "likes": 408,
       "tags": [
         "transformers",
         "safetensors",
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 69483216,
-      "likes": 2656,
+      "likes": 2657,
       "tags": [
         "transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 56632247,
-      "likes": 107,
+      "likes": 108,
       "tags": [
         "transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 47317877,
-      "likes": 463,
+      "likes": 464,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -187,7 +187,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 22097427,
-      "likes": 829,
+      "likes": 830,
       "tags": [
         "transformers",
         "pytorch",
@@ -258,7 +258,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18243520,
+      "downloads": 18295233,
       "likes": 1255,
       "tags": [
         "transformers",
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
       "downloads": 18081410,
-      "likes": 344,
+      "likes": 345,
       "tags": [
         "transformers",
         "pytorch",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 17539076,
-      "likes": 3248,
+      "likes": 3249,
       "tags": [
         "transformers",
         "pytorch",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 17050120,
-      "likes": 831,
+      "likes": 832,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -348,8 +348,8 @@
       "id": "amazon/chronos-2",
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 16073416,
-      "likes": 288,
+      "downloads": 15952401,
+      "likes": 289,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 15494257,
-      "likes": 880,
+      "likes": 881,
       "tags": [
         "transformers",
         "pytorch",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 15081082,
-      "likes": 698,
+      "likes": 699,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 14618121,
-      "likes": 664,
+      "likes": 665,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
       "pipelineTag": "image-classification",
       "downloads": 14328253,
-      "likes": 71,
+      "likes": 72,
       "tags": [
         "timm",
         "pytorch",
@@ -439,7 +439,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 14088199,
-      "likes": 701,
+      "likes": 702,
       "tags": [
         "transformers",
         "safetensors",
@@ -471,28 +471,10 @@
     },
     {
       "rank": 27,
-      "id": "lpiccinelli/unidepth-v2-vitl14",
-      "url": "https://huggingface.co/lpiccinelli/unidepth-v2-vitl14",
-      "pipelineTag": null,
-      "downloads": 13226233,
-      "likes": 17,
-      "tags": [
-        "UniDepth",
-        "pytorch",
-        "safetensors",
-        "model_hub_mixin",
-        "monocular-metric-depth-estimation",
-        "pytorch_model_hub_mixin"
-      ],
-      "lastModified": null,
-      "description": "This model has been pushed to the Hub using the PytorchModelHubMixin integration:"
-    },
-    {
-      "rank": 28,
       "id": "autogluon/chronos-2",
       "url": "https://huggingface.co/autogluon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 13188738,
+      "downloads": 13244042,
       "likes": 21,
       "tags": [
         "chronos-forecasting",
@@ -506,12 +488,30 @@
       "description": "Chronos-2 is a 120M-parameter, encoder-only time series foundation model for zero-shot forecasting. It supports univariate, multivariate, and covariate-informed tasks within a single architecture. Inspired by the T5 encoder, Chronos-2 pr…"
     },
     {
+      "rank": 28,
+      "id": "lpiccinelli/unidepth-v2-vitl14",
+      "url": "https://huggingface.co/lpiccinelli/unidepth-v2-vitl14",
+      "pipelineTag": null,
+      "downloads": 13226233,
+      "likes": 18,
+      "tags": [
+        "UniDepth",
+        "pytorch",
+        "safetensors",
+        "model_hub_mixin",
+        "monocular-metric-depth-estimation",
+        "pytorch_model_hub_mixin"
+      ],
+      "lastModified": null,
+      "description": "This model has been pushed to the Hub using the PytorchModelHubMixin integration:"
+    },
+    {
       "rank": 29,
       "id": "BAAI/bge-reranker-v2-m3",
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 12216928,
-      "likes": 991,
+      "likes": 992,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -528,8 +528,8 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 11694671,
-      "likes": 1094,
+      "downloads": 11821423,
+      "likes": 1095,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,8 +548,8 @@
       "id": "sapientinc/HRM-Text-1B",
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
-      "downloads": 23532,
-      "likes": 187,
+      "downloads": 58922,
+      "likes": 192,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10933148,
-      "likes": 5860,
+      "likes": 5861,
       "tags": [
         "transformers",
         "safetensors",
@@ -583,8 +583,8 @@
       "id": "HuggingFaceBio/Carbon-3B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-3B",
       "pipelineTag": "text-generation",
-      "downloads": 2184,
-      "likes": 28,
+      "downloads": 2468,
+      "likes": 29,
       "tags": [
         "transformers",
         "safetensors",
@@ -601,7 +601,7 @@
       "id": "HuggingFaceBio/Carbon-8B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
-      "downloads": 1107,
+      "downloads": 1273,
       "likes": 25,
       "tags": [
         "transformers",
@@ -619,7 +619,7 @@
       "id": "FINAL-Bench/Darwin-28B-REASON",
       "url": "https://huggingface.co/FINAL-Bench/Darwin-28B-REASON",
       "pipelineTag": "text-generation",
-      "downloads": 264,
+      "downloads": 353,
       "likes": 25,
       "tags": [
         "transformers",
@@ -634,10 +634,28 @@
     },
     {
       "rank": 6,
+      "id": "Simplified-Reasoning/SU-01",
+      "url": "https://huggingface.co/Simplified-Reasoning/SU-01",
+      "pipelineTag": "text-generation",
+      "downloads": 880,
+      "likes": 20,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_moe",
+        "text-generation",
+        "reasoning",
+        "olympiad"
+      ],
+      "lastModified": null,
+      "description": "A compact 30B-A3B reasoning model for rigorous mathematical and scientific olympiad problem solving."
+    },
+    {
+      "rank": 7,
       "id": "chiennv/Orthrus-Qwen3-8B",
       "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 1860,
+      "downloads": 1991,
       "likes": 19,
       "tags": [
         "transformers",
@@ -651,29 +669,11 @@
       "description": "Orthrus is a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. By augmenting a fr…"
     },
     {
-      "rank": 7,
-      "id": "Simplified-Reasoning/SU-01",
-      "url": "https://huggingface.co/Simplified-Reasoning/SU-01",
-      "pipelineTag": "text-generation",
-      "downloads": 712,
-      "likes": 19,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_moe",
-        "text-generation",
-        "reasoning",
-        "olympiad"
-      ],
-      "lastModified": null,
-      "description": "A compact 30B-A3B reasoning model for rigorous mathematical and scientific olympiad problem solving."
-    },
-    {
       "rank": 8,
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 279149,
+      "downloads": 254654,
       "likes": 257,
       "tags": [
         "gguf",
@@ -688,10 +688,28 @@
     },
     {
       "rank": 9,
+      "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "pipelineTag": "text-generation",
+      "downloads": 29549,
+      "likes": 64,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "text-generation",
+        "code",
+        "coding",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
+    },
+    {
+      "rank": 10,
       "id": "Qwen/WebWorld-8B",
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
-      "downloads": 1814,
+      "downloads": 1941,
       "likes": 49,
       "tags": [
         "transformers",
@@ -705,29 +723,11 @@
       "description": "WebWorld is a large-scale open-web world model series for training and evaluating web agents. It is trained on 1M+ real-world web interaction trajectories via a scalable hierarchical data pipeline, supporting:"
     },
     {
-      "rank": 10,
-      "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
-      "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
-      "pipelineTag": "text-generation",
-      "downloads": 29455,
-      "likes": 63,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "text-generation",
-        "code",
-        "coding",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
-    },
-    {
       "rank": 11,
       "id": "Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "url": "https://huggingface.co/Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP",
       "pipelineTag": "text-generation",
-      "downloads": 45868,
+      "downloads": 46633,
       "likes": 28,
       "tags": [
         "transformers",
@@ -763,7 +763,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18243520,
+      "downloads": 18295233,
       "likes": 1255,
       "tags": [
         "transformers",
@@ -781,8 +781,8 @@
       "id": "nvidia/Nemotron-Labs-Diffusion-3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
       "pipelineTag": "text-generation",
-      "downloads": 11093,
-      "likes": 12,
+      "downloads": 13500,
+      "likes": 13,
       "tags": [
         "transformers",
         "safetensors",
@@ -799,7 +799,7 @@
       "id": "nvidia/Nemotron-Labs-Diffusion-8B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
       "pipelineTag": "text-generation",
-      "downloads": 14543,
+      "downloads": 16453,
       "likes": 11,
       "tags": [
         "transformers",
@@ -817,7 +817,7 @@
       "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
-      "downloads": 182091,
+      "downloads": 181921,
       "likes": 147,
       "tags": [
         "transformers",
@@ -835,7 +835,7 @@
       "id": "Abiray/ZAYA1-8B-GGUF",
       "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 3522,
+      "downloads": 4345,
       "likes": 11,
       "tags": [
         "gguf",
@@ -850,21 +850,20 @@
     },
     {
       "rank": 18,
-      "id": "AIDC-AI/Marco-DeepResearch-8B",
-      "url": "https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B",
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 399,
-      "likes": 26,
+      "downloads": 7924282,
+      "likes": 1416,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen3",
+        "llama",
         "text-generation",
-        "deep-research",
-        "agent"
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "Marco DeepResearch is an efficient 8B-scale deep research agent developed by Alibaba International Digital Commerce (AIDC-AI). It autonomously conducts open-ended investigations by integrating complex information retrieval with multi-ste…"
+      "lastModified": null
     },
     {
       "rank": 19,
@@ -872,7 +871,7 @@
       "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
       "pipelineTag": "text-generation",
       "downloads": 3256247,
-      "likes": 3142,
+      "likes": 3143,
       "tags": [
         "transformers",
         "pytorch",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T07:24:06.073Z",
+  "updated": "2026-05-21T10:18:42.077Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 10950,
-      "forks": 666,
+      "stars": 11607,
+      "forks": 694,
       "starsToday": 2123
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars": 17001,
-      "forks": 1484,
+      "stars": 17490,
+      "forks": 1510,
       "starsToday": 1667
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/tinyhumansai/openhuman",
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
-      "stars": 24097,
-      "forks": 2167,
+      "stars": 24322,
+      "forks": 2183,
       "starsToday": 3394
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 141669,
-      "forks": 14546,
+      "stars": 142045,
+      "forks": 14576,
       "starsToday": 2679
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 10005,
-      "forks": 2009,
+      "stars": 10198,
+      "forks": 2032,
       "starsToday": 765
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": 38729,
-      "forks": 3684,
+      "stars": 38818,
+      "forks": 3689,
       "starsToday": 890
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars": 5580,
-      "forks": 461,
+      "stars": 5649,
+      "forks": 465,
       "starsToday": 270
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 200574,
-      "forks": 17876,
+      "stars": 200841,
+      "forks": 17898,
       "starsToday": 1743
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": 20972,
-      "forks": 2562,
+      "stars": 21024,
+      "forks": 2571,
       "starsToday": 674
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 103131,
-      "forks": 16991,
+      "stars": 103237,
+      "forks": 17000,
       "starsToday": 1636
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/rmyndharis/OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
-      "stars": 5029,
-      "forks": 1013,
+      "stars": 5107,
+      "forks": 1026,
       "starsToday": 741
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/truelockmc/streambert",
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "language": "JavaScript",
-      "stars": 3352,
-      "forks": 262,
+      "stars": 3465,
+      "forks": 273,
       "starsToday": 582
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/opentoonz/opentoonz",
       "description": "OpenToonz - An open-source full-featured 2D animation creation software",
       "language": "C++",
-      "stars": 6478,
-      "forks": 741,
+      "stars": 6528,
+      "forks": 744,
       "starsToday": 236
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/zakirullin/files.md",
       "description": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
       "language": "Go",
-      "stars": 2347,
-      "forks": 53,
+      "stars": 2389,
+      "forks": 55,
       "starsToday": 429
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/rohitg00/agentmemory",
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "language": "TypeScript",
-      "stars": 15378,
-      "forks": 1272,
+      "stars": 15483,
+      "forks": 1283,
       "starsToday": 1080
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars": 111978,
-      "forks": 18527,
+      "stars": 112024,
+      "forks": 18541,
       "starsToday": 309
     },
     {
@@ -202,9 +202,21 @@
       "url": "https://github.com/HKUDS/ViMax",
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "language": "Python",
-      "stars": 6254,
-      "forks": 1001,
+      "stars": 6320,
+      "forks": 1008,
       "starsToday": 674
+    },
+    {
+      "rank": 18,
+      "owner": "FareedKhan-dev",
+      "name": "train-llm-from-scratch",
+      "fullName": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "language": "Jupyter Notebook",
+      "stars": 1463,
+      "forks": 242,
+      "starsToday": 168
     }
   ]
 }
