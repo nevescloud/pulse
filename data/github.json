@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T16:07:34.644Z",
+  "updated": "2026-05-21T18:42:36.533Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": 21696,
-      "forks": 2609,
+      "stars": 21975,
+      "forks": 2624,
       "starsToday": 891
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 12544,
-      "forks": 724,
+      "stars": 12865,
+      "forks": 737,
       "starsToday": 4222
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 142644,
-      "forks": 14632,
+      "stars": 142836,
+      "forks": 14648,
       "starsToday": 2590
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars": 2078,
-      "forks": 173,
-      "starsToday": 96
+      "stars": 2115,
+      "forks": 175,
+      "starsToday": 179
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 201203,
-      "forks": 17923,
+      "stars": 201337,
+      "forks": 17938,
       "starsToday": 1572
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": 38959,
-      "forks": 3702,
+      "stars": 39019,
+      "forks": 3707,
       "starsToday": 644
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/rmyndharis/OpenWA",
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "language": "TypeScript",
-      "stars": 5261,
-      "forks": 1055,
+      "stars": 5315,
+      "forks": 1063,
       "starsToday": 704
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 40345,
-      "forks": 2566,
+      "stars": 40397,
+      "forks": 2567,
       "starsToday": 132
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 10476,
-      "forks": 2075,
+      "stars": 10571,
+      "forks": 2089,
       "starsToday": 1318
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/teng-lin/notebooklm-py",
       "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "language": "Python",
-      "stars": 14260,
-      "forks": 1984,
+      "stars": 14301,
+      "forks": 1986,
       "starsToday": 182
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/can1357/oh-my-pi",
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "language": "TypeScript",
-      "stars": 5743,
-      "forks": 472,
+      "stars": 5782,
+      "forks": 475,
       "starsToday": 483
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/antoinezambelli/forge",
       "description": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
       "language": "Python",
-      "stars": 1396,
-      "forks": 71,
+      "stars": 1424,
+      "forks": 72,
       "starsToday": 449
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "Go",
-      "stars": 30511,
-      "forks": 3712,
+      "stars": 30593,
+      "forks": 3719,
       "starsToday": 511
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
-      "stars": 17904,
-      "forks": 1537,
+      "stars": 18014,
+      "forks": 1547,
       "starsToday": 2502
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "language": null,
-      "stars": 222136,
-      "forks": 13290,
+      "stars": 222242,
+      "forks": 13303,
       "starsToday": 429
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/truelockmc/streambert",
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "language": "JavaScript",
-      "stars": 3698,
-      "forks": 292,
+      "stars": 3795,
+      "forks": 299,
       "starsToday": 1057
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 103470,
-      "forks": 17022,
+      "stars": 103546,
+      "forks": 17027,
       "starsToday": 990
     },
     {
@@ -214,7 +214,7 @@
       "url": "https://github.com/alireza0/s-ui",
       "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "language": "Go",
-      "stars": 8894,
+      "stars": 8908,
       "forks": 1500,
       "starsToday": 25
     },
@@ -226,8 +226,8 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars": 16257,
-      "forks": 1533,
+      "stars": 16386,
+      "forks": 1542,
       "starsToday": 854
     }
   ]
