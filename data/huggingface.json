@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T00:55:04.349Z",
+  "updated": "2026-05-21T04:32:45.902Z",
   "models": [
     {
       "rank": 1,
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 27505083,
-      "likes": 3019,
+      "likes": 3020,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 17025493,
-      "likes": 830,
+      "likes": 831,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 14621854,
-      "likes": 663,
+      "likes": 664,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 23532,
-      "likes": 180,
+      "likes": 186,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10988783,
-      "likes": 5859,
+      "likes": 5860,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-3B",
       "pipelineTag": "text-generation",
       "downloads": 2184,
-      "likes": 26,
+      "likes": 28,
       "tags": [
         "transformers",
         "safetensors",
@@ -598,29 +598,11 @@
     },
     {
       "rank": 4,
-      "id": "FINAL-Bench/Darwin-28B-REASON",
-      "url": "https://huggingface.co/FINAL-Bench/Darwin-28B-REASON",
-      "pipelineTag": "text-generation",
-      "downloads": 264,
-      "likes": 24,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "darwin",
-        "darwin-reason"
-      ],
-      "lastModified": null,
-      "description": "Darwin-28B-REASON is a reasoning-enhanced standalone model derived from Darwin-28B-Opus. It combines two components:"
-    },
-    {
-      "rank": 5,
       "id": "HuggingFaceBio/Carbon-8B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
       "downloads": 1107,
-      "likes": 21,
+      "likes": 24,
       "tags": [
         "transformers",
         "safetensors",
@@ -631,6 +613,24 @@
       ],
       "lastModified": null,
       "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
+    },
+    {
+      "rank": 5,
+      "id": "FINAL-Bench/Darwin-28B-REASON",
+      "url": "https://huggingface.co/FINAL-Bench/Darwin-28B-REASON",
+      "pipelineTag": "text-generation",
+      "downloads": 264,
+      "likes": 25,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "darwin",
+        "darwin-reason"
+      ],
+      "lastModified": null,
+      "description": "Darwin-28B-REASON is a reasoning-enhanced standalone model derived from Darwin-28B-Opus. It combines two components:"
     },
     {
       "rank": 6,
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
       "downloads": 1814,
-      "likes": 48,
+      "likes": 49,
       "tags": [
         "transformers",
         "safetensors",
@@ -760,24 +760,6 @@
     },
     {
       "rank": 13,
-      "id": "Qwen/Qwen3-1.7B",
-      "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
-      "pipelineTag": "text-generation",
-      "downloads": 3611424,
-      "likes": 473,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 14,
       "id": "nvidia/Nemotron-Labs-Diffusion-3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
       "pipelineTag": "text-generation",
@@ -795,7 +777,7 @@
       "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
@@ -813,7 +795,7 @@
       "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "Abiray/ZAYA1-8B-GGUF",
       "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF",
       "pipelineTag": "text-generation",
@@ -831,7 +813,7 @@
       "description": "This repository contains GGUF quantizations of Zyphra/ZAYA1-8B."
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": "NousResearch/Hermes-3-Llama-3.1-8B",
       "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
       "pipelineTag": "text-generation",
@@ -849,7 +831,7 @@
       "description": "Hermes 3 is the latest version of our flagship Hermes series of LLMs by Nous Research."
     },
     {
-      "rank": 18,
+      "rank": 17,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
@@ -865,6 +847,24 @@
       ],
       "lastModified": null,
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 18,
+      "id": "Qwen/Qwen3-1.7B",
+      "url": "https://huggingface.co/Qwen/Qwen3-1.7B",
+      "pipelineTag": "text-generation",
+      "downloads": 3611424,
+      "likes": 473,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 19,
@@ -901,6 +901,42 @@
       ],
       "lastModified": null,
       "description": "Marco DeepResearch is an efficient 8B-scale deep research agent developed by Alibaba International Digital Commerce (AIDC-AI). It autonomously conducts open-ended investigations by integrating complex information retrieval with multi-ste…"
+    },
+    {
+      "rank": 21,
+      "id": "mistralai/Mistral-7B-Instruct-v0.2",
+      "url": "https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2",
+      "pipelineTag": "text-generation",
+      "downloads": 3269860,
+      "likes": 3142,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "safetensors",
+        "mistral",
+        "text-generation",
+        "finetuned"
+      ],
+      "lastModified": null,
+      "description": "The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an instruct fine-tuned version of the Mistral-7B-v0.2."
+    },
+    {
+      "rank": 22,
+      "id": "aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
+      "url": "https://huggingface.co/aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
+      "pipelineTag": "text-generation",
+      "downloads": 616,
+      "likes": 30,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "roleplay",
+        "llama3"
+      ],
+      "lastModified": null,
+      "description": "The difference with normal quantizations is that I quantize the output and embed tensors to f16. and the other tensors to 15_k,q6_k or q8_0. This creates models that are little or not degraded at all and have a smaller size. They run at …"
     }
   ]
 }
