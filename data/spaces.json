@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T04:32:45.514Z",
+  "updated": "2026-05-21T07:24:04.692Z",
   "trending": [
     {
       "rank": 1,
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3101,
+      "likes": 3102,
       "tags": [
         "gradio",
         "mcp-server",
@@ -562,7 +562,7 @@
       "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
       "sdk": "static",
-      "likes": 174,
+      "likes": 175,
       "tags": [
         "static",
         "region:us"
