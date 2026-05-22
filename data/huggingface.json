@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T21:34:27.134Z",
+  "updated": "2026-05-22T00:53:23.624Z",
   "models": [
     {
       "rank": 1,
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 27886899,
-      "likes": 3023,
+      "likes": 3025,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 11821423,
-      "likes": 1095,
+      "likes": 1096,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 58922,
-      "likes": 211,
+      "likes": 213,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10933148,
-      "likes": 5864,
+      "likes": 5866,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/FINAL-Bench/Darwin-28B-REASON",
       "pipelineTag": "text-generation",
       "downloads": 353,
-      "likes": 26,
+      "likes": 27,
       "tags": [
         "transformers",
         "safetensors",
@@ -706,6 +706,42 @@
     },
     {
       "rank": 10,
+      "id": "nvidia/Nemotron-Labs-Diffusion-3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
+      "pipelineTag": "text-generation",
+      "downloads": 13500,
+      "likes": 15,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_diffusion",
+        "feature-extraction",
+        "nvidia",
+        "pytorch"
+      ],
+      "lastModified": null,
+      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
+    },
+    {
+      "rank": 11,
+      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 16453,
+      "likes": 13,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_diffusion",
+        "feature-extraction",
+        "nvidia",
+        "pytorch"
+      ],
+      "lastModified": null,
+      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
+    },
+    {
+      "rank": 12,
       "id": "Qwen/WebWorld-8B",
       "url": "https://huggingface.co/Qwen/WebWorld-8B",
       "pipelineTag": "text-generation",
@@ -721,42 +757,6 @@
       ],
       "lastModified": null,
       "description": "WebWorld is a large-scale open-web world model series for training and evaluating web agents. It is trained on 1M+ real-world web interaction trajectories via a scalable hierarchical data pipeline, supporting:"
-    },
-    {
-      "rank": 11,
-      "id": "nvidia/Nemotron-Labs-Diffusion-3B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
-      "pipelineTag": "text-generation",
-      "downloads": 13500,
-      "likes": 14,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_diffusion",
-        "feature-extraction",
-        "nvidia",
-        "pytorch"
-      ],
-      "lastModified": null,
-      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
-    },
-    {
-      "rank": 12,
-      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 16453,
-      "likes": 12,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_diffusion",
-        "feature-extraction",
-        "nvidia",
-        "pytorch"
-      ],
-      "lastModified": null,
-      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
       "rank": 13,
@@ -778,24 +778,6 @@
     },
     {
       "rank": 14,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 18295233,
-      "likes": 1257,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 15,
       "id": "Abiray/ZAYA1-8B-GGUF",
       "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF",
       "pipelineTag": "text-generation",
@@ -813,7 +795,7 @@
       "description": "This repository contains GGUF quantizations of Zyphra/ZAYA1-8B."
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "NousResearch/Hermes-3-Llama-3.1-8B",
       "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
       "pipelineTag": "text-generation",
@@ -831,7 +813,7 @@
       "description": "Hermes 3 is the latest version of our flagship Hermes series of LLMs by Nous Research."
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
@@ -846,6 +828,24 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 17,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 18295233,
+      "likes": 1257,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 18,
@@ -890,23 +890,6 @@
       "pipelineTag": "text-generation",
       "downloads": 2205212,
       "likes": 2139,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 21,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1656260,
-      "likes": 4528,
       "tags": [
         "transformers",
         "safetensors",
