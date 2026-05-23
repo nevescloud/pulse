@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T09:37:54.788Z",
+  "updated": "2026-05-23T12:25:58.848Z",
   "trending": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 13981,
+      "likes": 13982,
       "tags": [
         "docker",
         "leaderboard",
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10085,
+      "likes": 10084,
       "tags": [
         "gradio",
         "region:us"
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9455,
+      "likes": 9456,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7403,
+      "likes": 7405,
       "tags": [
         "docker",
         "leaderboard",
@@ -125,7 +125,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/facebook/MusicGen",
       "sdk": "gradio",
-      "likes": 5067,
+      "likes": 5068,
       "tags": [
         "gradio",
         "music generation",
@@ -245,7 +245,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3321,
+      "likes": 3322,
       "tags": [
         "gradio",
         "region:us"
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3109,
+      "likes": 3111,
       "tags": [
         "gradio",
         "mcp-server",
@@ -434,7 +434,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/openai/whisper",
       "sdk": "gradio",
-      "likes": 2756,
+      "likes": 2757,
       "tags": [
         "gradio",
         "region:us"
@@ -660,7 +660,7 @@
       "description": "Run 1.58-bit Bonsai LLMs locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-ternary-webgpu",
       "sdk": "static",
-      "likes": 141,
+      "likes": 142,
       "tags": [
         "static",
         "region:us"
