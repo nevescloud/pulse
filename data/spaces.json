@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:25:58.848Z",
+  "updated": "2026-05-23T15:27:30.595Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10084,
+      "likes": 10085,
       "tags": [
         "gradio",
         "region:us"
@@ -74,7 +74,7 @@
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-05-22T13:23:48.000Z"
+      "lastModified": "2026-05-23T13:12:36.000Z"
     },
     {
       "rank": 6,
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4891,
+      "likes": 4892,
       "tags": [
         "static",
         "leaderboard",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3111,
+      "likes": 3116,
       "tags": [
         "gradio",
         "mcp-server",

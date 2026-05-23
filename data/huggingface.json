@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:25:59.045Z",
+  "updated": "2026-05-23T15:27:30.867Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 260118595,
-      "likes": 4820,
+      "likes": 4821,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 34925144,
-      "likes": 1294,
+      "likes": 1295,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 15028784,
-      "likes": 703,
+      "likes": 704,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -581,28 +581,11 @@
     },
     {
       "rank": 3,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 10669321,
-      "likes": 5880,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 4,
       "id": "HuggingFaceBio/Carbon-8B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
       "downloads": 1507,
-      "likes": 28,
+      "likes": 29,
       "tags": [
         "transformers",
         "safetensors",
@@ -613,6 +596,23 @@
       ],
       "lastModified": null,
       "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
+    },
+    {
+      "rank": 4,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 10669321,
+      "likes": 5881,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
     },
     {
       "rank": 5,
@@ -674,7 +674,7 @@
       "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
       "pipelineTag": "text-generation",
       "downloads": 222314,
-      "likes": 439,
+      "likes": 440,
       "tags": [
         "transformers",
         "safetensors",
@@ -688,6 +688,24 @@
     },
     {
       "rank": 9,
+      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 223322,
+      "likes": 264,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "qwen",
+        "qwen3.6",
+        "qwen3_5_moe",
+        "moe"
+      ],
+      "lastModified": null,
+      "description": "GGUF quantizations of hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled, a reasoning SFT fine-tune of Qwen/Qwen3.6-35B-A3B on Claude Opus 4.6-style chain-of-thought distillation data."
+    },
+    {
+      "rank": 10,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
@@ -705,7 +723,7 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "pipelineTag": "text-generation",
@@ -721,24 +739,6 @@
       ],
       "lastModified": null,
       "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
-    },
-    {
-      "rank": 11,
-      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 223322,
-      "likes": 263,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "qwen",
-        "qwen3.6",
-        "qwen3_5_moe",
-        "moe"
-      ],
-      "lastModified": null,
-      "description": "GGUF quantizations of hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled, a reasoning SFT fine-tune of Qwen/Qwen3.6-35B-A3B on Claude Opus 4.6-style chain-of-thought distillation data."
     },
     {
       "rank": 12,
@@ -796,24 +796,6 @@
     },
     {
       "rank": 15,
-      "id": "chiennv/Orthrus-Qwen3-8B",
-      "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 2209,
-      "likes": 20,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "diffusion",
-        "parallel-decoding"
-      ],
-      "lastModified": null,
-      "description": "Orthrus is a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. By augmenting a fr…"
-    },
-    {
-      "rank": 16,
       "id": "openbmb/BitCPM4-CANN-8B",
       "url": "https://huggingface.co/openbmb/BitCPM4-CANN-8B",
       "pipelineTag": "text-generation",
@@ -831,42 +813,7 @@
       "description": "BitCPM4-CANN is the first end-to-end 1.58-bit (ternary) large language model training system natively built on Huawei Ascend NPU. The system integrates quantization-aware training (QAT) into the Megatron-LM framework with MindSpeed accel…"
     },
     {
-      "rank": 17,
-      "id": "Abiray/ZAYA1-8B-GGUF",
-      "url": "https://huggingface.co/Abiray/ZAYA1-8B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 5166,
-      "likes": 12,
-      "tags": [
-        "gguf",
-        "zaya",
-        "moe",
-        "zyphra",
-        "text-generation",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "This repository contains GGUF quantizations of Zyphra/ZAYA1-8B."
-    },
-    {
-      "rank": 18,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1672972,
-      "likes": 4532,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "id": "aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
       "url": "https://huggingface.co/aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
       "pipelineTag": "text-generation",
@@ -884,7 +831,7 @@
       "description": "The difference with normal quantizations is that I quantize the output and embed tensors to f16. and the other tensors to 15_k,q6_k or q8_0. This creates models that are little or not degraded at all and have a smaller size. They run at …"
     },
     {
-      "rank": 20,
+      "rank": 17,
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
@@ -901,7 +848,42 @@
       "lastModified": null
     },
     {
-      "rank": 21,
+      "rank": 18,
+      "id": "chiennv/Orthrus-Qwen3-8B",
+      "url": "https://huggingface.co/chiennv/Orthrus-Qwen3-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 2209,
+      "likes": 20,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "diffusion",
+        "parallel-decoding"
+      ],
+      "lastModified": null,
+      "description": "Orthrus is a simple and efficient dual-architecture framework that unifies the exact generation fidelity of autoregressive Large Language Models (LLMs) with the high-speed parallel token generation of diffusion models. By augmenting a fr…"
+    },
+    {
+      "rank": 19,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1672972,
+      "likes": 4532,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 20,
       "id": "meta-llama/Llama-3.2-1B",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
       "pipelineTag": "text-generation",
@@ -918,7 +900,7 @@
       "lastModified": null
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",

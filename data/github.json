@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:25:59.972Z",
+  "updated": "2026-05-23T15:27:31.745Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars": 19718,
-      "forks": 1785,
+      "stars": 20305,
+      "forks": 1829,
       "starsToday": 2331
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": 25866,
-      "forks": 2823,
+      "stars": 26053,
+      "forks": 2835,
       "starsToday": 2172
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 17973,
-      "forks": 996,
+      "stars": 18449,
+      "forks": 1016,
       "starsToday": 2434
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 12780,
-      "forks": 2397,
+      "stars": 13079,
+      "forks": 2455,
       "starsToday": 1523
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars": 22878,
-      "forks": 3157,
+      "stars": 22965,
+      "forks": 3172,
       "starsToday": 537
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 148387,
-      "forks": 15205,
+      "stars": 148873,
+      "forks": 15260,
       "starsToday": 3152
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars": 2655,
+      "stars": 2681,
       "forks": 207,
       "starsToday": 262
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 41188,
-      "forks": 2620,
+      "stars": 41224,
+      "forks": 2622,
       "starsToday": 437
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 6916,
-      "forks": 974,
+      "stars": 7050,
+      "forks": 988,
       "starsToday": 238
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "language": "TypeScript",
-      "stars": 6050,
-      "forks": 1099,
+      "stars": 6144,
+      "forks": 1104,
       "starsToday": 302
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 31640,
-      "forks": 3829,
-      "starsToday": 879
+      "stars": 31724,
+      "forks": 3843,
+      "starsToday": 429
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "language": null,
-      "stars": 223516,
-      "forks": 13407,
+      "stars": 223616,
+      "forks": 13412,
       "starsToday": 628
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
-      "stars": 51297,
-      "forks": 32521,
+      "stars": 51348,
+      "forks": 32523,
       "starsToday": 386
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/NVlabs/LongLive",
       "description": "LongLive 2.0: Infra - Long Video Gen",
       "language": "Python",
-      "stars": 1678,
-      "forks": 158,
+      "stars": 1716,
+      "forks": 164,
       "starsToday": 79
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 164685,
-      "forks": 13841,
+      "stars": 164761,
+      "forks": 13850,
       "starsToday": 745
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/janestreet/magic-trace",
       "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
       "language": "OCaml",
-      "stars": 5628,
-      "forks": 174,
+      "stars": 5709,
+      "forks": 176,
       "starsToday": 70
     }
   ]
