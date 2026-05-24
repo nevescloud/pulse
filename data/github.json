@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T07:11:47.990Z",
+  "updated": "2026-05-24T09:40:24.482Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars": 22676,
-      "forks": 2005,
+      "stars": 23156,
+      "forks": 2048,
       "starsToday": 2299
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": 26792,
-      "forks": 2880,
+      "stars": 26917,
+      "forks": 2882,
       "starsToday": 2193
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 20336,
-      "forks": 1136,
+      "stars": 20660,
+      "forks": 1154,
       "starsToday": 2456
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 14183,
-      "forks": 2633,
+      "stars": 14353,
+      "forks": 2656,
       "starsToday": 1521
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars": 23243,
-      "forks": 3205,
+      "stars": 23315,
+      "forks": 3212,
       "starsToday": 545
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 150277,
-      "forks": 15423,
+      "stars": 150545,
+      "forks": 15448,
       "starsToday": 3507
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars": 2795,
+      "stars": 2815,
       "forks": 211,
       "starsToday": 266
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 41420,
-      "forks": 2628,
+      "stars": 41451,
+      "forks": 2630,
       "starsToday": 435
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 7656,
-      "forks": 1024,
+      "stars": 7745,
+      "forks": 1026,
       "starsToday": 281
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/presenton/presenton",
       "description": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
       "language": "TypeScript",
-      "stars": 6557,
-      "forks": 1126,
+      "stars": 6609,
+      "forks": 1133,
       "starsToday": 241
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 32085,
-      "forks": 3870,
+      "stars": 32145,
+      "forks": 3875,
       "starsToday": 410
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "language": null,
-      "stars": 223998,
-      "forks": 13435,
+      "stars": 224060,
+      "forks": 13439,
       "starsToday": 628
     },
     {
@@ -154,7 +154,7 @@
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
-      "stars": 51562,
+      "stars": 51593,
       "forks": 32535,
       "starsToday": 386
     },
@@ -166,7 +166,7 @@
       "url": "https://github.com/NVlabs/LongLive",
       "description": "LongLive 2.0: Infra - Long Video Gen",
       "language": "Python",
-      "stars": 1900,
+      "stars": 1925,
       "forks": 171,
       "starsToday": 94
     },
@@ -178,8 +178,8 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 165111,
-      "forks": 13868,
+      "stars": 165166,
+      "forks": 13871,
       "starsToday": 759
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/janestreet/magic-trace",
       "description": "magic-trace collects and displays high-resolution traces of what a process is doing",
       "language": "OCaml",
-      "stars": 5959,
-      "forks": 184,
+      "stars": 5998,
+      "forks": 183,
       "starsToday": 68
     }
   ]

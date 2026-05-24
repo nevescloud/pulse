@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T07:11:48.057Z",
+  "updated": "2026-05-24T09:40:23.596Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7405,
+      "likes": 7407,
       "tags": [
         "docker",
         "leaderboard",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3120,
+      "likes": 3121,
       "tags": [
         "gradio",
         "mcp-server",
