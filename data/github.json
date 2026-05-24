@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T12:28:46.316Z",
+  "updated": "2026-05-24T15:27:59.051Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars": 23691,
-      "forks": 2090,
+      "stars": 24439,
+      "forks": 2143,
       "starsToday": 3987
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 14634,
-      "forks": 2689,
+      "stars": 15060,
+      "forks": 2742,
       "starsToday": 1836
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": 27014,
-      "forks": 2888,
+      "stars": 27095,
+      "forks": 2891,
       "starsToday": 1179
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 13176,
-      "forks": 1622,
+      "stars": 13555,
+      "forks": 1673,
       "starsToday": 486
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 150863,
-      "forks": 15479,
+      "stars": 151335,
+      "forks": 15519,
       "starsToday": 2555
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars": 53620,
-      "forks": 6414,
+      "stars": 53728,
+      "forks": 6421,
       "starsToday": 444
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars": 28851,
-      "forks": 4324,
-      "starsToday": 565
+      "stars": 28929,
+      "forks": 4341,
+      "starsToday": 557
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 20935,
-      "forks": 1165,
+      "stars": 21337,
+      "forks": 1195,
       "starsToday": 2993
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 32204,
-      "forks": 3882,
+      "stars": 32300,
+      "forks": 3892,
       "starsToday": 584
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 25684,
-      "forks": 4485,
+      "stars": 25719,
+      "forks": 4488,
       "starsToday": 96
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/manaflow-ai/cmux",
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "language": "Swift",
-      "stars": 18718,
-      "forks": 1430,
+      "stars": 18816,
+      "forks": 1436,
       "starsToday": 560
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars": 61885,
-      "forks": 9712,
+      "stars": 61965,
+      "forks": 9716,
       "starsToday": 179
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 503967,
-      "forks": 47813,
+      "stars": 504063,
+      "forks": 47819,
       "starsToday": 590
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars": 2836,
-      "forks": 211,
+      "stars": 2875,
+      "forks": 213,
       "starsToday": 181
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/blakeblackshear/frigate",
       "description": "NVR with realtime local object detection for IP cameras",
       "language": "TypeScript",
-      "stars": 32661,
-      "forks": 3166,
+      "stars": 32714,
+      "forks": 3172,
       "starsToday": 355
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 7839,
-      "forks": 1031,
+      "stars": 7976,
+      "forks": 1041,
       "starsToday": 934
     }
   ]
