@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T13:15:40.111Z",
+  "updated": "2026-05-25T15:59:11.233Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 260375836,
-      "likes": 4826,
+      "likes": 4830,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -25,7 +25,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 69585760,
-      "likes": 2664,
+      "likes": 2665,
       "tags": [
         "transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
       "downloads": 48210232,
-      "likes": 412,
+      "likes": 413,
       "tags": [
         "transformers",
         "safetensors",
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18822463,
-      "likes": 1268,
+      "likes": 1269,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 90026,
-      "likes": 276,
+      "likes": 277,
       "tags": [
         "transformers",
         "safetensors",
@@ -563,6 +563,24 @@
     },
     {
       "rank": 2,
+      "id": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "pipelineTag": "text-generation",
+      "downloads": 2,
+      "likes": 51,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "minicpm",
+        "minicpm5"
+      ],
+      "lastModified": null,
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
+      "rank": 3,
       "id": "HuggingFaceBio/Carbon-3B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-3B",
       "pipelineTag": "text-generation",
@@ -580,7 +598,25 @@
       "description": "Carbon-3B is a 3B-parameter decoder-only autoregressive genomic foundation model trained on DNA and RNA sequences, with a primary focus on eukaryotes. It has a native context length of 32,768 6-mer tokens (≈ 197k DNA base pairs) and exte…"
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "id": "HuggingFaceBio/Carbon-8B",
+      "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 1648,
+      "likes": 36,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "dna",
+        "genomic"
+      ],
+      "lastModified": null,
+      "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
+    },
+    {
+      "rank": 5,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -597,30 +633,12 @@
       "lastModified": null
     },
     {
-      "rank": 4,
-      "id": "HuggingFaceBio/Carbon-8B",
-      "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1648,
-      "likes": 34,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "dna",
-        "genomic"
-      ],
-      "lastModified": null,
-      "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "id": "openbmb/BitCPM-CANN-8B-gguf",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf",
       "pipelineTag": "text-generation",
       "downloads": 789,
-      "likes": 32,
+      "likes": 33,
       "tags": [
         "transformers",
         "gguf",
@@ -633,7 +651,25 @@
       "description": "BitCPM-CANN is the first end-to-end 1.58-bit (ternary) large language model training system natively built on Huawei Ascend NPU. The system integrates quantization-aware training (QAT) into the Megatron-LM framework with MindSpeed accele…"
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "id": "openbmb/BitCPM-CANN-8B",
+      "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 689,
+      "likes": 35,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "minicpm",
+        "text-generation",
+        "conversational",
+        "custom_code"
+      ],
+      "lastModified": null,
+      "description": "BitCPM-CANN is the first end-to-end 1.58-bit (ternary) large language model training system natively built on Huawei Ascend NPU. The system integrates quantization-aware training (QAT) into the Megatron-LM framework with MindSpeed accele…"
+    },
+    {
+      "rank": 8,
       "id": "nvidia/Nemotron-Labs-Diffusion-8B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
       "pipelineTag": "text-generation",
@@ -651,7 +687,7 @@
       "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
-      "rank": 7,
+      "rank": 9,
       "id": "nvidia/Nemotron-Labs-Diffusion-3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
       "pipelineTag": "text-generation",
@@ -669,48 +705,12 @@
       "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
-      "rank": 8,
-      "id": "openbmb/MiniCPM5-1B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 2,
-      "likes": 31,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "minicpm",
-        "minicpm5"
-      ],
-      "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
-      "rank": 9,
-      "id": "openbmb/BitCPM-CANN-8B",
-      "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 689,
-      "likes": 28,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "minicpm",
-        "text-generation",
-        "conversational",
-        "custom_code"
-      ],
-      "lastModified": null,
-      "description": "BitCPM-CANN is the first end-to-end 1.58-bit (ternary) large language model training system natively built on Huawei Ascend NPU. The system integrates quantization-aware training (QAT) into the Megatron-LM framework with MindSpeed accele…"
-    },
-    {
       "rank": 10,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18822463,
-      "likes": 1268,
+      "likes": 1269,
       "tags": [
         "transformers",
         "safetensors",
@@ -764,7 +764,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8119763,
-      "likes": 1431,
+      "likes": 1432,
       "tags": [
         "transformers",
         "safetensors",
@@ -812,6 +812,41 @@
     },
     {
       "rank": 16,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1693872,
+      "likes": 4540,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 17,
+      "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
+      "pipelineTag": "text-generation",
+      "downloads": 34351,
+      "likes": 72,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "text-generation",
+        "code",
+        "coding",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
+    },
+    {
+      "rank": 18,
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "pipelineTag": "text-generation",
@@ -827,41 +862,6 @@
       ],
       "lastModified": null,
       "description": "GGUF quantizations of hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled, a reasoning SFT fine-tune of Qwen/Qwen3.6-35B-A3B on Claude Opus 4.6-style chain-of-thought distillation data."
-    },
-    {
-      "rank": 17,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1693872,
-      "likes": 4539,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 18,
-      "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
-      "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
-      "pipelineTag": "text-generation",
-      "downloads": 34351,
-      "likes": 71,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "text-generation",
-        "code",
-        "coding",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
     },
     {
       "rank": 19,
@@ -883,6 +883,23 @@
     },
     {
       "rank": 20,
+      "id": "meta-llama/Llama-3.1-8B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 1241077,
+      "likes": 2207,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 21,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
@@ -897,24 +914,6 @@
         "meta"
       ],
       "lastModified": null
-    },
-    {
-      "rank": 21,
-      "id": "Qwen/Qwen3-8B",
-      "url": "https://huggingface.co/Qwen/Qwen3-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 12728041,
-      "likes": 1101,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     }
   ]
 }
