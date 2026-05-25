@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T00:55:04.313Z",
+  "updated": "2026-05-25T04:34:20.874Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars": 25832,
-      "forks": 2239,
+      "stars": 27112,
+      "forks": 2313,
       "starsToday": 3999
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 15986,
-      "forks": 2848,
+      "stars": 16631,
+      "forks": 2917,
       "starsToday": 1853
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": 27242,
-      "forks": 2906,
+      "stars": 27357,
+      "forks": 2912,
       "starsToday": 1173
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 14058,
-      "forks": 1738,
+      "stars": 14226,
+      "forks": 1758,
       "starsToday": 550
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 152078,
-      "forks": 15593,
+      "stars": 152666,
+      "forks": 15647,
       "starsToday": 2551
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
       "language": "TypeScript",
-      "stars": 53928,
-      "forks": 6441,
+      "stars": 54076,
+      "forks": 6450,
       "starsToday": 456
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "description": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
       "language": "Python",
-      "stars": 29161,
-      "forks": 4380,
+      "stars": 29250,
+      "forks": 4394,
       "starsToday": 553
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 21986,
-      "forks": 1219,
+      "stars": 22838,
+      "forks": 1262,
       "starsToday": 3003
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
       "language": "TypeScript",
-      "stars": 32487,
-      "forks": 3905,
+      "stars": 32643,
+      "forks": 3912,
       "starsToday": 585
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 25795,
-      "forks": 4494,
+      "stars": 25846,
+      "forks": 4498,
       "starsToday": 106
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/manaflow-ai/cmux",
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "language": "Swift",
-      "stars": 19019,
-      "forks": 1449,
+      "stars": 19102,
+      "forks": 1451,
       "starsToday": 696
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars": 62147,
-      "forks": 9730,
+      "stars": 62258,
+      "forks": 9736,
       "starsToday": 197
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 504262,
-      "forks": 47828,
+      "stars": 504361,
+      "forks": 47834,
       "starsToday": 550
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars": 2964,
-      "forks": 219,
+      "stars": 2995,
+      "forks": 220,
       "starsToday": 183
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/blakeblackshear/frigate",
       "description": "NVR with realtime local object detection for IP cameras",
       "language": "TypeScript",
-      "stars": 32840,
-      "forks": 3180,
+      "stars": 32915,
+      "forks": 3183,
       "starsToday": 181
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 8333,
-      "forks": 1058,
+      "stars": 8514,
+      "forks": 1069,
       "starsToday": 930
     }
   ]
