@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T21:21:54.907Z",
+  "updated": "2026-05-25T00:55:02.923Z",
   "trending": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11092,
+      "likes": 11093,
       "tags": [
         "docker",
         "region:us"
@@ -340,7 +340,7 @@
         "gradio",
         "region:us"
       ],
-      "lastModified": "2026-05-22T13:47:27.000Z"
+      "lastModified": "2026-05-24T22:47:07.000Z"
     },
     {
       "rank": 24,
@@ -354,7 +354,7 @@
         "gradio",
         "region:us"
       ],
-      "lastModified": "2023-08-21T23:21:06.000Z"
+      "lastModified": "2026-05-24T23:45:28.000Z"
     },
     {
       "rank": 25,
