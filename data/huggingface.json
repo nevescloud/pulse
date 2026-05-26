@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T07:19:29.790Z",
+  "updated": "2026-05-26T10:26:24.437Z",
   "models": [
     {
       "rank": 1,
@@ -114,7 +114,7 @@
       "id": "Qwen/Qwen3-VL-2B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
       "pipelineTag": "image-text-to-text",
-      "downloads": 48210232,
+      "downloads": 35407726,
       "likes": 413,
       "tags": [
         "transformers",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 30026748,
-      "likes": 3036,
+      "likes": 3038,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 27603600,
-      "likes": 2015,
+      "likes": 2016,
       "tags": [
         "transformers",
         "pytorch",
@@ -276,7 +276,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18822463,
+      "downloads": 19010442,
       "likes": 1268,
       "tags": [
         "transformers",
@@ -345,24 +345,6 @@
     },
     {
       "rank": 20,
-      "id": "amazon/chronos-2",
-      "url": "https://huggingface.co/amazon/chronos-2",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 15789459,
-      "likes": 292,
-      "tags": [
-        "chronos-forecasting",
-        "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "foundation models"
-      ],
-      "lastModified": null,
-      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
-    },
-    {
-      "rank": 21,
       "id": "Bingsu/adetailer",
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
@@ -380,7 +362,7 @@
       "description": "Since getattr is classified as a dangerous pickle function, any segmentation model that uses it is classified as unsafe."
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "distilbert/distilbert-base-uncased",
       "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
       "pipelineTag": "fill-mask",
@@ -398,7 +380,7 @@
       "description": "This model is a distilled version of the BERT base model. It was introduced in this paper. The code for the distillation process can be found here. This model is uncased: it does not make a difference between english and English."
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": "BAAI/bge-large-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
@@ -416,7 +398,7 @@
       "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
@@ -432,6 +414,24 @@
       ],
       "lastModified": null,
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 24,
+      "id": "amazon/chronos-2",
+      "url": "https://huggingface.co/amazon/chronos-2",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 14649731,
+      "likes": 292,
+      "tags": [
+        "chronos-forecasting",
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
     },
     {
       "rank": 25,
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13499212,
-      "likes": 1298,
+      "likes": 1299,
       "tags": [
         "transformers",
         "safetensors",
@@ -474,7 +474,7 @@
       "id": "autogluon/chronos-2",
       "url": "https://huggingface.co/autogluon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 13163367,
+      "downloads": 13283654,
       "likes": 23,
       "tags": [
         "chronos-forecasting",
@@ -510,7 +510,7 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 12728041,
+      "downloads": 12815410,
       "likes": 1101,
       "tags": [
         "transformers",
@@ -548,8 +548,8 @@
       "id": "sapientinc/HRM-Text-1B",
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
-      "downloads": 90026,
-      "likes": 341,
+      "downloads": 103033,
+      "likes": 362,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,8 +566,8 @@
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 2,
-      "likes": 224,
+      "downloads": 2409,
+      "likes": 271,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,8 +584,8 @@
       "id": "openbmb/BitCPM-CANN-8B",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B",
       "pipelineTag": "text-generation",
-      "downloads": 689,
-      "likes": 63,
+      "downloads": 1202,
+      "likes": 72,
       "tags": [
         "transformers",
         "pytorch",
@@ -602,7 +602,7 @@
       "id": "HuggingFaceBio/Carbon-3B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-3B",
       "pipelineTag": "text-generation",
-      "downloads": 3966,
+      "downloads": 4170,
       "likes": 40,
       "tags": [
         "transformers",
@@ -620,7 +620,7 @@
       "id": "HuggingFaceBio/Carbon-8B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
-      "downloads": 1648,
+      "downloads": 1727,
       "likes": 37,
       "tags": [
         "transformers",
@@ -638,8 +638,8 @@
       "id": "openbmb/BitCPM-CANN-8B-gguf",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf",
       "pipelineTag": "text-generation",
-      "downloads": 789,
-      "likes": 38,
+      "downloads": 1282,
+      "likes": 39,
       "tags": [
         "transformers",
         "gguf",
@@ -653,6 +653,24 @@
     },
     {
       "rank": 7,
+      "id": "openbmb/MiniCPM5-1B-GGUF",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 1655,
+      "likes": 72,
+      "tags": [
+        "transformers",
+        "gguf",
+        "minicpm",
+        "minicpm5",
+        "llama",
+        "text-generation"
+      ],
+      "lastModified": null,
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
+      "rank": 8,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -669,29 +687,11 @@
       "lastModified": null
     },
     {
-      "rank": 8,
-      "id": "openbmb/MiniCPM5-1B-GGUF",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 0,
-      "likes": 68,
-      "tags": [
-        "transformers",
-        "gguf",
-        "minicpm",
-        "minicpm5",
-        "llama",
-        "text-generation"
-      ],
-      "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
       "rank": 9,
       "id": "nvidia/Nemotron-Labs-Diffusion-8B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
       "pipelineTag": "text-generation",
-      "downloads": 27984,
+      "downloads": 30473,
       "likes": 27,
       "tags": [
         "transformers",
@@ -709,7 +709,7 @@
       "id": "nvidia/Nemotron-Labs-Diffusion-3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
       "pipelineTag": "text-generation",
-      "downloads": 19496,
+      "downloads": 22203,
       "likes": 26,
       "tags": [
         "transformers",
@@ -727,7 +727,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 18822463,
+      "downloads": 19010442,
       "likes": 1268,
       "tags": [
         "transformers",
@@ -742,6 +742,24 @@
     },
     {
       "rank": 12,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 13499212,
+      "likes": 1299,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 13,
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
@@ -758,12 +776,12 @@
       "lastModified": null
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1697520,
-      "likes": 4543,
+      "likes": 4544,
       "tags": [
         "transformers",
         "safetensors",
@@ -773,24 +791,6 @@
         "meta"
       ],
       "lastModified": null
-    },
-    {
-      "rank": 14,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 13499212,
-      "likes": 1298,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
       "rank": 15,
@@ -811,21 +811,20 @@
     },
     {
       "rank": 16,
-      "id": "aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
-      "url": "https://huggingface.co/aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
+      "id": "meta-llama/Llama-3.1-8B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
       "pipelineTag": "text-generation",
-      "downloads": 1544,
-      "likes": 38,
+      "downloads": 1249949,
+      "likes": 2210,
       "tags": [
         "transformers",
         "safetensors",
         "llama",
         "text-generation",
-        "roleplay",
-        "llama3"
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "The difference with normal quantizations is that I quantize the output and embed tensors to f16. and the other tensors to 15_k,q6_k or q8_0. This creates models that are little or not degraded at all and have a smaller size. They run at …"
+      "lastModified": null
     },
     {
       "rank": 17,
@@ -867,7 +866,7 @@
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 197216,
+      "downloads": 190525,
       "likes": 267,
       "tags": [
         "gguf",
@@ -882,45 +881,28 @@
     },
     {
       "rank": 20,
-      "id": "meta-llama/Llama-3.1-8B",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
+      "id": "aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
+      "url": "https://huggingface.co/aifeifei798/llama3-8B-DarkIdol-2.3-Uncensored-32K",
       "pipelineTag": "text-generation",
-      "downloads": 1249949,
-      "likes": 2208,
+      "downloads": 1544,
+      "likes": 38,
       "tags": [
         "transformers",
         "safetensors",
         "llama",
         "text-generation",
-        "facebook",
-        "meta"
+        "roleplay",
+        "llama3"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "The difference with normal quantizations is that I quantize the output and embed tensors to f16. and the other tensors to 15_k,q6_k or q8_0. This creates models that are little or not degraded at all and have a smaller size. They run at …"
     },
     {
       "rank": 21,
-      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "pipelineTag": "text-generation",
-      "downloads": 136995,
-      "likes": 154,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5_moe",
-        "image-text-to-text",
-        "text-generation",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
-    },
-    {
-      "rank": 22,
       "id": "WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "url": "https://huggingface.co/WithinUsAI/Opus4.7-GODs.Ghost.Codex-4B.GGuF",
       "pipelineTag": "text-generation",
-      "downloads": 34351,
+      "downloads": 33626,
       "likes": 72,
       "tags": [
         "gguf",
@@ -934,11 +916,11 @@
       "description": "Opus4.7 – GODsGhost Codex 4B is a compact, high-efficiency code-specialized language model designed for local inference via GGUF-compatible runtimes like llama.cpp and LM Studio."
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": "Simplified-Reasoning/SU-01",
       "url": "https://huggingface.co/Simplified-Reasoning/SU-01",
       "pipelineTag": "text-generation",
-      "downloads": 1085,
+      "downloads": 1143,
       "likes": 26,
       "tags": [
         "transformers",
@@ -950,6 +932,42 @@
       ],
       "lastModified": null,
       "description": "A compact 30B-A3B reasoning model for rigorous mathematical and scientific olympiad problem solving."
+    },
+    {
+      "rank": 23,
+      "id": "Qwen/Qwen3-8B",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 12815410,
+      "likes": 1101,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
+      "rank": 24,
+      "id": "Qwen/WebWorld-8B",
+      "url": "https://huggingface.co/Qwen/WebWorld-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 2581,
+      "likes": 55,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "WebWorld",
+        "web-agent"
+      ],
+      "lastModified": null,
+      "description": "WebWorld is a large-scale open-web world model series for training and evaluating web agents. It is trained on 1M+ real-world web interaction trajectories via a scalable hierarchical data pipeline, supporting:"
     }
   ]
 }
