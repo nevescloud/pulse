@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T00:52:19.920Z",
+  "updated": "2026-05-26T04:28:42.286Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars": 31097,
-      "forks": 2571,
+      "stars": 31999,
+      "forks": 2623,
       "starsToday": 5604
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 15450,
-      "forks": 1866,
+      "stars": 15735,
+      "forks": 1892,
       "starsToday": 1441
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 18562,
-      "forks": 3148,
+      "stars": 19050,
+      "forks": 3209,
       "starsToday": 3154
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 192350,
-      "forks": 29771,
+      "stars": 192755,
+      "forks": 29812,
       "starsToday": 2025
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 9237,
-      "forks": 1135,
+      "stars": 9404,
+      "forks": 1145,
       "starsToday": 1004
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/colbymchenry/codegraph",
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "TypeScript",
-      "stars": 24962,
-      "forks": 1381,
+      "stars": 25771,
+      "forks": 1431,
       "starsToday": 3161
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/manaflow-ai/cmux",
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "language": "Swift",
-      "stars": 19485,
-      "forks": 1473,
+      "stars": 19579,
+      "forks": 1478,
       "starsToday": 603
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
-      "stars": 154956,
-      "forks": 15885,
+      "stars": 155394,
+      "forks": 15936,
       "starsToday": 2749
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "Python",
-      "stars": 23875,
-      "forks": 3284,
+      "stars": 23957,
+      "forks": 3291,
       "starsToday": 317
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/paperless-ngx/paperless-ngx",
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "language": "Python",
-      "stars": 41333,
-      "forks": 2745,
+      "stars": 41403,
+      "forks": 2748,
       "starsToday": 176
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 44019,
-      "forks": 5047,
+      "stars": 44113,
+      "forks": 5053,
       "starsToday": 141
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars": 19712,
-      "forks": 1655,
+      "stars": 19987,
+      "forks": 1662,
       "starsToday": 264
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 39719,
-      "forks": 4021,
+      "stars": 39826,
+      "forks": 4025,
       "starsToday": 62
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 26025,
-      "forks": 4520,
+      "stars": 26081,
+      "forks": 4525,
       "starsToday": 245
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/Axorax/awesome-free-apps",
       "description": "Curated list of the best free apps for PC and mobile",
       "language": "JavaScript",
-      "stars": 4519,
-      "forks": 233,
+      "stars": 4661,
+      "forks": 238,
       "starsToday": 192
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": null,
-      "stars": 4397,
-      "forks": 384,
+      "stars": 4517,
+      "forks": 387,
       "starsToday": 345
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars": 102482,
-      "forks": 15286,
+      "stars": 102659,
+      "forks": 15312,
       "starsToday": 640
     }
   ]
