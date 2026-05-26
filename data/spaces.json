@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T18:52:56.895Z",
+  "updated": "2026-05-26T21:35:00.380Z",
   "trending": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
         "LLMs",
         "region:us"
       ],
-      "lastModified": "2026-05-22T13:46:27.000Z"
+      "lastModified": "2026-05-26T19:31:26.000Z"
     },
     {
       "rank": 10,
@@ -434,7 +434,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/openai/whisper",
       "sdk": "gradio",
-      "likes": 2758,
+      "likes": 2759,
       "tags": [
         "gradio",
         "region:us"
@@ -660,7 +660,7 @@
       "description": "Run 1.58-bit Bonsai LLMs locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-ternary-webgpu",
       "sdk": "static",
-      "likes": 143,
+      "likes": 144,
       "tags": [
         "static",
         "region:us"
