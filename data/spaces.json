@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T00:54:49.700Z",
+  "updated": "2026-05-27T04:33:19.432Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9457,
+      "likes": 9458,
       "tags": [
         "gradio",
         "region:us"
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4897,
+      "likes": 4898,
       "tags": [
         "static",
         "leaderboard",
@@ -231,7 +231,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/InstantX/InstantID",
       "sdk": "gradio",
-      "likes": 3605,
+      "likes": 3606,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3236,
+      "likes": 3237,
       "tags": [
         "gradio",
         "mcp-server",
@@ -302,7 +302,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3187,
+      "likes": 3188,
       "tags": [
         "docker",
         "research-article-template",
@@ -520,7 +520,7 @@
       "description": "Run Gemma 4 locally in-browser on WebGPU w/ Transformers.js",
       "url": "https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU",
       "sdk": "static",
-      "likes": 221,
+      "likes": 222,
       "tags": [
         "static",
         "region:us"
@@ -730,7 +730,7 @@
       "description": "A powerful AI chatbot that runs locally in your browser",
       "url": "https://huggingface.co/spaces/webml-community/llama-3.2-webgpu",
       "sdk": "static",
-      "likes": 96,
+      "likes": 97,
       "tags": [
         "static",
         "region:us"
@@ -767,6 +767,20 @@
     },
     {
       "rank": 24,
+      "id": "webml-community/Qwen3.5-WebGPU",
+      "title": "Qwen3.5 WebGPU",
+      "description": "Run Qwen3.5 (0.8B, 2B, 4B) in-browser with Transformers.js",
+      "url": "https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU",
+      "sdk": "static",
+      "likes": 77,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-04-22T23:39:36.000Z"
+    },
+    {
+      "rank": 25,
       "id": "webml-community/Nemotron-3-Nano-WebGPU",
       "title": "Nemotron 3 Nano WebGPU",
       "description": "A compact reasoning-capable model running in your browser.",
@@ -780,7 +794,7 @@
       "lastModified": "2026-03-19T21:30:19.000Z"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "webml-community/os1",
       "title": "OS1 (Ultravox Llama 3.2 1b + Kokoro TTS + Whisper)",
       "description": "In-browser local conversational AI inspired by 'Her'",
@@ -792,20 +806,6 @@
         "region:us"
       ],
       "lastModified": "2025-04-23T17:59:27.000Z"
-    },
-    {
-      "rank": 26,
-      "id": "webml-community/Qwen3.5-WebGPU",
-      "title": "Qwen3.5 WebGPU",
-      "description": "Run Qwen3.5 (0.8B, 2B, 4B) in-browser with Transformers.js",
-      "url": "https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU",
-      "sdk": "static",
-      "likes": 76,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-04-22T23:39:36.000Z"
     },
     {
       "rank": 27,
