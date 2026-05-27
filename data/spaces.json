@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T16:20:14.260Z",
+  "updated": "2026-05-27T18:52:01.245Z",
   "trending": [
     {
       "rank": 1,
@@ -842,7 +842,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 68,
+      "likes": 70,
       "tags": [
         "static",
         "region:us"

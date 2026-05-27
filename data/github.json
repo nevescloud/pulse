@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T16:20:15.745Z",
+  "updated": "2026-05-27T18:52:01.149Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars": 61100,
-      "forks": 8985,
+      "stars": 61444,
+      "forks": 9020,
       "starsToday": 1737
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/Lum1104/Understand-Anything",
       "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
-      "stars": 38967,
-      "forks": 3101,
+      "stars": 39264,
+      "forks": 3120,
       "starsToday": 4466
     },
     {
@@ -34,7 +34,7 @@
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": null,
-      "stars": 5483,
+      "stars": 5533,
       "forks": 427,
       "starsToday": 664
     },
@@ -46,8 +46,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 195712,
-      "forks": 30099,
+      "stars": 195820,
+      "forks": 30120,
       "starsToday": 2062
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
-      "stars": 17097,
-      "forks": 2008,
+      "stars": 17147,
+      "forks": 2011,
       "starsToday": 695
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars": 23699,
-      "forks": 1840,
+      "stars": 23901,
+      "forks": 1849,
       "starsToday": 2715
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/p-e-w/heretic",
       "description": "Fully automatic censorship removal for language models",
       "language": "Python",
-      "stars": 21895,
-      "forks": 2339,
+      "stars": 21935,
+      "forks": 2342,
       "starsToday": 219
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 26775,
-      "forks": 4642,
+      "stars": 26821,
+      "forks": 4651,
       "starsToday": 402
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 10725,
-      "forks": 1242,
+      "stars": 10803,
+      "forks": 1244,
       "starsToday": 885
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars": 47172,
-      "forks": 6700,
+      "stars": 47229,
+      "forks": 6706,
       "starsToday": 520
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
-      "stars": 168653,
-      "forks": 3162,
+      "stars": 168848,
+      "forks": 3178,
       "starsToday": 2223
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 209195,
-      "forks": 18637,
+      "stars": 209322,
+      "forks": 18647,
       "starsToday": 1680
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/byoungd/English-level-up-tips",
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": null,
-      "stars": 46125,
-      "forks": 4830,
+      "stars": 46286,
+      "forks": 4839,
       "starsToday": 1133
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/iii-hq/iii",
       "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
       "language": "Rust",
-      "stars": 16710,
-      "forks": 1100,
+      "stars": 16767,
+      "forks": 1102,
       "starsToday": 427
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/Axorax/awesome-free-apps",
       "description": "Curated list of the best free apps for PC and mobile",
       "language": "JavaScript",
-      "stars": 5719,
-      "forks": 289,
+      "stars": 5773,
+      "forks": 291,
       "starsToday": 728
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 40110,
-      "forks": 4043,
+      "stars": 40147,
+      "forks": 4045,
       "starsToday": 56
     }
   ]
