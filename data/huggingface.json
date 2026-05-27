@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T07:33:03.550Z",
+  "updated": "2026-05-27T10:27:01.198Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 262809768,
-      "likes": 4838,
+      "likes": 4839,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 56606743,
-      "likes": 112,
+      "likes": 114,
       "tags": [
         "transformers",
         "pytorch",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 15025942,
-      "likes": 704,
+      "likes": 705,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 14824838,
-      "likes": 711,
+      "likes": 713,
       "tags": [
         "transformers",
         "safetensors",
@@ -399,24 +399,6 @@
     },
     {
       "rank": 23,
-      "id": "amazon/chronos-2",
-      "url": "https://huggingface.co/amazon/chronos-2",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 14649731,
-      "likes": 293,
-      "tags": [
-        "chronos-forecasting",
-        "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "foundation models"
-      ],
-      "lastModified": null,
-      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
-    },
-    {
-      "rank": 24,
       "id": "lpiccinelli/unidepth-v2-vitl14",
       "url": "https://huggingface.co/lpiccinelli/unidepth-v2-vitl14",
       "pipelineTag": null,
@@ -434,7 +416,7 @@
       "description": "This model has been pushed to the Hub using the PytorchModelHubMixin integration:"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "distilbert/distilbert-base-uncased",
       "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
       "pipelineTag": "fill-mask",
@@ -450,6 +432,24 @@
       ],
       "lastModified": null,
       "description": "This model is a distilled version of the BERT base model. It was introduced in this paper. The code for the distillation process can be found here. This model is uncased: it does not make a difference between english and English."
+    },
+    {
+      "rank": 25,
+      "id": "amazon/chronos-2",
+      "url": "https://huggingface.co/amazon/chronos-2",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 14201776,
+      "likes": 293,
+      "tags": [
+        "chronos-forecasting",
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "Update Dec 30, 2025: ☁️ Deploy Chronos-2 on Amazon SageMaker. New guide covers real-time GPU and CPU inference, serverless endpoints (run on demand, no idle costs), and batch transform for large-scale forecasting."
     },
     {
       "rank": 26,
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 12888382,
-      "likes": 1103,
+      "likes": 1104,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 2409,
-      "likes": 339,
+      "likes": 350,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 103033,
-      "likes": 381,
+      "likes": 383,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B",
       "pipelineTag": "text-generation",
       "downloads": 1202,
-      "likes": 81,
+      "likes": 88,
       "tags": [
         "transformers",
         "pytorch",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf",
       "pipelineTag": "text-generation",
       "downloads": 1282,
-      "likes": 44,
+      "likes": 46,
       "tags": [
         "transformers",
         "gguf",
@@ -639,7 +639,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10533318,
-      "likes": 5907,
+      "likes": 5908,
       "tags": [
         "transformers",
         "safetensors",
@@ -652,6 +652,24 @@
     },
     {
       "rank": 7,
+      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 33023,
+      "likes": 29,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nvidia",
+        "pytorch",
+        "text-generation",
+        "license:other"
+      ],
+      "lastModified": null,
+      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
+    },
+    {
+      "rank": 8,
       "id": "HuggingFaceBio/Carbon-8B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
@@ -669,29 +687,28 @@
       "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
     },
     {
-      "rank": 8,
-      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
+      "rank": 9,
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 30473,
-      "likes": 28,
+      "downloads": 8270484,
+      "likes": 1439,
       "tags": [
         "transformers",
         "safetensors",
-        "nvidia",
-        "pytorch",
+        "llama",
         "text-generation",
-        "license:other"
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
+      "lastModified": null
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "nvidia/Nemotron-Labs-Diffusion-3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
       "pipelineTag": "text-generation",
-      "downloads": 22203,
+      "downloads": 23249,
       "likes": 27,
       "tags": [
         "transformers",
@@ -705,29 +722,12 @@
       "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "meta-llama/Llama-3.2-1B",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
       "pipelineTag": "text-generation",
       "downloads": 2224408,
       "likes": 2407,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 11,
-      "id": "meta-llama/Llama-3.2-1B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8270484,
-      "likes": 1437,
       "tags": [
         "transformers",
         "safetensors",
@@ -758,6 +758,40 @@
     },
     {
       "rank": 13,
+      "id": "meta-llama/Llama-3.1-8B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 1252658,
+      "likes": 2213,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 14,
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 2079726,
+      "likes": 2155,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 15,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
@@ -775,46 +809,12 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 14,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 2079726,
-      "likes": 2154,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 15,
-      "id": "meta-llama/Llama-3.1-8B",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1252658,
-      "likes": 2211,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 16,
       "id": "NousResearch/Hermes-3-Llama-3.1-8B",
       "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
       "pipelineTag": "text-generation",
       "downloads": 228298,
-      "likes": 444,
+      "likes": 445,
       "tags": [
         "transformers",
         "safetensors",
@@ -846,11 +846,11 @@
     },
     {
       "rank": 18,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "id": "Qwen/Qwen3-8B",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 19389425,
-      "likes": 1268,
+      "downloads": 12888382,
+      "likes": 1104,
       "tags": [
         "transformers",
         "safetensors",
@@ -886,7 +886,7 @@
       "url": "https://huggingface.co/google/gemma-3-1b-it",
       "pipelineTag": "text-generation",
       "downloads": 1316727,
-      "likes": 966,
+      "likes": 967,
       "tags": [
         "transformers",
         "safetensors",
@@ -899,11 +899,11 @@
     },
     {
       "rank": 21,
-      "id": "Qwen/Qwen3-8B",
-      "url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 12888382,
-      "likes": 1103,
+      "downloads": 19389425,
+      "likes": 1268,
       "tags": [
         "transformers",
         "safetensors",
