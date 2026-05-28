@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T10:29:33.225Z",
+  "updated": "2026-05-28T13:21:24.302Z",
   "trending": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 13987,
+      "likes": 13989,
       "tags": [
         "docker",
         "leaderboard",
@@ -74,7 +74,7 @@
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-05-23T13:12:36.000Z"
+      "lastModified": "2026-05-28T10:48:57.000Z"
     },
     {
       "rank": 6,
@@ -273,7 +273,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3274,
+      "likes": 3275,
       "tags": [
         "docker",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3245,
+      "likes": 3246,
       "tags": [
         "gradio",
         "mcp-server",
@@ -302,7 +302,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3190,
+      "likes": 3191,
       "tags": [
         "docker",
         "research-article-template",
@@ -739,6 +739,20 @@
     },
     {
       "rank": 22,
+      "id": "webml-community/bonsai-image-webgpu",
+      "title": "Bonsai Image WebGPU",
+      "description": "State-of-the-art image generation, in your browser.",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
+      "sdk": "static",
+      "likes": 89,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-05-26T20:57:36.000Z"
+    },
+    {
+      "rank": 23,
       "id": "webml-community/DINOv3-video-tracking",
       "title": "DINOv3 Video Tracking",
       "description": "In-browser video tracking, powered by Transformers.js",
@@ -752,7 +766,7 @@
       "lastModified": "2026-02-20T03:38:06.000Z"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "webml-community/KittenTTS-web",
       "title": "KittenTTS Web",
       "description": "State-of-the-art TTS model under 25MB",
@@ -764,20 +778,6 @@
         "region:us"
       ],
       "lastModified": "2025-08-12T17:16:49.000Z"
-    },
-    {
-      "rank": 24,
-      "id": "webml-community/bonsai-image-webgpu",
-      "title": "Bonsai Image WebGPU",
-      "description": "State-of-the-art image generation, in your browser.",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
-      "sdk": "static",
-      "likes": 86,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-05-26T20:57:36.000Z"
     },
     {
       "rank": 25,
