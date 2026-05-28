@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T18:57:21.085Z",
+  "updated": "2026-05-28T21:41:58.204Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 262546600,
-      "likes": 4850,
+      "likes": 4851,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 49493765,
-      "likes": 1241,
+      "likes": 1242,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 14957759,
-      "likes": 708,
+      "likes": 709,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/distilbert/distilbert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 13992558,
-      "likes": 884,
+      "likes": 885,
       "tags": [
         "transformers",
         "pytorch",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 13797972,
-      "likes": 299,
+      "likes": 300,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 12033584,
-      "likes": 6226,
+      "likes": 6227,
       "tags": [
         "text-to-speech",
         "en",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 15629,
-      "likes": 477,
+      "likes": 488,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 121862,
-      "likes": 399,
+      "likes": 400,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 0,
-      "likes": 74,
+      "likes": 96,
       "tags": [
         "transformers",
         "safetensors",
@@ -634,6 +634,24 @@
     },
     {
       "rank": 6,
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 42,
+      "likes": 49,
+      "tags": [
+        "gguf",
+        "liquid",
+        "lfm2",
+        "edge",
+        "llama.cpp",
+        "text-generation"
+      ],
+      "lastModified": null,
+      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
+    },
+    {
+      "rank": 7,
       "id": "openbmb/BitCPM-CANN-8B-gguf",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf",
       "pipelineTag": "text-generation",
@@ -649,24 +667,6 @@
       ],
       "lastModified": null,
       "description": "BitCPM-CANN is the first end-to-end 1.58-bit (ternary) large language model training system natively built on Huawei Ascend NPU. The system integrates quantization-aware training (QAT) into the Megatron-LM framework with MindSpeed accele…"
-    },
-    {
-      "rank": 7,
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 42,
-      "likes": 35,
-      "tags": [
-        "gguf",
-        "liquid",
-        "lfm2",
-        "edge",
-        "llama.cpp",
-        "text-generation"
-      ],
-      "lastModified": null,
-      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
       "rank": 8,
