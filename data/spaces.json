@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T16:28:26.460Z",
+  "updated": "2026-05-28T18:57:20.765Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7421,
+      "likes": 7422,
       "tags": [
         "docker",
         "leaderboard",
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3248,
+      "likes": 3249,
       "tags": [
         "gradio",
         "mcp-server",
@@ -302,7 +302,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3193,
+      "likes": 3194,
       "tags": [
         "docker",
         "research-article-template",
@@ -377,7 +377,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2847,
+      "likes": 2849,
       "tags": [
         "gradio",
         "mcp-server",
@@ -744,7 +744,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 91,
+      "likes": 95,
       "tags": [
         "static",
         "region:us"
