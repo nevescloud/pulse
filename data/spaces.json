@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T07:27:32.312Z",
+  "updated": "2026-05-28T10:29:33.225Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10088,
+      "likes": 10087,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3243,
+      "likes": 3245,
       "tags": [
         "gradio",
         "mcp-server",
@@ -730,7 +730,7 @@
       "description": "A powerful AI chatbot that runs locally in your browser",
       "url": "https://huggingface.co/spaces/webml-community/llama-3.2-webgpu",
       "sdk": "static",
-      "likes": 98,
+      "likes": 99,
       "tags": [
         "static",
         "region:us"
@@ -772,7 +772,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 84,
+      "likes": 86,
       "tags": [
         "static",
         "region:us"
