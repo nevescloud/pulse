@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T18:56:37.925Z",
+  "updated": "2026-05-29T21:37:13.675Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 261695055,
-      "likes": 4856,
+      "likes": 4858,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 23629,
-      "likes": 543,
+      "likes": 547,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 8854,
-      "likes": 192,
+      "likes": 204,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 131828,
-      "likes": 404,
+      "likes": 405,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 5293,
-      "likes": 101,
+      "likes": 102,
       "tags": [
         "gguf",
         "liquid",
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 14018,
-      "likes": 115,
+      "likes": 116,
       "tags": [
         "transformers",
         "gguf",
@@ -709,7 +709,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
       "pipelineTag": "text-generation",
       "downloads": 2222053,
-      "likes": 2414,
+      "likes": 2415,
       "tags": [
         "transformers",
         "safetensors",
@@ -722,6 +722,23 @@
     },
     {
       "rank": 11,
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1969088,
+      "likes": 2163,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 12,
       "id": "nvidia/Nemotron-Labs-Diffusion-8B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
       "pipelineTag": "text-generation",
@@ -739,38 +756,22 @@
       "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
-      "rank": 12,
-      "id": "meta-llama/Llama-3.2-1B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8258782,
-      "likes": 1444,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 13,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
+      "url": "https://huggingface.co/unsloth/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 1969088,
-      "likes": 2163,
+      "downloads": 0,
+      "likes": 16,
       "tags": [
         "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
+        "gguf",
+        "liquid",
+        "unsloth",
+        "lfm2.5",
+        "edge"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
       "rank": 14,
@@ -791,11 +792,28 @@
     },
     {
       "rank": 15,
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8258782,
+      "likes": 1444,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 16,
       "id": "Abiray/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/Abiray/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 3607,
-      "likes": 13,
+      "likes": 14,
       "tags": [
         "gguf",
         "minicpm",
@@ -806,24 +824,6 @@
       ],
       "lastModified": null,
       "description": "This repository contains custom GGUF format quantizations of the openbmb/MiniCPM5-1B model."
-    },
-    {
-      "rank": 16,
-      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
-      "url": "https://huggingface.co/unsloth/LFM2.5-8B-A1B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 0,
-      "likes": 13,
-      "tags": [
-        "transformers",
-        "gguf",
-        "liquid",
-        "unsloth",
-        "lfm2.5",
-        "edge"
-      ],
-      "lastModified": null,
-      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
       "rank": 17,
@@ -881,24 +881,6 @@
     },
     {
       "rank": 20,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 19751122,
-      "likes": 1276,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 21,
       "id": "nvidia/Nemotron-Labs-Diffusion-3B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
       "pipelineTag": "text-generation",
@@ -916,7 +898,7 @@
       "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "LiquidAI/LFM2.5-8B-A1B-Base",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-Base",
       "pipelineTag": "text-generation",
@@ -934,7 +916,7 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "id": "google/gemma-3-1b-it",
       "url": "https://huggingface.co/google/gemma-3-1b-it",
       "pipelineTag": "text-generation",
@@ -951,12 +933,12 @@
       "lastModified": null
     },
     {
-      "rank": 24,
-      "id": "Qwen/Qwen3-4B-Instruct-2507",
-      "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
+      "rank": 23,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 6300742,
-      "likes": 861,
+      "downloads": 19751122,
+      "likes": 1276,
       "tags": [
         "transformers",
         "safetensors",
@@ -966,10 +948,10 @@
         "license:apache-2.0"
       ],
       "lastModified": null,
-      "description": "We introduce the updated version of the Qwen3-4B non-thinking mode, named Qwen3-4B-Instruct-2507, featuring the following key enhancements:"
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "HuggingFaceBio/Carbon-8B",
       "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
@@ -987,7 +969,7 @@
       "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
     },
     {
-      "rank": 26,
+      "rank": 25,
       "id": "meta-llama/Meta-Llama-3-8B",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
       "pipelineTag": "text-generation",
@@ -1004,7 +986,7 @@
       "lastModified": null
     },
     {
-      "rank": 27,
+      "rank": 26,
       "id": "NousResearch/Hermes-3-Llama-3.1-8B",
       "url": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.1-8B",
       "pipelineTag": "text-generation",

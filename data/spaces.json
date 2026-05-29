@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T18:56:37.637Z",
+  "updated": "2026-05-29T21:37:13.132Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7424,
+      "likes": 7425,
       "tags": [
         "docker",
         "leaderboard",
@@ -273,7 +273,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3276,
+      "likes": 3277,
       "tags": [
         "docker",
         "region:us"
@@ -683,6 +683,20 @@
     },
     {
       "rank": 18,
+      "id": "webml-community/bonsai-image-webgpu",
+      "title": "Bonsai Image WebGPU",
+      "description": "State-of-the-art image generation, in your browser.",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
+      "sdk": "static",
+      "likes": 117,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-05-29T02:57:22.000Z"
+    },
+    {
+      "rank": 19,
       "id": "webml-community/Supertonic-TTS-WebGPU",
       "title": "Supertonic TTS WebGPU",
       "description": "Blazingly fast text-to-speech 100% locally in your browser!",
@@ -694,20 +708,6 @@
         "region:us"
       ],
       "lastModified": "2026-05-12T19:31:14.000Z"
-    },
-    {
-      "rank": 19,
-      "id": "webml-community/bonsai-image-webgpu",
-      "title": "Bonsai Image WebGPU",
-      "description": "State-of-the-art image generation, in your browser.",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
-      "sdk": "static",
-      "likes": 115,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-05-29T02:57:22.000Z"
     },
     {
       "rank": 20,
