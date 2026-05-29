@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T07:27:08.409Z",
+  "updated": "2026-05-29T10:23:04.625Z",
   "models": [
     {
       "rank": 1,
@@ -258,7 +258,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 19429190,
+      "downloads": 19751122,
       "likes": 1274,
       "tags": [
         "transformers",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 15101698,
-      "likes": 672,
+      "likes": 673,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -402,8 +402,8 @@
       "id": "amazon/chronos-2",
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 13797972,
-      "likes": 300,
+      "downloads": 13718727,
+      "likes": 301,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -438,7 +438,7 @@
       "id": "autogluon/chronos-2",
       "url": "https://huggingface.co/autogluon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 13431044,
+      "downloads": 13475956,
       "likes": 24,
       "tags": [
         "chronos-forecasting",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12956418,
-      "likes": 1305,
+      "likes": 1306,
       "tags": [
         "transformers",
         "safetensors",
@@ -510,7 +510,7 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 12823764,
+      "downloads": 12775970,
       "likes": 1107,
       "tags": [
         "transformers",
@@ -528,8 +528,8 @@
       "id": "hexgrad/Kokoro-82M",
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
-      "downloads": 12033584,
-      "likes": 6231,
+      "downloads": 12302897,
+      "likes": 6232,
       "tags": [
         "text-to-speech",
         "en",
@@ -547,8 +547,8 @@
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 15629,
-      "likes": 510,
+      "downloads": 23629,
+      "likes": 521,
       "tags": [
         "transformers",
         "safetensors",
@@ -565,8 +565,8 @@
       "id": "sapientinc/HRM-Text-1B",
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
-      "downloads": 121862,
-      "likes": 402,
+      "downloads": 131828,
+      "likes": 403,
       "tags": [
         "transformers",
         "safetensors",
@@ -583,8 +583,8 @@
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
-      "downloads": 0,
-      "likes": 140,
+      "downloads": 8854,
+      "likes": 151,
       "tags": [
         "transformers",
         "safetensors",
@@ -601,8 +601,8 @@
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 42,
-      "likes": 81,
+      "downloads": 5293,
+      "likes": 83,
       "tags": [
         "gguf",
         "liquid",
@@ -619,7 +619,7 @@
       "id": "openbmb/BitCPM-CANN-8B",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B",
       "pipelineTag": "text-generation",
-      "downloads": 2439,
+      "downloads": 2980,
       "likes": 97,
       "tags": [
         "transformers",
@@ -637,8 +637,8 @@
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 10742,
-      "likes": 111,
+      "downloads": 14018,
+      "likes": 113,
       "tags": [
         "transformers",
         "gguf",
@@ -655,7 +655,7 @@
       "id": "openbmb/BitCPM-CANN-8B-gguf",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf",
       "pipelineTag": "text-generation",
-      "downloads": 2152,
+      "downloads": 2618,
       "likes": 46,
       "tags": [
         "transformers",
@@ -674,7 +674,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10440860,
-      "likes": 5922,
+      "likes": 5923,
       "tags": [
         "transformers",
         "safetensors",
@@ -690,8 +690,8 @@
       "id": "nvidia/Nemotron-Labs-Diffusion-8B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
       "pipelineTag": "text-generation",
-      "downloads": 35401,
-      "likes": 32,
+      "downloads": 36837,
+      "likes": 34,
       "tags": [
         "transformers",
         "safetensors",
@@ -708,7 +708,7 @@
       "id": "openbmb/MiniCPM5-1B-SFT",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 1120,
+      "downloads": 1800,
       "likes": 20,
       "tags": [
         "transformers",
@@ -791,6 +791,24 @@
     },
     {
       "rank": 15,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 12956418,
+      "likes": 1306,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 16,
       "id": "Qwen/Qwen2.5-1.5B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
@@ -808,11 +826,28 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 16,
+      "rank": 17,
+      "id": "google/gemma-3-1b-it",
+      "url": "https://huggingface.co/google/gemma-3-1b-it",
+      "pipelineTag": "text-generation",
+      "downloads": 1433587,
+      "likes": 971,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma3_text",
+        "text-generation",
+        "conversational",
+        "license:gemma"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 18,
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "url": "https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507",
       "pipelineTag": "text-generation",
-      "downloads": 6316078,
+      "downloads": 6300742,
       "likes": 861,
       "tags": [
         "transformers",
@@ -826,82 +861,29 @@
       "description": "We introduce the updated version of the Qwen3-4B non-thinking mode, named Qwen3-4B-Instruct-2507, featuring the following key enhancements:"
     },
     {
-      "rank": 17,
-      "id": "nvidia/Nemotron-Labs-Diffusion-3B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
-      "pipelineTag": "text-generation",
-      "downloads": 23126,
-      "likes": 27,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nvidia",
-        "pytorch",
-        "text-generation",
-        "license:other"
-      ],
-      "lastModified": null,
-      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
-    },
-    {
-      "rank": 18,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 12956418,
-      "likes": 1305,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
       "rank": 19,
-      "id": "google/gemma-3-1b-it",
-      "url": "https://huggingface.co/google/gemma-3-1b-it",
+      "id": "Abiray/MiniCPM5-1B-GGUF",
+      "url": "https://huggingface.co/Abiray/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 1376992,
-      "likes": 971,
+      "downloads": 3607,
+      "likes": 11,
       "tags": [
-        "transformers",
-        "safetensors",
-        "gemma3_text",
+        "gguf",
+        "minicpm",
+        "minicpm5",
+        "llama",
         "text-generation",
-        "conversational",
-        "license:gemma"
+        "tool-calling"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "This repository contains custom GGUF format quantizations of the openbmb/MiniCPM5-1B model."
     },
     {
       "rank": 20,
-      "id": "HuggingFaceBio/Carbon-8B",
-      "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1932,
-      "likes": 38,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "dna",
-        "genomic"
-      ],
-      "lastModified": null,
-      "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
-    },
-    {
-      "rank": 21,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 19429190,
+      "downloads": 19751122,
       "likes": 1274,
       "tags": [
         "transformers",
@@ -915,11 +897,11 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 12823764,
+      "downloads": 12775970,
       "likes": 1107,
       "tags": [
         "transformers",
@@ -933,11 +915,29 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
+      "rank": 22,
+      "id": "nvidia/Nemotron-Labs-Diffusion-3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-3B",
+      "pipelineTag": "text-generation",
+      "downloads": 23507,
+      "likes": 27,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nvidia",
+        "pytorch",
+        "text-generation",
+        "license:other"
+      ],
+      "lastModified": null,
+      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
+    },
+    {
       "rank": 23,
       "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
-      "downloads": 71378,
+      "downloads": 47982,
       "likes": 158,
       "tags": [
         "transformers",
@@ -952,21 +952,21 @@
     },
     {
       "rank": 24,
-      "id": "Abiray/MiniCPM5-1B-GGUF",
-      "url": "https://huggingface.co/Abiray/MiniCPM5-1B-GGUF",
+      "id": "HuggingFaceBio/Carbon-8B",
+      "url": "https://huggingface.co/HuggingFaceBio/Carbon-8B",
       "pipelineTag": "text-generation",
-      "downloads": 2342,
-      "likes": 10,
+      "downloads": 1978,
+      "likes": 38,
       "tags": [
-        "gguf",
-        "minicpm",
-        "minicpm5",
+        "transformers",
+        "safetensors",
         "llama",
         "text-generation",
-        "tool-calling"
+        "dna",
+        "genomic"
       ],
       "lastModified": null,
-      "description": "This repository contains custom GGUF format quantizations of the openbmb/MiniCPM5-1B model."
+      "description": "A larger, higher-capacity member of the Carbon family of generative DNA foundation models."
     },
     {
       "rank": 25,

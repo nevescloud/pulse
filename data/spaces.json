@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T07:27:08.208Z",
+  "updated": "2026-05-29T10:23:04.160Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7422,
+      "likes": 7423,
       "tags": [
         "docker",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3291,
+      "likes": 3292,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3249,
+      "likes": 3250,
       "tags": [
         "gradio",
         "mcp-server",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3148,
+      "likes": 3149,
       "tags": [
         "gradio",
         "mcp-server",
@@ -711,6 +711,20 @@
     },
     {
       "rank": 20,
+      "id": "webml-community/bonsai-image-webgpu",
+      "title": "Bonsai Image WebGPU",
+      "description": "State-of-the-art image generation, in your browser.",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
+      "sdk": "static",
+      "likes": 106,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-05-29T02:57:22.000Z"
+    },
+    {
+      "rank": 21,
       "id": "webml-community/qwen3-webgpu",
       "title": "Qwen3 WebGPU",
       "description": "A hybrid reasoning model that runs locally in your browser.",
@@ -722,20 +736,6 @@
         "region:us"
       ],
       "lastModified": "2025-04-29T02:03:46.000Z"
-    },
-    {
-      "rank": 21,
-      "id": "webml-community/bonsai-image-webgpu",
-      "title": "Bonsai Image WebGPU",
-      "description": "State-of-the-art image generation, in your browser.",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
-      "sdk": "static",
-      "likes": 102,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-05-29T02:57:22.000Z"
     },
     {
       "rank": 22,
