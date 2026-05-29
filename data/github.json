@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T16:20:40.212Z",
+  "updated": "2026-05-29T18:56:37.872Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars": 69037,
-      "forks": 9960,
+      "stars": 69291,
+      "forks": 9993,
       "starsToday": 3563
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 129187,
-      "forks": 8861,
+      "stars": 129474,
+      "forks": 8880,
       "starsToday": 1876
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars": 18029,
-      "forks": 1372,
+      "stars": 18065,
+      "forks": 1374,
       "starsToday": 354
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars": 48246,
-      "forks": 6836,
+      "stars": 48305,
+      "forks": 6847,
       "starsToday": 575
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars": 127726,
-      "forks": 20893,
+      "stars": 127774,
+      "forks": 20901,
       "starsToday": 460
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars": 27753,
-      "forks": 2058,
+      "stars": 27894,
+      "forks": 2069,
       "starsToday": 2066
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 1211,
-      "forks": 105,
+      "stars": 1241,
+      "forks": 106,
       "starsToday": 129
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/run-llama/liteparse",
       "description": "A fast, helpful, and open-source document parser",
       "language": "Rust",
-      "stars": 6972,
-      "forks": 432,
+      "stars": 7101,
+      "forks": 438,
       "starsToday": 680
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
-      "stars": 1138,
-      "forks": 143,
+      "stars": 1183,
+      "forks": 145,
       "starsToday": 346
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/byoungd/English-level-up-tips",
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": null,
-      "stars": 49535,
-      "forks": 5190,
+      "stars": 49586,
+      "forks": 5191,
       "starsToday": 1564
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/Biohub/esm",
       "description": "",
       "language": "Jupyter Notebook",
-      "stars": 2529,
-      "forks": 311,
+      "stars": 2543,
+      "forks": 312,
       "starsToday": 64
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": 26799,
-      "forks": 2646,
+      "stars": 26842,
+      "forks": 2647,
       "starsToday": 294
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
-      "stars": 171515,
-      "forks": 3333,
+      "stars": 171614,
+      "forks": 3335,
       "starsToday": 1317
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 198297,
-      "forks": 30472,
+      "stars": 198408,
+      "forks": 30489,
       "starsToday": 1413
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": null,
-      "stars": 6819,
-      "forks": 480,
+      "stars": 6875,
+      "forks": 483,
       "starsToday": 618
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
       "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
       "language": "Jupyter Notebook",
-      "stars": 41474,
-      "forks": 8264,
+      "stars": 41497,
+      "forks": 8268,
       "starsToday": 180
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 507115,
-      "forks": 48152,
+      "stars": 507211,
+      "forks": 48158,
       "starsToday": 867
     }
   ]
