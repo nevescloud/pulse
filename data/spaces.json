@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T18:27:42.955Z",
+  "updated": "2026-05-30T21:23:52.054Z",
   "trending": [
     {
       "rank": 1,
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3262,
+      "likes": 3264,
       "tags": [
         "gradio",
         "mcp-server",
@@ -434,7 +434,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/openai/whisper",
       "sdk": "gradio",
-      "likes": 2762,
+      "likes": 2763,
       "tags": [
         "gradio",
         "region:us"
