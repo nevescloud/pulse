@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T04:25:10.190Z",
+  "updated": "2026-05-30T07:06:27.735Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars": 70098,
-      "forks": 10104,
+      "stars": 70459,
+      "forks": 10160,
       "starsToday": 3567
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 130241,
-      "forks": 8936,
+      "stars": 130487,
+      "forks": 8946,
       "starsToday": 1873
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars": 18191,
-      "forks": 1383,
+      "stars": 18230,
+      "forks": 1384,
       "starsToday": 353
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars": 48463,
-      "forks": 6872,
+      "stars": 48515,
+      "forks": 6880,
       "starsToday": 578
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars": 127959,
-      "forks": 20921,
+      "stars": 128018,
+      "forks": 20926,
       "starsToday": 395
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars": 28336,
-      "forks": 2094,
+      "stars": 28462,
+      "forks": 2106,
       "starsToday": 2062
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 1320,
+      "stars": 1344,
       "forks": 113,
       "starsToday": 134
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/run-llama/liteparse",
       "description": "A fast, helpful, and open-source document parser",
       "language": "Rust",
-      "stars": 7420,
-      "forks": 451,
+      "stars": 7495,
+      "forks": 454,
       "starsToday": 701
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
-      "stars": 1280,
-      "forks": 151,
+      "stars": 1308,
+      "forks": 153,
       "starsToday": 362
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/byoungd/English-level-up-tips",
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": null,
-      "stars": 49719,
-      "forks": 5208,
+      "stars": 49784,
+      "forks": 5210,
       "starsToday": 1566
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://github.com/Biohub/esm",
       "description": "",
       "language": "Jupyter Notebook",
-      "stars": 2580,
+      "stars": 2584,
       "forks": 314,
       "starsToday": 52
     },
@@ -142,7 +142,7 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": 27019,
+      "stars": 27057,
       "forks": 2658,
       "starsToday": 318
     },
@@ -154,8 +154,8 @@
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "language": "HTML",
-      "stars": 171931,
-      "forks": 3351,
+      "stars": 172028,
+      "forks": 3360,
       "starsToday": 1313
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 198669,
-      "forks": 30531,
+      "stars": 198755,
+      "forks": 30540,
       "starsToday": 1406
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/hardikpandya/stop-slop",
       "description": "A skill file for removing AI tells from prose",
       "language": null,
-      "stars": 7074,
-      "forks": 496,
+      "stars": 7115,
+      "forks": 499,
       "starsToday": 617
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
       "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
       "language": "Jupyter Notebook",
-      "stars": 41598,
-      "forks": 8274,
+      "stars": 41628,
+      "forks": 8278,
       "starsToday": 160
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 507464,
-      "forks": 48187,
+      "stars": 507566,
+      "forks": 48201,
       "starsToday": 866
     }
   ]

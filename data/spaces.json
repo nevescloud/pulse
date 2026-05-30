@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T04:25:08.833Z",
+  "updated": "2026-05-30T07:06:26.460Z",
   "trending": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3293,
+      "likes": 3294,
       "tags": [
         "gradio",
         "region:us"
@@ -688,7 +688,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 119,
+      "likes": 120,
       "tags": [
         "static",
         "region:us"
@@ -781,6 +781,20 @@
     },
     {
       "rank": 25,
+      "id": "webml-community/os1",
+      "title": "OS1 (Ultravox Llama 3.2 1b + Kokoro TTS + Whisper)",
+      "description": "In-browser local conversational AI inspired by 'Her'",
+      "url": "https://huggingface.co/spaces/webml-community/os1",
+      "sdk": "static",
+      "likes": 77,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2025-04-23T17:59:27.000Z"
+    },
+    {
+      "rank": 26,
       "id": "webml-community/Qwen3.5-WebGPU",
       "title": "Qwen3.5 WebGPU",
       "description": "Run Qwen3.5 (0.8B, 2B, 4B) in-browser with Transformers.js",
@@ -794,7 +808,7 @@
       "lastModified": "2026-04-22T23:39:36.000Z"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "webml-community/Nemotron-3-Nano-WebGPU",
       "title": "Nemotron 3 Nano WebGPU",
       "description": "A compact reasoning-capable model running in your browser.",
@@ -806,20 +820,6 @@
         "region:us"
       ],
       "lastModified": "2026-03-19T21:30:19.000Z"
-    },
-    {
-      "rank": 27,
-      "id": "webml-community/os1",
-      "title": "OS1 (Ultravox Llama 3.2 1b + Kokoro TTS + Whisper)",
-      "description": "In-browser local conversational AI inspired by 'Her'",
-      "url": "https://huggingface.co/spaces/webml-community/os1",
-      "sdk": "static",
-      "likes": 76,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2025-04-23T17:59:27.000Z"
     },
     {
       "rank": 28,
