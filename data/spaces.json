@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T00:52:34.549Z",
+  "updated": "2026-05-30T04:25:08.833Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7426,
+      "likes": 7427,
       "tags": [
         "docker",
         "leaderboard",
@@ -245,7 +245,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3329,
+      "likes": 3330,
       "tags": [
         "gradio",
         "region:us"
@@ -259,7 +259,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3292,
+      "likes": 3293,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3255,
+      "likes": 3257,
       "tags": [
         "gradio",
         "mcp-server",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3150,
+      "likes": 3151,
       "tags": [
         "gradio",
         "mcp-server",
@@ -363,7 +363,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2870,
+      "likes": 2871,
       "tags": [
         "gradio",
         "region:us"
@@ -688,7 +688,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 117,
+      "likes": 119,
       "tags": [
         "static",
         "region:us"
