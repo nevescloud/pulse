@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T15:29:57.485Z",
+  "updated": "2026-05-30T18:27:42.955Z",
   "trending": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11096,
+      "likes": 11097,
       "tags": [
         "docker",
         "region:us"
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7429,
+      "likes": 7430,
       "tags": [
         "docker",
         "leaderboard",
@@ -111,7 +111,7 @@
       "description": "Wan2.2 Animate",
       "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
       "sdk": "gradio",
-      "likes": 5121,
+      "likes": 5119,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3261,
+      "likes": 3262,
       "tags": [
         "gradio",
         "mcp-server",
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3151,
+      "likes": 3152,
       "tags": [
         "gradio",
         "mcp-server",
@@ -363,7 +363,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2873,
+      "likes": 2872,
       "tags": [
         "gradio",
         "region:us"
@@ -688,7 +688,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 125,
+      "likes": 126,
       "tags": [
         "static",
         "region:us"
