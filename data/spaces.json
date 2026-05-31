@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T21:23:52.054Z",
+  "updated": "2026-05-31T00:57:34.973Z",
   "trending": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 13993,
+      "likes": 13994,
       "tags": [
         "docker",
         "leaderboard",
@@ -434,7 +434,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/openai/whisper",
       "sdk": "gradio",
-      "likes": 2763,
+      "likes": 2764,
       "tags": [
         "gradio",
         "region:us"
@@ -688,7 +688,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 126,
+      "likes": 128,
       "tags": [
         "static",
         "region:us"
