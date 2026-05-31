@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T07:24:10.347Z",
+  "updated": "2026-05-31T09:54:40.717Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 133107,
-      "forks": 9110,
+      "stars": 133463,
+      "forks": 9130,
       "starsToday": 2470
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars": 72526,
-      "forks": 10384,
+      "stars": 72805,
+      "forks": 10404,
       "starsToday": 2768
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "Python",
-      "stars": 128517,
-      "forks": 20954,
+      "stars": 128576,
+      "forks": 20960,
       "starsToday": 592
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 1515,
-      "forks": 121,
+      "stars": 1536,
+      "forks": 122,
       "starsToday": 205
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars": 4354,
-      "forks": 630,
+      "stars": 4390,
+      "forks": 631,
       "starsToday": 55
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "language": "TypeScript",
-      "stars": 18475,
-      "forks": 1397,
+      "stars": 18512,
+      "forks": 1399,
       "starsToday": 349
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 199557,
-      "forks": 30639,
+      "stars": 199674,
+      "forks": 30651,
       "starsToday": 908
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars": 22944,
-      "forks": 2684,
+      "stars": 23036,
+      "forks": 2693,
       "starsToday": 779
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "description": "A platform for reproducible world model research and evaluation",
       "language": "Python",
-      "stars": 1501,
-      "forks": 169,
+      "stars": 1523,
+      "forks": 171,
       "starsToday": 318
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": 27428,
-      "forks": 2691,
+      "stars": 27478,
+      "forks": 2696,
       "starsToday": 469
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/run-llama/liteparse",
       "description": "A fast, helpful, and open-source document parser",
       "language": "Rust",
-      "stars": 8039,
-      "forks": 474,
+      "stars": 8097,
+      "forks": 481,
       "starsToday": 925
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/chen08209/FlClash",
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
-      "stars": 40442,
-      "forks": 2533,
+      "stars": 40470,
+      "forks": 2534,
       "starsToday": 187
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
       "language": "Jupyter Notebook",
-      "stars": 2410,
-      "forks": 385,
+      "stars": 2476,
+      "forks": 392,
       "starsToday": 327
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 69083,
-      "forks": 9216,
+      "stars": 69174,
+      "forks": 9231,
       "starsToday": 655
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
       "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
       "language": "Jupyter Notebook",
-      "stars": 41829,
-      "forks": 8290,
+      "stars": 41844,
+      "forks": 8292,
       "starsToday": 274
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/OpenMOSS/MOSS-TTS",
       "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
       "language": "Python",
-      "stars": 2693,
-      "forks": 240,
+      "stars": 2724,
+      "forks": 243,
       "starsToday": 62
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/dreammis/social-auto-upload",
       "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
       "language": "Python",
-      "stars": 11890,
-      "forks": 2099,
+      "stars": 11947,
+      "forks": 2105,
       "starsToday": 73
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/anthropics/skills",
       "description": "Public repository for Agent Skills",
       "language": "Python",
-      "stars": 144320,
-      "forks": 17005,
+      "stars": 144411,
+      "forks": 17013,
       "starsToday": 454
     },
     {
@@ -226,8 +226,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 508481,
-      "forks": 48254,
+      "stars": 508645,
+      "forks": 48260,
       "starsToday": 817
     }
   ]

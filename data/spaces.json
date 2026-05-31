@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T07:24:09.993Z",
+  "updated": "2026-05-31T09:54:40.495Z",
   "trending": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11097,
+      "likes": 11098,
       "tags": [
         "docker",
         "region:us"
@@ -688,7 +688,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 130,
+      "likes": 131,
       "tags": [
         "static",
         "region:us"
@@ -744,7 +744,7 @@
       "description": "A powerful AI chatbot that runs locally in your browser",
       "url": "https://huggingface.co/spaces/webml-community/llama-3.2-webgpu",
       "sdk": "static",
-      "likes": 99,
+      "likes": 100,
       "tags": [
         "static",
         "region:us"
