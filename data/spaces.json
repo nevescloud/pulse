@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T19:41:30.836Z",
+  "updated": "2026-06-01T22:05:10.371Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7437,
+      "likes": 7438,
       "tags": [
         "docker",
         "leaderboard",
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4901,
+      "likes": 4902,
       "tags": [
         "static",
         "leaderboard",
@@ -287,7 +287,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3276,
+      "likes": 3278,
       "tags": [
         "gradio",
         "mcp-server",
@@ -599,6 +599,20 @@
     },
     {
       "rank": 12,
+      "id": "webml-community/bonsai-image-webgpu",
+      "title": "Bonsai Image WebGPU",
+      "description": "State-of-the-art image generation, in your browser.",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
+      "sdk": "static",
+      "likes": 162,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-05-29T02:57:22.000Z"
+    },
+    {
+      "rank": 13,
       "id": "webml-community/smolvlm-realtime-webgpu",
       "title": "SmolVLM realtime WebGPU",
       "description": null,
@@ -610,20 +624,6 @@
         "region:us"
       ],
       "lastModified": "2025-05-14T17:23:26.000Z"
-    },
-    {
-      "rank": 13,
-      "id": "webml-community/bonsai-image-webgpu",
-      "title": "Bonsai Image WebGPU",
-      "description": "State-of-the-art image generation, in your browser.",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
-      "sdk": "static",
-      "likes": 159,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-05-29T02:57:22.000Z"
     },
     {
       "rank": 14,
