@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T07:54:19.442Z",
+  "updated": "2026-06-01T10:48:34.149Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9461,
+      "likes": 9462,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7436,
+      "likes": 7437,
       "tags": [
         "docker",
         "leaderboard",
@@ -213,7 +213,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3745,
+      "likes": 3746,
       "tags": [
         "gradio",
         "Multimodal",
@@ -646,7 +646,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 146,
+      "likes": 149,
       "tags": [
         "static",
         "region:us"
@@ -744,7 +744,7 @@
       "description": "A powerful AI chatbot that runs locally in your browser",
       "url": "https://huggingface.co/spaces/webml-community/llama-3.2-webgpu",
       "sdk": "static",
-      "likes": 100,
+      "likes": 101,
       "tags": [
         "static",
         "region:us"
