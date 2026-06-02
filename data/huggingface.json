@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T22:05:10.567Z",
+  "updated": "2026-06-02T00:59:55.393Z",
   "models": [
     {
       "rank": 1,
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
       "downloads": 22064693,
-      "likes": 96,
+      "likes": 97,
       "tags": [
         "transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 17709400,
-      "likes": 840,
+      "likes": 841,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 12795354,
-      "likes": 1112,
+      "likes": 1113,
       "tags": [
         "transformers",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 12655661,
-      "likes": 6250,
+      "likes": 6251,
       "tags": [
         "text-to-speech",
         "en",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 45698,
-      "likes": 686,
+      "likes": 691,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 37893,
-      "likes": 380,
+      "likes": 391,
       "tags": [
         "transformers",
         "safetensors",
@@ -580,6 +580,24 @@
     },
     {
       "rank": 3,
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 55212,
+      "likes": 143,
+      "tags": [
+        "gguf",
+        "liquid",
+        "lfm2",
+        "edge",
+        "llama.cpp",
+        "text-generation"
+      ],
+      "lastModified": null,
+      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
+    },
+    {
+      "rank": 4,
       "id": "sapientinc/HRM-Text-1B",
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
@@ -597,40 +615,22 @@
       "description": "A 1 B-parameter language model checkpoint built on the Hierarchical Reasoning Model (HRM) architecture, trained by Sapient Intelligence from scratch on structured public datasets."
     },
     {
-      "rank": 4,
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 55212,
-      "likes": 142,
-      "tags": [
-        "gguf",
-        "liquid",
-        "lfm2",
-        "edge",
-        "llama.cpp",
-        "text-generation"
-      ],
-      "lastModified": null,
-      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
-    },
-    {
       "rank": 5,
-      "id": "openbmb/MiniCPM5-1B-GGUF",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 24056,
-      "likes": 132,
+      "downloads": 80,
+      "likes": 47,
       "tags": [
         "transformers",
-        "gguf",
-        "minicpm",
-        "minicpm5",
-        "llama",
-        "text-generation"
+        "safetensors",
+        "mellum",
+        "text-generation",
+        "conversational",
+        "en"
       ],
       "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+      "description": "Mellum 2 Thinking is a post-trained reasoning-augmented assistant model trained by JetBrains."
     },
     {
       "rank": 6,
@@ -652,24 +652,41 @@
     },
     {
       "rank": 7,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "id": "openbmb/MiniCPM5-1B-GGUF",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 80,
-      "likes": 44,
+      "downloads": 24056,
+      "likes": 132,
       "tags": [
         "transformers",
-        "safetensors",
-        "mellum",
-        "text-generation",
-        "conversational",
-        "en"
+        "gguf",
+        "minicpm",
+        "minicpm5",
+        "llama",
+        "text-generation"
       ],
       "lastModified": null,
-      "description": "Mellum 2 Thinking is a post-trained reasoning-augmented assistant model trained by JetBrains."
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
       "rank": 8,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 10445955,
+      "likes": 5956,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
       "id": "openbmb/BitCPM-CANN-8B",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B",
       "pipelineTag": "text-generation",
@@ -685,23 +702,6 @@
       ],
       "lastModified": null,
       "description": "BitCPM-CANN is the first end-to-end 1.58-bit (ternary) large language model training system natively built on Huawei Ascend NPU. The system integrates quantization-aware training (QAT) into the Megatron-LM framework with MindSpeed accele…"
-    },
-    {
-      "rank": 9,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 10445955,
-      "likes": 5955,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 10,
@@ -745,7 +745,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1808348,
-      "likes": 2176,
+      "likes": 2177,
       "tags": [
         "transformers",
         "safetensors",
@@ -810,6 +810,41 @@
     },
     {
       "rank": 16,
+      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 46993,
+      "likes": 42,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nvidia",
+        "pytorch",
+        "text-generation",
+        "license:other"
+      ],
+      "lastModified": null,
+      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
+    },
+    {
+      "rank": 17,
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8006866,
+      "likes": 1453,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 18,
       "id": "deepseek-ai/DeepSeek-R1",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
@@ -827,25 +862,7 @@
       "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     },
     {
-      "rank": 17,
-      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 46993,
-      "likes": 41,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nvidia",
-        "pytorch",
-        "text-generation",
-        "license:other"
-      ],
-      "lastModified": null,
-      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
-    },
-    {
-      "rank": 18,
+      "rank": 19,
       "id": "openbmb/BitCPM-CANN-8B-gguf",
       "url": "https://huggingface.co/openbmb/BitCPM-CANN-8B-gguf",
       "pipelineTag": "text-generation",
@@ -863,7 +880,7 @@
       "description": "BitCPM-CANN is the first end-to-end 1.58-bit (ternary) large language model training system natively built on Huawei Ascend NPU. The system integrates quantization-aware training (QAT) into the Megatron-LM framework with MindSpeed accele…"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "openbmb/MiniCPM5-1B-SFT",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-SFT",
       "pipelineTag": "text-generation",
@@ -881,24 +898,25 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 20,
-      "id": "meta-llama/Llama-3.2-1B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+      "rank": 21,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 8006866,
-      "likes": 1452,
+      "downloads": 28,
+      "likes": 13,
       "tags": [
         "transformers",
         "safetensors",
-        "llama",
+        "mellum",
         "text-generation",
-        "facebook",
-        "meta"
+        "conversational",
+        "en"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "google/gemma-3-1b-it",
       "url": "https://huggingface.co/google/gemma-3-1b-it",
       "pipelineTag": "text-generation",
@@ -915,40 +933,22 @@
       "lastModified": null
     },
     {
-      "rank": 22,
-      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "pipelineTag": "text-generation",
-      "downloads": 16134,
-      "likes": 166,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "text-generation",
-        "reasoning",
-        "distillation",
-        "chain-of-thought"
-      ],
-      "lastModified": null,
-      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
-    },
-    {
       "rank": 23,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
+      "id": "Qwen/Qwen3-8B",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 28,
-      "likes": 12,
+      "downloads": 12795354,
+      "likes": 1113,
       "tags": [
         "transformers",
         "safetensors",
-        "mellum",
+        "qwen3",
         "text-generation",
         "conversational",
-        "en"
+        "license:apache-2.0"
       ],
       "lastModified": null,
-      "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 24,
@@ -970,21 +970,21 @@
     },
     {
       "rank": 25,
-      "id": "Qwen/Qwen3-8B",
-      "url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
       "pipelineTag": "text-generation",
-      "downloads": 12795354,
-      "likes": 1112,
+      "downloads": 16134,
+      "likes": 166,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen3",
         "text-generation",
-        "conversational",
-        "license:apache-2.0"
+        "reasoning",
+        "distillation",
+        "chain-of-thought"
       ],
       "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
     },
     {
       "rank": 26,

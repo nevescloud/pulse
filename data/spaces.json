@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T22:05:10.371Z",
+  "updated": "2026-06-02T00:59:55.170Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7438,
+      "likes": 7439,
       "tags": [
         "docker",
         "leaderboard",
@@ -142,7 +142,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5067,
+      "likes": 5068,
       "tags": [
         "gradio",
         "region:us"
@@ -604,7 +604,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 162,
+      "likes": 164,
       "tags": [
         "static",
         "region:us"
