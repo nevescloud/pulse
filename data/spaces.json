@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T13:23:34.055Z",
+  "updated": "2026-06-02T16:33:03.714Z",
   "trending": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 13996,
+      "likes": 13997,
       "tags": [
         "docker",
         "leaderboard",
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11100,
+      "likes": 11102,
       "tags": [
         "docker",
         "region:us"
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9463,
+      "likes": 9462,
       "tags": [
         "gradio",
         "region:us"
@@ -97,7 +97,7 @@
       "description": "Generate stunning high quality illusion artwork",
       "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
       "sdk": "gradio",
-      "likes": 5404,
+      "likes": 5405,
       "tags": [
         "gradio",
         "region:us"
@@ -199,7 +199,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3864,
+      "likes": 3865,
       "tags": [
         "static",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3746,
+      "likes": 3747,
       "tags": [
         "gradio",
         "Multimodal",
@@ -231,7 +231,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/InstantX/InstantID",
       "sdk": "gradio",
-      "likes": 3606,
+      "likes": 3607,
       "tags": [
         "gradio",
         "region:us"
@@ -245,7 +245,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3332,
+      "likes": 3333,
       "tags": [
         "gradio",
         "region:us"
@@ -273,7 +273,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3279,
+      "likes": 3282,
       "tags": [
         "gradio",
         "mcp-server",
@@ -562,7 +562,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 179,
+      "likes": 181,
       "tags": [
         "static",
         "region:us"
