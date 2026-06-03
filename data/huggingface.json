@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T01:06:13.567Z",
+  "updated": "2026-06-03T04:34:32.125Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 258368446,
-      "likes": 4881,
+      "likes": 4883,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31537672,
-      "likes": 3075,
+      "likes": 3076,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -223,7 +223,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 21156913,
-      "likes": 1285,
+      "likes": 1286,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 47742,
-      "likes": 442,
+      "likes": 446,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 57683,
-      "likes": 735,
+      "likes": 737,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 70865,
-      "likes": 160,
+      "likes": 162,
       "tags": [
         "gguf",
         "liquid",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 799,
-      "likes": 128,
+      "likes": 145,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 153029,
-      "likes": 470,
+      "likes": 481,
       "tags": [
         "transformers",
         "safetensors",
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/unsloth/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 29513,
-      "likes": 48,
+      "likes": 50,
       "tags": [
         "transformers",
         "gguf",
@@ -652,6 +652,24 @@
     },
     {
       "rank": 7,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 128,
+      "likes": 38,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "mellum",
+        "text-generation",
+        "conversational",
+        "en"
+      ],
+      "lastModified": null,
+      "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
+    },
+    {
+      "rank": 8,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -666,24 +684,6 @@
         "meta"
       ],
       "lastModified": null
-    },
-    {
-      "rank": 8,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 128,
-      "likes": 35,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "mellum",
-        "text-generation",
-        "conversational",
-        "en"
-      ],
-      "lastModified": null,
-      "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
     },
     {
       "rank": 9,
@@ -745,7 +745,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1805604,
-      "likes": 2182,
+      "likes": 2183,
       "tags": [
         "transformers",
         "safetensors",
@@ -829,11 +829,11 @@
     },
     {
       "rank": 17,
-      "id": "meta-llama/Llama-3.2-1B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
+      "id": "meta-llama/Llama-3.2-1B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
       "pipelineTag": "text-generation",
-      "downloads": 8177201,
-      "likes": 1458,
+      "downloads": 2267038,
+      "likes": 2425,
       "tags": [
         "transformers",
         "safetensors",
@@ -846,21 +846,21 @@
     },
     {
       "rank": 18,
-      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 49490,
-      "likes": 42,
+      "downloads": 21156913,
+      "likes": 1286,
       "tags": [
         "transformers",
         "safetensors",
-        "nvidia",
-        "pytorch",
+        "qwen3",
         "text-generation",
-        "license:other"
+        "conversational",
+        "license:apache-2.0"
       ],
       "lastModified": null,
-      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 19,
@@ -882,11 +882,11 @@
     },
     {
       "rank": 20,
-      "id": "meta-llama/Llama-3.2-1B",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
+      "id": "meta-llama/Llama-3.2-1B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 2267038,
-      "likes": 2424,
+      "downloads": 8177201,
+      "likes": 1458,
       "tags": [
         "transformers",
         "safetensors",
@@ -899,24 +899,6 @@
     },
     {
       "rank": 21,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 21156913,
-      "likes": 1285,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 22,
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
@@ -934,25 +916,25 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 23,
-      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
-      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "rank": 22,
+      "id": "nvidia/Nemotron-Labs-Diffusion-8B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Diffusion-8B",
       "pipelineTag": "text-generation",
-      "downloads": 15789,
-      "likes": 168,
+      "downloads": 49490,
+      "likes": 42,
       "tags": [
         "transformers",
         "safetensors",
+        "nvidia",
+        "pytorch",
         "text-generation",
-        "reasoning",
-        "distillation",
-        "chain-of-thought"
+        "license:other"
       ],
       "lastModified": null,
-      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
+      "description": "Nemotron-Labs-Diffusion is a tri-mode language model that supports both AR decoding and diffusion-based parallel decoding by simply switching the attention pattern of the same model during inference. The synergy between these two modes e…"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "id": "JetBrains/Mellum2-12B-A2.5B-Base",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Base",
       "pipelineTag": "text-generation",
@@ -970,7 +952,7 @@
       "description": "Mellum2 Base is a long-context pretrained causal language model trained by JetBrains."
     },
     {
-      "rank": 25,
+      "rank": 24,
       "id": "LiquidAI/LFM2.5-8B-A1B-MLX-8bit",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-MLX-8bit",
       "pipelineTag": "text-generation",
@@ -988,30 +970,30 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
+      "rank": 25,
+      "id": "lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/lordx64/Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled",
+      "pipelineTag": "text-generation",
+      "downloads": 15789,
+      "likes": 168,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "text-generation",
+        "reasoning",
+        "distillation",
+        "chain-of-thought"
+      ],
+      "lastModified": null,
+      "description": "A reasoning-distilled variant of Qwen3.6-35B-A3B taught to imitate the chain-of-thought style of Claude Opus 4.7, the frontier reasoning model from Anthropic. The goal: port Claude-grade reasoning behavior into a permissively-licensed Mi…"
+    },
+    {
       "rank": 26,
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13833000,
       "likes": 486,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 27,
-      "id": "Qwen/Qwen2.5-1.5B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 15143953,
-      "likes": 725,
       "tags": [
         "transformers",
         "safetensors",
