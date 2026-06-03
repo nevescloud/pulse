@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T04:34:32.768Z",
+  "updated": "2026-06-03T07:49:18.718Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 7002,
-      "forks": 481,
+      "stars": 7543,
+      "forks": 510,
       "starsToday": 1265
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 141496,
-      "forks": 9645,
+      "stars": 141835,
+      "forks": 9669,
       "starsToday": 3618
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 204285,
-      "forks": 31333,
+      "stars": 204569,
+      "forks": 31382,
       "starsToday": 1533
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars": 59359,
-      "forks": 5730,
+      "stars": 59517,
+      "forks": 5744,
       "starsToday": 1182
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars": 12670,
-      "forks": 1546,
+      "stars": 12770,
+      "forks": 1558,
       "starsToday": 1722
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/reconurge/flowsint",
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
-      "stars": 4607,
-      "forks": 589,
+      "stars": 4677,
+      "forks": 597,
       "starsToday": 124
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/OpenBMB/VoxCPM",
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "language": "Python",
-      "stars": 25255,
-      "forks": 2886,
+      "stars": 25338,
+      "forks": 2895,
       "starsToday": 783
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
       "language": "Jupyter Notebook",
-      "stars": 18581,
-      "forks": 5233,
+      "stars": 18705,
+      "forks": 5239,
       "starsToday": 574
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/jamwithai/production-agentic-rag-course",
       "description": "",
       "language": "Python",
-      "stars": 6454,
-      "forks": 1491,
+      "stars": 6514,
+      "forks": 1495,
       "starsToday": 30
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars": 24752,
-      "forks": 2182,
+      "stars": 24837,
+      "forks": 2189,
       "starsToday": 680
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
-      "stars": 8492,
-      "forks": 1082,
+      "stars": 8587,
+      "forks": 1089,
       "starsToday": 66
     }
   ]
