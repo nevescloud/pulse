@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T13:45:24.479Z",
+  "updated": "2026-06-03T16:35:58.571Z",
   "trending": [
     {
       "rank": 1,
@@ -231,7 +231,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/InstantX/InstantID",
       "sdk": "gradio",
-      "likes": 3607,
+      "likes": 3608,
       "tags": [
         "gradio",
         "region:us"
@@ -245,7 +245,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3334,
+      "likes": 3335,
       "tags": [
         "gradio",
         "region:us"
@@ -548,7 +548,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 204,
+      "likes": 209,
       "tags": [
         "static",
         "region:us"
