@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T04:33:59.017Z",
+  "updated": "2026-06-04T07:44:34.077Z",
   "trending": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11102,
+      "likes": 11104,
       "tags": [
         "docker",
         "region:us"
@@ -74,7 +74,7 @@
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-06-03T11:55:31.000Z"
+      "lastModified": "2026-06-04T07:43:10.000Z"
     },
     {
       "rank": 6,
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3300,
+      "likes": 3301,
       "tags": [
         "gradio",
         "mcp-server",
@@ -548,7 +548,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 213,
+      "likes": 216,
       "tags": [
         "static",
         "region:us"
