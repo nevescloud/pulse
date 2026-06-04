@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T22:00:00.691Z",
+  "updated": "2026-06-04T01:05:41.503Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 9437,
-      "forks": 623,
-      "starsToday": 3528
+      "stars": 9755,
+      "forks": 645,
+      "starsToday": 3530
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 205583,
-      "forks": 31557,
-      "starsToday": 2147
+      "stars": 205750,
+      "forks": 31591,
+      "starsToday": 2141
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars": 35365,
-      "forks": 413,
-      "starsToday": 26
+      "stars": 35404,
+      "forks": 416,
+      "starsToday": 24
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 178971,
-      "forks": 30664,
-      "starsToday": 1736
+      "stars": 179136,
+      "forks": 30689,
+      "starsToday": 1735
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": 142755,
-      "forks": 9750,
-      "starsToday": 2006
+      "stars": 142876,
+      "forks": 9764,
+      "starsToday": 1984
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars": 13064,
-      "forks": 1590,
-      "starsToday": 734
+      "stars": 13103,
+      "forks": 1593,
+      "starsToday": 719
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/D4Vinci/Scrapling",
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
-      "stars": 60132,
-      "forks": 5800,
-      "starsToday": 1078
+      "stars": 60249,
+      "forks": 5808,
+      "starsToday": 1067
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
       "language": "Java",
-      "stars": 23207,
-      "forks": 2175,
-      "starsToday": 573
+      "stars": 23277,
+      "forks": 2183,
+      "starsToday": 570
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "url": "https://github.com/odoo/odoo",
       "description": "Odoo. Open Source Apps To Grow Your Business.",
       "language": "Python",
-      "stars": 51896,
-      "forks": 32641,
+      "stars": 51935,
+      "forks": 32642,
       "starsToday": 29
     },
     {
@@ -118,9 +118,9 @@
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "language": "Python",
-      "stars": 8900,
-      "forks": 1103,
-      "starsToday": 702
+      "stars": 8963,
+      "forks": 1106,
+      "starsToday": 693
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "language": null,
-      "stars": 348954,
-      "forks": 83153,
-      "starsToday": 459
+      "stars": 349016,
+      "forks": 83155,
+      "starsToday": 330
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars": 18835,
-      "forks": 2067,
+      "stars": 18904,
+      "forks": 2071,
       "starsToday": 208
     },
     {
@@ -154,9 +154,9 @@
       "url": "https://github.com/supermemoryai/supermemory",
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "language": "TypeScript",
-      "stars": 25117,
-      "forks": 2205,
-      "starsToday": 601
+      "stars": 25177,
+      "forks": 2213,
+      "starsToday": 600
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 9840,
-      "forks": 1996,
-      "starsToday": 221
+      "stars": 9923,
+      "forks": 2004,
+      "starsToday": 197
     }
   ]
 }
