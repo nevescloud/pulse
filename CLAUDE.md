@@ -1,6 +1,6 @@
 # pulse
 
-GitHub Pages dashboard for trending GitHub repos and HuggingFace models, with an AI chat sidebar.
+GitHub Pages dashboard for trending GitHub repos and HuggingFace models. Tools register with the browser's AI context via WebMCP (`navigator.modelContext`) so an external agent can drive the view, instead of an embedded chat.
 
 ## Architecture
 
@@ -17,12 +17,12 @@ Flat files, no build step. Keep concerns in separate files.
 | `data/history.json` | 90-day per-item observation log keyed by source → id → `[{d,v,r}]`. Day-resolution; latest of each day wins. |
 | `index.html` | Shell + layout. ECharts loaded via jsDelivr CDN. |
 | `index.css` | All styles. CSS custom properties for theming. |
-| `tools.js` | `TOOLS` array + `executeTool(name, input)` |
+| `tools.js` | `TOOL_DEFS` array — WebMCP tool surface (each entry: trust hints, JSON schema, `execute` handler) |
 | `charts.js` | `renderVelocityChart()` (ECharts horizontal bar) + `buildSparkline()` (plain SVG, no ECharts per card) |
 | `github.js` | `renderGitHubCards(data, container, onSelect, history)` + card builder |
 | `huggingface.js` | `renderHFCards(data, container, onSelect, history)` + card builder |
 | `spaces.js` | `renderSpacesCards(data, container, onSelect, history)` + card builder |
-| `index.js` | All UI wiring: tabs, card selection, chat loop, API key, velocity chart per tab |
+| `index.js` | All UI wiring: tabs, card selection, velocity chart per tab, WebMCP tool registration (`registerWebMCPTools`) |
 
 ## Data flow
 
@@ -45,8 +45,8 @@ npx serve .
 
 ## Adding a new tool
 
-1. Add schema to `TOOLS` array in `tools.js`
-2. Add handler case in `executeTool` in `tools.js`
+1. Add an entry to `TOOL_DEFS` in `tools.js` (name, description, trust hints, JSON schema, `execute` handler)
+2. It registers automatically via `registerWebMCPTools()` in `index.js`
 
 ## GitHub Action notes
 
@@ -70,7 +70,7 @@ Sources earlier in the disruption pipeline than GitHub trending. Candidates for 
 
 - Velocity is now first-class: `data/history.json` tracks per-item observations over 90 days, surfaced as a top-of-tab horizontal bar chart (ECharts) and per-card sparklines (plain SVG to avoid a chart instance per card).
 - The next move under consideration is **chat-driven LLM-synthesized visualization** via a migration to [`pip`](../pip) (UI chat primitives). Justification: pulse currently can't render structured turn content like inline charts cleanly. Wait until the velocity chart earns its keep before taking that on.
-- Filter > sources. Adding sources without a stronger filter is noise. The chat sidebar applied against user context is where pulse differentiates from generic aggregators.
+- Filter > sources. Adding sources without a stronger filter is noise. An external agent driving the view (via the WebMCP tool surface) against user context is where pulse differentiates from generic aggregators.
 
 ### Visualization guidance (visual-epistemology)
 
