@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T21:35:29.528Z",
+  "updated": "2026-06-05T00:57:31.922Z",
   "trending": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11104,
+      "likes": 11105,
       "tags": [
         "docker",
         "region:us"
@@ -97,7 +97,7 @@
       "description": "Generate stunning high quality illusion artwork",
       "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
       "sdk": "gradio",
-      "likes": 5406,
+      "likes": 5407,
       "tags": [
         "gradio",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3309,
+      "likes": 3311,
       "tags": [
         "gradio",
         "mcp-server",
@@ -288,7 +288,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3278,
+      "likes": 3279,
       "tags": [
         "docker",
         "region:us"
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3163,
+      "likes": 3165,
       "tags": [
         "gradio",
         "mcp-server",
@@ -487,6 +487,20 @@
     },
     {
       "rank": 4,
+      "id": "webml-community/bonsai-image-webgpu",
+      "title": "Bonsai Image WebGPU",
+      "description": "State-of-the-art image generation, in your browser.",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
+      "sdk": "static",
+      "likes": 233,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-05-29T02:57:22.000Z"
+    },
+    {
+      "rank": 5,
       "id": "webml-community/llama-3.2-reasoning-webgpu",
       "title": "Llama 3.2 Reasoning WebGPU",
       "description": "Small and powerful reasoning LLM that runs in your browser",
@@ -498,20 +512,6 @@
         "region:us"
       ],
       "lastModified": "2025-04-16T23:47:43.000Z"
-    },
-    {
-      "rank": 5,
-      "id": "webml-community/bonsai-image-webgpu",
-      "title": "Bonsai Image WebGPU",
-      "description": "State-of-the-art image generation, in your browser.",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
-      "sdk": "static",
-      "likes": 231,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-05-29T02:57:22.000Z"
     },
     {
       "rank": 6,
@@ -660,7 +660,7 @@
       "description": "Visualize embeddings in 3D space, powered by EmbeddingGemma",
       "url": "https://huggingface.co/spaces/webml-community/semantic-galaxy",
       "sdk": "static",
-      "likes": 146,
+      "likes": 147,
       "tags": [
         "static",
         "region:us"
