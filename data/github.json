@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T13:08:07.405Z",
+  "updated": "2026-06-05T16:01:46.957Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 182037,
-      "forks": 31236,
+      "stars": 182453,
+      "forks": 31286,
       "starsToday": 1821
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 13940,
-      "forks": 883,
+      "stars": 14149,
+      "forks": 895,
       "starsToday": 2503
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars": 32364,
-      "forks": 4173,
+      "stars": 32469,
+      "forks": 4180,
       "starsToday": 350
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars": 25587,
-      "forks": 2953,
+      "stars": 25720,
+      "forks": 2964,
       "starsToday": 1142
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 207932,
-      "forks": 31907,
+      "stars": 208067,
+      "forks": 31928,
       "starsToday": 1368
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 21285,
-      "forks": 1849,
+      "stars": 21392,
+      "forks": 1851,
       "starsToday": 127
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
-      "stars": 9272,
-      "forks": 591,
+      "stars": 9324,
+      "forks": 594,
       "starsToday": 494
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars": 64481,
-      "forks": 10066,
+      "stars": 64556,
+      "forks": 10073,
       "starsToday": 324
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 28009,
-      "forks": 2380,
+      "stars": 28082,
+      "forks": 2386,
       "starsToday": 738
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
-      "stars": 80316,
-      "forks": 10623,
+      "stars": 80398,
+      "forks": 10624,
       "starsToday": 755
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 1430,
-      "forks": 233,
-      "starsToday": 17
+      "stars": 1462,
+      "forks": 235,
+      "starsToday": 82
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stars": 53647,
-      "forks": 7066,
+      "stars": 53722,
+      "forks": 7070,
       "starsToday": 228
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/openclaw/openclaw-windows-node",
       "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
       "language": "C#",
-      "stars": 1493,
-      "forks": 174,
+      "stars": 1533,
+      "forks": 177,
       "starsToday": 329
     },
     {
@@ -166,44 +166,32 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars": 35765,
-      "forks": 438,
+      "stars": 35794,
+      "forks": 440,
       "starsToday": 208
     },
     {
       "rank": 15,
-      "owner": "HKUDS",
-      "name": "Vibe-Trading",
-      "fullName": "HKUDS/Vibe-Trading",
-      "url": "https://github.com/HKUDS/Vibe-Trading",
-      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "language": "Python",
-      "stars": 10787,
-      "forks": 2105,
-      "starsToday": 884
-    },
-    {
-      "rank": 16,
       "owner": "jwasham",
       "name": "coding-interview-university",
       "fullName": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "language": null,
-      "stars": 350171,
-      "forks": 83269,
+      "stars": 350247,
+      "forks": 83283,
       "starsToday": 757
     },
     {
-      "rank": 17,
+      "rank": 16,
       "owner": "github",
       "name": "copilot-sdk",
       "fullName": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars": 9130,
-      "forks": 1216,
+      "stars": 9162,
+      "forks": 1218,
       "starsToday": 310
     }
   ]
