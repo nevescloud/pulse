@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:43:59.503Z",
+  "updated": "2026-06-06T12:33:10.136Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 184001,
-      "forks": 31531,
+      "stars": 184240,
+      "forks": 31584,
       "starsToday": 1845
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 15000,
-      "forks": 954,
+      "stars": 15201,
+      "forks": 969,
       "starsToday": 2473
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React + Angular. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars": 32901,
-      "forks": 4213,
+      "stars": 32957,
+      "forks": 4215,
       "starsToday": 366
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars": 26266,
-      "forks": 3014,
+      "stars": 26342,
+      "forks": 3019,
       "starsToday": 1152
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 208671,
-      "forks": 32003,
+      "stars": 208760,
+      "forks": 32020,
       "starsToday": 1361
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 21871,
-      "forks": 1883,
+      "stars": 21953,
+      "forks": 1885,
       "starsToday": 148
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://github.com/NVIDIA/cosmos",
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
-      "stars": 9529,
+      "stars": 9559,
       "forks": 606,
       "starsToday": 479
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars": 64901,
-      "forks": 10096,
+      "stars": 64948,
+      "forks": 10098,
       "starsToday": 320
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 28389,
-      "forks": 2403,
+      "stars": 28428,
+      "forks": 2408,
       "starsToday": 731
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
-      "stars": 80697,
-      "forks": 10640,
+      "stars": 80740,
+      "forks": 10641,
       "starsToday": 747
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 1615,
-      "forks": 249,
+      "stars": 1643,
+      "forks": 252,
       "starsToday": 49
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stars": 54019,
-      "forks": 7090,
+      "stars": 54071,
+      "forks": 7095,
       "starsToday": 227
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars": 4633,
-      "forks": 246,
+      "stars": 4665,
+      "forks": 247,
       "starsToday": 126
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/openclaw/openclaw-windows-node",
       "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
       "language": "C#",
-      "stars": 1656,
-      "forks": 186,
+      "stars": 1677,
+      "forks": 187,
       "starsToday": 326
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars": 35905,
-      "forks": 447,
+      "stars": 35919,
+      "forks": 449,
       "starsToday": 207
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "language": null,
-      "stars": 350557,
-      "forks": 83308,
+      "stars": 350601,
+      "forks": 83313,
       "starsToday": 745
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars": 9334,
-      "forks": 1232,
+      "stars": 9354,
+      "forks": 1233,
       "starsToday": 309
     }
   ]

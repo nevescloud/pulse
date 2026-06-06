@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:43:59.342Z",
+  "updated": "2026-06-06T12:33:09.084Z",
   "trending": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14004,
+      "likes": 14005,
       "tags": [
         "docker",
         "leaderboard",
@@ -26,7 +26,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11108,
+      "likes": 11109,
       "tags": [
         "docker",
         "region:us"
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10099,
+      "likes": 10100,
       "tags": [
         "gradio",
         "region:us"
@@ -142,7 +142,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5069,
+      "likes": 5070,
       "tags": [
         "gradio",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3325,
+      "likes": 3326,
       "tags": [
         "gradio",
         "mcp-server",
@@ -288,7 +288,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3281,
+      "likes": 3282,
       "tags": [
         "docker",
         "region:us"
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3170,
+      "likes": 3171,
       "tags": [
         "gradio",
         "mcp-server",
@@ -478,7 +478,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 250,
+      "likes": 251,
       "tags": [
         "static",
         "region:us"
