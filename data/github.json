@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T18:31:39.011Z",
+  "updated": "2026-06-06T21:26:14.005Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 28645,
-      "forks": 2420,
+      "stars": 28712,
+      "forks": 2431,
       "starsToday": 441
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars": 33092,
-      "forks": 4227,
+      "stars": 33152,
+      "forks": 4235,
       "starsToday": 613
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stars": 54175,
-      "forks": 7103,
+      "stars": 54226,
+      "forks": 7102,
       "starsToday": 441
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars": 14870,
-      "forks": 2115,
+      "stars": 14913,
+      "forks": 2119,
       "starsToday": 63
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 1709,
-      "forks": 254,
+      "stars": 1737,
+      "forks": 255,
       "starsToday": 215
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 22185,
-      "forks": 1893,
+      "stars": 22242,
+      "forks": 1900,
       "starsToday": 700
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/sveltejs/svelte",
       "description": "web development for the rest of us",
       "language": "JavaScript",
-      "stars": 86928,
-      "forks": 4935,
+      "stars": 86949,
+      "forks": 4937,
       "starsToday": 34
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": 30645,
+      "stars": 30663,
       "forks": 7955,
       "starsToday": 37
     },
@@ -106,8 +106,8 @@
       "url": "https://github.com/aquasecurity/trivy",
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "language": "Go",
-      "stars": 35965,
-      "forks": 451,
+      "stars": 35983,
+      "forks": 452,
       "starsToday": 159
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/golang/go",
       "description": "The Go programming language",
       "language": "Go",
-      "stars": 134474,
-      "forks": 19107,
+      "stars": 134497,
+      "forks": 19089,
       "starsToday": 24
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars": 26499,
-      "forks": 3029,
+      "stars": 26557,
+      "forks": 3035,
       "starsToday": 783
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 219527,
-      "forks": 19532,
+      "stars": 219587,
+      "forks": 19537,
       "starsToday": 1008
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars": 49166,
-      "forks": 10188,
+      "stars": 49249,
+      "forks": 10192,
       "starsToday": 203
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/openai/whisper",
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
-      "stars": 101783,
-      "forks": 12435,
+      "stars": 101816,
+      "forks": 12439,
       "starsToday": 155
     },
     {
@@ -178,9 +178,9 @@
       "url": "https://github.com/vitejs/vite",
       "description": "Next generation frontend tooling. It's fast!",
       "language": "TypeScript",
-      "stars": 81131,
-      "forks": 8273,
-      "starsToday": 71
+      "stars": 81156,
+      "forks": 8274,
+      "starsToday": 73
     },
     {
       "rank": 16,
@@ -190,7 +190,7 @@
       "url": "https://github.com/microsoft/mxc",
       "description": "Policy-driven, layered isolation and containment",
       "language": "Rust",
-      "stars": 521,
+      "stars": 550,
       "forks": 24,
       "starsToday": 57
     },
@@ -202,8 +202,8 @@
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "language": "Python",
-      "stars": 80879,
-      "forks": 10652,
+      "stars": 80921,
+      "forks": 10654,
       "starsToday": 449
     },
     {
@@ -214,7 +214,7 @@
       "url": "https://github.com/microsoft/VibeVoice",
       "description": "Open-Source Frontier Voice AI",
       "language": "Python",
-      "stars": 48407,
+      "stars": 48440,
       "forks": 5389,
       "starsToday": 219
     }
