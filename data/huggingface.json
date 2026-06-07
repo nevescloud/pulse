@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T00:59:34.740Z",
+  "updated": "2026-06-07T04:34:01.198Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 254469870,
-      "likes": 4902,
+      "likes": 4903,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -439,7 +439,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13993108,
-      "likes": 6278,
+      "likes": 6279,
       "tags": [
         "text-to-speech",
         "en",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 161627,
-      "likes": 711,
+      "likes": 712,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 95440,
-      "likes": 533,
+      "likes": 534,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 16395,
-      "likes": 239,
+      "likes": 240,
       "tags": [
         "transformers",
         "safetensors",
@@ -673,7 +673,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
       "pipelineTag": "text-generation",
       "downloads": 626,
-      "likes": 31,
+      "likes": 32,
       "tags": [
         "transformers",
         "safetensors",
@@ -816,7 +816,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
       "downloads": 5748335,
-      "likes": 13374,
+      "likes": 13375,
       "tags": [
         "transformers",
         "safetensors",

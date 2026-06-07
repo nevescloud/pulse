@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T00:59:34.492Z",
+  "updated": "2026-06-07T04:34:00.928Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7447,
+      "likes": 7448,
       "tags": [
         "docker",
         "leaderboard",
@@ -199,7 +199,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3869,
+      "likes": 3870,
       "tags": [
         "static",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3747,
+      "likes": 3748,
       "tags": [
         "gradio",
         "Multimodal",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3330,
+      "likes": 3332,
       "tags": [
         "gradio",
         "mcp-server",
@@ -274,7 +274,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3301,
+      "likes": 3302,
       "tags": [
         "gradio",
         "region:us"
@@ -478,7 +478,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 254,
+      "likes": 258,
       "tags": [
         "static",
         "region:us"
