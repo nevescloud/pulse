@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T10:02:34.659Z",
+  "updated": "2026-06-07T12:38:27.528Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10100,
+      "likes": 10101,
       "tags": [
         "gradio",
         "region:us"
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4905,
+      "likes": 4906,
       "tags": [
         "static",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3333,
+      "likes": 3335,
       "tags": [
         "gradio",
         "mcp-server",
@@ -288,7 +288,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3282,
+      "likes": 3283,
       "tags": [
         "docker",
         "region:us"
@@ -548,7 +548,7 @@
       "description": "In-browser unified multimodal understanding and generation.",
       "url": "https://huggingface.co/spaces/webml-community/janus-pro-webgpu",
       "sdk": "static",
-      "likes": 216,
+      "likes": 215,
       "tags": [
         "static",
         "region:us"
