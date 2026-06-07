@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-07T04:34:01.198Z",
+  "updated": "2026-06-07T07:29:54.850Z",
   "models": [
     {
       "rank": 1,
       "id": "sentence-transformers/all-MiniLM-L6-v2",
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 254469870,
+      "downloads": 253044030,
       "likes": 4903,
       "tags": [
         "sentence-transformers",
@@ -24,8 +24,8 @@
       "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
-      "downloads": 73986957,
-      "likes": 259,
+      "downloads": 74846984,
+      "likes": 260,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -42,7 +42,7 @@
       "id": "google-bert/bert-base-uncased",
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
-      "downloads": 65881254,
+      "downloads": 64555258,
       "likes": 2677,
       "tags": [
         "transformers",
@@ -57,28 +57,10 @@
     },
     {
       "rank": 4,
-      "id": "google/electra-base-discriminator",
-      "url": "https://huggingface.co/google/electra-base-discriminator",
-      "pipelineTag": null,
-      "downloads": 57530387,
-      "likes": 124,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "rust",
-        "electra"
-      ],
-      "lastModified": null,
-      "description": "ELECTRA is a new method for self-supervised language representation learning. It can be used to pre-train transformer networks using relatively little compute. ELECTRA models are trained to distinguish \"real\" input tokens vs \"fake\" input…"
-    },
-    {
-      "rank": 5,
       "id": "BAAI/bge-small-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 56584154,
+      "downloads": 56950943,
       "likes": 483,
       "tags": [
         "sentence-transformers",
@@ -92,11 +74,29 @@
       "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
     },
     {
+      "rank": 5,
+      "id": "google/electra-base-discriminator",
+      "url": "https://huggingface.co/google/electra-base-discriminator",
+      "pipelineTag": null,
+      "downloads": 56736441,
+      "likes": 124,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "rust",
+        "electra"
+      ],
+      "lastModified": null,
+      "description": "ELECTRA is a new method for self-supervised language representation learning. It can be used to pre-train transformer networks using relatively little compute. ELECTRA models are trained to distinguish \"real\" input tokens vs \"fake\" input…"
+    },
+    {
       "rank": 6,
       "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 50536368,
+      "downloads": 50612915,
       "likes": 1257,
       "tags": [
         "sentence-transformers",
@@ -114,7 +114,7 @@
       "id": "sentence-transformers/all-mpnet-base-v2",
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 35322178,
+      "downloads": 35173402,
       "likes": 1304,
       "tags": [
         "sentence-transformers",
@@ -132,7 +132,7 @@
       "id": "BAAI/bge-m3",
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
-      "downloads": 31841802,
+      "downloads": 31803722,
       "likes": 3089,
       "tags": [
         "sentence-transformers",
@@ -150,7 +150,7 @@
       "id": "openai/clip-vit-base-patch32",
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
-      "downloads": 22959838,
+      "downloads": 23038193,
       "likes": 954,
       "tags": [
         "transformers",
@@ -168,8 +168,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 22520491,
-      "likes": 1299,
+      "downloads": 22585283,
+      "likes": 1300,
       "tags": [
         "transformers",
         "safetensors",
@@ -186,7 +186,7 @@
       "id": "FacebookAI/xlm-roberta-base",
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
-      "downloads": 22515640,
+      "downloads": 22248556,
       "likes": 843,
       "tags": [
         "transformers",
@@ -201,28 +201,10 @@
     },
     {
       "rank": 12,
-      "id": "openai/clip-vit-large-patch14",
-      "url": "https://huggingface.co/openai/clip-vit-large-patch14",
-      "pipelineTag": "zero-shot-image-classification",
-      "downloads": 21405411,
-      "likes": 2032,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "safetensors",
-        "clip"
-      ],
-      "lastModified": null,
-      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
-    },
-    {
-      "rank": 13,
       "id": "laion/clap-htsat-fused",
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
-      "downloads": 20822165,
+      "downloads": 20921440,
       "likes": 103,
       "tags": [
         "transformers",
@@ -236,11 +218,29 @@
       "description": "You can use this model for zero shot audio classification or extracting audio and/or textual features."
     },
     {
+      "rank": 13,
+      "id": "openai/clip-vit-large-patch14",
+      "url": "https://huggingface.co/openai/clip-vit-large-patch14",
+      "pipelineTag": "zero-shot-image-classification",
+      "downloads": 20063973,
+      "likes": 2032,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "safetensors",
+        "clip"
+      ],
+      "lastModified": null,
+      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
+    },
+    {
       "rank": 14,
       "id": "nomic-ai/nomic-embed-text-v1.5",
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
-      "downloads": 18471682,
+      "downloads": 18731799,
       "likes": 844,
       "tags": [
         "sentence-transformers",
@@ -258,7 +258,7 @@
       "id": "colbert-ir/colbertv2.0",
       "url": "https://huggingface.co/colbert-ir/colbertv2.0",
       "pipelineTag": null,
-      "downloads": 18038970,
+      "downloads": 17998953,
       "likes": 357,
       "tags": [
         "transformers",
@@ -276,8 +276,8 @@
       "id": "Qwen/Qwen3-4B",
       "url": "https://huggingface.co/Qwen/Qwen3-4B",
       "pipelineTag": "text-generation",
-      "downloads": 17082425,
-      "likes": 628,
+      "downloads": 17430371,
+      "likes": 629,
       "tags": [
         "transformers",
         "safetensors",
@@ -291,28 +291,10 @@
     },
     {
       "rank": 17,
-      "id": "openai-community/gpt2",
-      "url": "https://huggingface.co/openai-community/gpt2",
-      "pipelineTag": "text-generation",
-      "downloads": 15655980,
-      "likes": 3287,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "tflite",
-        "rust"
-      ],
-      "lastModified": null,
-      "description": "Test the whole generation capabilities here: https://transformer.huggingface.co/doc/gpt2-large"
-    },
-    {
-      "rank": 18,
       "id": "FacebookAI/roberta-base",
       "url": "https://huggingface.co/FacebookAI/roberta-base",
       "pipelineTag": "fill-mask",
-      "downloads": 15406703,
+      "downloads": 15443066,
       "likes": 613,
       "tags": [
         "transformers",
@@ -326,11 +308,29 @@
       "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in this paper and first released in this repository. This model is case-sensitive: it makes a difference between english and English."
     },
     {
+      "rank": 18,
+      "id": "openai-community/gpt2",
+      "url": "https://huggingface.co/openai-community/gpt2",
+      "pipelineTag": "text-generation",
+      "downloads": 15387184,
+      "likes": 3287,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "tflite",
+        "rust"
+      ],
+      "lastModified": null,
+      "description": "Test the whole generation capabilities here: https://transformer.huggingface.co/doc/gpt2-large"
+    },
+    {
       "rank": 19,
       "id": "BAAI/bge-large-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 15344801,
+      "downloads": 15358506,
       "likes": 682,
       "tags": [
         "sentence-transformers",
@@ -345,28 +345,10 @@
     },
     {
       "rank": 20,
-      "id": "FacebookAI/roberta-large",
-      "url": "https://huggingface.co/FacebookAI/roberta-large",
-      "pipelineTag": "fill-mask",
-      "downloads": 15024835,
-      "likes": 300,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "onnx",
-        "safetensors"
-      ],
-      "lastModified": null,
-      "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in this paper and first released in this repository. This model is case-sensitive: it makes a difference between english and English."
-    },
-    {
-      "rank": 21,
       "id": "BAAI/bge-reranker-v2-m3",
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
-      "downloads": 14700830,
+      "downloads": 14933215,
       "likes": 1023,
       "tags": [
         "sentence-transformers",
@@ -380,11 +362,29 @@
       "description": "Different from embedding model, reranker uses question and document as input and directly output similarity instead of embedding. You can get a relevance score by inputting query and passage to the reranker. And the score can be mapped t…"
     },
     {
+      "rank": 21,
+      "id": "FacebookAI/roberta-large",
+      "url": "https://huggingface.co/FacebookAI/roberta-large",
+      "pipelineTag": "fill-mask",
+      "downloads": 14664395,
+      "likes": 300,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "onnx",
+        "safetensors"
+      ],
+      "lastModified": null,
+      "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in this paper and first released in this repository. This model is case-sensitive: it makes a difference between english and English."
+    },
+    {
       "rank": 22,
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 14289480,
+      "downloads": 14335043,
       "likes": 489,
       "tags": [
         "transformers",
@@ -417,10 +417,27 @@
     },
     {
       "rank": 24,
+      "id": "hexgrad/Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "pipelineTag": "text-to-speech",
+      "downloads": 14116876,
+      "likes": 6280,
+      "tags": [
+        "text-to-speech",
+        "en",
+        "doi:10.57967/hf/4329",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "lastModified": null,
+      "description": "Kokoro is an open-weight TTS model with 82 million parameters. Despite its lightweight architecture, it delivers comparable quality to larger models while being significantly faster and more cost-efficient. With Apache-licensed weights, …"
+    },
+    {
+      "rank": 25,
       "id": "Bingsu/adetailer",
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
-      "downloads": 14070099,
+      "downloads": 14036344,
       "likes": 719,
       "tags": [
         "ultralytics",
@@ -432,23 +449,6 @@
       ],
       "lastModified": null,
       "description": "Since getattr is classified as a dangerous pickle function, any segmentation model that uses it is classified as unsafe."
-    },
-    {
-      "rank": 25,
-      "id": "hexgrad/Kokoro-82M",
-      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "pipelineTag": "text-to-speech",
-      "downloads": 13993108,
-      "likes": 6279,
-      "tags": [
-        "text-to-speech",
-        "en",
-        "doi:10.57967/hf/4329",
-        "license:apache-2.0",
-        "region:us"
-      ],
-      "lastModified": null,
-      "description": "Kokoro is an open-weight TTS model with 82 million parameters. Despite its lightweight architecture, it delivers comparable quality to larger models while being significantly faster and more cost-efficient. With Apache-licensed weights, …"
     },
     {
       "rank": 26,
@@ -470,28 +470,10 @@
     },
     {
       "rank": 27,
-      "id": "Qwen/Qwen2.5-1.5B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 12918642,
-      "likes": 731,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 28,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12428489,
+      "downloads": 12466205,
       "likes": 1332,
       "tags": [
         "transformers",
@@ -505,25 +487,25 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 29,
-      "id": "Qwen/Qwen3-8B",
-      "url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "rank": 28,
+      "id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12077718,
-      "likes": 1126,
+      "downloads": 12170525,
+      "likes": 731,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen3",
+        "qwen2",
         "text-generation",
-        "conversational",
-        "license:apache-2.0"
+        "chat",
+        "conversational"
       ],
       "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "id": "google/gemma-4-26B-A4B-it",
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
@@ -539,6 +521,24 @@
       ],
       "lastModified": null,
       "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release includes open-weights models in both …"
+    },
+    {
+      "rank": 30,
+      "id": "Qwen/Qwen3-8B",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B",
+      "pipelineTag": "text-generation",
+      "downloads": 12050607,
+      "likes": 1126,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     }
   ],
   "smallModels": [
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 161627,
-      "likes": 712,
+      "likes": 713,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 100575,
-      "likes": 775,
+      "likes": 777,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 136369,
-      "likes": 192,
+      "likes": 193,
       "tags": [
         "gguf",
         "liquid",
@@ -655,7 +655,7 @@
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 11337337,
+      "downloads": 11216853,
       "likes": 6009,
       "tags": [
         "transformers",
@@ -673,7 +673,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
       "pipelineTag": "text-generation",
       "downloads": 626,
-      "likes": 32,
+      "likes": 34,
       "tags": [
         "transformers",
         "safetensors",
@@ -691,7 +691,7 @@
       "url": "https://huggingface.co/SupraLabs/Supra-50M-Reasoning",
       "pipelineTag": "text-generation",
       "downloads": 808,
-      "likes": 30,
+      "likes": 31,
       "tags": [
         "transformers",
         "safetensors",
@@ -744,8 +744,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 22520491,
-      "likes": 1299,
+      "downloads": 22585283,
+      "likes": 1300,
       "tags": [
         "transformers",
         "safetensors",
@@ -777,6 +777,23 @@
     },
     {
       "rank": 14,
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1693307,
+      "likes": 2199,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 15,
       "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-SFT",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-SFT",
       "pipelineTag": "text-generation",
@@ -794,28 +811,11 @@
       "description": "Mellum2 Thinking (SFT) is the supervised-fine-tuning-only intermediate checkpoint of the Mellum2 Thinking training pipeline, released by JetBrains as a research artifact."
     },
     {
-      "rank": 15,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1746334,
-      "likes": 2197,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 16,
       "id": "deepseek-ai/DeepSeek-R1",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
-      "downloads": 5748335,
+      "downloads": 5689797,
       "likes": 13375,
       "tags": [
         "transformers",
@@ -848,29 +848,11 @@
     },
     {
       "rank": 18,
-      "id": "Abiray/MiniCPM5-1B-GGUF",
-      "url": "https://huggingface.co/Abiray/MiniCPM5-1B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 10507,
-      "likes": 31,
-      "tags": [
-        "gguf",
-        "minicpm",
-        "minicpm5",
-        "llama",
-        "text-generation",
-        "tool-calling"
-      ],
-      "lastModified": null,
-      "description": "This repository contains custom GGUF format quantizations of the openbmb/MiniCPM5-1B model."
-    },
-    {
-      "rank": 19,
       "id": "LiquidAI/LFM2.5-1.2B-JP-202606-GGUF",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 349,
-      "likes": 13,
+      "likes": 14,
       "tags": [
         "gguf",
         "liquid",
@@ -883,29 +865,11 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
-      "rank": 20,
-      "id": "openbmb/MiniCPM5-1B-GGUF",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 32453,
-      "likes": 147,
-      "tags": [
-        "transformers",
-        "gguf",
-        "minicpm",
-        "minicpm5",
-        "llama",
-        "text-generation"
-      ],
-      "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12428489,
+      "downloads": 12466205,
       "likes": 1332,
       "tags": [
         "transformers",
@@ -919,11 +883,11 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 22,
+      "rank": 20,
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 8292089,
+      "downloads": 8117344,
       "likes": 1463,
       "tags": [
         "transformers",
@@ -934,6 +898,42 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 21,
+      "id": "Abiray/MiniCPM5-1B-GGUF",
+      "url": "https://huggingface.co/Abiray/MiniCPM5-1B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 10507,
+      "likes": 30,
+      "tags": [
+        "gguf",
+        "minicpm",
+        "minicpm5",
+        "llama",
+        "text-generation",
+        "tool-calling"
+      ],
+      "lastModified": null,
+      "description": "This repository contains custom GGUF format quantizations of the openbmb/MiniCPM5-1B model."
+    },
+    {
+      "rank": 22,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
+      "pipelineTag": "text-generation",
+      "downloads": 7732,
+      "likes": 12,
+      "tags": [
+        "gguf",
+        "mellum",
+        "llama.cpp",
+        "quantized",
+        "moe",
+        "thinking"
+      ],
+      "lastModified": null,
+      "description": "This repository contains a GGUF Q4_K_M quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
     }
   ]
 }

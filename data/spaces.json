@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T04:34:00.928Z",
+  "updated": "2026-06-07T07:29:54.705Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9465,
+      "likes": 9467,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7448,
+      "likes": 7449,
       "tags": [
         "docker",
         "leaderboard",
@@ -199,7 +199,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3870,
+      "likes": 3871,
       "tags": [
         "static",
         "region:us"
@@ -320,7 +320,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3176,
+      "likes": 3177,
       "tags": [
         "gradio",
         "mcp-server",
@@ -478,7 +478,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 258,
+      "likes": 259,
       "tags": [
         "static",
         "region:us"
@@ -520,7 +520,7 @@
       "description": "Run Gemma 4 locally in-browser on WebGPU w/ Transformers.js",
       "url": "https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU",
       "sdk": "static",
-      "likes": 226,
+      "likes": 227,
       "tags": [
         "static",
         "region:us"
