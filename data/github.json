@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T07:50:39.965Z",
+  "updated": "2026-06-08T10:39:32.340Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 32272,
-      "forks": 2678,
+      "stars": 32792,
+      "forks": 2696,
       "starsToday": 1111
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
       "language": "C++",
-      "stars": 88244,
-      "forks": 56606,
+      "stars": 88305,
+      "forks": 56612,
       "starsToday": 65
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "Shell",
-      "stars": 37475,
-      "forks": 2679,
+      "stars": 37875,
+      "forks": 2701,
       "starsToday": 1103
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 186482,
-      "forks": 32080,
+      "stars": 186721,
+      "forks": 32120,
       "starsToday": 1112
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/lfnovo/open-notebook",
       "description": "An Open Source implementation of Notebook LM with more flexibility and features",
       "language": "TypeScript",
-      "stars": 27597,
-      "forks": 3122,
+      "stars": 27715,
+      "forks": 3134,
       "starsToday": 554
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars": 19092,
-      "forks": 2943,
+      "stars": 19247,
+      "forks": 2957,
       "starsToday": 183
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 47719,
-      "forks": 5027,
+      "stars": 47803,
+      "forks": 5036,
       "starsToday": 322
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "language": "TypeScript",
-      "stars": 29880,
-      "forks": 2962,
+      "stars": 29938,
+      "forks": 2968,
       "starsToday": 309
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/ggml-org/llama.cpp",
       "description": "LLM inference in C/C++",
       "language": "C++",
-      "stars": 115477,
-      "forks": 19325,
+      "stars": 115536,
+      "forks": 19336,
       "starsToday": 158
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars": 7630,
-      "forks": 734,
+      "stars": 7826,
+      "forks": 744,
       "starsToday": 1554
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 72724,
-      "forks": 16281,
+      "stars": 72815,
+      "forks": 16304,
       "starsToday": 350
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 2140,
-      "forks": 275,
+      "stars": 2179,
+      "forks": 276,
       "starsToday": 262
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars": 13095,
-      "forks": 920,
+      "stars": 13176,
+      "forks": 925,
       "starsToday": 245
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/HunxByts/GhostTrack",
       "description": "Useful tool to track location or mobile number",
       "language": "Python",
-      "stars": 13854,
-      "forks": 1849,
+      "stars": 13907,
+      "forks": 1850,
       "starsToday": 28
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/microsoft/pg_durable",
       "description": "PostgreSQL in-database durable execution",
       "language": "Rust",
-      "stars": 1560,
-      "forks": 36,
+      "stars": 1610,
+      "forks": 37,
       "starsToday": 316
     }
   ]

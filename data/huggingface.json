@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T07:50:39.615Z",
+  "updated": "2026-06-08T10:39:32.443Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 251654846,
-      "likes": 4911,
+      "likes": 4913,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31789934,
-      "likes": 3091,
+      "likes": 3093,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 22789512,
-      "likes": 1301,
+      "likes": 1302,
       "tags": [
         "transformers",
         "safetensors",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 19001514,
-      "likes": 844,
+      "likes": 845,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 15341062,
-      "likes": 682,
+      "likes": 683,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 14345798,
-      "likes": 489,
+      "likes": 490,
       "tags": [
         "transformers",
         "safetensors",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 14149293,
-      "likes": 6282,
+      "likes": 6285,
       "tags": [
         "text-to-speech",
         "en",
@@ -456,7 +456,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 13642921,
-      "likes": 313,
+      "likes": 314,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 17448,
-      "likes": 252,
+      "likes": 253,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 135131,
-      "likes": 542,
+      "likes": 543,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 126061,
-      "likes": 779,
+      "likes": 780,
       "tags": [
         "transformers",
         "safetensors",
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
       "pipelineTag": "text-generation",
       "downloads": 2717,
-      "likes": 45,
+      "likes": 47,
       "tags": [
         "transformers",
         "safetensors",
@@ -670,6 +670,23 @@
     },
     {
       "rank": 8,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 11146200,
+      "likes": 6016,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
       "id": "SupraLabs/Supra-50M-Reasoning",
       "url": "https://huggingface.co/SupraLabs/Supra-50M-Reasoning",
       "pipelineTag": "text-generation",
@@ -685,23 +702,6 @@
       ],
       "lastModified": null,
       "description": "Supra-50M-Reasoning is the reasoning version of Supra-50M Instruct. It does \"reasoning\" before every answer for proving better answers."
-    },
-    {
-      "rank": 9,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 11146200,
-      "likes": 6013,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 10,
@@ -763,7 +763,7 @@
       "url": "https://huggingface.co/unsloth/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 49822,
-      "likes": 59,
+      "likes": 60,
       "tags": [
         "transformers",
         "gguf",
@@ -781,7 +781,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 22789512,
-      "likes": 1301,
+      "likes": 1302,
       "tags": [
         "transformers",
         "safetensors",
@@ -799,7 +799,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1643427,
-      "likes": 2204,
+      "likes": 2205,
       "tags": [
         "transformers",
         "safetensors",
@@ -848,6 +848,42 @@
     },
     {
       "rank": 18,
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "pipelineTag": "text-generation",
+      "downloads": 5694709,
+      "likes": 13377,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "conversational",
+        "custom_code"
+      ],
+      "lastModified": null,
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
+    },
+    {
+      "rank": 19,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
+      "pipelineTag": "text-generation",
+      "downloads": 9447,
+      "likes": 15,
+      "tags": [
+        "gguf",
+        "mellum",
+        "llama.cpp",
+        "quantized",
+        "moe",
+        "thinking"
+      ],
+      "lastModified": null,
+      "description": "This repository contains a GGUF Q4_K_M quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
+    },
+    {
+      "rank": 20,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
@@ -865,65 +901,12 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 19,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "pipelineTag": "text-generation",
-      "downloads": 5694709,
-      "likes": 13376,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "conversational",
-        "custom_code"
-      ],
-      "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
-    },
-    {
-      "rank": 20,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
-      "pipelineTag": "text-generation",
-      "downloads": 9447,
-      "likes": 14,
-      "tags": [
-        "gguf",
-        "mellum",
-        "llama.cpp",
-        "quantized",
-        "moe",
-        "thinking"
-      ],
-      "lastModified": null,
-      "description": "This repository contains a GGUF Q4_K_M quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
-    },
-    {
       "rank": 21,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1469945,
-      "likes": 4577,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 22,
-      "id": "meta-llama/Llama-3.1-8B",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1326528,
-      "likes": 2246,
+      "likes": 4579,
       "tags": [
         "transformers",
         "safetensors",
