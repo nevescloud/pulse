@@ -1,8 +1,22 @@
 {
-  "updated": "2026-06-08T10:39:32.208Z",
+  "updated": "2026-06-08T13:33:39.631Z",
   "trending": [
     {
       "rank": 1,
+      "id": "enzostvs/deepsite",
+      "title": "DeepSite v4",
+      "description": "Generate any application by Vibe Coding it",
+      "url": "https://huggingface.co/spaces/enzostvs/deepsite",
+      "sdk": "docker",
+      "likes": 16617,
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "lastModified": "2026-02-06T12:47:43.000Z"
+    },
+    {
+      "rank": 2,
       "id": "open-llm-leaderboard/open_llm_leaderboard",
       "title": "Open LLM Leaderboard",
       "description": "Track, rank and evaluate open LLMs and chatbots",
@@ -20,7 +34,7 @@
       "lastModified": "2026-05-27T08:54:50.000Z"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "id": "jbilcke-hf/ai-comic-factory",
       "title": "AI Comic Factory",
       "description": "Create your own AI comic with a single prompt",
@@ -34,7 +48,7 @@
       "lastModified": "2025-10-30T19:17:19.000Z"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "Kwai-Kolors/Kolors-Virtual-Try-On",
       "title": "Kolors Virtual Try-On",
       "description": null,
@@ -48,7 +62,7 @@
       "lastModified": "2026-04-01T06:36:42.000Z"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "black-forest-labs/FLUX.1-dev",
       "title": "FLUX.1 [dev]",
       "description": null,
@@ -62,7 +76,7 @@
       "lastModified": "2025-11-25T22:59:20.000Z"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "mteb/leaderboard",
       "title": "MTEB Leaderboard",
       "description": "Embedding Leaderboard",
@@ -77,7 +91,7 @@
       "lastModified": "2026-06-07T15:13:37.000Z"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "dalle-mini/dalle-mini",
       "title": "DALL·E mini",
       "description": null,
@@ -91,7 +105,7 @@
       "lastModified": "2025-08-15T17:58:41.000Z"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "AP123/IllusionDiffusion",
       "title": "IllusionDiffusion",
       "description": "Generate stunning high quality illusion artwork",
@@ -105,7 +119,7 @@
       "lastModified": "2026-05-22T14:15:16.000Z"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "Wan-AI/Wan2.2-Animate",
       "title": "Wan2.2 Animate",
       "description": "Wan2.2 Animate",
@@ -119,7 +133,7 @@
       "lastModified": "2026-01-23T07:17:48.000Z"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "facebook/MusicGen",
       "title": "MusicGen",
       "description": null,
@@ -136,7 +150,7 @@
       "lastModified": "2026-05-27T11:46:50.000Z"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "id": "black-forest-labs/FLUX.1-schnell",
       "title": "FLUX.1 [Schnell]",
       "description": null,
@@ -150,7 +164,7 @@
       "lastModified": "2025-08-25T15:19:21.000Z"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "id": "lmarena-ai/arena-leaderboard",
       "title": "Arena Leaderboard",
       "description": null,
@@ -165,7 +179,7 @@
       "lastModified": "2026-02-21T23:20:43.000Z"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "microsoft/TRELLIS",
       "title": "TRELLIS",
       "description": "Scalable and Versatile 3D Generation from images",
@@ -179,7 +193,7 @@
       "lastModified": "2025-06-05T05:04:15.000Z"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "id": "KingNish/OpenGPT-4o",
       "title": "OpenGPT 4o",
       "description": "GPT 4o like bot.",
@@ -193,13 +207,13 @@
       "lastModified": "2025-01-29T16:07:55.000Z"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "nanotron/ultrascale-playbook",
       "title": "The Ultra-Scale Playbook",
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3872,
+      "likes": 3873,
       "tags": [
         "static",
         "region:us"
@@ -207,7 +221,7 @@
       "lastModified": "2025-08-21T12:03:51.000Z"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "KlingTeam/LivePortrait",
       "title": "Live Portrait",
       "description": "Apply the motion of a video on a portrait",
@@ -225,7 +239,7 @@
       "lastModified": "2024-08-30T11:20:51.000Z"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "InstantX/InstantID",
       "title": "InstantID",
       "description": null,
@@ -239,7 +253,7 @@
       "lastModified": "2025-08-26T18:13:43.000Z"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "hexgrad/Kokoro-TTS",
       "title": "Kokoro TTS",
       "description": "Upgraded to v1.0!",
@@ -253,7 +267,7 @@
       "lastModified": "2025-04-09T20:21:52.000Z"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "id": "mrfakename/Z-Image-Turbo",
       "title": "Z Image Turbo",
       "description": null,
@@ -268,7 +282,7 @@
       "lastModified": "2026-02-02T16:51:24.000Z"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "id": "tencent/Hunyuan3D-2",
       "title": "Hunyuan3D-2.0",
       "description": "Text-to-3D and Image-to-3D Generation",
@@ -282,7 +296,7 @@
       "lastModified": "2025-06-02T15:04:38.000Z"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "id": "akhaliq/anycoder",
       "title": "AnyCoder",
       "description": null,
@@ -296,13 +310,13 @@
       "lastModified": "2026-04-20T16:42:10.000Z"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "id": "HuggingFaceTB/smol-training-playbook",
       "title": "The Smol Training Playbook",
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3199,
+      "likes": 3201,
       "tags": [
         "docker",
         "research-article-template",
@@ -314,13 +328,13 @@
       "lastModified": "2026-02-11T13:12:41.000Z"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "title": "Wan2.2 14B Fast",
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3180,
+      "likes": 3181,
       "tags": [
         "gradio",
         "mcp-server",
@@ -329,7 +343,7 @@
       "lastModified": "2026-05-14T17:32:41.000Z"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "id": "mukaist/Midjourney",
       "title": "MIDJOURNEY",
       "description": "MidJour | A RealVisXL_Turbo | IRL HI-Res Images Gen",
@@ -343,7 +357,7 @@
       "lastModified": "2026-05-24T22:47:07.000Z"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "id": "pharmapsychotic/CLIP-Interrogator",
       "title": "CLIP Interrogator",
       "description": null,
@@ -357,7 +371,7 @@
       "lastModified": "2026-05-24T23:45:28.000Z"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "id": "mrfakename/E2-F5-TTS",
       "title": "F5-TTS",
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
@@ -371,7 +385,7 @@
       "lastModified": "2026-05-20T15:19:59.000Z"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "id": "not-lain/background-removal",
       "title": "Background Removal",
       "description": null,
@@ -386,7 +400,7 @@
       "lastModified": "2026-04-20T14:16:25.000Z"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "sanchit-gandhi/whisper-jax",
       "title": "Whisper JAX",
       "description": null,
@@ -400,7 +414,7 @@
       "lastModified": "2024-09-16T13:51:17.000Z"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "id": "HumanAIGC/OutfitAnyone",
       "title": "OutfitAnyone",
       "description": null,
@@ -414,7 +428,7 @@
       "lastModified": "2025-06-17T08:55:26.000Z"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "id": "coqui/xtts",
       "title": "XTTS",
       "description": null,
@@ -426,20 +440,6 @@
         "region:us"
       ],
       "lastModified": "2024-01-15T09:52:23.000Z"
-    },
-    {
-      "rank": 30,
-      "id": "openai/whisper",
-      "title": "Whisper",
-      "description": null,
-      "url": "https://huggingface.co/spaces/openai/whisper",
-      "sdk": "gradio",
-      "likes": 2765,
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "lastModified": "2025-09-18T16:37:22.000Z"
     }
   ],
   "webml": [
@@ -478,7 +478,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 274,
+      "likes": 275,
       "tags": [
         "static",
         "region:us"
