@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T00:52:52.469Z",
+  "updated": "2026-06-09T04:28:30.174Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 34524,
-      "forks": 2821,
+      "stars": 35055,
+      "forks": 2867,
       "starsToday": 3558
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars": 8880,
-      "forks": 813,
+      "stars": 9160,
+      "forks": 821,
       "starsToday": 1729
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars": 12409,
-      "forks": 969,
+      "stars": 12559,
+      "forks": 975,
       "starsToday": 461
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars": 13576,
-      "forks": 952,
+      "stars": 13717,
+      "forks": 959,
       "starsToday": 651
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 24137,
-      "forks": 2034,
+      "stars": 24498,
+      "forks": 2049,
       "starsToday": 679
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars": 15423,
-      "forks": 2160,
+      "stars": 15511,
+      "forks": 2163,
       "starsToday": 62
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars": 50519,
-      "forks": 10334,
+      "stars": 50715,
+      "forks": 10351,
       "starsToday": 308
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars": 12665,
-      "forks": 1497,
+      "stars": 12858,
+      "forks": 1505,
       "starsToday": 164
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 2320,
-      "forks": 289,
+      "stars": 2365,
+      "forks": 292,
       "starsToday": 296
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars": 3455,
-      "forks": 203,
+      "stars": 3586,
+      "forks": 205,
       "starsToday": 143
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stars": 54932,
-      "forks": 7159,
+      "stars": 55021,
+      "forks": 7161,
       "starsToday": 170
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars": 42342,
-      "forks": 3783,
+      "stars": 42455,
+      "forks": 3790,
       "starsToday": 1288
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars": 34131,
-      "forks": 4304,
+      "stars": 34228,
+      "forks": 4309,
       "starsToday": 378
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 72975,
-      "forks": 16334,
+      "stars": 73100,
+      "forks": 16358,
       "starsToday": 592
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars": 35773,
-      "forks": 4347,
+      "stars": 35911,
+      "forks": 4357,
       "starsToday": 312
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 48109,
-      "forks": 5064,
+      "stars": 48177,
+      "forks": 5073,
       "starsToday": 699
     }
   ]
