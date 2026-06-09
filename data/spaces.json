@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T13:06:05.498Z",
+  "updated": "2026-06-09T16:02:35.147Z",
   "trending": [
     {
       "rank": 1,
@@ -111,7 +111,7 @@
       "description": "Generate stunning high quality illusion artwork",
       "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
       "sdk": "gradio",
-      "likes": 5408,
+      "likes": 5409,
       "tags": [
         "gradio",
         "region:us"
@@ -245,7 +245,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/InstantX/InstantID",
       "sdk": "gradio",
-      "likes": 3607,
+      "likes": 3609,
       "tags": [
         "gradio",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3349,
+      "likes": 3350,
       "tags": [
         "gradio",
         "mcp-server",
@@ -334,7 +334,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3187,
+      "likes": 3188,
       "tags": [
         "gradio",
         "mcp-server",
@@ -391,7 +391,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2849,
+      "likes": 2850,
       "tags": [
         "gradio",
         "mcp-server",
