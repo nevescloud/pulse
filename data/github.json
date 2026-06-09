@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T21:36:28.909Z",
+  "updated": "2026-06-09T00:52:52.469Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 34271,
-      "forks": 2807,
+      "stars": 34524,
+      "forks": 2821,
       "starsToday": 3558
     },
     {
@@ -22,9 +22,9 @@
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars": 8687,
-      "forks": 806,
-      "starsToday": 1730
+      "stars": 8880,
+      "forks": 813,
+      "starsToday": 1729
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars": 12326,
-      "forks": 965,
-      "starsToday": 481
+      "stars": 12409,
+      "forks": 969,
+      "starsToday": 461
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars": 13504,
-      "forks": 950,
-      "starsToday": 649
+      "stars": 13576,
+      "forks": 952,
+      "starsToday": 651
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 24003,
-      "forks": 2026,
-      "starsToday": 796
+      "stars": 24137,
+      "forks": 2034,
+      "starsToday": 679
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
       "description": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
       "language": "TypeScript",
-      "stars": 15382,
-      "forks": 2157,
-      "starsToday": 121
+      "stars": 15423,
+      "forks": 2160,
+      "starsToday": 62
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars": 50417,
-      "forks": 10325,
-      "starsToday": 477
+      "stars": 50519,
+      "forks": 10334,
+      "starsToday": 308
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars": 12586,
-      "forks": 1494,
-      "starsToday": 112
+      "stars": 12665,
+      "forks": 1497,
+      "starsToday": 164
     },
     {
       "rank": 9,
@@ -106,7 +106,7 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 2293,
+      "stars": 2320,
       "forks": 289,
       "starsToday": 296
     },
@@ -118,9 +118,9 @@
       "url": "https://github.com/Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars": 3392,
-      "forks": 200,
-      "starsToday": 103
+      "stars": 3455,
+      "forks": 203,
+      "starsToday": 143
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/MemPalace/mempalace",
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "language": "Python",
-      "stars": 54877,
-      "forks": 7158,
-      "starsToday": 237
+      "stars": 54932,
+      "forks": 7159,
+      "starsToday": 170
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars": 42298,
-      "forks": 3781,
-      "starsToday": 1140
+      "stars": 42342,
+      "forks": 3783,
+      "starsToday": 1288
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/CopilotKit/CopilotKit",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "language": "TypeScript",
-      "stars": 34085,
-      "forks": 4303,
-      "starsToday": 398
+      "stars": 34131,
+      "forks": 4304,
+      "starsToday": 378
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 72951,
-      "forks": 16330,
-      "starsToday": 593
+      "stars": 72975,
+      "forks": 16334,
+      "starsToday": 592
     },
     {
       "rank": 15,
@@ -178,9 +178,9 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars": 35703,
-      "forks": 4341,
-      "starsToday": 393
+      "stars": 35773,
+      "forks": 4347,
+      "starsToday": 312
     },
     {
       "rank": 16,
@@ -190,8 +190,8 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 48051,
-      "forks": 5061,
+      "stars": 48109,
+      "forks": 5064,
       "starsToday": 699
     }
   ]
