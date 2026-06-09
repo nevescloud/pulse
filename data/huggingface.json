@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T10:17:34.911Z",
+  "updated": "2026-06-09T13:06:05.645Z",
   "models": [
     {
       "rank": 1,
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 53187492,
-      "likes": 483,
+      "likes": 484,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 29227796,
-      "likes": 3096,
+      "likes": 3097,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 13950106,
-      "likes": 1027,
+      "likes": 1028,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -474,7 +474,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 11890117,
-      "likes": 1341,
+      "likes": 1343,
       "tags": [
         "transformers",
         "safetensors",
@@ -492,7 +492,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11410793,
-      "likes": 1105,
+      "likes": 1106,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 133351,
-      "likes": 730,
+      "likes": 732,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 17571,
-      "likes": 264,
+      "likes": 265,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 137138,
-      "likes": 557,
+      "likes": 558,
       "tags": [
         "transformers",
         "safetensors",
@@ -616,6 +616,24 @@
     },
     {
       "rank": 5,
+      "id": "LiquidAI/LFM2.5-1.2B-JP-202606",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
+      "pipelineTag": "text-generation",
+      "downloads": 2856,
+      "likes": 53,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "lfm2",
+        "text-generation",
+        "liquid",
+        "lfm2.5"
+      ],
+      "lastModified": null,
+      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
+    },
+    {
+      "rank": 6,
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
@@ -633,48 +651,12 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
-      "rank": 6,
-      "id": "LiquidAI/LFM2.5-1.2B-JP-202606",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
-      "pipelineTag": "text-generation",
-      "downloads": 2856,
-      "likes": 52,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "lfm2",
-        "text-generation",
-        "liquid",
-        "lfm2.5"
-      ],
-      "lastModified": null,
-      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
-    },
-    {
       "rank": 7,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 2128,
-      "likes": 62,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "mellum",
-        "text-generation",
-        "conversational",
-        "en"
-      ],
-      "lastModified": null,
-      "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
-    },
-    {
-      "rank": 8,
       "id": "SupraLabs/Supra-50M-Reasoning",
       "url": "https://huggingface.co/SupraLabs/Supra-50M-Reasoning",
       "pipelineTag": "text-generation",
       "downloads": 1647,
-      "likes": 37,
+      "likes": 38,
       "tags": [
         "transformers",
         "safetensors",
@@ -687,12 +669,30 @@
       "description": "Supra-50M-Reasoning is the reasoning version of Supra-50M Instruct. It does \"reasoning\" before every answer for proving better answers."
     },
     {
+      "rank": 8,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 2128,
+      "likes": 63,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "mellum",
+        "text-generation",
+        "conversational",
+        "en"
+      ],
+      "lastModified": null,
+      "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
+    },
+    {
       "rank": 9,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10031112,
-      "likes": 6024,
+      "likes": 6027,
       "tags": [
         "transformers",
         "safetensors",
@@ -723,24 +723,6 @@
     },
     {
       "rank": 11,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 21649861,
-      "likes": 1308,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 12,
       "id": "ibm-granite/granite-switch-4.1-8b-preview",
       "url": "https://huggingface.co/ibm-granite/granite-switch-4.1-8b-preview",
       "pipelineTag": "text-generation",
@@ -756,6 +738,24 @@
       ],
       "lastModified": null,
       "description": "Model Summary: Granite Switch 4.1 8B Preview is a modular LLM built on IBM Granite 4.1 8B with embedded adapters from the Granite Libraries collection. A single checkpoint supports multiple specialized capabilities — RAG, safety, explain…"
+    },
+    {
+      "rank": 12,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 21649861,
+      "likes": 1308,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 13,
@@ -781,7 +781,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 11890117,
-      "likes": 1341,
+      "likes": 1343,
       "tags": [
         "transformers",
         "safetensors",
@@ -799,7 +799,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1509782,
-      "likes": 2209,
+      "likes": 2210,
       "tags": [
         "transformers",
         "safetensors",
@@ -830,6 +830,40 @@
     },
     {
       "rank": 17,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1362807,
+      "likes": 4582,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 18,
+      "id": "meta-llama/Llama-3.2-1B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
+      "pipelineTag": "text-generation",
+      "downloads": 2096885,
+      "likes": 2441,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 19,
       "id": "unsloth/LFM2.5-8B-A1B-GGUF",
       "url": "https://huggingface.co/unsloth/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
@@ -847,24 +881,7 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
-      "rank": 18,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1362807,
-      "likes": 4581,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 19,
+      "rank": 20,
       "id": "Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
       "url": "https://huggingface.co/Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
       "pipelineTag": "text-generation",
@@ -880,41 +897,6 @@
       ],
       "lastModified": null,
       "description": "An experiment in bringing reasoning capability to the Pantheon roleplay series in the shape of a Gemma 4 MoE, which is generally the only variant that doesn't take half a lifetime to train. Though Qwen 3.6 27B is a really, really smart m…"
-    },
-    {
-      "rank": 20,
-      "id": "meta-llama/Llama-3.2-1B",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 2096885,
-      "likes": 2440,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 21,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "pipelineTag": "text-generation",
-      "downloads": 5348466,
-      "likes": 13379,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "conversational",
-        "custom_code"
-      ],
-      "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     }
   ]
 }
