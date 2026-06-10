@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T18:58:25.547Z",
+  "updated": "2026-06-10T21:43:05.819Z",
   "models": [
     {
       "rank": 1,
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13411836,
-      "likes": 6298,
+      "likes": 6300,
       "tags": [
         "text-to-speech",
         "en",
@@ -492,7 +492,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11448151,
-      "likes": 1111,
+      "likes": 1112,
       "tags": [
         "transformers",
         "safetensors",
@@ -562,24 +562,6 @@
     },
     {
       "rank": 2,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
-      "pipelineTag": "text-generation",
-      "downloads": 18273,
-      "likes": 279,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "mellum",
-        "text-generation",
-        "conversational",
-        "en"
-      ],
-      "lastModified": null,
-      "description": "Mellum 2 Thinking is a post-trained reasoning-augmented assistant model trained by JetBrains."
-    },
-    {
-      "rank": 3,
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
@@ -597,12 +579,30 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
+      "rank": 3,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "pipelineTag": "text-generation",
+      "downloads": 18273,
+      "likes": 280,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "mellum",
+        "text-generation",
+        "conversational",
+        "en"
+      ],
+      "lastModified": null,
+      "description": "Mellum 2 Thinking is a post-trained reasoning-augmented assistant model trained by JetBrains."
+    },
+    {
       "rank": 4,
       "id": "LiquidAI/LFM2.5-1.2B-JP-202606",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
       "pipelineTag": "text-generation",
       "downloads": 3856,
-      "likes": 58,
+      "likes": 59,
       "tags": [
         "transformers",
         "safetensors",
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9891622,
-      "likes": 6042,
+      "likes": 6044,
       "tags": [
         "transformers",
         "safetensors",
@@ -673,7 +673,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 170080,
-      "likes": 204,
+      "likes": 205,
       "tags": [
         "gguf",
         "liquid",
@@ -744,7 +744,7 @@
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 2329,
-      "likes": 63,
+      "likes": 64,
       "tags": [
         "transformers",
         "safetensors",
@@ -794,24 +794,6 @@
     },
     {
       "rank": 15,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 11898561,
-      "likes": 1347,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 16,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
@@ -827,6 +809,24 @@
       ],
       "lastModified": null,
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
+      "rank": 16,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 11898561,
+      "likes": 1347,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
       "rank": 17,
