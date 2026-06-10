@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T21:36:59.840Z",
+  "updated": "2026-06-10T00:59:36.416Z",
   "trending": [
     {
       "rank": 1,
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3875,
+      "likes": 3876,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3351,
+      "likes": 3352,
       "tags": [
         "gradio",
         "mcp-server",
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3343,
+      "likes": 3344,
       "tags": [
         "gradio",
         "region:us"
@@ -288,7 +288,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3303,
+      "likes": 3304,
       "tags": [
         "gradio",
         "region:us"
@@ -334,7 +334,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3190,
+      "likes": 3191,
       "tags": [
         "gradio",
         "mcp-server",
@@ -391,7 +391,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2850,
+      "likes": 2851,
       "tags": [
         "gradio",
         "mcp-server",

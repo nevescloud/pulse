@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T21:36:59.907Z",
+  "updated": "2026-06-10T00:59:36.419Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 37109,
-      "forks": 3015,
-      "starsToday": 3177
+      "stars": 37351,
+      "forks": 3030,
+      "starsToday": 3191
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars": 10076,
-      "forks": 864,
-      "starsToday": 1800
+      "stars": 10177,
+      "forks": 869,
+      "starsToday": 1801
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars": 42924,
-      "forks": 3828,
-      "starsToday": 735
+      "stars": 42988,
+      "forks": 3836,
+      "starsToday": 733
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
       "language": "C++",
-      "stars": 88582,
-      "forks": 56621,
-      "starsToday": 169
+      "stars": 88635,
+      "forks": 56622,
+      "starsToday": 102
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars": 14254,
-      "forks": 991,
-      "starsToday": 821
+      "stars": 14329,
+      "forks": 995,
+      "starsToday": 829
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/aaif-goose/goose",
       "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
       "language": "Rust",
-      "stars": 48452,
-      "forks": 5093,
-      "starsToday": 490
+      "stars": 48495,
+      "forks": 5094,
+      "starsToday": 489
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/Andyyyy64/whichllm",
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "language": "Python",
-      "stars": 4029,
-      "forks": 224,
-      "starsToday": 631
+      "stars": 4095,
+      "forks": 227,
+      "starsToday": 633
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/TapXWorld/ChinaTextbook",
       "description": "所有小初高、大学PDF教材。",
       "language": "Roff",
-      "stars": 73440,
-      "forks": 16444,
-      "starsToday": 517
+      "stars": 73470,
+      "forks": 16447,
+      "starsToday": 519
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": null,
-      "stars": 139115,
-      "forks": 34556,
-      "starsToday": 66
+      "stars": 139155,
+      "forks": 34559,
+      "starsToday": 79
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/yikart/AiToEarn",
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
-      "stars": 19868,
-      "forks": 3016,
-      "starsToday": 423
+      "stars": 19937,
+      "forks": 3019,
+      "starsToday": 402
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars": 13363,
-      "forks": 1535,
-      "starsToday": 808
+      "stars": 13431,
+      "forks": 1541,
+      "starsToday": 806
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars": 51527,
-      "forks": 10405,
-      "starsToday": 1114
+      "stars": 51668,
+      "forks": 10424,
+      "starsToday": 1110
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "url": "https://github.com/openai/plugins",
       "description": "OpenAI Plugins",
       "language": "JavaScript",
-      "stars": 2569,
-      "forks": 304,
+      "stars": 2608,
+      "forks": 305,
       "starsToday": 284
     },
     {
@@ -166,9 +166,9 @@
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars": 1800,
-      "forks": 210,
-      "starsToday": 165
+      "stars": 1869,
+      "forks": 215,
+      "starsToday": 191
     },
     {
       "rank": 15,
@@ -178,9 +178,9 @@
       "url": "https://github.com/francescopace/espectre",
       "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
       "language": "Python",
-      "stars": 8162,
-      "forks": 632,
-      "starsToday": 112
+      "stars": 8211,
+      "forks": 633,
+      "starsToday": 134
     },
     {
       "rank": 16,
@@ -190,9 +190,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 49759,
-      "forks": 5563,
-      "starsToday": 348
+      "stars": 49827,
+      "forks": 5567,
+      "starsToday": 443
     }
   ]
 }
