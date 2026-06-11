@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T04:34:06.973Z",
+  "updated": "2026-06-11T07:48:15.478Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14014,
+      "likes": 14015,
       "tags": [
         "docker",
         "leaderboard",
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10102,
+      "likes": 10103,
       "tags": [
         "gradio",
         "region:us"
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4910,
+      "likes": 4912,
       "tags": [
         "static",
         "leaderboard",
