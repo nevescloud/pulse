@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T21:43:05.819Z",
+  "updated": "2026-06-11T00:59:00.206Z",
   "models": [
     {
       "rank": 1,
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 52736260,
-      "likes": 485,
+      "likes": 486,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13411836,
-      "likes": 6300,
+      "likes": 6301,
       "tags": [
         "text-to-speech",
         "en",
@@ -492,7 +492,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11448151,
-      "likes": 1112,
+      "likes": 1114,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 142134,
-      "likes": 580,
+      "likes": 582,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 18273,
-      "likes": 280,
+      "likes": 281,
       "tags": [
         "transformers",
         "safetensors",
@@ -616,6 +616,24 @@
     },
     {
       "rank": 5,
+      "id": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "pipelineTag": "text-generation",
+      "downloads": 137337,
+      "likes": 794,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "minicpm",
+        "minicpm5"
+      ],
+      "lastModified": null,
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
+      "rank": 6,
       "id": "SupraLabs/Supra-50M-Reasoning",
       "url": "https://huggingface.co/SupraLabs/Supra-50M-Reasoning",
       "pipelineTag": "text-generation",
@@ -633,30 +651,12 @@
       "description": "Supra-50M-Reasoning is the reasoning version of Supra-50M Instruct. It does \"reasoning\" before every answer for proving better answers."
     },
     {
-      "rank": 6,
-      "id": "openbmb/MiniCPM5-1B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 137337,
-      "likes": 793,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "minicpm",
-        "minicpm5"
-      ],
-      "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
       "rank": 7,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9891622,
-      "likes": 6044,
+      "likes": 6046,
       "tags": [
         "transformers",
         "safetensors",
@@ -673,7 +673,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 170080,
-      "likes": 205,
+      "likes": 207,
       "tags": [
         "gguf",
         "liquid",
@@ -687,24 +687,6 @@
     },
     {
       "rank": 9,
-      "id": "ibm-granite/granite-switch-4.1-3b-preview",
-      "url": "https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview",
-      "pipelineTag": "text-generation",
-      "downloads": 7416,
-      "likes": 31,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "granite_switch",
-        "text-generation",
-        "language",
-        "granite-switch"
-      ],
-      "lastModified": null,
-      "description": "Model Summary: Granite Switch 4.1 3B Preview is a modular LLM built on IBM Granite 4.1 3B with embedded adapters from the Granite Libraries collection. A single checkpoint supports multiple specialized capabilities — RAG, safety, explain…"
-    },
-    {
-      "rank": 10,
       "id": "ibm-granite/granite-switch-4.1-8b-preview",
       "url": "https://huggingface.co/ibm-granite/granite-switch-4.1-8b-preview",
       "pipelineTag": "text-generation",
@@ -720,6 +702,24 @@
       ],
       "lastModified": null,
       "description": "Model Summary: Granite Switch 4.1 8B Preview is a modular LLM built on IBM Granite 4.1 8B with embedded adapters from the Granite Libraries collection. A single checkpoint supports multiple specialized capabilities — RAG, safety, explain…"
+    },
+    {
+      "rank": 10,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
+      "pipelineTag": "text-generation",
+      "downloads": 10071,
+      "likes": 20,
+      "tags": [
+        "gguf",
+        "mellum",
+        "llama.cpp",
+        "quantized",
+        "moe",
+        "thinking"
+      ],
+      "lastModified": null,
+      "description": "This repository contains a GGUF Q4_K_M quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
     },
     {
       "rank": 11,
@@ -740,6 +740,24 @@
     },
     {
       "rank": 12,
+      "id": "ibm-granite/granite-switch-4.1-3b-preview",
+      "url": "https://huggingface.co/ibm-granite/granite-switch-4.1-3b-preview",
+      "pipelineTag": "text-generation",
+      "downloads": 7416,
+      "likes": 31,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "granite_switch",
+        "text-generation",
+        "language",
+        "granite-switch"
+      ],
+      "lastModified": null,
+      "description": "Model Summary: Granite Switch 4.1 3B Preview is a modular LLM built on IBM Granite 4.1 3B with embedded adapters from the Granite Libraries collection. A single checkpoint supports multiple specialized capabilities — RAG, safety, explain…"
+    },
+    {
+      "rank": 13,
       "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
       "pipelineTag": "text-generation",
@@ -755,24 +773,6 @@
       ],
       "lastModified": null,
       "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
-    },
-    {
-      "rank": 13,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
-      "pipelineTag": "text-generation",
-      "downloads": 10071,
-      "likes": 19,
-      "tags": [
-        "gguf",
-        "mellum",
-        "llama.cpp",
-        "quantized",
-        "moe",
-        "thinking"
-      ],
-      "lastModified": null,
-      "description": "This repository contains a GGUF Q4_K_M quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
     },
     {
       "rank": 14,
@@ -830,20 +830,21 @@
     },
     {
       "rank": 17,
-      "id": "meta-llama/Llama-3.2-1B",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
       "pipelineTag": "text-generation",
-      "downloads": 2097743,
-      "likes": 2444,
+      "downloads": 2316,
+      "likes": 15,
       "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
+        "gguf",
+        "mellum",
+        "llama.cpp",
+        "quantized",
+        "moe",
+        "thinking"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "This repository contains a GGUF Q8_0 quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
     },
     {
       "rank": 18,
@@ -882,21 +883,20 @@
     },
     {
       "rank": 20,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
+      "id": "meta-llama/Llama-3.2-1B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
       "pipelineTag": "text-generation",
-      "downloads": 2316,
-      "likes": 14,
+      "downloads": 2097743,
+      "likes": 2444,
       "tags": [
-        "gguf",
-        "mellum",
-        "llama.cpp",
-        "quantized",
-        "moe",
-        "thinking"
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "This repository contains a GGUF Q8_0 quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
+      "lastModified": null
     },
     {
       "rank": 21,
