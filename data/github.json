@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T07:48:16.940Z",
+  "updated": "2026-06-11T10:34:32.349Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 52870,
-      "forks": 5795,
+      "stars": 53345,
+      "forks": 5835,
       "starsToday": 821
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/phuryn/pm-skills",
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "language": null,
-      "stars": 15570,
-      "forks": 1656,
+      "stars": 15812,
+      "forks": 1669,
       "starsToday": 804
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/refactoringhq/tolaria",
       "description": "Desktop app to manage markdown knowledge bases",
       "language": "TypeScript",
-      "stars": 15120,
-      "forks": 1043,
+      "stars": 15187,
+      "forks": 1048,
       "starsToday": 612
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 39360,
-      "forks": 3170,
+      "stars": 39473,
+      "forks": 3175,
       "starsToday": 2535
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/soxoj/maigret",
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "language": "Python",
-      "stars": 32226,
-      "forks": 2369,
+      "stars": 32319,
+      "forks": 2374,
       "starsToday": 318
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": null,
-      "stars": 139654,
-      "forks": 34601,
+      "stars": 139705,
+      "forks": 34607,
       "starsToday": 393
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 224039,
-      "forks": 19921,
+      "stars": 224266,
+      "forks": 19928,
       "starsToday": 1104
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "language": "Go",
-      "stars": 5387,
-      "forks": 502,
+      "stars": 5446,
+      "forks": 507,
       "starsToday": 354
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "language": "Python",
-      "stars": 85467,
-      "forks": 12194,
+      "stars": 85656,
+      "forks": 12221,
       "starsToday": 1389
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/maziyarpanahi/openmed",
       "description": "open-source healthcare ai",
       "language": "Python",
-      "stars": 2435,
-      "forks": 250,
+      "stars": 2487,
+      "forks": 253,
       "starsToday": 527
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars": 36710,
-      "forks": 4425,
+      "stars": 36788,
+      "forks": 4432,
       "starsToday": 211
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/activeloopai/hivemind",
       "description": "One brain for all your agents",
       "language": "TypeScript",
-      "stars": 969,
-      "forks": 53,
+      "stars": 1019,
+      "forks": 59,
       "starsToday": 64
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 73035,
-      "forks": 9745,
+      "stars": 73093,
+      "forks": 9751,
       "starsToday": 420
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars": 43716,
-      "forks": 3882,
+      "stars": 43764,
+      "forks": 3887,
       "starsToday": 695
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/google/skills",
       "description": "Agent Skills for Google products and technologies",
       "language": "Python",
-      "stars": 13435,
-      "forks": 1013,
+      "stars": 13494,
+      "forks": 1014,
       "starsToday": 211
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
       "language": "Python",
-      "stars": 5416,
-      "forks": 724,
+      "stars": 5491,
+      "forks": 729,
       "starsToday": 247
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 30383,
-      "forks": 846,
+      "stars": 30605,
+      "forks": 855,
       "starsToday": 1611
     }
   ]
