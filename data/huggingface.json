@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T16:25:07.306Z",
+  "updated": "2026-06-11T19:04:37.241Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 224830792,
-      "likes": 4931,
+      "likes": 4932,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 46012730,
-      "likes": 1266,
+      "likes": 1267,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13411836,
-      "likes": 6305,
+      "likes": 6306,
       "tags": [
         "text-to-speech",
         "en",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13113728,
-      "likes": 496,
+      "likes": 497,
       "tags": [
         "transformers",
         "safetensors",
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13063927,
-      "likes": 3297,
+      "likes": 3298,
       "tags": [
         "transformers",
         "pytorch",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 134752,
-      "likes": 746,
+      "likes": 747,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 142134,
-      "likes": 592,
+      "likes": 593,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9891622,
-      "likes": 6052,
+      "likes": 6055,
       "tags": [
         "transformers",
         "safetensors",
@@ -655,7 +655,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 137337,
-      "likes": 795,
+      "likes": 796,
       "tags": [
         "transformers",
         "safetensors",
@@ -673,7 +673,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 170080,
-      "likes": 207,
+      "likes": 206,
       "tags": [
         "gguf",
         "liquid",
@@ -687,6 +687,23 @@
     },
     {
       "rank": 9,
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1472295,
+      "likes": 2218,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 10,
       "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q4_K_M",
       "pipelineTag": "text-generation",
@@ -702,23 +719,6 @@
       ],
       "lastModified": null,
       "description": "This repository contains a GGUF Q4_K_M quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
-    },
-    {
-      "rank": 10,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1472295,
-      "likes": 2218,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 11,
@@ -740,24 +740,6 @@
     },
     {
       "rank": 12,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
-      "pipelineTag": "text-generation",
-      "downloads": 2316,
-      "likes": 17,
-      "tags": [
-        "gguf",
-        "mellum",
-        "llama.cpp",
-        "quantized",
-        "moe",
-        "thinking"
-      ],
-      "lastModified": null,
-      "description": "This repository contains a GGUF Q8_0 quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
-    },
-    {
-      "rank": 13,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
@@ -775,7 +757,7 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "JetBrains/Mellum2-12B-A2.5B-Instruct",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Instruct",
       "pipelineTag": "text-generation",
@@ -791,6 +773,24 @@
       ],
       "lastModified": null,
       "description": "Mellum2 Instruct is a post-trained assistant model trained by JetBrains."
+    },
+    {
+      "rank": 14,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking-GGUF-Q8_0",
+      "pipelineTag": "text-generation",
+      "downloads": 2316,
+      "likes": 17,
+      "tags": [
+        "gguf",
+        "mellum",
+        "llama.cpp",
+        "quantized",
+        "moe",
+        "thinking"
+      ],
+      "lastModified": null,
+      "description": "This repository contains a GGUF Q8_0 quantization of JetBrains/Mellum2-12B-A2.5B-Thinking, ready to run with llama.cpp, Ollama, LM Studio, and other GGUF-compatible runtimes."
     },
     {
       "rank": 15,
@@ -816,7 +816,7 @@
       "url": "https://huggingface.co/apodex/Apodex-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 16,
-      "likes": 14,
+      "likes": 15,
       "tags": [
         "transformers",
         "safetensors",
@@ -830,6 +830,24 @@
     },
     {
       "rank": 17,
+      "id": "Muhammadreza/alduin-4b-it-base",
+      "url": "https://huggingface.co/Muhammadreza/alduin-4b-it-base",
+      "pipelineTag": "text-generation",
+      "downloads": 0,
+      "likes": 15,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma3",
+        "image-text-to-text",
+        "unsloth",
+        "heretic"
+      ],
+      "lastModified": null,
+      "description": "This model is a heretic version based on Gemma 3 4B and meant to be an uncensored limitless version of the original model."
+    },
+    {
+      "rank": 18,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
@@ -845,24 +863,6 @@
       ],
       "lastModified": null,
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 18,
-      "id": "Muhammadreza/alduin-4b-it-base",
-      "url": "https://huggingface.co/Muhammadreza/alduin-4b-it-base",
-      "pipelineTag": "text-generation",
-      "downloads": 0,
-      "likes": 13,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gemma3",
-        "image-text-to-text",
-        "unsloth",
-        "heretic"
-      ],
-      "lastModified": null,
-      "description": "This model is a heretic version based on Gemma 3 4B and meant to be an uncensored limitless version of the original model."
     },
     {
       "rank": 19,
@@ -897,6 +897,24 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 21,
+      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
+      "url": "https://huggingface.co/unsloth/LFM2.5-8B-A1B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 51093,
+      "likes": 64,
+      "tags": [
+        "transformers",
+        "gguf",
+        "liquid",
+        "unsloth",
+        "lfm2.5",
+        "edge"
+      ],
+      "lastModified": null,
+      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     }
   ]
 }
