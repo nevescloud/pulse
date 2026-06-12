@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T16:05:28.217Z",
+  "updated": "2026-06-12T18:45:06.095Z",
   "trending": [
     {
       "rank": 1,
@@ -334,7 +334,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3197,
+      "likes": 3198,
       "tags": [
         "gradio",
         "mcp-server",
