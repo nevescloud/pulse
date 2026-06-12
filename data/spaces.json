@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T04:33:42.000Z",
+  "updated": "2026-06-12T07:44:15.709Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11112,
+      "likes": 11114,
       "tags": [
         "docker",
         "region:us"
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9469,
+      "likes": 9470,
       "tags": [
         "gradio",
         "region:us"
@@ -478,7 +478,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 284,
+      "likes": 285,
       "tags": [
         "static",
         "region:us"
