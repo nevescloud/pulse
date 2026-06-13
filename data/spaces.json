@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T12:42:25.507Z",
+  "updated": "2026-06-13T18:34:18.110Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14016,
+      "likes": 14017,
       "tags": [
         "docker",
         "leaderboard",
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11118,
+      "likes": 11119,
       "tags": [
         "docker",
         "region:us"
@@ -97,7 +97,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
       "sdk": "static",
-      "likes": 5687,
+      "likes": 5688,
       "tags": [
         "static",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3881,
+      "likes": 3882,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3378,
+      "likes": 3380,
       "tags": [
         "gradio",
         "mcp-server",
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3202,
+      "likes": 3203,
       "tags": [
         "docker",
         "research-article-template",
@@ -349,7 +349,7 @@
       "description": "MidJour | A RealVisXL_Turbo | IRL HI-Res Images Gen",
       "url": "https://huggingface.co/spaces/mukaist/Midjourney",
       "sdk": "gradio",
-      "likes": 2978,
+      "likes": 2979,
       "tags": [
         "gradio",
         "region:us"
@@ -377,7 +377,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2875,
+      "likes": 2876,
       "tags": [
         "gradio",
         "region:us"

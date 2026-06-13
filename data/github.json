@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T15:36:15.494Z",
+  "updated": "2026-06-13T18:34:18.527Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars": 118558,
-      "forks": 6335,
+      "stars": 118767,
+      "forks": 6350,
       "starsToday": 650
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "Shell",
-      "stars": 57872,
-      "forks": 6259,
+      "stars": 58067,
+      "forks": 6278,
       "starsToday": 1507
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars": 30716,
-      "forks": 7542,
+      "stars": 30772,
+      "forks": 7549,
       "starsToday": 86
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 226672,
-      "forks": 20144,
+      "stars": 226770,
+      "forks": 20159,
       "starsToday": 931
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 35956,
-      "forks": 1018,
+      "stars": 36086,
+      "forks": 1024,
       "starsToday": 1471
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars": 1936,
-      "forks": 427,
+      "stars": 1959,
+      "forks": 429,
       "starsToday": 277
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/kenn-io/agentsview",
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
       "language": "Go",
-      "stars": 2215,
-      "forks": 204,
+      "stars": 2271,
+      "forks": 207,
       "starsToday": 187
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/LMCache/LMCache",
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "language": "Python",
-      "stars": 8788,
-      "forks": 1300,
+      "stars": 8818,
+      "forks": 1301,
       "starsToday": 246
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
-      "stars": 134544,
-      "forks": 8073,
+      "stars": 134602,
+      "forks": 8075,
       "starsToday": 374
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars": 14018,
-      "forks": 1483,
+      "stars": 14052,
+      "forks": 1486,
       "starsToday": 132
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars": 4095,
-      "forks": 307,
+      "stars": 4242,
+      "forks": 321,
       "starsToday": 809
     },
     {
@@ -142,7 +142,7 @@
       "url": "https://github.com/bannedbook/fanqiang",
       "description": "翻墙-科学上网",
       "language": "Kotlin",
-      "stars": 47414,
+      "stars": 47443,
       "forks": 8077,
       "starsToday": 86
     },
@@ -154,7 +154,7 @@
       "url": "https://github.com/swc-project/swc",
       "description": "Rust-based platform for the Web",
       "language": "Rust",
-      "stars": 33572,
+      "stars": 33599,
       "forks": 1397,
       "starsToday": 12
     },
@@ -166,8 +166,8 @@
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
       "language": null,
-      "stars": 140212,
-      "forks": 34652,
+      "stars": 140247,
+      "forks": 34654,
       "starsToday": 107
     }
   ]
