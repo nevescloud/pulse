@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T10:02:04.565Z",
+  "updated": "2026-06-13T12:42:25.507Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9469,
+      "likes": 9470,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7472,
+      "likes": 7473,
       "tags": [
         "docker",
         "leaderboard",
@@ -311,6 +311,21 @@
     },
     {
       "rank": 22,
+      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "title": "Wan2.2 14B Fast",
+      "description": "generate a video from an image with a text prompt",
+      "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
+      "sdk": "gradio",
+      "likes": 3203,
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "lastModified": "2026-05-14T17:32:41.000Z"
+    },
+    {
+      "rank": 23,
       "id": "HuggingFaceTB/smol-training-playbook",
       "title": "The Smol Training Playbook",
       "description": "The secrets to building world-class LLMs",
@@ -326,21 +341,6 @@
         "region:us"
       ],
       "lastModified": "2026-02-11T13:12:41.000Z"
-    },
-    {
-      "rank": 23,
-      "id": "zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "title": "Wan2.2 14B Fast",
-      "description": "generate a video from an image with a text prompt",
-      "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
-      "sdk": "gradio",
-      "likes": 3201,
-      "tags": [
-        "gradio",
-        "mcp-server",
-        "region:us"
-      ],
-      "lastModified": "2026-05-14T17:32:41.000Z"
     },
     {
       "rank": 24,
@@ -377,7 +377,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2874,
+      "likes": 2875,
       "tags": [
         "gradio",
         "region:us"
@@ -478,7 +478,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 285,
+      "likes": 286,
       "tags": [
         "static",
         "region:us"
