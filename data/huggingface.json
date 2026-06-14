@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T12:45:00.511Z",
+  "updated": "2026-06-14T15:36:32.106Z",
   "models": [
     {
       "rank": 1,
@@ -420,7 +420,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 8880456,
-      "likes": 2035,
+      "likes": 2036,
       "tags": [
         "transformers",
         "pytorch",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 62687,
-      "likes": 604,
+      "likes": 605,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 6599474,
-      "likes": 6074,
+      "likes": 6075,
       "tags": [
         "transformers",
         "safetensors",
@@ -669,24 +669,6 @@
     },
     {
       "rank": 8,
-      "id": "Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
-      "url": "https://huggingface.co/Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
-      "pipelineTag": "text-generation",
-      "downloads": 656,
-      "likes": 20,
-      "tags": [
-        "safetensors",
-        "gemma4",
-        "conversational",
-        "instruct",
-        "finetune",
-        "axolotl"
-      ],
-      "lastModified": null,
-      "description": "An experiment in bringing reasoning capability to the Pantheon roleplay series in the shape of a Gemma 4 MoE, which is generally the only variant that doesn't take half a lifetime to train. Though Qwen 3.6 27B is a really, really smart m…"
-    },
-    {
-      "rank": 9,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
@@ -701,6 +683,24 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 9,
+      "id": "Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
+      "url": "https://huggingface.co/Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
+      "pipelineTag": "text-generation",
+      "downloads": 656,
+      "likes": 21,
+      "tags": [
+        "safetensors",
+        "gemma4",
+        "conversational",
+        "instruct",
+        "finetune",
+        "axolotl"
+      ],
+      "lastModified": null,
+      "description": "An experiment in bringing reasoning capability to the Pantheon roleplay series in the shape of a Gemma 4 MoE, which is generally the only variant that doesn't take half a lifetime to train. Though Qwen 3.6 27B is a really, really smart m…"
     },
     {
       "rank": 10,
@@ -762,7 +762,7 @@
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1009252,
-      "likes": 4596,
+      "likes": 4597,
       "tags": [
         "transformers",
         "safetensors",
@@ -775,21 +775,21 @@
     },
     {
       "rank": 14,
-      "id": "SupraLabs/Supra-50M-Reasoning",
-      "url": "https://huggingface.co/SupraLabs/Supra-50M-Reasoning",
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
-      "downloads": 3190,
-      "likes": 44,
+      "downloads": 4435374,
+      "likes": 13390,
       "tags": [
         "transformers",
         "safetensors",
-        "llama",
+        "deepseek_v3",
         "text-generation",
-        "supra",
-        "chimera"
+        "conversational",
+        "custom_code"
       ],
       "lastModified": null,
-      "description": "Supra-50M-Reasoning is the reasoning version of Supra-50M Instruct. It does \"reasoning\" before every answer for proving better answers."
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     },
     {
       "rank": 15,
@@ -811,21 +811,21 @@
     },
     {
       "rank": 16,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "id": "SupraLabs/Supra-50M-Reasoning",
+      "url": "https://huggingface.co/SupraLabs/Supra-50M-Reasoning",
       "pipelineTag": "text-generation",
-      "downloads": 4435374,
-      "likes": 13389,
+      "downloads": 3190,
+      "likes": 44,
       "tags": [
         "transformers",
         "safetensors",
-        "deepseek_v3",
+        "llama",
         "text-generation",
-        "conversational",
-        "custom_code"
+        "supra",
+        "chimera"
       ],
       "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
+      "description": "Supra-50M-Reasoning is the reasoning version of Supra-50M Instruct. It does \"reasoning\" before every answer for proving better answers."
     },
     {
       "rank": 17,
@@ -844,6 +844,23 @@
       ],
       "lastModified": null,
       "description": "Apodex-1.0 is a verification-centric model for deep research. The trained model alone, Apodex-1.0, runs as a standard tool-using ReAct agent. Deployed in our heavy-duty mode — an asynchronous agent team in which sub-agents specialize in …"
+    },
+    {
+      "rank": 18,
+      "id": "meta-llama/Llama-3.2-1B",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-1B",
+      "pipelineTag": "text-generation",
+      "downloads": 1664167,
+      "likes": 2446,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
     }
   ]
 }

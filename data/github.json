@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T12:45:00.315Z",
+  "updated": "2026-06-14T15:36:32.060Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars": 119852,
-      "forks": 6409,
+      "stars": 120178,
+      "forks": 6431,
       "starsToday": 1531
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 446909,
-      "forks": 44936,
+      "stars": 446991,
+      "forks": 44938,
       "starsToday": 114
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/pytest-dev/pytest",
       "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
       "language": "Python",
-      "stars": 13942,
-      "forks": 3172,
+      "stars": 13969,
+      "forks": 3173,
       "starsToday": 8
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/swc-project/swc",
       "description": "Rust-based platform for the Web",
       "language": "Rust",
-      "stars": 33712,
-      "forks": 1399,
+      "stars": 33734,
+      "forks": 1400,
       "starsToday": 163
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars": 31044,
-      "forks": 7571,
+      "stars": 31092,
+      "forks": 7575,
       "starsToday": 399
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars": 4871,
-      "forks": 372,
+      "stars": 4974,
+      "forks": 382,
       "starsToday": 962
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars": 10298,
-      "forks": 3414,
-      "starsToday": 3
+      "stars": 10326,
+      "forks": 3418,
+      "starsToday": 45
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "url": "https://github.com/cypress-io/cypress",
       "description": "Fast, easy and reliable testing for anything that runs in a browser.",
       "language": "TypeScript",
-      "stars": 49781,
-      "forks": 3411,
+      "stars": 49830,
+      "forks": 3413,
       "starsToday": 7
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/GorvGoyl/Clone-Wars",
       "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
       "language": null,
-      "stars": 35094,
-      "forks": 3166,
+      "stars": 35194,
+      "forks": 3169,
       "starsToday": 337
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "description": "Introduction to Autonomous Robots",
       "language": "TeX",
-      "stars": 2472,
-      "forks": 582,
+      "stars": 2544,
+      "forks": 590,
       "starsToday": 276
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 29734,
-      "forks": 5137,
+      "stars": 29789,
+      "forks": 5141,
       "starsToday": 238
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars": 2099,
-      "forks": 434,
+      "stars": 2117,
+      "forks": 435,
       "starsToday": 196
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
-      "stars": 16787,
-      "forks": 2538,
+      "stars": 16830,
+      "forks": 2540,
       "starsToday": 52
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/puppeteer/puppeteer",
       "description": "JavaScript API for Chrome and Firefox",
       "language": "TypeScript",
-      "stars": 94569,
-      "forks": 9434,
+      "stars": 94589,
+      "forks": 9436,
       "starsToday": 13
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/andrewyng/aisuite",
       "description": "Simple, unified interface to multiple Generative AI providers",
       "language": "Python",
-      "stars": 14268,
-      "forks": 1493,
+      "stars": 14299,
+      "forks": 1495,
       "starsToday": 290
     }
   ]
