@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T08:09:01.135Z",
+  "updated": "2026-06-15T11:09:25.841Z",
   "models": [
     {
       "rank": 1,
@@ -276,7 +276,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 10578542,
-      "likes": 1035,
+      "likes": 1036,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -290,6 +290,24 @@
     },
     {
       "rank": 17,
+      "id": "amazon/chronos-2",
+      "url": "https://huggingface.co/amazon/chronos-2",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 10563565,
+      "likes": 327,
+      "tags": [
+        "chronos-forecasting",
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "Update Jun 5, 2026: ☁️ Deploy Chronos-2 on AWS with AutoGluon-Cloud. Real-time, serverless, or batch inference in 3 lines of code — pandas DataFrames in, forecasts out. Check out the new deployment guide."
+    },
+    {
+      "rank": 18,
       "id": "BAAI/bge-large-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
@@ -307,30 +325,12 @@
       "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
     },
     {
-      "rank": 18,
-      "id": "amazon/chronos-2",
-      "url": "https://huggingface.co/amazon/chronos-2",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 10245891,
-      "likes": 327,
-      "tags": [
-        "chronos-forecasting",
-        "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "foundation models"
-      ],
-      "lastModified": null,
-      "description": "Update Jun 5, 2026: ☁️ Deploy Chronos-2 on AWS with AutoGluon-Cloud. Real-time, serverless, or batch inference in 3 lines of code — pandas DataFrames in, forecasts out. Check out the new deployment guide."
-    },
-    {
       "rank": 19,
       "id": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 10154763,
-      "likes": 3298,
+      "likes": 3299,
       "tags": [
         "transformers",
         "pytorch",
@@ -348,7 +348,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-4B",
       "pipelineTag": "text-generation",
       "downloads": 9903273,
-      "likes": 635,
+      "likes": 636,
       "tags": [
         "transformers",
         "safetensors",
@@ -452,11 +452,29 @@
     },
     {
       "rank": 26,
+      "id": "google/gemma-4-26B-A4B-it",
+      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+      "pipelineTag": "image-text-to-text",
+      "downloads": 8632399,
+      "likes": 1137,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release includes open-weights models in both …"
+    },
+    {
+      "rank": 27,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8618958,
-      "likes": 1362,
+      "likes": 1363,
       "tags": [
         "transformers",
         "safetensors",
@@ -469,7 +487,7 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "id": "autogluon/chronos-bolt-small",
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
@@ -485,24 +503,6 @@
       ],
       "lastModified": null,
       "description": "🚀 Update Feb 14, 2025: Chronos-Bolt models are now available on Amazon SageMaker JumpStart! Check out the tutorial notebook to learn how to deploy Chronos endpoints for production use in a few lines of code."
-    },
-    {
-      "rank": 28,
-      "id": "google/gemma-4-26B-A4B-it",
-      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-      "pipelineTag": "image-text-to-text",
-      "downloads": 8425467,
-      "likes": 1136,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gemma4",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release includes open-weights models in both …"
     },
     {
       "rank": 29,
@@ -547,8 +547,8 @@
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
-      "downloads": 62687,
-      "likes": 609,
+      "downloads": 65537,
+      "likes": 610,
       "tags": [
         "transformers",
         "safetensors",
@@ -565,8 +565,8 @@
       "id": "sapientinc/HRM-Text-1B",
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
-      "downloads": 125482,
-      "likes": 771,
+      "downloads": 126571,
+      "likes": 772,
       "tags": [
         "transformers",
         "safetensors",
@@ -583,7 +583,7 @@
       "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 3516,
+      "downloads": 3851,
       "likes": 289,
       "tags": [
         "transformers",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 6562137,
-      "likes": 6080,
+      "likes": 6082,
       "tags": [
         "transformers",
         "safetensors",
@@ -618,7 +618,7 @@
       "id": "Muhammadreza/alduin-4b-it-base",
       "url": "https://huggingface.co/Muhammadreza/alduin-4b-it-base",
       "pipelineTag": "text-generation",
-      "downloads": 323,
+      "downloads": 373,
       "likes": 30,
       "tags": [
         "transformers",
@@ -633,10 +633,28 @@
     },
     {
       "rank": 6,
+      "id": "microsoft/FastContext-1.0-4B-SFT",
+      "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+      "pipelineTag": "text-generation",
+      "downloads": 13,
+      "likes": 26,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "Explorer SubAgent",
+        "Repository Exploration"
+      ],
+      "lastModified": null,
+      "description": "FastContext-1.0 is a lightweight repository-exploration subagent for LLM coding agents. Instead of letting a single model both explore the repository and solve the task, FastContext separates these two roles: it is invoked on demand by a…"
+    },
+    {
+      "rank": 7,
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 99342,
+      "downloads": 112754,
       "likes": 800,
       "tags": [
         "transformers",
@@ -650,7 +668,60 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "id": "apodex/Apodex-1.0-4B-SFT",
+      "url": "https://huggingface.co/apodex/Apodex-1.0-4B-SFT",
+      "pipelineTag": "text-generation",
+      "downloads": 451,
+      "likes": 18,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "agent",
+        "open-source"
+      ],
+      "lastModified": null,
+      "description": "Apodex-1.0 is a verification-centric model for deep research. The trained model alone, Apodex-1.0, runs as a standard tool-using ReAct agent. Deployed in our heavy-duty mode — an asynchronous agent team in which sub-agents specialize in …"
+    },
+    {
+      "rank": 9,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8618958,
+      "likes": 1363,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 10,
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1086267,
+      "likes": 2229,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 11,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
@@ -668,47 +739,12 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 8,
-      "id": "apodex/Apodex-1.0-4B-SFT",
-      "url": "https://huggingface.co/apodex/Apodex-1.0-4B-SFT",
-      "pipelineTag": "text-generation",
-      "downloads": 302,
-      "likes": 18,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "agent",
-        "open-source"
-      ],
-      "lastModified": null,
-      "description": "Apodex-1.0 is a verification-centric model for deep research. The trained model alone, Apodex-1.0, runs as a standard tool-using ReAct agent. Deployed in our heavy-duty mode — an asynchronous agent team in which sub-agents specialize in …"
-    },
-    {
-      "rank": 9,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1086267,
-      "likes": 2229,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 10,
+      "rank": 12,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1013948,
-      "likes": 4599,
+      "likes": 4601,
       "tags": [
         "transformers",
         "safetensors",
@@ -718,49 +754,13 @@
         "meta"
       ],
       "lastModified": null
-    },
-    {
-      "rank": 11,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8618958,
-      "likes": 1362,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 12,
-      "id": "LiquidAI/LFM2.5-1.2B-JP-202606",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
-      "pipelineTag": "text-generation",
-      "downloads": 4520,
-      "likes": 61,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "lfm2",
-        "text-generation",
-        "liquid",
-        "lfm2.5"
-      ],
-      "lastModified": null,
-      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
       "rank": 13,
       "id": "Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
       "url": "https://huggingface.co/Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
       "pipelineTag": "text-generation",
-      "downloads": 656,
+      "downloads": 694,
       "likes": 23,
       "tags": [
         "safetensors",
@@ -778,8 +778,8 @@
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 77760,
-      "likes": 212,
+      "downloads": 81545,
+      "likes": 213,
       "tags": [
         "gguf",
         "liquid",
@@ -793,21 +793,21 @@
     },
     {
       "rank": 15,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "id": "LiquidAI/LFM2.5-1.2B-JP-202606",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
       "pipelineTag": "text-generation",
-      "downloads": 4522682,
-      "likes": 13391,
+      "downloads": 5591,
+      "likes": 61,
       "tags": [
         "transformers",
         "safetensors",
-        "deepseek_v3",
+        "lfm2",
         "text-generation",
-        "conversational",
-        "custom_code"
+        "liquid",
+        "lfm2.5"
       ],
       "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
+      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
       "rank": 16,
@@ -829,21 +829,21 @@
     },
     {
       "rank": 17,
-      "id": "apodex/Apodex-1.0-0.8B-SFT",
-      "url": "https://huggingface.co/apodex/Apodex-1.0-0.8B-SFT",
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
-      "downloads": 163,
-      "likes": 11,
+      "downloads": 4522682,
+      "likes": 13391,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "agent",
-        "open-source"
+        "deepseek_v3",
+        "text-generation",
+        "conversational",
+        "custom_code"
       ],
       "lastModified": null,
-      "description": "Apodex-1.0 is a verification-centric model for deep research. The trained model alone, Apodex-1.0, runs as a standard tool-using ReAct agent. Deployed in our heavy-duty mode — an asynchronous agent team in which sub-agents specialize in …"
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     }
   ]
 }
