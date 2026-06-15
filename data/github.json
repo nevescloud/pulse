@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T11:09:26.814Z",
+  "updated": "2026-06-15T14:13:08.547Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars": 122360,
-      "forks": 6564,
-      "starsToday": 1528
+      "stars": 122507,
+      "forks": 6575,
+      "starsToday": 2650
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "url": "https://github.com/teslamate-org/teslamate",
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
-      "stars": 8131,
-      "forks": 943,
+      "stars": 8160,
+      "forks": 942,
       "starsToday": 35
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 29286,
-      "forks": 2394,
+      "stars": 29556,
+      "forks": 2409,
       "starsToday": 1045
     },
     {
@@ -46,9 +46,9 @@
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars": 10502,
-      "forks": 3425,
-      "starsToday": 20
+      "stars": 10545,
+      "forks": 3429,
+      "starsToday": 227
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars": 31440,
-      "forks": 7612,
-      "starsToday": 400
+      "stars": 31507,
+      "forks": 7614,
+      "starsToday": 431
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
-      "stars": 126721,
-      "forks": 15128,
-      "starsToday": 34
+      "stars": 126776,
+      "forks": 15130,
+      "starsToday": 95
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 447585,
-      "forks": 44970,
-      "starsToday": 146
+      "stars": 447659,
+      "forks": 44975,
+      "starsToday": 738
     },
     {
       "rank": 8,
@@ -94,7 +94,7 @@
       "url": "https://github.com/trycua/cua",
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "language": "HTML",
-      "stars": 17998,
+      "stars": 18044,
       "forks": 1168,
       "starsToday": 57
     },
@@ -106,8 +106,8 @@
       "url": "https://github.com/jwasham/coding-interview-university",
       "description": "A complete computer science study plan to become a software engineer.",
       "language": null,
-      "stars": 352038,
-      "forks": 83539,
+      "stars": 352100,
+      "forks": 83546,
       "starsToday": 516
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 32678,
-      "forks": 5366,
+      "stars": 32790,
+      "forks": 5378,
       "starsToday": 538
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://github.com/music-assistant/server",
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "language": "Python",
-      "stars": 2306,
+      "stars": 2329,
       "forks": 442,
-      "starsToday": 197
+      "starsToday": 226
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
-      "stars": 17115,
-      "forks": 2549,
-      "starsToday": 70
+      "stars": 17160,
+      "forks": 2553,
+      "starsToday": 361
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "description": "Introduction to Autonomous Robots",
       "language": "TeX",
-      "stars": 2928,
-      "forks": 639,
-      "starsToday": 293
+      "stars": 2972,
+      "forks": 647,
+      "starsToday": 488
     },
     {
       "rank": 14,
@@ -166,8 +166,8 @@
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars": 47703,
-      "forks": 1927,
+      "stars": 47765,
+      "forks": 1929,
       "starsToday": 114
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
-      "stars": 20547,
-      "forks": 1046,
+      "stars": 20661,
+      "forks": 1049,
       "starsToday": 126
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/itsfatduck/optimizerDuck",
       "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
       "language": "C#",
-      "stars": 3472,
-      "forks": 155,
+      "stars": 3533,
+      "forks": 158,
       "starsToday": 321
     },
     {
@@ -202,9 +202,9 @@
       "url": "https://github.com/NVIDIA/SkillSpector",
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "language": "Python",
-      "stars": 5871,
-      "forks": 438,
-      "starsToday": 964
+      "stars": 6000,
+      "forks": 443,
+      "starsToday": 1079
     },
     {
       "rank": 18,
@@ -214,9 +214,9 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 30087,
-      "forks": 5167,
-      "starsToday": 244
+      "stars": 30132,
+      "forks": 5176,
+      "starsToday": 395
     }
   ]
 }

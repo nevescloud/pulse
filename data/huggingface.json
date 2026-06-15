@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T11:09:25.841Z",
+  "updated": "2026-06-15T14:13:08.570Z",
   "models": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 52067168,
-      "likes": 263,
+      "likes": 264,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 34017229,
-      "likes": 1267,
+      "likes": 1268,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 24458605,
-      "likes": 1306,
+      "likes": 1307,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 22092012,
-      "likes": 3112,
+      "likes": 3113,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -456,7 +456,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 8632399,
-      "likes": 1137,
+      "likes": 1138,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 65537,
-      "likes": 610,
+      "likes": 611,
       "tags": [
         "transformers",
         "safetensors",
@@ -562,6 +562,24 @@
     },
     {
       "rank": 2,
+      "id": "microsoft/FastContext-1.0-4B-SFT",
+      "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+      "pipelineTag": "text-generation",
+      "downloads": 13,
+      "likes": 49,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "Explorer SubAgent",
+        "Repository Exploration"
+      ],
+      "lastModified": null,
+      "description": "FastContext-1.0 is a lightweight repository-exploration subagent for LLM coding agents. Instead of letting a single model both explore the repository and solve the task, FastContext separates these two roles: it is invoked on demand by a…"
+    },
+    {
+      "rank": 3,
       "id": "sapientinc/HRM-Text-1B",
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
@@ -579,7 +597,7 @@
       "description": "A 1 B-parameter language model checkpoint built on the Hierarchical Reasoning Model (HRM) architecture, trained by Sapient Intelligence from scratch on structured public datasets."
     },
     {
-      "rank": 3,
+      "rank": 4,
       "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
@@ -595,23 +613,6 @@
       ],
       "lastModified": null,
       "description": "Mellum 2 Thinking is a post-trained reasoning-augmented assistant model trained by JetBrains."
-    },
-    {
-      "rank": 4,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 6562137,
-      "likes": 6082,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 5,
@@ -633,21 +634,20 @@
     },
     {
       "rank": 6,
-      "id": "microsoft/FastContext-1.0-4B-SFT",
-      "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 13,
-      "likes": 26,
+      "downloads": 6562137,
+      "likes": 6084,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen3",
+        "llama",
         "text-generation",
-        "Explorer SubAgent",
-        "Repository Exploration"
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "FastContext-1.0 is a lightweight repository-exploration subagent for LLM coding agents. Instead of letting a single model both explore the repository and solve the task, FastContext separates these two roles: it is invoked on demand by a…"
+      "lastModified": null
     },
     {
       "rank": 7,
@@ -687,21 +687,20 @@
     },
     {
       "rank": 9,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 8618958,
-      "likes": 1363,
+      "downloads": 1013948,
+      "likes": 4602,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen2",
+        "llama",
         "text-generation",
-        "chat",
-        "conversational"
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+      "lastModified": null
     },
     {
       "rank": 10,
@@ -722,6 +721,24 @@
     },
     {
       "rank": 11,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8618958,
+      "likes": 1363,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 12,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
@@ -737,23 +754,6 @@
       ],
       "lastModified": null,
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 12,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1013948,
-      "likes": 4601,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 13,
@@ -779,7 +779,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 81545,
-      "likes": 213,
+      "likes": 214,
       "tags": [
         "gguf",
         "liquid",
