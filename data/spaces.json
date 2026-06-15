@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:31:34.318Z",
+  "updated": "2026-06-15T01:04:17.727Z",
   "trending": [
     {
       "rank": 1,
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3351,
+      "likes": 3352,
       "tags": [
         "gradio",
         "region:us"
@@ -363,7 +363,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator",
       "sdk": "gradio",
-      "likes": 2974,
+      "likes": 2973,
       "tags": [
         "gradio",
         "region:us"
