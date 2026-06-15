@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T16:40:24.622Z",
+  "updated": "2026-06-15T19:23:02.692Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 167480843,
-      "likes": 4947,
+      "likes": 4948,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 39663955,
-      "likes": 489,
+      "likes": 490,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18337841,
-      "likes": 1326,
+      "likes": 1327,
       "tags": [
         "transformers",
         "safetensors",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 11742986,
-      "likes": 6333,
+      "likes": 6334,
       "tags": [
         "text-to-speech",
         "en",
@@ -294,7 +294,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 10563565,
-      "likes": 328,
+      "likes": 329,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -312,7 +312,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 10323036,
-      "likes": 683,
+      "likes": 684,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -420,7 +420,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8853133,
-      "likes": 499,
+      "likes": 500,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 13,
-      "likes": 70,
+      "likes": 84,
       "tags": [
         "transformers",
         "safetensors",
@@ -598,24 +598,6 @@
     },
     {
       "rank": 4,
-      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
-      "pipelineTag": "text-generation",
-      "downloads": 3851,
-      "likes": 289,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "mellum",
-        "text-generation",
-        "conversational",
-        "en"
-      ],
-      "lastModified": null,
-      "description": "Mellum 2 Thinking is a post-trained reasoning-augmented assistant model trained by JetBrains."
-    },
-    {
-      "rank": 5,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -632,7 +614,7 @@
       "lastModified": null
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "Muhammadreza/alduin-4b-it-base",
       "url": "https://huggingface.co/Muhammadreza/alduin-4b-it-base",
       "pipelineTag": "text-generation",
@@ -648,6 +630,24 @@
       ],
       "lastModified": null,
       "description": "This model is a heretic version based on Gemma 3 4B and meant to be an uncensored limitless version of the original model."
+    },
+    {
+      "rank": 6,
+      "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
+      "pipelineTag": "text-generation",
+      "downloads": 3851,
+      "likes": 289,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "mellum",
+        "text-generation",
+        "conversational",
+        "en"
+      ],
+      "lastModified": null,
+      "description": "Mellum 2 Thinking is a post-trained reasoning-augmented assistant model trained by JetBrains."
     },
     {
       "rank": 7,
@@ -690,7 +690,7 @@
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1013948,
-      "likes": 4602,
+      "likes": 4603,
       "tags": [
         "transformers",
         "safetensors",
@@ -739,24 +739,6 @@
     },
     {
       "rank": 12,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 18337841,
-      "likes": 1326,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 13,
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
@@ -772,6 +754,24 @@
       ],
       "lastModified": null,
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
+    },
+    {
+      "rank": 13,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 18337841,
+      "likes": 1327,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 14,
@@ -793,6 +793,24 @@
     },
     {
       "rank": 15,
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "pipelineTag": "text-generation",
+      "downloads": 4522682,
+      "likes": 13392,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "conversational",
+        "custom_code"
+      ],
+      "lastModified": null,
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
+    },
+    {
+      "rank": 16,
       "id": "LiquidAI/LFM2.5-1.2B-JP-202606",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-JP-202606",
       "pipelineTag": "text-generation",
@@ -810,7 +828,7 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
       "url": "https://huggingface.co/Gryphe/Pantheon-Reasoning-26B-A4B-1.1",
       "pipelineTag": "text-generation",
@@ -826,24 +844,6 @@
       ],
       "lastModified": null,
       "description": "An experiment in bringing reasoning capability to the Pantheon roleplay series in the shape of a Gemma 4 MoE, which is generally the only variant that doesn't take half a lifetime to train. Though Qwen 3.6 27B is a really, really smart m…"
-    },
-    {
-      "rank": 17,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "pipelineTag": "text-generation",
-      "downloads": 4522682,
-      "likes": 13391,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "conversational",
-        "custom_code"
-      ],
-      "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     }
   ]
 }
