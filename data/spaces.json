@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T01:08:25.001Z",
+  "updated": "2026-06-16T08:04:50.213Z",
   "trending": [
     {
       "rank": 1,
@@ -139,7 +139,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/facebook/MusicGen",
       "sdk": "gradio",
-      "likes": 5072,
+      "likes": 5073,
       "tags": [
         "gradio",
         "music generation",
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4918,
+      "likes": 4919,
       "tags": [
         "static",
         "leaderboard",
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3889,
+      "likes": 3890,
       "tags": [
         "static",
         "region:us"
@@ -302,7 +302,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3289,
+      "likes": 3288,
       "tags": [
         "docker",
         "region:us"
@@ -363,7 +363,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator",
       "sdk": "gradio",
-      "likes": 2973,
+      "likes": 2974,
       "tags": [
         "gradio",
         "region:us"
@@ -391,7 +391,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2861,
+      "likes": 2863,
       "tags": [
         "gradio",
         "mcp-server",
@@ -478,7 +478,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 290,
+      "likes": 291,
       "tags": [
         "static",
         "region:us"
