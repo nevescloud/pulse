@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T08:04:50.785Z",
+  "updated": "2026-06-16T10:40:00.321Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 170500268,
-      "likes": 4951,
+      "likes": 4952,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 22464568,
-      "likes": 3117,
+      "likes": 3120,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 18936575,
-      "likes": 1328,
+      "likes": 1329,
       "tags": [
         "transformers",
         "safetensors",
@@ -187,7 +187,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 15036111,
-      "likes": 844,
+      "likes": 845,
       "tags": [
         "transformers",
         "pytorch",
@@ -276,7 +276,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 10798950,
-      "likes": 1036,
+      "likes": 1037,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -293,7 +293,7 @@
       "id": "amazon/chronos-2",
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 10563565,
+      "downloads": 10695437,
       "likes": 329,
       "tags": [
         "chronos-forecasting",
@@ -452,6 +452,24 @@
     },
     {
       "rank": 26,
+      "id": "google/gemma-4-26B-A4B-it",
+      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+      "pipelineTag": "image-text-to-text",
+      "downloads": 8765530,
+      "likes": 1141,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release includes open-weights models in both …"
+    },
+    {
+      "rank": 27,
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct",
       "pipelineTag": "text-generation",
@@ -467,24 +485,6 @@
       ],
       "lastModified": null,
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 27,
-      "id": "google/gemma-4-26B-A4B-it",
-      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-      "pipelineTag": "image-text-to-text",
-      "downloads": 8632399,
-      "likes": 1141,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gemma4",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release includes open-weights models in both …"
     },
     {
       "rank": 28,
@@ -547,8 +547,8 @@
       "id": "microsoft/FastContext-1.0-4B-SFT",
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 13,
-      "likes": 120,
+      "downloads": 192,
+      "likes": 124,
       "tags": [
         "transformers",
         "safetensors",
@@ -565,7 +565,7 @@
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
-      "downloads": 65537,
+      "downloads": 67417,
       "likes": 615,
       "tags": [
         "transformers",
@@ -583,7 +583,7 @@
       "id": "sapientinc/HRM-Text-1B",
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
-      "downloads": 126571,
+      "downloads": 130752,
       "likes": 774,
       "tags": [
         "transformers",
@@ -618,7 +618,7 @@
       "id": "Muhammadreza/alduin-4b-it-base",
       "url": "https://huggingface.co/Muhammadreza/alduin-4b-it-base",
       "pipelineTag": "text-generation",
-      "downloads": 373,
+      "downloads": 426,
       "likes": 30,
       "tags": [
         "transformers",
@@ -636,7 +636,7 @@
       "id": "JetBrains/Mellum2-12B-A2.5B-Thinking",
       "url": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 3851,
+      "downloads": 4152,
       "likes": 292,
       "tags": [
         "transformers",
@@ -655,7 +655,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1128723,
-      "likes": 2231,
+      "likes": 2232,
       "tags": [
         "transformers",
         "safetensors",
@@ -703,28 +703,28 @@
     },
     {
       "rank": 10,
-      "id": "openbmb/MiniCPM5-1B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 112754,
-      "likes": 801,
+      "downloads": 18936575,
+      "likes": 1329,
       "tags": [
         "transformers",
         "safetensors",
-        "llama",
+        "qwen3",
         "text-generation",
-        "minicpm",
-        "minicpm5"
+        "conversational",
+        "license:apache-2.0"
       ],
       "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 11,
       "id": "apodex/Apodex-1.0-4B-SFT",
       "url": "https://huggingface.co/apodex/Apodex-1.0-4B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 451,
+      "downloads": 476,
       "likes": 18,
       "tags": [
         "transformers",
@@ -742,7 +742,7 @@
       "id": "microsoft/FastContext-1.0-4B-RL",
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
       "pipelineTag": "text-generation",
-      "downloads": 12,
+      "downloads": 32,
       "likes": 15,
       "tags": [
         "transformers",
@@ -775,24 +775,6 @@
     },
     {
       "rank": 14,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 18936575,
-      "likes": 1328,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 15,
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
@@ -810,12 +792,30 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
+      "rank": 15,
+      "id": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "pipelineTag": "text-generation",
+      "downloads": 132838,
+      "likes": 801,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "minicpm",
+        "minicpm5"
+      ],
+      "lastModified": null,
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
       "rank": 16,
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 81545,
-      "likes": 217,
+      "downloads": 84102,
+      "likes": 218,
       "tags": [
         "gguf",
         "liquid",
@@ -829,6 +829,24 @@
     },
     {
       "rank": 17,
+      "id": "WeiboAI/VibeThinker-3B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "pipelineTag": "text-generation",
+      "downloads": 0,
+      "likes": 14,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "math",
+        "code"
+      ],
+      "lastModified": null,
+      "description": "VibeThinker-3B is a further exploration of the VibeThinker series at the 3B-parameter scale, focusing on challenging reasoning tasks with clear verification signals, such as mathematics, coding, and STEM. By systematically optimizing the…"
+    },
+    {
+      "rank": 18,
       "id": "meta-llama/Llama-3.2-1B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct",
       "pipelineTag": "text-generation",
