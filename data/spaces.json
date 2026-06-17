@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T20:12:21.098Z",
+  "updated": "2026-06-17T22:44:58.982Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11123,
+      "likes": 11124,
       "tags": [
         "docker",
         "region:us"
@@ -88,7 +88,7 @@
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-06-14T10:55:27.000Z"
+      "lastModified": "2026-06-17T20:43:09.000Z"
     },
     {
       "rank": 7,
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5070,
+      "likes": 5071,
       "tags": [
         "gradio",
         "region:us"
