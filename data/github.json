@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T04:02:53.248Z",
+  "updated": "2026-06-18T10:21:27.324Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": 5638,
-      "forks": 497,
+      "stars": 6320,
+      "forks": 522,
       "starsToday": 371
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars": 9709,
-      "forks": 454,
+      "stars": 9799,
+      "forks": 456,
       "starsToday": 421
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
-      "stars": 33446,
-      "forks": 2686,
+      "stars": 33911,
+      "forks": 2714,
       "starsToday": 1161
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/meshery/meshery",
       "description": "Meshery, the cloud native manager",
       "language": "TypeScript",
-      "stars": 11051,
-      "forks": 3458,
+      "stars": 11093,
+      "forks": 3461,
       "starsToday": 196
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 231291,
-      "forks": 20555,
+      "stars": 231754,
+      "forks": 20590,
       "starsToday": 1129
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": 22003,
-      "forks": 2135,
+      "stars": 22239,
+      "forks": 2159,
       "starsToday": 606
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/RocketChat/Rocket.Chat",
       "description": "The Secure CommsOS™ for mission-critical operations",
       "language": "TypeScript",
-      "stars": 45614,
-      "forks": 13657,
+      "stars": 45653,
+      "forks": 13660,
       "starsToday": 22
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/continuedev/continue",
       "description": "open-source coding agent",
       "language": "TypeScript",
-      "stars": 33951,
-      "forks": 4703,
+      "stars": 34039,
+      "forks": 4714,
       "starsToday": 49
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars": 50157,
-      "forks": 3236,
+      "stars": 50277,
+      "forks": 3242,
       "starsToday": 70
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
-      "stars": 127530,
-      "forks": 15179,
+      "stars": 127639,
+      "forks": 15186,
       "starsToday": 96
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
-      "stars": 7676,
-      "forks": 330,
+      "stars": 7747,
+      "forks": 334,
       "starsToday": 457
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 133904,
-      "forks": 11621,
+      "stars": 134577,
+      "forks": 11670,
       "starsToday": 1523
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/yairm210/Unciv",
       "description": "Open-source Android/Desktop remake of Civ V",
       "language": "Kotlin",
-      "stars": 10696,
-      "forks": 1844,
+      "stars": 10757,
+      "forks": 1847,
       "starsToday": 24
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 449189,
-      "forks": 45092,
+      "stars": 449309,
+      "forks": 45103,
       "starsToday": 757
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "language": "TypeScript",
-      "stars": 36731,
-      "forks": 3702,
+      "stars": 36791,
+      "forks": 3706,
       "starsToday": 150
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
-      "stars": 23854,
-      "forks": 3020,
+      "stars": 23934,
+      "forks": 3025,
       "starsToday": 98
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
-      "stars": 32422,
-      "forks": 7716,
+      "stars": 32502,
+      "forks": 7723,
       "starsToday": 264
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 5472,
-      "forks": 1013,
+      "stars": 5704,
+      "forks": 1027,
       "starsToday": 98
     },
     {
@@ -226,8 +226,8 @@
       "url": "https://github.com/alexzhang13/rlm",
       "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
       "language": "Python",
-      "stars": 4957,
-      "forks": 824,
+      "stars": 4991,
+      "forks": 828,
       "starsToday": 43
     },
     {
@@ -238,8 +238,8 @@
       "url": "https://github.com/makeplane/plane",
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
-      "stars": 51380,
-      "forks": 4569,
+      "stars": 51554,
+      "forks": 4585,
       "starsToday": 89
     }
   ]
