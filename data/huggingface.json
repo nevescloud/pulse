@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T22:44:59.162Z",
+  "updated": "2026-06-18T04:02:53.373Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 185402960,
-      "likes": 4963,
+      "likes": 4964,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 24044075,
-      "likes": 3125,
+      "likes": 3126,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 20955842,
-      "likes": 1338,
+      "likes": 1337,
       "tags": [
         "transformers",
         "safetensors",
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13558358,
-      "likes": 6353,
+      "likes": 6357,
       "tags": [
         "text-to-speech",
         "en",
@@ -474,7 +474,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 9534231,
-      "likes": 1154,
+      "likes": 1155,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 1950,
-      "likes": 303,
+      "likes": 320,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 537,
-      "likes": 185,
+      "likes": 187,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 139107,
-      "likes": 778,
+      "likes": 779,
       "tags": [
         "transformers",
         "safetensors",
@@ -616,6 +616,24 @@
     },
     {
       "rank": 5,
+      "id": "microsoft/FastContext-1.0-4B-RL",
+      "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
+      "pipelineTag": "text-generation",
+      "downloads": 351,
+      "likes": 31,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "Explorer SubAgent",
+        "Repository Exploration"
+      ],
+      "lastModified": null,
+      "description": "FastContext-1.0 is a lightweight repository-exploration subagent for LLM coding agents. Instead of letting a single model both explore the repository and solve the task, FastContext separates these two roles: it is invoked on demand by a…"
+    },
+    {
+      "rank": 6,
       "id": "Muhammadreza/alduin-4b-it-base",
       "url": "https://huggingface.co/Muhammadreza/alduin-4b-it-base",
       "pipelineTag": "text-generation",
@@ -633,30 +651,12 @@
       "description": "This model is a heretic version based on Gemma 3 4B and meant to be an uncensored limitless version of the original model."
     },
     {
-      "rank": 6,
-      "id": "microsoft/FastContext-1.0-4B-RL",
-      "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
-      "pipelineTag": "text-generation",
-      "downloads": 351,
-      "likes": 30,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "Explorer SubAgent",
-        "Repository Exploration"
-      ],
-      "lastModified": null,
-      "description": "FastContext-1.0 is a lightweight repository-exploration subagent for LLM coding agents. Instead of letting a single model both explore the repository and solve the task, FastContext separates these two roles: it is invoked on demand by a…"
-    },
-    {
       "rank": 7,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 6918988,
-      "likes": 6103,
+      "likes": 6104,
       "tags": [
         "transformers",
         "safetensors",
@@ -673,7 +673,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 20955842,
-      "likes": 1338,
+      "likes": 1337,
       "tags": [
         "transformers",
         "safetensors",
@@ -705,6 +705,24 @@
     },
     {
       "rank": 10,
+      "id": "Darkfibre/VibeThinker-3B-Ablated",
+      "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
+      "pipelineTag": "text-generation",
+      "downloads": 37,
+      "likes": 17,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "phoenix-cathedral",
+        "abliterated"
+      ],
+      "lastModified": null,
+      "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
+    },
+    {
+      "rank": 11,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -721,48 +739,12 @@
       "lastModified": null
     },
     {
-      "rank": 11,
-      "id": "Darkfibre/VibeThinker-3B-Ablated",
-      "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
-      "pipelineTag": "text-generation",
-      "downloads": 37,
-      "likes": 16,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "phoenix-cathedral",
-        "abliterated"
-      ],
-      "lastModified": null,
-      "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
-    },
-    {
       "rank": 12,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "pipelineTag": "text-generation",
-      "downloads": 5118223,
-      "likes": 13394,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "conversational",
-        "custom_code"
-      ],
-      "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
-    },
-    {
-      "rank": 13,
       "id": "prithivMLmods/VibeThinker-3B-GGUF",
       "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 861,
-      "likes": 15,
+      "likes": 17,
       "tags": [
         "transformers",
         "gguf",
@@ -775,7 +757,7 @@
       "description": "LLM inference in C/C++ — https://github.com/ggml-org/llama.cpp"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
@@ -793,22 +775,22 @@
       "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
-      "rank": 15,
-      "id": "openbmb/MiniCPM5-1B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "rank": 14,
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
-      "downloads": 160066,
-      "likes": 807,
+      "downloads": 5118223,
+      "likes": 13394,
       "tags": [
         "transformers",
         "safetensors",
-        "llama",
+        "deepseek_v3",
         "text-generation",
-        "minicpm",
-        "minicpm5"
+        "conversational",
+        "custom_code"
       ],
       "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     }
   ]
 }
