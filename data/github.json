@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T20:26:10.824Z",
+  "updated": "2026-06-18T22:55:47.578Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": 22934,
-      "forks": 2205,
+      "stars": 23078,
+      "forks": 2212,
       "starsToday": 858
     },
     {
@@ -22,7 +22,7 @@
       "url": "https://github.com/n0-computer/iroh",
       "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
       "language": "Rust",
-      "stars": 9968,
+      "stars": 9994,
       "forks": 461,
       "starsToday": 369
     },
@@ -34,8 +34,8 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 449498,
-      "forks": 45120,
+      "stars": 449523,
+      "forks": 45125,
       "starsToday": 417
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 232294,
-      "forks": 20630,
+      "stars": 232362,
+      "forks": 20639,
       "starsToday": 1435
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/zai-org/GLM-5",
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "language": null,
-      "stars": 4050,
-      "forks": 427,
+      "stars": 4096,
+      "forks": 429,
       "starsToday": 286
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": 6867,
-      "forks": 556,
+      "stars": 6967,
+      "forks": 563,
       "starsToday": 2308
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/yifanfeng97/Hyper-Extract",
       "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
       "language": "Python",
-      "stars": 1695,
-      "forks": 195,
+      "stars": 1736,
+      "forks": 199,
       "starsToday": 124
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars": 11175,
-      "forks": 647,
+      "stars": 11197,
+      "forks": 648,
       "starsToday": 344
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars": 5453,
-      "forks": 295,
+      "stars": 5478,
+      "forks": 298,
       "starsToday": 164
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "language": "TypeScript",
-      "stars": 21960,
-      "forks": 2696,
+      "stars": 22066,
+      "forks": 2703,
       "starsToday": 1339
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/makeplane/plane",
       "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
       "language": "TypeScript",
-      "stars": 51770,
-      "forks": 4598,
+      "stars": 51807,
+      "forks": 4599,
       "starsToday": 610
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars": 38627,
-      "forks": 2288,
+      "stars": 38657,
+      "forks": 2290,
       "starsToday": 13
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "language": "Rust",
-      "stars": 7880,
-      "forks": 337,
+      "stars": 7907,
+      "forks": 338,
       "starsToday": 247
     },
     {
@@ -166,7 +166,7 @@
       "url": "https://github.com/dotnet/aspnetcore",
       "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
       "language": "C#",
-      "stars": 38086,
+      "stars": 38091,
       "forks": 10708,
       "starsToday": 22
     },
@@ -178,8 +178,8 @@
       "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
       "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
       "language": null,
-      "stars": 14322,
-      "forks": 2332,
+      "stars": 14362,
+      "forks": 2333,
       "starsToday": 33
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/Lightricks/LTX-2",
       "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
       "language": "Python",
-      "stars": 7465,
-      "forks": 1205,
+      "stars": 7479,
+      "forks": 1206,
       "starsToday": 47
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/LibreTranslate/LibreTranslate",
       "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
       "language": "Python",
-      "stars": 14918,
-      "forks": 1528,
+      "stars": 14955,
+      "forks": 1530,
       "starsToday": 83
     }
   ]
