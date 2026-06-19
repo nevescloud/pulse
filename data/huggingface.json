@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T19:49:51.455Z",
+  "updated": "2026-06-19T22:03:49.486Z",
   "models": [
     {
       "rank": 1,
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27537244,
-      "likes": 1342,
+      "likes": 1343,
       "tags": [
         "transformers",
         "safetensors",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 17252177,
-      "likes": 6363,
+      "likes": 6364,
       "tags": [
         "text-to-speech",
         "en",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 12148,
-      "likes": 448,
+      "likes": 456,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 1437,
-      "likes": 225,
+      "likes": 228,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
       "pipelineTag": "text-generation",
       "downloads": 124361,
-      "likes": 783,
+      "likes": 784,
       "tags": [
         "transformers",
         "safetensors",
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27537244,
-      "likes": 1342,
+      "likes": 1343,
       "tags": [
         "transformers",
         "safetensors",
@@ -720,23 +720,6 @@
       ],
       "lastModified": null,
       "description": "VibeThinker-1.5B is a 1.5-billion parameter dense language model. With a total training cost of only $7,800 USD, it achieves reasoning performance comparable to larger models like GPT OSS-20B Medium."
-    },
-    {
-      "rank": 11,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1434477,
-      "likes": 4615,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     }
   ]
 }
