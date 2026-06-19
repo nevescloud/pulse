@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T04:22:03.847Z",
+  "updated": "2026-06-19T10:26:39.303Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10108,
+      "likes": 10109,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7482,
+      "likes": 7483,
       "tags": [
         "docker",
         "leaderboard",
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3894,
+      "likes": 3896,
       "tags": [
         "static",
         "region:us"
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3225,
+      "likes": 3226,
       "tags": [
         "gradio",
         "mcp-server",
@@ -434,7 +434,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2778,
+      "likes": 2779,
       "tags": [
         "gradio",
         "mcp-server",
@@ -521,7 +521,7 @@
       "description": "Run Gemma 4 locally in-browser on WebGPU w/ Transformers.js",
       "url": "https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU",
       "sdk": "static",
-      "likes": 228,
+      "likes": 231,
       "tags": [
         "static",
         "region:us"
@@ -577,7 +577,7 @@
       "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
       "sdk": "static",
-      "likes": 179,
+      "likes": 180,
       "tags": [
         "static",
         "region:us"
@@ -628,6 +628,20 @@
     },
     {
       "rank": 14,
+      "id": "webml-community/remove-background-webgpu",
+      "title": "Remove Background WebGPU",
+      "description": "In-browser image background removal",
+      "url": "https://huggingface.co/spaces/webml-community/remove-background-webgpu",
+      "sdk": "static",
+      "likes": 158,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2024-08-27T21:47:14.000Z"
+    },
+    {
+      "rank": 15,
       "id": "webml-community/dinov3-web",
       "title": "DINOv3 Web",
       "description": "Visualize rich, dense image features locally in your browser",
@@ -639,20 +653,6 @@
         "region:us"
       ],
       "lastModified": "2025-08-15T23:05:49.000Z"
-    },
-    {
-      "rank": 15,
-      "id": "webml-community/remove-background-webgpu",
-      "title": "Remove Background WebGPU",
-      "description": "In-browser image background removal",
-      "url": "https://huggingface.co/spaces/webml-community/remove-background-webgpu",
-      "sdk": "static",
-      "likes": 157,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2024-08-27T21:47:14.000Z"
     },
     {
       "rank": 16,
@@ -852,17 +852,17 @@
     },
     {
       "rank": 30,
-      "id": "webml-community/microgpt-playground",
-      "title": "microgpt Playground",
-      "description": "Build, train, and run LLMs in the browser",
-      "url": "https://huggingface.co/spaces/webml-community/microgpt-playground",
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 68,
+      "likes": 70,
       "tags": [
         "static",
         "region:us"
       ],
-      "lastModified": "2026-02-19T16:31:26.000Z"
+      "lastModified": "2026-06-17T22:28:48.000Z"
     }
   ]
 }
