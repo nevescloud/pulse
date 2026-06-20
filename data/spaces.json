@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T22:03:49.046Z",
+  "updated": "2026-06-20T03:43:12.441Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10110,
+      "likes": 10111,
       "tags": [
         "gradio",
         "region:us"
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3227,
+      "likes": 3228,
       "tags": [
         "gradio",
         "mcp-server",
@@ -796,6 +796,20 @@
     },
     {
       "rank": 26,
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+      "sdk": "static",
+      "likes": 81,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-06-17T22:28:48.000Z"
+    },
+    {
+      "rank": 27,
       "id": "webml-community/Nemotron-3-Nano-WebGPU",
       "title": "Nemotron 3 Nano WebGPU",
       "description": "A compact reasoning-capable model running in your browser.",
@@ -807,20 +821,6 @@
         "region:us"
       ],
       "lastModified": "2026-03-19T21:30:19.000Z"
-    },
-    {
-      "rank": 27,
-      "id": "webml-community/gemma-4-webgpu-kernels",
-      "title": "Gemma 4 WebGPU Kernels",
-      "description": null,
-      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
-      "sdk": "static",
-      "likes": 78,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-06-17T22:28:48.000Z"
     },
     {
       "rank": 28,
