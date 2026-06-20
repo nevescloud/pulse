@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T19:26:43.758Z",
+  "updated": "2026-06-20T22:07:19.682Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14026,
+      "likes": 14027,
       "tags": [
         "docker",
         "leaderboard",
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9472,
+      "likes": 9473,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7489,
+      "likes": 7490,
       "tags": [
         "docker",
         "leaderboard",
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4921,
+      "likes": 4922,
       "tags": [
         "static",
         "leaderboard",
@@ -406,7 +406,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/sanchit-gandhi/whisper-jax",
       "sdk": "docker",
-      "likes": 2833,
+      "likes": 2834,
       "tags": [
         "docker",
         "region:us"
@@ -768,6 +768,20 @@
     },
     {
       "rank": 24,
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+      "sdk": "static",
+      "likes": 89,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-06-17T22:28:48.000Z"
+    },
+    {
+      "rank": 25,
       "id": "webml-community/KittenTTS-web",
       "title": "KittenTTS Web",
       "description": "State-of-the-art TTS model under 25MB",
@@ -781,27 +795,13 @@
       "lastModified": "2025-08-12T17:16:49.000Z"
     },
     {
-      "rank": 25,
-      "id": "webml-community/gemma-4-webgpu-kernels",
-      "title": "Gemma 4 WebGPU Kernels",
-      "description": null,
-      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
-      "sdk": "static",
-      "likes": 86,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-06-17T22:28:48.000Z"
-    },
-    {
       "rank": 26,
       "id": "webml-community/Qwen3.5-WebGPU",
       "title": "Qwen3.5 WebGPU",
       "description": "Run Qwen3.5 (0.8B, 2B, 4B) in-browser with Transformers.js",
       "url": "https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU",
       "sdk": "static",
-      "likes": 85,
+      "likes": 86,
       "tags": [
         "static",
         "region:us"

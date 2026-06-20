@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T19:26:44.918Z",
+  "updated": "2026-06-20T22:07:19.826Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars": 3037,
-      "forks": 259,
+      "stars": 3213,
+      "forks": 268,
       "starsToday": 904
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars": 51225,
-      "forks": 3292,
+      "stars": 51338,
+      "forks": 3296,
       "starsToday": 424
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 6917,
-      "forks": 1142,
+      "stars": 6980,
+      "forks": 1146,
       "starsToday": 677
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars": 20230,
-      "forks": 1038,
+      "stars": 20277,
+      "forks": 1040,
       "starsToday": 774
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": 9153,
-      "forks": 699,
+      "stars": 9253,
+      "forks": 702,
       "starsToday": 1267
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": 24442,
-      "forks": 2317,
+      "stars": 24491,
+      "forks": 2321,
       "starsToday": 432
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars": 50787,
-      "forks": 7407,
+      "stars": 50823,
+      "forks": 7412,
       "starsToday": 140
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars": 39251,
+      "stars": 39288,
       "forks": 2324,
       "starsToday": 327
     },
@@ -106,8 +106,8 @@
       "url": "https://github.com/tw93/Pake",
       "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
       "language": "Rust",
-      "stars": 54294,
-      "forks": 10816,
+      "stars": 54540,
+      "forks": 10846,
       "starsToday": 2398
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 41416,
-      "forks": 2835,
+      "stars": 41669,
+      "forks": 2858,
       "starsToday": 3786
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars": 30931,
-      "forks": 3828,
+      "stars": 30976,
+      "forks": 3832,
       "starsToday": 140
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "language": "TypeScript",
-      "stars": 23271,
-      "forks": 2736,
+      "stars": 23310,
+      "forks": 2739,
       "starsToday": 470
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 138007,
-      "forks": 11973,
+      "stars": 138113,
+      "forks": 11983,
       "starsToday": 1360
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars": 6042,
-      "forks": 339,
+      "stars": 6065,
+      "forks": 341,
       "starsToday": 313
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
       "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
       "language": null,
-      "stars": 14735,
-      "forks": 2353,
+      "stars": 14749,
+      "forks": 2354,
       "starsToday": 223
     },
     {
@@ -190,9 +190,9 @@
       "url": "https://github.com/pppscn/SmsForwarder",
       "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
       "language": "Kotlin",
-      "stars": 26466,
-      "forks": 3271,
-      "starsToday": 130
+      "stars": 26474,
+      "forks": 3272,
+      "starsToday": 134
     },
     {
       "rank": 17,
@@ -202,8 +202,8 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 7363,
-      "forks": 826,
+      "stars": 7381,
+      "forks": 827,
       "starsToday": 108
     }
   ]
