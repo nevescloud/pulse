@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T04:17:01.626Z",
+  "updated": "2026-06-21T09:50:49.110Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars": 3577,
-      "forks": 289,
+      "stars": 3979,
+      "forks": 318,
       "starsToday": 902
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars": 51554,
-      "forks": 3306,
+      "stars": 51810,
+      "forks": 3318,
       "starsToday": 420
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 7171,
-      "forks": 1161,
+      "stars": 7400,
+      "forks": 1188,
       "starsToday": 677
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars": 20394,
-      "forks": 1043,
+      "stars": 20502,
+      "forks": 1048,
       "starsToday": 801
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": 9489,
-      "forks": 718,
+      "stars": 9715,
+      "forks": 741,
       "starsToday": 1271
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/google-research/timesfm",
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
-      "stars": 24597,
-      "forks": 2331,
+      "stars": 24699,
+      "forks": 2344,
       "starsToday": 433
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/twentyhq/twenty",
       "description": "The open alternative to Salesforce, designed for AI.",
       "language": "TypeScript",
-      "stars": 50890,
-      "forks": 7413,
+      "stars": 50975,
+      "forks": 7428,
       "starsToday": 140
     },
     {
@@ -94,116 +94,104 @@
       "url": "https://github.com/Kong/insomnia",
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "language": "TypeScript",
-      "stars": 39367,
-      "forks": 2326,
+      "stars": 39445,
+      "forks": 2335,
       "starsToday": 329
     },
     {
       "rank": 9,
-      "owner": "tw93",
-      "name": "Pake",
-      "fullName": "tw93/Pake",
-      "url": "https://github.com/tw93/Pake",
-      "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
-      "language": "Rust",
-      "stars": 55017,
-      "forks": 10904,
-      "starsToday": 2546
-    },
-    {
-      "rank": 10,
       "owner": "chopratejas",
       "name": "headroom",
       "fullName": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "language": "Python",
-      "stars": 42140,
-      "forks": 2906,
+      "stars": 42660,
+      "forks": 2941,
       "starsToday": 3795
     },
     {
-      "rank": 11,
+      "rank": 10,
       "owner": "jamiepine",
       "name": "voicebox",
       "fullName": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars": 31072,
-      "forks": 3838,
+      "stars": 31195,
+      "forks": 3853,
       "starsToday": 145
     },
     {
-      "rank": 12,
+      "rank": 11,
       "owner": "Kilo-Org",
       "name": "kilocode",
       "fullName": "Kilo-Org/kilocode",
       "url": "https://github.com/Kilo-Org/kilocode",
       "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
       "language": "TypeScript",
-      "stars": 23397,
-      "forks": 2744,
+      "stars": 23495,
+      "forks": 2751,
       "starsToday": 513
     },
     {
-      "rank": 13,
+      "rank": 12,
       "owner": "mattpocock",
       "name": "skills",
       "fullName": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 138396,
-      "forks": 12008,
+      "stars": 138745,
+      "forks": 12037,
       "starsToday": 1395
     },
     {
-      "rank": 14,
+      "rank": 13,
       "owner": "withastro",
       "name": "flue",
       "fullName": "withastro/flue",
       "url": "https://github.com/withastro/flue",
       "description": "The sandbox agent framework.",
       "language": "TypeScript",
-      "stars": 6127,
-      "forks": 346,
+      "stars": 6204,
+      "forks": 350,
       "starsToday": 316
     },
     {
-      "rank": 15,
+      "rank": 14,
       "owner": "owainlewis",
       "name": "awesome-artificial-intelligence",
       "fullName": "owainlewis/awesome-artificial-intelligence",
       "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
       "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
       "language": null,
-      "stars": 14825,
-      "forks": 2359,
+      "stars": 14902,
+      "forks": 2364,
       "starsToday": 48
     },
     {
-      "rank": 16,
+      "rank": 15,
       "owner": "pppscn",
       "name": "SmsForwarder",
       "fullName": "pppscn/SmsForwarder",
       "url": "https://github.com/pppscn/SmsForwarder",
       "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
       "language": "Kotlin",
-      "stars": 26520,
-      "forks": 3277,
+      "stars": 26572,
+      "forks": 3283,
       "starsToday": 104
     },
     {
-      "rank": 17,
+      "rank": 16,
       "owner": "1jehuang",
       "name": "jcode",
       "fullName": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 7416,
-      "forks": 828,
+      "stars": 7458,
+      "forks": 831,
       "starsToday": 87
     }
   ]
