@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:42:03.135Z",
+  "updated": "2026-06-21T22:14:51.696Z",
   "trending": [
     {
       "rank": 1,
@@ -82,13 +82,13 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7493,
+      "likes": 7494,
       "tags": [
         "docker",
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-06-21T11:49:40.000Z"
+      "lastModified": "2026-06-21T22:01:43.000Z"
     },
     {
       "rank": 7,
@@ -111,7 +111,7 @@
       "description": "Generate stunning high quality illusion artwork",
       "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
       "sdk": "gradio",
-      "likes": 5413,
+      "likes": 5414,
       "tags": [
         "gradio",
         "region:us"
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5071,
+      "likes": 5072,
       "tags": [
         "gradio",
         "region:us"
@@ -759,7 +759,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 98,
+      "likes": 99,
       "tags": [
         "static",
         "region:us"
