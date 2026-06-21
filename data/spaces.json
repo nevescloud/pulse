@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T14:11:54.194Z",
+  "updated": "2026-06-21T16:45:33.271Z",
   "trending": [
     {
       "rank": 1,
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7492,
+      "likes": 7493,
       "tags": [
         "docker",
         "leaderboard",
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3897,
+      "likes": 3898,
       "tags": [
         "static",
         "region:us"
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3370,
+      "likes": 3371,
       "tags": [
         "gradio",
         "region:us"
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3240,
+      "likes": 3241,
       "tags": [
         "gradio",
         "mcp-server",
@@ -434,7 +434,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2780,
+      "likes": 2782,
       "tags": [
         "gradio",
         "mcp-server",
@@ -479,7 +479,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 298,
+      "likes": 300,
       "tags": [
         "static",
         "region:us"
@@ -759,7 +759,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 95,
+      "likes": 97,
       "tags": [
         "static",
         "region:us"

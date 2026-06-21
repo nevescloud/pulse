@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T14:11:54.419Z",
+  "updated": "2026-06-21T16:45:33.472Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 245673576,
-      "likes": 4980,
+      "likes": 4981,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 51822085,
-      "likes": 1278,
+      "likes": 1279,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 34643751,
-      "likes": 1312,
+      "likes": 1313,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -474,7 +474,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12746468,
-      "likes": 1167,
+      "likes": 1168,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 20277,
-      "likes": 539,
+      "likes": 545,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
       "pipelineTag": "text-generation",
       "downloads": 2092,
-      "likes": 49,
+      "likes": 50,
       "tags": [
         "transformers",
         "safetensors",
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 194881,
-      "likes": 631,
+      "likes": 632,
       "tags": [
         "transformers",
         "safetensors",
@@ -688,6 +688,23 @@
     },
     {
       "rank": 9,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 9812999,
+      "likes": 6126,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 10,
       "id": "Darkfibre/VibeThinker-3B-Ablated",
       "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
       "pipelineTag": "text-generation",
@@ -703,23 +720,6 @@
       ],
       "lastModified": null,
       "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
-    },
-    {
-      "rank": 10,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 9812999,
-      "likes": 6124,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     }
   ]
 }
