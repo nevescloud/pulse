@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T20:48:26.975Z",
+  "updated": "2026-06-22T22:47:23.817Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14028,
+      "likes": 14029,
       "tags": [
         "docker",
         "leaderboard",

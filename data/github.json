@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T20:48:27.228Z",
+  "updated": "2026-06-22T22:47:23.951Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 11650,
-      "forks": 1521,
+      "stars": 11831,
+      "forks": 1536,
       "starsToday": 2935
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "description": "macOS video editor built for AI",
       "language": "Swift",
-      "stars": 7150,
-      "forks": 496,
+      "stars": 7254,
+      "forks": 500,
       "starsToday": 2462
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars": 32114,
-      "forks": 3927,
+      "stars": 32165,
+      "forks": 3929,
       "starsToday": 508
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 18559,
-      "forks": 2200,
+      "stars": 18624,
+      "forks": 2207,
       "starsToday": 957
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "language": "Clojure",
-      "stars": 52799,
-      "forks": 3378,
+      "stars": 52827,
+      "forks": 3383,
       "starsToday": 730
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "TypeScript",
-      "stars": 82784,
-      "forks": 7228,
+      "stars": 82837,
+      "forks": 7236,
       "starsToday": 691
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars": 113023,
-      "forks": 16785,
+      "stars": 113087,
+      "forks": 16790,
       "starsToday": 649
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
-      "stars": 29894,
-      "forks": 2817,
+      "stars": 29934,
+      "forks": 2818,
       "starsToday": 369
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/tursodatabase/turso",
       "description": "Turso is an in-process SQL database, compatible with SQLite.",
       "language": "Rust",
-      "stars": 21359,
-      "forks": 1083,
+      "stars": 21425,
+      "forks": 1084,
       "starsToday": 538
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars": 73151,
-      "forks": 9889,
+      "stars": 73200,
+      "forks": 9893,
       "starsToday": 736
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
-      "stars": 11374,
-      "forks": 843,
+      "stars": 11457,
+      "forks": 846,
       "starsToday": 1186
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars": 45715,
-      "forks": 41885,
+      "stars": 45756,
+      "forks": 41896,
       "starsToday": 1560
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
-      "stars": 137105,
-      "forks": 7955,
+      "stars": 137192,
+      "forks": 7961,
       "starsToday": 736
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars": 17640,
-      "forks": 2739,
+      "stars": 17673,
+      "forks": 2742,
       "starsToday": 63
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars": 20994,
-      "forks": 2422,
+      "stars": 21020,
+      "forks": 2423,
       "starsToday": 187
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 141474,
-      "forks": 12240,
+      "stars": 141548,
+      "forks": 12247,
       "starsToday": 2051
     }
   ]

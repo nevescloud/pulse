@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T20:48:27.181Z",
+  "updated": "2026-06-22T22:47:24.081Z",
   "models": [
     {
       "rank": 1,
@@ -438,7 +438,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12999904,
-      "likes": 1175,
+      "likes": 1176,
       "tags": [
         "transformers",
         "safetensors",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11347496,
-      "likes": 3049,
+      "likes": 3050,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 32385,
-      "likes": 606,
+      "likes": 609,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
       "pipelineTag": "text-generation",
       "downloads": 2900,
-      "likes": 53,
+      "likes": 54,
       "tags": [
         "transformers",
         "safetensors",
