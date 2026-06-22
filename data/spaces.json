@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T04:18:50.661Z",
+  "updated": "2026-06-22T11:55:17.015Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14027,
+      "likes": 14028,
       "tags": [
         "docker",
         "leaderboard",
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10111,
+      "likes": 10112,
       "tags": [
         "gradio",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3898,
+      "likes": 3899,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3423,
+      "likes": 3424,
       "tags": [
         "gradio",
         "mcp-server",
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3241,
+      "likes": 3243,
       "tags": [
         "gradio",
         "mcp-server",
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3209,
+      "likes": 3213,
       "tags": [
         "docker",
         "research-article-template",
@@ -391,7 +391,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2870,
+      "likes": 2871,
       "tags": [
         "gradio",
         "mcp-server",
@@ -434,7 +434,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2784,
+      "likes": 2785,
       "tags": [
         "gradio",
         "mcp-server",
@@ -726,6 +726,20 @@
     },
     {
       "rank": 21,
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+      "sdk": "static",
+      "likes": 104,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-06-17T22:28:48.000Z"
+    },
+    {
+      "rank": 22,
       "id": "webml-community/qwen3-webgpu",
       "title": "Qwen3 WebGPU",
       "description": "A hybrid reasoning model that runs locally in your browser.",
@@ -739,7 +753,7 @@
       "lastModified": "2025-04-29T02:03:46.000Z"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "webml-community/llama-3.2-webgpu",
       "title": "Llama 3.2 WebGPU",
       "description": "A powerful AI chatbot that runs locally in your browser",
@@ -751,20 +765,6 @@
         "region:us"
       ],
       "lastModified": "2026-05-12T19:33:08.000Z"
-    },
-    {
-      "rank": 23,
-      "id": "webml-community/gemma-4-webgpu-kernels",
-      "title": "Gemma 4 WebGPU Kernels",
-      "description": null,
-      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
-      "sdk": "static",
-      "likes": 100,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-06-17T22:28:48.000Z"
     },
     {
       "rank": 24,
