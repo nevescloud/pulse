@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T16:58:41.950Z",
+  "updated": "2026-06-22T20:48:27.181Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 248690085,
-      "likes": 4988,
+      "likes": 4989,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 52106648,
-      "likes": 1282,
+      "likes": 1283,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27743993,
-      "likes": 1352,
+      "likes": 1353,
       "tags": [
         "transformers",
         "safetensors",
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 18782159,
-      "likes": 853,
+      "likes": 854,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -312,7 +312,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15640481,
-      "likes": 334,
+      "likes": 335,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -438,7 +438,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12999904,
-      "likes": 1172,
+      "likes": 1175,
       "tags": [
         "transformers",
         "safetensors",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11347496,
-      "likes": 3047,
+      "likes": 3049,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 32385,
-      "likes": 598,
+      "likes": 606,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 3498,
-      "likes": 284,
+      "likes": 287,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
       "pipelineTag": "text-generation",
       "downloads": 2900,
-      "likes": 52,
+      "likes": 53,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27743993,
-      "likes": 1352,
+      "likes": 1353,
       "tags": [
         "transformers",
         "safetensors",
@@ -738,6 +738,24 @@
       ],
       "lastModified": null,
       "description": "~440 tokens/sec on a single RTX 5090 at Q4_K_M (--n-gpu-layers 99 -fa on) — and generation quality holds up: correct, coherent code and clean step-by-step reasoning. 🎯"
+    },
+    {
+      "rank": 12,
+      "id": "Nanbeige/Nanbeige4.1-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+      "pipelineTag": "text-generation",
+      "downloads": 3135,
+      "likes": 1133,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "llm",
+        "nanbeige"
+      ],
+      "lastModified": null,
+      "description": "Nanbeige4.1-3B is built upon Nanbeige4-3B-Base and represents an enhanced iteration of our previous reasoning model, Nanbeige4-3B-Thinking-2511, achieved through further post-training optimization with supervised fine-tuning (SFT) and re…"
     }
   ]
 }
