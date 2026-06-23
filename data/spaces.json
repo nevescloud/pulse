@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:17:43.213Z",
+  "updated": "2026-06-23T20:06:18.813Z",
   "trending": [
     {
       "rank": 1,
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4924,
+      "likes": 4925,
       "tags": [
         "static",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3434,
+      "likes": 3435,
       "tags": [
         "gradio",
         "mcp-server",
@@ -288,7 +288,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3313,
+      "likes": 3314,
       "tags": [
         "gradio",
         "region:us"
@@ -434,7 +434,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2793,
+      "likes": 2795,
       "tags": [
         "gradio",
         "mcp-server",
@@ -703,7 +703,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 131,
+      "likes": 135,
       "tags": [
         "static",
         "region:us"
