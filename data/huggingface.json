@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T14:49:32.830Z",
+  "updated": "2026-06-23T17:17:43.263Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 249104971,
-      "likes": 4991,
+      "likes": 4992,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 52041810,
-      "likes": 1283,
+      "likes": 1284,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 41170,
-      "likes": 645,
+      "likes": 647,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 4391,
-      "likes": 305,
+      "likes": 310,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 34176,
-      "likes": 51,
+      "likes": 52,
       "tags": [
         "transformers",
         "gguf",

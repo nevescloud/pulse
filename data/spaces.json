@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T14:49:32.569Z",
+  "updated": "2026-06-23T17:17:43.213Z",
   "trending": [
     {
       "rank": 1,
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3900,
+      "likes": 3901,
       "tags": [
         "static",
         "region:us"
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3213,
+      "likes": 3214,
       "tags": [
         "docker",
         "research-article-template",
@@ -420,7 +420,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/HumanAIGC/OutfitAnyone",
       "sdk": "gradio",
-      "likes": 2810,
+      "likes": 2811,
       "tags": [
         "gradio",
         "region:us"
@@ -661,7 +661,7 @@
       "description": "Visualize embeddings in 3D space, powered by EmbeddingGemma",
       "url": "https://huggingface.co/spaces/webml-community/semantic-galaxy",
       "sdk": "static",
-      "likes": 149,
+      "likes": 150,
       "tags": [
         "static",
         "region:us"
@@ -703,7 +703,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 127,
+      "likes": 131,
       "tags": [
         "static",
         "region:us"
