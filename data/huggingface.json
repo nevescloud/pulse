@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T09:39:39.401Z",
+  "updated": "2026-06-23T14:49:32.830Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 249104971,
-      "likes": 4990,
+      "likes": 4991,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31560655,
-      "likes": 3137,
+      "likes": 3139,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27660867,
-      "likes": 1353,
+      "likes": 1355,
       "tags": [
         "transformers",
         "safetensors",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 16312603,
-      "likes": 1052,
+      "likes": 1053,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 16230112,
-      "likes": 6375,
+      "likes": 6376,
       "tags": [
         "text-to-speech",
         "en",
@@ -366,7 +366,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13361634,
-      "likes": 3310,
+      "likes": 3311,
       "tags": [
         "transformers",
         "pytorch",
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13063101,
-      "likes": 1176,
+      "likes": 1177,
       "tags": [
         "transformers",
         "safetensors",
@@ -456,7 +456,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12693695,
-      "likes": 1378,
+      "likes": 1379,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 41170,
-      "likes": 627,
+      "likes": 645,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 4391,
-      "likes": 297,
+      "likes": 305,
       "tags": [
         "transformers",
         "safetensors",
@@ -616,24 +616,6 @@
     },
     {
       "rank": 5,
-      "id": "WeiboAI/VibeThinker-1.5B",
-      "url": "https://huggingface.co/WeiboAI/VibeThinker-1.5B",
-      "pipelineTag": "text-generation",
-      "downloads": 2078,
-      "likes": 547,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "math",
-        "code"
-      ],
-      "lastModified": null,
-      "description": "VibeThinker-1.5B is a 1.5-billion parameter dense language model. With a total training cost of only $7,800 USD, it achieves reasoning performance comparable to larger models like GPT OSS-20B Medium."
-    },
-    {
-      "rank": 6,
       "id": "Darkfibre/VibeThinker-3B-Ablated",
       "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
       "pipelineTag": "text-generation",
@@ -651,12 +633,12 @@
       "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27660867,
-      "likes": 1353,
+      "likes": 1355,
       "tags": [
         "transformers",
         "safetensors",
@@ -669,12 +651,30 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
+      "rank": 7,
+      "id": "WeiboAI/VibeThinker-1.5B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-1.5B",
+      "pipelineTag": "text-generation",
+      "downloads": 2078,
+      "likes": 546,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "math",
+        "code"
+      ],
+      "lastModified": null,
+      "description": "VibeThinker-1.5B is a 1.5-billion parameter dense language model. With a total training cost of only $7,800 USD, it achieves reasoning performance comparable to larger models like GPT OSS-20B Medium."
+    },
+    {
       "rank": 8,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9980754,
-      "likes": 6134,
+      "likes": 6136,
       "tags": [
         "transformers",
         "safetensors",
@@ -691,7 +691,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 198674,
-      "likes": 633,
+      "likes": 634,
       "tags": [
         "transformers",
         "safetensors",
@@ -705,39 +705,20 @@
     },
     {
       "rank": 10,
-      "id": "Nanbeige/Nanbeige4.1-3B",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 3139,
-      "likes": 1135,
+      "downloads": 1860019,
+      "likes": 2265,
       "tags": [
         "transformers",
         "safetensors",
         "llama",
         "text-generation",
-        "llm",
-        "nanbeige"
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "Nanbeige4.1-3B is built upon Nanbeige4-3B-Base and represents an enhanced iteration of our previous reasoning model, Nanbeige4-3B-Thinking-2511, achieved through further post-training optimization with supervised fine-tuning (SFT) and re…"
-    },
-    {
-      "rank": 11,
-      "id": "sapientinc/HRM-Text-1B",
-      "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 96258,
-      "likes": 790,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "hrm_text",
-        "text-generation",
-        "hrm",
-        "hierarchical-reasoning"
-      ],
-      "lastModified": null,
-      "description": "A 1 B-parameter language model checkpoint built on the Hierarchical Reasoning Model (HRM) architecture, trained by Sapient Intelligence from scratch on structured public datasets."
+      "lastModified": null
     }
   ]
 }
