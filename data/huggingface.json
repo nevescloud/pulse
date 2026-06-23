@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T22:47:24.081Z",
+  "updated": "2026-06-23T03:37:25.347Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 248690085,
-      "likes": 4989,
+      "likes": 4990,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 59044227,
-      "likes": 2686,
+      "likes": 2687,
       "tags": [
         "transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31494482,
-      "likes": 3135,
+      "likes": 3136,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11347496,
-      "likes": 3050,
+      "likes": 3051,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 32385,
-      "likes": 609,
+      "likes": 616,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 3498,
-      "likes": 287,
+      "likes": 290,
       "tags": [
         "transformers",
         "safetensors",
@@ -580,6 +580,24 @@
     },
     {
       "rank": 3,
+      "id": "prithivMLmods/VibeThinker-3B-GGUF",
+      "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 31137,
+      "likes": 48,
+      "tags": [
+        "transformers",
+        "gguf",
+        "math",
+        "code",
+        "reasoning",
+        "gpqa"
+      ],
+      "lastModified": null,
+      "description": "LLM inference in C/C++ — https://github.com/ggml-org/llama.cpp"
+    },
+    {
+      "rank": 4,
       "id": "microsoft/FastContext-1.0-4B-RL",
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
       "pipelineTag": "text-generation",
@@ -595,24 +613,6 @@
       ],
       "lastModified": null,
       "description": "FastContext-1.0 is a lightweight repository-exploration subagent for LLM coding agents. Instead of letting a single model both explore the repository and solve the task, FastContext separates these two roles: it is invoked on demand by a…"
-    },
-    {
-      "rank": 4,
-      "id": "prithivMLmods/VibeThinker-3B-GGUF",
-      "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 31137,
-      "likes": 47,
-      "tags": [
-        "transformers",
-        "gguf",
-        "math",
-        "code",
-        "reasoning",
-        "gpqa"
-      ],
-      "lastModified": null,
-      "description": "LLM inference in C/C++ — https://github.com/ggml-org/llama.cpp"
     },
     {
       "rank": 5,
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-1.5B",
       "pipelineTag": "text-generation",
       "downloads": 1865,
-      "likes": 546,
+      "likes": 547,
       "tags": [
         "transformers",
         "safetensors",
@@ -652,6 +652,24 @@
     },
     {
       "rank": 7,
+      "id": "Darkfibre/VibeThinker-3B-Ablated",
+      "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
+      "pipelineTag": "text-generation",
+      "downloads": 455,
+      "likes": 22,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "phoenix-cathedral",
+        "abliterated"
+      ],
+      "lastModified": null,
+      "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
+    },
+    {
+      "rank": 8,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -668,30 +686,30 @@
       "lastModified": null
     },
     {
-      "rank": 8,
-      "id": "Darkfibre/VibeThinker-3B-Ablated",
-      "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
+      "rank": 9,
+      "id": "Nanbeige/Nanbeige4.1-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
       "pipelineTag": "text-generation",
-      "downloads": 455,
-      "likes": 21,
+      "downloads": 3135,
+      "likes": 1135,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen2",
+        "llama",
         "text-generation",
-        "phoenix-cathedral",
-        "abliterated"
+        "llm",
+        "nanbeige"
       ],
       "lastModified": null,
-      "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
+      "description": "Nanbeige4.1-3B is built upon Nanbeige4-3B-Base and represents an enhanced iteration of our previous reasoning model, Nanbeige4-3B-Thinking-2511, achieved through further post-training optimization with supervised fine-tuning (SFT) and re…"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 198480,
-      "likes": 632,
+      "likes": 633,
       "tags": [
         "transformers",
         "safetensors",
@@ -704,30 +722,12 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
-      "rank": 10,
-      "id": "sapientinc/HRM-Text-1B",
-      "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 100952,
-      "likes": 790,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "hrm_text",
-        "text-generation",
-        "hrm",
-        "hierarchical-reasoning"
-      ],
-      "lastModified": null,
-      "description": "A 1 B-parameter language model checkpoint built on the Hierarchical Reasoning Model (HRM) architecture, trained by Sapient Intelligence from scratch on structured public datasets."
-    },
-    {
       "rank": 11,
       "id": "yuxinlu1/Mellum2-12B-A2.5B-Claude-4.6-4.8-Opus-Thinking-GGUF",
       "url": "https://huggingface.co/yuxinlu1/Mellum2-12B-A2.5B-Claude-4.6-4.8-Opus-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 6508,
-      "likes": 24,
+      "likes": 25,
       "tags": [
         "gguf",
         "mellum",
@@ -738,24 +738,6 @@
       ],
       "lastModified": null,
       "description": "~440 tokens/sec on a single RTX 5090 at Q4_K_M (--n-gpu-layers 99 -fa on) — and generation quality holds up: correct, coherent code and clean step-by-step reasoning. 🎯"
-    },
-    {
-      "rank": 12,
-      "id": "Nanbeige/Nanbeige4.1-3B",
-      "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-      "pipelineTag": "text-generation",
-      "downloads": 3135,
-      "likes": 1133,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "llm",
-        "nanbeige"
-      ],
-      "lastModified": null,
-      "description": "Nanbeige4.1-3B is built upon Nanbeige4-3B-Base and represents an enhanced iteration of our previous reasoning model, Nanbeige4-3B-Thinking-2511, achieved through further post-training optimization with supervised fine-tuning (SFT) and re…"
     }
   ]
 }
