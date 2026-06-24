@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:46:22.298Z",
+  "updated": "2026-06-24T22:18:01.352Z",
   "models": [
     {
       "rank": 1,
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13214995,
-      "likes": 1182,
+      "likes": 1183,
       "tags": [
         "transformers",
         "safetensors",
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 13054823,
-      "likes": 1157,
+      "likes": 1158,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 49569,
-      "likes": 689,
+      "likes": 691,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 4805,
-      "likes": 334,
+      "likes": 335,
       "tags": [
         "transformers",
         "safetensors",
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1929664,
-      "likes": 2269,
+      "likes": 2270,
       "tags": [
         "transformers",
         "safetensors",
@@ -669,23 +669,6 @@
     },
     {
       "rank": 8,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 10054524,
-      "likes": 6139,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 9,
       "id": "WeiboAI/VibeThinker-1.5B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-1.5B",
       "pipelineTag": "text-generation",
@@ -703,7 +686,7 @@
       "description": "VibeThinker-1.5B is a 1.5-billion parameter dense language model. With a total training cost of only $7,800 USD, it achieves reasoning performance comparable to larger models like GPT OSS-20B Medium."
     },
     {
-      "rank": 10,
+      "rank": 9,
       "id": "Nanbeige/Nanbeige4.1-3B",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
       "pipelineTag": "text-generation",
