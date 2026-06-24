@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T22:13:49.615Z",
+  "updated": "2026-06-24T03:38:01.616Z",
   "models": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31560655,
-      "likes": 3139,
+      "likes": 3140,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 16230112,
-      "likes": 6378,
+      "likes": 6379,
       "tags": [
         "text-to-speech",
         "en",
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13063101,
-      "likes": 1177,
+      "likes": 1178,
       "tags": [
         "transformers",
         "safetensors",
@@ -510,7 +510,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 11660191,
-      "likes": 2038,
+      "likes": 2039,
       "tags": [
         "transformers",
         "pytorch",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 11386130,
-      "likes": 747,
+      "likes": 748,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 41170,
-      "likes": 661,
+      "likes": 669,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 4391,
-      "likes": 317,
+      "likes": 323,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 34176,
-      "likes": 53,
+      "likes": 54,
       "tags": [
         "transformers",
         "gguf",
@@ -616,21 +616,21 @@
     },
     {
       "rank": 5,
-      "id": "Darkfibre/VibeThinker-3B-Ablated",
-      "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 477,
-      "likes": 23,
+      "downloads": 27660867,
+      "likes": 1355,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen2",
+        "qwen3",
         "text-generation",
-        "phoenix-cathedral",
-        "abliterated"
+        "conversational",
+        "license:apache-2.0"
       ],
       "lastModified": null,
-      "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 6,
@@ -652,29 +652,11 @@
     },
     {
       "rank": 7,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 27660867,
-      "likes": 1355,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 8,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9980754,
-      "likes": 6136,
+      "likes": 6137,
       "tags": [
         "transformers",
         "safetensors",
@@ -686,12 +668,30 @@
       "lastModified": null
     },
     {
+      "rank": 8,
+      "id": "Darkfibre/VibeThinker-3B-Ablated",
+      "url": "https://huggingface.co/Darkfibre/VibeThinker-3B-Ablated",
+      "pipelineTag": "text-generation",
+      "downloads": 477,
+      "likes": 24,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "phoenix-cathedral",
+        "abliterated"
+      ],
+      "lastModified": null,
+      "description": "VibeThinker-3B is a compact 3B dense reasoning model that punches at frontier level. Built by WeiboAI on Qwen2.5-Coder-3B, it achieves 97.1 on AIME26, 96.1% on unseen LeetCode contests, and matches models 200x its size on reasoning bench…"
+    },
+    {
       "rank": 9,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1860019,
-      "likes": 2265,
+      "likes": 2266,
       "tags": [
         "transformers",
         "safetensors",
@@ -704,24 +704,6 @@
     },
     {
       "rank": 10,
-      "id": "sapientinc/HRM-Text-1B",
-      "url": "https://huggingface.co/sapientinc/HRM-Text-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 96258,
-      "likes": 790,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "hrm_text",
-        "text-generation",
-        "hrm",
-        "hierarchical-reasoning"
-      ],
-      "lastModified": null,
-      "description": "A 1 B-parameter language model checkpoint built on the Hierarchical Reasoning Model (HRM) architecture, trained by Sapient Intelligence from scratch on structured public datasets."
-    },
-    {
-      "rank": 11,
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
