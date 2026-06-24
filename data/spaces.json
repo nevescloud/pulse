@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T17:04:38.773Z",
+  "updated": "2026-06-24T19:46:22.111Z",
   "trending": [
     {
       "rank": 1,
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3247,
+      "likes": 3248,
       "tags": [
         "gradio",
         "mcp-server",
@@ -656,6 +656,20 @@
     },
     {
       "rank": 16,
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+      "sdk": "static",
+      "likes": 152,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-06-17T22:28:48.000Z"
+    },
+    {
+      "rank": 17,
       "id": "webml-community/semantic-galaxy",
       "title": "Semantic Galaxy",
       "description": "Visualize embeddings in 3D space, powered by EmbeddingGemma",
@@ -667,20 +681,6 @@
         "region:us"
       ],
       "lastModified": "2026-05-12T19:33:19.000Z"
-    },
-    {
-      "rank": 17,
-      "id": "webml-community/gemma-4-webgpu-kernels",
-      "title": "Gemma 4 WebGPU Kernels",
-      "description": null,
-      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
-      "sdk": "static",
-      "likes": 150,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-06-17T22:28:48.000Z"
     },
     {
       "rank": 18,
