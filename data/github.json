@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T14:31:38.070Z",
+  "updated": "2026-06-24T17:04:39.797Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 18134,
-      "forks": 2082,
+      "stars": 18551,
+      "forks": 2129,
       "starsToday": 3703
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars": 48119,
-      "forks": 42866,
+      "stars": 48274,
+      "forks": 42921,
       "starsToday": 1461
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 41596,
-      "forks": 1216,
+      "stars": 41798,
+      "forks": 1220,
       "starsToday": 1746
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars": 1921,
-      "forks": 575,
+      "stars": 2001,
+      "forks": 579,
       "starsToday": 152
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars": 19017,
-      "forks": 2846,
+      "stars": 19118,
+      "forks": 2862,
       "starsToday": 693
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars": 7613,
-      "forks": 1050,
+      "stars": 7653,
+      "forks": 1051,
       "starsToday": 274
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars": 177158,
-      "forks": 30541,
+      "stars": 177206,
+      "forks": 30542,
       "starsToday": 44
     },
     {
@@ -94,7 +94,7 @@
       "url": "https://github.com/andreknieriem/headunit-revived",
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
-      "stars": 1368,
+      "stars": 1383,
       "forks": 112,
       "starsToday": 79
     },
@@ -106,8 +106,8 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars": 6542,
-      "forks": 476,
+      "stars": 6619,
+      "forks": 480,
       "starsToday": 265
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 16869,
-      "forks": 1552,
+      "stars": 17037,
+      "forks": 1557,
       "starsToday": 504
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars": 29982,
-      "forks": 2339,
+      "stars": 29995,
+      "forks": 2340,
       "starsToday": 103
     },
     {
@@ -142,9 +142,9 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars": 1805,
-      "forks": 129,
-      "starsToday": 90
+      "stars": 1867,
+      "forks": 130,
+      "starsToday": 182
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 201686,
-      "forks": 36020,
+      "stars": 201815,
+      "forks": 36059,
       "starsToday": 1174
     }
   ]
