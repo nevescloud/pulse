@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T09:30:44.814Z",
+  "updated": "2026-06-24T14:31:37.303Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 248829332,
-      "likes": 4994,
+      "likes": 4995,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -42,7 +42,7 @@
       "id": "BAAI/bge-small-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 62515331,
+      "downloads": 62638996,
       "likes": 496,
       "tags": [
         "sentence-transformers",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 51604630,
-      "likes": 1285,
+      "likes": 1286,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 42763912,
-      "likes": 127,
+      "likes": 128,
       "tags": [
         "transformers",
         "pytorch",
@@ -132,8 +132,8 @@
       "id": "BAAI/bge-m3",
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
-      "downloads": 31560655,
-      "likes": 3142,
+      "downloads": 31502520,
+      "likes": 3145,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -150,8 +150,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 27660867,
-      "likes": 1356,
+      "downloads": 28093777,
+      "likes": 1357,
       "tags": [
         "transformers",
         "safetensors",
@@ -204,7 +204,7 @@
       "id": "nomic-ai/nomic-embed-text-v1.5",
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
-      "downloads": 18720640,
+      "downloads": 18628411,
       "likes": 855,
       "tags": [
         "sentence-transformers",
@@ -240,7 +240,7 @@
       "id": "BAAI/bge-reranker-v2-m3",
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
-      "downloads": 16312603,
+      "downloads": 16443234,
       "likes": 1053,
       "tags": [
         "sentence-transformers",
@@ -258,7 +258,7 @@
       "id": "Qwen/Qwen3-4B",
       "url": "https://huggingface.co/Qwen/Qwen3-4B",
       "pipelineTag": "text-generation",
-      "downloads": 16270032,
+      "downloads": 16352254,
       "likes": 641,
       "tags": [
         "transformers",
@@ -294,8 +294,8 @@
       "id": "hexgrad/Kokoro-82M",
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
-      "downloads": 16230112,
-      "likes": 6380,
+      "downloads": 16115236,
+      "likes": 6382,
       "tags": [
         "text-to-speech",
         "en",
@@ -311,7 +311,7 @@
       "id": "amazon/chronos-2",
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 15965531,
+      "downloads": 15997429,
       "likes": 336,
       "tags": [
         "chronos-forecasting",
@@ -329,7 +329,7 @@
       "id": "BAAI/bge-large-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 15220000,
+      "downloads": 15252155,
       "likes": 688,
       "tags": [
         "sentence-transformers",
@@ -347,7 +347,7 @@
       "id": "autogluon/chronos-bolt-small",
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 14073942,
+      "downloads": 13964851,
       "likes": 44,
       "tags": [
         "safetensors",
@@ -366,7 +366,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13251890,
-      "likes": 3311,
+      "likes": 3312,
       "tags": [
         "transformers",
         "pytorch",
@@ -383,8 +383,8 @@
       "id": "google/gemma-4-26B-A4B-it",
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
-      "downloads": 13063101,
-      "likes": 1180,
+      "downloads": 13214995,
+      "likes": 1181,
       "tags": [
         "transformers",
         "safetensors",
@@ -401,8 +401,8 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 12944652,
-      "likes": 1155,
+      "downloads": 13054823,
+      "likes": 1156,
       "tags": [
         "transformers",
         "safetensors",
@@ -416,6 +416,24 @@
     },
     {
       "rank": 24,
+      "id": "Qwen/Qwen2.5-7B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 12936510,
+      "likes": 1381,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 25,
       "id": "Bingsu/adetailer",
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
@@ -431,24 +449,6 @@
       ],
       "lastModified": null,
       "description": "Since getattr is classified as a dangerous pickle function, any segmentation model that uses it is classified as unsafe."
-    },
-    {
-      "rank": 25,
-      "id": "Qwen/Qwen2.5-7B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 12693695,
-      "likes": 1380,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
     },
     {
       "rank": 26,
@@ -547,8 +547,8 @@
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 41170,
-      "likes": 674,
+      "downloads": 49569,
+      "likes": 683,
       "tags": [
         "transformers",
         "safetensors",
@@ -565,8 +565,8 @@
       "id": "microsoft/FastContext-1.0-4B-SFT",
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 4391,
-      "likes": 325,
+      "downloads": 4805,
+      "likes": 330,
       "tags": [
         "transformers",
         "safetensors",
@@ -583,7 +583,7 @@
       "id": "prithivMLmods/VibeThinker-3B-GGUF",
       "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 34176,
+      "downloads": 37223,
       "likes": 55,
       "tags": [
         "transformers",
@@ -601,8 +601,8 @@
       "id": "microsoft/FastContext-1.0-4B-RL",
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
       "pipelineTag": "text-generation",
-      "downloads": 3063,
-      "likes": 58,
+      "downloads": 3353,
+      "likes": 59,
       "tags": [
         "transformers",
         "safetensors",
@@ -619,8 +619,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 27660867,
-      "likes": 1356,
+      "downloads": 28093777,
+      "likes": 1357,
       "tags": [
         "transformers",
         "safetensors",
@@ -637,7 +637,7 @@
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
-      "downloads": 198674,
+      "downloads": 199056,
       "likes": 636,
       "tags": [
         "transformers",
@@ -652,11 +652,11 @@
     },
     {
       "rank": 7,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 9980754,
-      "likes": 6138,
+      "downloads": 1929664,
+      "likes": 2268,
       "tags": [
         "transformers",
         "safetensors",
@@ -672,7 +672,7 @@
       "id": "WeiboAI/VibeThinker-1.5B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-1.5B",
       "pipelineTag": "text-generation",
-      "downloads": 2078,
+      "downloads": 2373,
       "likes": 546,
       "tags": [
         "transformers",
@@ -687,20 +687,21 @@
     },
     {
       "rank": 9,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "id": "Nanbeige/Nanbeige4.1-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
       "pipelineTag": "text-generation",
-      "downloads": 1860019,
-      "likes": 2267,
+      "downloads": 3323,
+      "likes": 1137,
       "tags": [
         "transformers",
         "safetensors",
         "llama",
         "text-generation",
-        "facebook",
-        "meta"
+        "llm",
+        "nanbeige"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "Nanbeige4.1-3B is built upon Nanbeige4-3B-Base and represents an enhanced iteration of our previous reasoning model, Nanbeige4-3B-Thinking-2511, achieved through further post-training optimization with supervised fine-tuning (SFT) and re…"
     }
   ]
 }
