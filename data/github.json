@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T22:18:01.072Z",
+  "updated": "2026-06-25T03:37:21.729Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 19146,
-      "forks": 2176,
-      "starsToday": 3703
+      "stars": 19893,
+      "forks": 2247,
+      "starsToday": 3719
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "language": "Python",
-      "stars": 48398,
-      "forks": 42937,
-      "starsToday": 1461
+      "stars": 48754,
+      "forks": 43064,
+      "starsToday": 1468
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 42105,
-      "forks": 1231,
-      "starsToday": 1746
+      "stars": 42393,
+      "forks": 1245,
+      "starsToday": 1838
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/interviewstreet/hiring-agent",
       "description": "AI agent to evaluate and score resumes.",
       "language": "Python",
-      "stars": 2095,
-      "forks": 593,
-      "starsToday": 152
+      "stars": 2319,
+      "forks": 607,
+      "starsToday": 203
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars": 19240,
-      "forks": 2877,
-      "starsToday": 693
+      "stars": 19468,
+      "forks": 2897,
+      "starsToday": 692
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/revfactory/harness",
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "language": "HTML",
-      "stars": 7701,
-      "forks": 1054,
-      "starsToday": 274
+      "stars": 7797,
+      "forks": 1063,
+      "starsToday": 277
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars": 177282,
-      "forks": 30544,
-      "starsToday": 200
+      "stars": 177403,
+      "forks": 30549,
+      "starsToday": 73
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/andreknieriem/headunit-revived",
       "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
-      "stars": 1405,
-      "forks": 112,
-      "starsToday": 62
+      "stars": 1449,
+      "forks": 113,
+      "starsToday": 41
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/stablyai/orca",
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "language": "TypeScript",
-      "stars": 6715,
-      "forks": 487,
-      "starsToday": 387
+      "stars": 6905,
+      "forks": 498,
+      "starsToday": 331
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 17233,
-      "forks": 1563,
-      "starsToday": 504
+      "stars": 17502,
+      "forks": 1573,
+      "starsToday": 619
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars": 30020,
-      "forks": 2341,
-      "starsToday": 103
+      "stars": 30037,
+      "forks": 2343,
+      "starsToday": 61
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "description": "git push no-mistakes",
       "language": "Go",
-      "stars": 1983,
-      "forks": 139,
-      "starsToday": 182
+      "stars": 2294,
+      "forks": 153,
+      "starsToday": 110
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 201987,
-      "forks": 36094,
-      "starsToday": 1174
+      "stars": 202194,
+      "forks": 36134,
+      "starsToday": 1178
     }
   ]
 }
