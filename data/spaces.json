@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T14:34:03.368Z",
+  "updated": "2026-06-25T17:11:37.171Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14032,
+      "likes": 14033,
       "tags": [
         "docker",
         "leaderboard",
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11139,
+      "likes": 11141,
       "tags": [
         "docker",
         "region:us"
@@ -82,13 +82,13 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7503,
+      "likes": 7504,
       "tags": [
         "docker",
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-06-25T13:12:45.000Z"
+      "lastModified": "2026-06-25T16:39:43.000Z"
     },
     {
       "rank": 7,
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3378,
+      "likes": 3379,
       "tags": [
         "gradio",
         "region:us"
@@ -288,7 +288,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3317,
+      "likes": 3318,
       "tags": [
         "gradio",
         "region:us"
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3255,
+      "likes": 3256,
       "tags": [
         "gradio",
         "mcp-server",
@@ -614,6 +614,20 @@
     },
     {
       "rank": 13,
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+      "sdk": "static",
+      "likes": 163,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-06-17T22:28:48.000Z"
+    },
+    {
+      "rank": 14,
       "id": "webml-community/smolvlm-realtime-webgpu",
       "title": "SmolVLM realtime WebGPU",
       "description": null,
@@ -625,20 +639,6 @@
         "region:us"
       ],
       "lastModified": "2025-05-14T17:23:26.000Z"
-    },
-    {
-      "rank": 14,
-      "id": "webml-community/gemma-4-webgpu-kernels",
-      "title": "Gemma 4 WebGPU Kernels",
-      "description": null,
-      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
-      "sdk": "static",
-      "likes": 159,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-06-17T22:28:48.000Z"
     },
     {
       "rank": 15,
@@ -675,7 +675,7 @@
       "description": "Visualize embeddings in 3D space, powered by EmbeddingGemma",
       "url": "https://huggingface.co/spaces/webml-community/semantic-galaxy",
       "sdk": "static",
-      "likes": 150,
+      "likes": 151,
       "tags": [
         "static",
         "region:us"
@@ -745,7 +745,7 @@
       "description": "A hybrid reasoning model that runs locally in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/qwen3-webgpu",
       "sdk": "static",
-      "likes": 103,
+      "likes": 104,
       "tags": [
         "static",
         "region:us"

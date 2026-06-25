@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T14:34:04.189Z",
+  "updated": "2026-06-25T17:11:37.987Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 18382,
-      "forks": 1613,
+      "stars": 18651,
+      "forks": 1627,
       "starsToday": 1407
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
-      "stars": 21487,
-      "forks": 2404,
+      "stars": 21687,
+      "forks": 2424,
       "starsToday": 3553
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars": 1637,
-      "forks": 275,
+      "stars": 1719,
+      "forks": 283,
       "starsToday": 201
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/mauriceboe/TREK",
       "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
       "language": "TypeScript",
-      "stars": 6291,
-      "forks": 594,
+      "stars": 6412,
+      "forks": 596,
       "starsToday": 112
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 42918,
-      "forks": 1261,
+      "stars": 43017,
+      "forks": 1263,
       "starsToday": 1366
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars": 20043,
-      "forks": 2962,
+      "stars": 20176,
+      "forks": 2975,
       "starsToday": 1021
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars": 115456,
-      "forks": 17118,
-      "starsToday": 922
+      "stars": 115588,
+      "forks": 17142,
+      "starsToday": 836
     },
     {
       "rank": 8,
@@ -94,7 +94,7 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "language": "Python",
-      "stars": 1043,
+      "stars": 1076,
       "forks": 110,
       "starsToday": 15
     },
@@ -106,9 +106,9 @@
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
       "language": "Python",
-      "stars": 20929,
-      "forks": 2420,
-      "starsToday": 1031
+      "stars": 21029,
+      "forks": 2426,
+      "starsToday": 600
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/alibaba/page-agent",
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "language": "TypeScript",
-      "stars": 19652,
-      "forks": 1695,
-      "starsToday": 280
+      "stars": 19707,
+      "forks": 1699,
+      "starsToday": 196
     },
     {
       "rank": 11,
@@ -130,8 +130,8 @@
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
       "language": "Go",
-      "stars": 34560,
-      "forks": 1979,
+      "stars": 34638,
+      "forks": 1983,
       "starsToday": 202
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/opendatalab/MinerU",
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "language": "Python",
-      "stars": 69223,
-      "forks": 5850,
+      "stars": 69323,
+      "forks": 5861,
       "starsToday": 524
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/Free-TV/IPTV",
       "description": "M3U Playlist for free TV channels",
       "language": "Python",
-      "stars": 18104,
-      "forks": 2666,
+      "stars": 18136,
+      "forks": 2669,
       "starsToday": 141
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "language": "HTML",
-      "stars": 60235,
-      "forks": 6043,
+      "stars": 60337,
+      "forks": 6044,
       "starsToday": 670
     },
     {
@@ -176,10 +176,10 @@
       "name": "MediaCrawler",
       "fullName": "NanmiCoder/MediaCrawler",
       "url": "https://github.com/NanmiCoder/MediaCrawler",
-      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
+      "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫���B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars": 52620,
-      "forks": 10901,
+      "stars": 52695,
+      "forks": 10914,
       "starsToday": 347
     }
   ]
