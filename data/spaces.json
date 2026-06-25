@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T09:22:06.596Z",
+  "updated": "2026-06-25T14:34:03.368Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14031,
+      "likes": 14032,
       "tags": [
         "docker",
         "leaderboard",
@@ -82,13 +82,13 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7502,
+      "likes": 7503,
       "tags": [
         "docker",
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-06-22T18:58:21.000Z"
+      "lastModified": "2026-06-25T13:12:45.000Z"
     },
     {
       "rank": 7,
@@ -97,7 +97,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
       "sdk": "static",
-      "likes": 5691,
+      "likes": 5693,
       "tags": [
         "static",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3902,
+      "likes": 3903,
       "tags": [
         "static",
         "region:us"
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3376,
+      "likes": 3378,
       "tags": [
         "gradio",
         "region:us"
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3251,
+      "likes": 3255,
       "tags": [
         "gradio",
         "mcp-server",
@@ -434,7 +434,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2805,
+      "likes": 2808,
       "tags": [
         "gradio",
         "mcp-server",
@@ -628,6 +628,20 @@
     },
     {
       "rank": 14,
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+      "sdk": "static",
+      "likes": 159,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-06-17T22:28:48.000Z"
+    },
+    {
+      "rank": 15,
       "id": "webml-community/remove-background-webgpu",
       "title": "Remove Background WebGPU",
       "description": "In-browser image background removal",
@@ -641,7 +655,7 @@
       "lastModified": "2024-08-27T21:47:14.000Z"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "webml-community/dinov3-web",
       "title": "DINOv3 Web",
       "description": "Visualize rich, dense image features locally in your browser",
@@ -653,20 +667,6 @@
         "region:us"
       ],
       "lastModified": "2025-08-15T23:05:49.000Z"
-    },
-    {
-      "rank": 16,
-      "id": "webml-community/gemma-4-webgpu-kernels",
-      "title": "Gemma 4 WebGPU Kernels",
-      "description": null,
-      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
-      "sdk": "static",
-      "likes": 156,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-06-17T22:28:48.000Z"
     },
     {
       "rank": 17,
