@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T17:11:37.171Z",
+  "updated": "2026-06-25T20:00:58.016Z",
   "trending": [
     {
       "rank": 1,
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3903,
+      "likes": 3904,
       "tags": [
         "static",
         "region:us"
@@ -479,7 +479,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 301,
+      "likes": 303,
       "tags": [
         "static",
         "region:us"
@@ -619,7 +619,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 163,
+      "likes": 169,
       "tags": [
         "static",
         "region:us"

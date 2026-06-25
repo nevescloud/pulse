@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T17:11:37.356Z",
+  "updated": "2026-06-25T20:00:58.255Z",
   "models": [
     {
       "rank": 1,
@@ -223,7 +223,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 18343645,
-      "likes": 856,
+      "likes": 857,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13102535,
-      "likes": 1184,
+      "likes": 1185,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 51717,
-      "likes": 709,
+      "likes": 712,
       "tags": [
         "transformers",
         "safetensors",
