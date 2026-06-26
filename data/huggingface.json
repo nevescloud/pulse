@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T17:00:25.656Z",
+  "updated": "2026-06-26T19:48:50.013Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 245744194,
-      "likes": 5010,
+      "likes": 5011,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27816622,
-      "likes": 1361,
+      "likes": 1362,
       "tags": [
         "transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 15906736,
-      "likes": 6389,
+      "likes": 6391,
       "tags": [
         "text-to-speech",
         "en",
@@ -312,7 +312,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15395406,
-      "likes": 337,
+      "likes": 338,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13167935,
-      "likes": 1189,
+      "likes": 1190,
       "tags": [
         "transformers",
         "safetensors",
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13053751,
-      "likes": 3314,
+      "likes": 3315,
       "tags": [
         "transformers",
         "pytorch",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 54638,
-      "likes": 723,
+      "likes": 724,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 5735,
-      "likes": 352,
+      "likes": 355,
       "tags": [
         "transformers",
         "safetensors",
