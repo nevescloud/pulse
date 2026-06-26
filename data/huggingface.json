@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T14:25:27.398Z",
+  "updated": "2026-06-26T17:00:25.656Z",
   "models": [
     {
       "rank": 1,
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 15906736,
-      "likes": 6388,
+      "likes": 6389,
       "tags": [
         "text-to-speech",
         "en",
@@ -438,7 +438,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12722347,
-      "likes": 1383,
+      "likes": 1384,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 54638,
-      "likes": 722,
+      "likes": 723,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 5735,
-      "likes": 349,
+      "likes": 352,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
       "pipelineTag": "text-generation",
       "downloads": 4067,
-      "likes": 59,
+      "likes": 60,
       "tags": [
         "transformers",
         "safetensors",
@@ -651,21 +651,21 @@
     },
     {
       "rank": 7,
-      "id": "LiquidAI/LFM2.5-8B-A1B",
-      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+      "id": "Nanbeige/Nanbeige4.1-3B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
       "pipelineTag": "text-generation",
-      "downloads": 200905,
-      "likes": 638,
+      "downloads": 4105,
+      "likes": 1137,
       "tags": [
         "transformers",
         "safetensors",
-        "lfm2_moe",
+        "llama",
         "text-generation",
-        "liquid",
-        "lfm2.5"
+        "llm",
+        "nanbeige"
       ],
       "lastModified": null,
-      "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
+      "description": "Nanbeige4.1-3B is built upon Nanbeige4-3B-Base and represents an enhanced iteration of our previous reasoning model, Nanbeige4-3B-Thinking-2511, achieved through further post-training optimization with supervised fine-tuning (SFT) and re…"
     }
   ]
 }
