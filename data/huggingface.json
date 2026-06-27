@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T10:57:15.639Z",
+  "updated": "2026-06-27T13:43:48.918Z",
   "models": [
     {
       "rank": 1,
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13172985,
-      "likes": 1191,
+      "likes": 1192,
       "tags": [
         "transformers",
         "safetensors",
@@ -456,7 +456,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12715875,
-      "likes": 1386,
+      "likes": 1387,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 57521,
-      "likes": 736,
+      "likes": 737,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 6447,
-      "likes": 359,
+      "likes": 363,
       "tags": [
         "transformers",
         "safetensors",
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10147881,
-      "likes": 6159,
+      "likes": 6160,
       "tags": [
         "transformers",
         "safetensors",
