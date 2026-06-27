@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:30:53.725Z",
+  "updated": "2026-06-27T08:36:18.274Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10114,
+      "likes": 10113,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9475,
+      "likes": 9476,
       "tags": [
         "gradio",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3446,
+      "likes": 3447,
       "tags": [
         "gradio",
         "mcp-server",
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3381,
+      "likes": 3382,
       "tags": [
         "gradio",
         "region:us"
@@ -391,7 +391,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2872,
+      "likes": 2871,
       "tags": [
         "gradio",
         "mcp-server",
@@ -577,7 +577,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 188,
+      "likes": 190,
       "tags": [
         "static",
         "region:us"
@@ -787,7 +787,7 @@
       "description": "Run Qwen3.5 (0.8B, 2B, 4B) in-browser with Transformers.js",
       "url": "https://huggingface.co/spaces/webml-community/Qwen3.5-WebGPU",
       "sdk": "static",
-      "likes": 87,
+      "likes": 88,
       "tags": [
         "static",
         "region:us"
