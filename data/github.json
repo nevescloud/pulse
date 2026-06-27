@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T19:21:18.496Z",
+  "updated": "2026-06-27T22:02:42.030Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
-      "stars": 13655,
-      "forks": 786,
+      "stars": 13761,
+      "forks": 791,
       "starsToday": 1470
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars": 3985,
-      "forks": 566,
+      "stars": 4044,
+      "forks": 572,
       "starsToday": 686
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/commaai/openpilot",
       "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
       "language": "Python",
-      "stars": 62029,
-      "forks": 11062,
+      "stars": 62050,
+      "forks": 11063,
       "starsToday": 322
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
       "language": "Go",
-      "stars": 35724,
-      "forks": 2041,
+      "stars": 35756,
+      "forks": 2043,
       "starsToday": 502
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars": 124099,
-      "forks": 13075,
+      "stars": 124140,
+      "forks": 13080,
       "starsToday": 459
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/google-labs-code/design.md",
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "language": "TypeScript",
-      "stars": 22223,
-      "forks": 1779,
+      "stars": 22287,
+      "forks": 1781,
       "starsToday": 1542
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/microsoft/PowerToys",
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
-      "stars": 135668,
-      "forks": 8166,
+      "stars": 135683,
+      "forks": 8168,
       "starsToday": 67
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/hugohe3/ppt-master",
       "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
       "language": "Python",
-      "stars": 32964,
-      "forks": 2807,
+      "stars": 33013,
+      "forks": 2811,
       "starsToday": 589
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "description": "Clone any website with one command using AI coding agents",
       "language": "TypeScript",
-      "stars": 22001,
-      "forks": 3157,
+      "stars": 22074,
+      "forks": 3165,
       "starsToday": 750
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/garrytan/gstack",
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "language": "TypeScript",
-      "stars": 117127,
-      "forks": 17399,
+      "stars": 117194,
+      "forks": 17410,
       "starsToday": 674
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/NanmiCoder/MediaCrawler",
       "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫",
       "language": "Python",
-      "stars": 53737,
-      "forks": 11007,
+      "stars": 53755,
+      "forks": 11008,
       "starsToday": 394
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "language": "JavaScript",
-      "stars": 21313,
-      "forks": 3632,
+      "stars": 21348,
+      "forks": 3637,
       "starsToday": 254
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "stars": 23881,
-      "forks": 2251,
+      "stars": 23945,
+      "forks": 2252,
       "starsToday": 808
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/dbt-labs/dbt-core",
       "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
       "language": "Rust",
-      "stars": 13179,
-      "forks": 2436,
+      "stars": 13195,
+      "forks": 2437,
       "starsToday": 45
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/luongnv89/claude-howto",
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "language": "Python",
-      "stars": 38561,
-      "forks": 4642,
+      "stars": 38587,
+      "forks": 4646,
       "starsToday": 138
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 179627,
-      "forks": 22087,
+      "stars": 179690,
+      "forks": 22093,
       "starsToday": 428
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
-      "stars": 57052,
-      "forks": 3980,
+      "stars": 57088,
+      "forks": 3982,
       "starsToday": 167
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 13628,
-      "forks": 2579,
+      "stars": 13670,
+      "forks": 2582,
       "starsToday": 83
     },
     {
@@ -226,7 +226,7 @@
       "url": "https://github.com/keycloak/keycloak",
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
-      "stars": 35221,
+      "stars": 35243,
       "forks": 8552,
       "starsToday": 11
     },
@@ -238,8 +238,8 @@
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars": 3305,
-      "forks": 365,
+      "stars": 3346,
+      "forks": 368,
       "starsToday": 230
     }
   ]

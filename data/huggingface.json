@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T19:21:17.368Z",
+  "updated": "2026-06-27T22:02:40.912Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 245742847,
-      "likes": 5014,
+      "likes": 5015,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 57521,
-      "likes": 740,
+      "likes": 741,
       "tags": [
         "transformers",
         "safetensors",
