@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:02:40.912Z",
+  "updated": "2026-06-28T03:54:15.163Z",
   "models": [
     {
       "rank": 1,
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 15754089,
-      "likes": 6393,
+      "likes": 6395,
       "tags": [
         "text-to-speech",
         "en",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 13501708,
-      "likes": 1165,
+      "likes": 1166,
       "tags": [
         "transformers",
         "safetensors",
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13172985,
-      "likes": 1195,
+      "likes": 1197,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 57521,
-      "likes": 741,
+      "likes": 742,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
       "downloads": 6447,
-      "likes": 365,
+      "likes": 366,
       "tags": [
         "transformers",
         "safetensors",
@@ -580,24 +580,6 @@
     },
     {
       "rank": 3,
-      "id": "prithivMLmods/VibeThinker-3B-GGUF",
-      "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 43504,
-      "likes": 59,
-      "tags": [
-        "transformers",
-        "gguf",
-        "math",
-        "code",
-        "reasoning",
-        "gpqa"
-      ],
-      "lastModified": null,
-      "description": "LLM inference in C/C++ — https://github.com/ggml-org/llama.cpp"
-    },
-    {
-      "rank": 4,
       "id": "kogai/laneformer-2b-it",
       "url": "https://huggingface.co/kogai/laneformer-2b-it",
       "pipelineTag": "text-generation",
@@ -615,7 +597,7 @@
       "description": "Kog Laneformer 2B is a latency-oriented Transformer variant built using Delayed Tensor Parallelism (DTP) to overlap tensor-parallel communication with useful computation and weight streaming."
     },
     {
-      "rank": 5,
+      "rank": 4,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -632,22 +614,22 @@
       "lastModified": null
     },
     {
-      "rank": 6,
-      "id": "microsoft/FastContext-1.0-4B-RL",
-      "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-RL",
+      "rank": 5,
+      "id": "prithivMLmods/VibeThinker-3B-GGUF",
+      "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 4257,
-      "likes": 61,
+      "downloads": 43504,
+      "likes": 60,
       "tags": [
         "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "Explorer SubAgent",
-        "Repository Exploration"
+        "gguf",
+        "math",
+        "code",
+        "reasoning",
+        "gpqa"
       ],
       "lastModified": null,
-      "description": "FastContext-1.0 is a lightweight repository-exploration subagent for LLM coding agents. Instead of letting a single model both explore the repository and solve the task, FastContext separates these two roles: it is invoked on demand by a…"
+      "description": "LLM inference in C/C++ — https://github.com/ggml-org/llama.cpp"
     }
   ]
 }
