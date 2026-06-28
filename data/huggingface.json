@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T08:52:19.538Z",
+  "updated": "2026-06-28T11:07:13.855Z",
   "models": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 15529159,
-      "likes": 6396,
+      "likes": 6397,
       "tags": [
         "text-to-speech",
         "en",
@@ -401,7 +401,7 @@
       "id": "google/gemma-4-26B-A4B-it",
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
-      "downloads": 13172985,
+      "downloads": 13139149,
       "likes": 1197,
       "tags": [
         "transformers",
@@ -420,7 +420,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 12912245,
-      "likes": 3316,
+      "likes": 3318,
       "tags": [
         "transformers",
         "pytorch",
@@ -547,7 +547,7 @@
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 57521,
+      "downloads": 59337,
       "likes": 742,
       "tags": [
         "transformers",
@@ -565,8 +565,8 @@
       "id": "microsoft/FastContext-1.0-4B-SFT",
       "url": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
       "pipelineTag": "text-generation",
-      "downloads": 6447,
-      "likes": 367,
+      "downloads": 6779,
+      "likes": 368,
       "tags": [
         "transformers",
         "safetensors",
@@ -580,10 +580,27 @@
     },
     {
       "rank": 3,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 10098873,
+      "likes": 6162,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 4,
       "id": "kogai/laneformer-2b-it",
       "url": "https://huggingface.co/kogai/laneformer-2b-it",
       "pipelineTag": "text-generation",
-      "downloads": 441,
+      "downloads": 502,
       "likes": 19,
       "tags": [
         "transformers",
@@ -597,29 +614,12 @@
       "description": "Kog Laneformer 2B is a latency-oriented Transformer variant built using Delayed Tensor Parallelism (DTP) to overlap tensor-parallel communication with useful computation and weight streaming."
     },
     {
-      "rank": 4,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 10098873,
-      "likes": 6161,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 5,
       "id": "prithivMLmods/VibeThinker-3B-GGUF",
       "url": "https://huggingface.co/prithivMLmods/VibeThinker-3B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 43504,
-      "likes": 60,
+      "downloads": 44996,
+      "likes": 61,
       "tags": [
         "transformers",
         "gguf",
