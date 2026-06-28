@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T16:10:55.477Z",
+  "updated": "2026-06-28T19:20:32.349Z",
   "trending": [
     {
       "rank": 1,
@@ -156,7 +156,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5074,
+      "likes": 5075,
       "tags": [
         "gradio",
         "region:us"
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4929,
+      "likes": 4930,
       "tags": [
         "static",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3455,
+      "likes": 3456,
       "tags": [
         "gradio",
         "mcp-server",
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3261,
+      "likes": 3263,
       "tags": [
         "gradio",
         "mcp-server",
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3218,
+      "likes": 3219,
       "tags": [
         "docker",
         "research-article-template",
@@ -420,7 +420,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2819,
+      "likes": 2820,
       "tags": [
         "gradio",
         "mcp-server",
@@ -479,7 +479,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 304,
+      "likes": 305,
       "tags": [
         "static",
         "region:us"
@@ -563,7 +563,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 209,
+      "likes": 210,
       "tags": [
         "static",
         "region:us"
