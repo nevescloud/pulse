@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T19:20:32.508Z",
+  "updated": "2026-06-28T22:02:07.026Z",
   "models": [
     {
       "rank": 1,
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 41269283,
-      "likes": 128,
+      "likes": 129,
       "tags": [
         "transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27428876,
-      "likes": 1362,
+      "likes": 1363,
       "tags": [
         "transformers",
         "safetensors",
@@ -348,7 +348,7 @@
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
       "downloads": 14394861,
-      "likes": 556,
+      "likes": 557,
       "tags": [
         "transformers",
         "pytorch",
@@ -402,7 +402,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13139149,
-      "likes": 1199,
+      "likes": 1200,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 10098873,
-      "likes": 6164,
+      "likes": 6165,
       "tags": [
         "transformers",
         "safetensors",
@@ -637,7 +637,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 149481,
-      "likes": 302,
+      "likes": 303,
       "tags": [
         "transformers",
         "gguf",
