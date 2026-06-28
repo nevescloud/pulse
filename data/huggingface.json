@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T13:46:55.194Z",
+  "updated": "2026-06-28T16:10:55.657Z",
   "models": [
     {
       "rank": 1,
@@ -312,7 +312,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15366343,
-      "likes": 338,
+      "likes": 339,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 13562142,
-      "likes": 1166,
+      "likes": 1167,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 59337,
-      "likes": 742,
+      "likes": 743,
       "tags": [
         "transformers",
         "safetensors",
@@ -630,6 +630,24 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 6,
+      "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 149481,
+      "likes": 301,
+      "tags": [
+        "transformers",
+        "gguf",
+        "code",
+        "codeqwen",
+        "chat",
+        "qwen"
+      ],
+      "lastModified": null,
+      "description": "Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as CodeQwen). As of now, Qwen2.5-Coder has covered six mainstream model sizes, 0.5, 1.5, 3, 7, 14, 32 billion parameters, to meet the needs of…"
     }
   ]
 }
