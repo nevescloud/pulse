@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T17:06:03.612Z",
+  "updated": "2026-06-30T19:58:56.224Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10122,
+      "likes": 10123,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7521,
+      "likes": 7522,
       "tags": [
         "docker",
         "leaderboard",
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3914,
+      "likes": 3915,
       "tags": [
         "static",
         "region:us"
@@ -377,7 +377,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2877,
+      "likes": 2878,
       "tags": [
         "gradio",
         "region:us"
@@ -420,7 +420,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2826,
+      "likes": 2827,
       "tags": [
         "gradio",
         "mcp-server",
