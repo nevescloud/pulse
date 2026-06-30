@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:58:57.144Z",
+  "updated": "2026-06-30T22:14:43.055Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars": 6236,
-      "forks": 771,
+      "stars": 6427,
+      "forks": 777,
       "starsToday": 1413
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 27994,
-      "forks": 3116,
+      "stars": 28058,
+      "forks": 3121,
       "starsToday": 395
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 120645,
-      "forks": 19713,
+      "stars": 120745,
+      "forks": 19733,
       "starsToday": 1793
     },
     {
@@ -46,7 +46,7 @@
       "url": "https://github.com/altic-dev/FluidVoice",
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
       "language": "Swift",
-      "stars": 4842,
+      "stars": 4877,
       "forks": 300,
       "starsToday": 586
     },
@@ -58,8 +58,8 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "language": "TypeScript",
-      "stars": 8373,
-      "forks": 1389,
+      "stars": 8422,
+      "forks": 1391,
       "starsToday": 459
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars": 12493,
-      "forks": 1600,
+      "stars": 12532,
+      "forks": 1602,
       "starsToday": 722
     },
     {
@@ -82,7 +82,7 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "language": "Python",
-      "stars": 7436,
+      "stars": 7455,
       "forks": 953,
       "starsToday": 966
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/Mebus/cupp",
       "description": "Common User Passwords Profiler (CUPP)",
       "language": "Python",
-      "stars": 6074,
-      "forks": 2045,
+      "stars": 6084,
+      "forks": 2046,
       "starsToday": 61
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "language": "HTML",
-      "stars": 127256,
-      "forks": 13302,
+      "stars": 127284,
+      "forks": 13305,
       "starsToday": 740
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/google/agents-cli",
       "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
       "language": "Python",
-      "stars": 4088,
-      "forks": 448,
+      "stars": 4133,
+      "forks": 451,
       "starsToday": 433
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/roboflow/supervision",
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
-      "stars": 45853,
-      "forks": 4069,
+      "stars": 45877,
+      "forks": 4070,
       "starsToday": 336
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars": 8908,
-      "forks": 536,
+      "stars": 8952,
+      "forks": 537,
       "starsToday": 485
     },
     {
@@ -152,10 +152,10 @@
       "name": "simplex-chat",
       "fullName": "simplex-chat/simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps ��!",
       "language": "Haskell",
-      "stars": 17292,
-      "forks": 1006,
+      "stars": 17309,
+      "forks": 1007,
       "starsToday": 1229
     },
     {
@@ -166,7 +166,7 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
       "language": "TypeScript",
-      "stars": 1446,
+      "stars": 1483,
       "forks": 137,
       "starsToday": 351
     },
@@ -178,8 +178,8 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "description": "12 Weeks, 24 Lessons, AI for All!",
       "language": "Jupyter Notebook",
-      "stars": 49220,
-      "forks": 10154,
+      "stars": 49290,
+      "forks": 10155,
       "starsToday": 180
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/facebook/astryx",
       "description": "An open source design system that's fully customizable and agent ready",
       "language": "TypeScript",
-      "stars": 1675,
-      "forks": 93,
+      "stars": 1716,
+      "forks": 94,
       "starsToday": 399
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 15703,
-      "forks": 2728,
+      "stars": 15748,
+      "forks": 2730,
       "starsToday": 719
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 242370,
-      "forks": 21507,
+      "stars": 242429,
+      "forks": 21511,
       "starsToday": 884
     },
     {
@@ -226,8 +226,8 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars": 8806,
-      "forks": 854,
+      "stars": 8837,
+      "forks": 856,
       "starsToday": 210
     }
   ]
