@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:13:53.110Z",
+  "updated": "2026-07-01T19:56:42.279Z",
   "models": [
     {
       "rank": 1,
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 61592131,
-      "likes": 2691,
+      "likes": 2692,
       "tags": [
         "transformers",
         "pytorch",
@@ -330,7 +330,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 14359927,
-      "likes": 1171,
+      "likes": 1172,
       "tags": [
         "transformers",
         "safetensors",
@@ -492,7 +492,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 12282544,
-      "likes": 2043,
+      "likes": 2044,
       "tags": [
         "transformers",
         "pytorch",
@@ -510,7 +510,7 @@
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
       "downloads": 12170611,
-      "likes": 732,
+      "likes": 733,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9867583,
-      "likes": 6195,
+      "likes": 6197,
       "tags": [
         "transformers",
         "safetensors",
