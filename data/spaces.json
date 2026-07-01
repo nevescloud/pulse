@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T03:57:33.029Z",
+  "updated": "2026-07-01T09:47:33.225Z",
   "trending": [
     {
       "rank": 1,
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7523,
+      "likes": 7524,
       "tags": [
         "docker",
         "leaderboard",
@@ -139,7 +139,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5077,
+      "likes": 5078,
       "tags": [
         "gradio",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3915,
+      "likes": 3916,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3474,
+      "likes": 3476,
       "tags": [
         "gradio",
         "mcp-server",
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3269,
+      "likes": 3270,
       "tags": [
         "gradio",
         "mcp-server",
@@ -420,7 +420,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2828,
+      "likes": 2827,
       "tags": [
         "gradio",
         "mcp-server",
@@ -488,6 +488,20 @@
     },
     {
       "rank": 4,
+      "id": "webml-community/gemma-4-webgpu-kernels",
+      "title": "Gemma 4 WebGPU Kernels",
+      "description": null,
+      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
+      "sdk": "static",
+      "likes": 235,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-06-17T22:28:48.000Z"
+    },
+    {
+      "rank": 5,
       "id": "webml-community/conversational-webgpu",
       "title": "Conversational WebGPU",
       "description": null,
@@ -501,7 +515,7 @@
       "lastModified": "2026-05-12T19:33:30.000Z"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "webml-community/Gemma-4-WebGPU",
       "title": "Gemma 4 WebGPU",
       "description": "Run Gemma 4 locally in-browser on WebGPU w/ Transformers.js",
@@ -513,20 +527,6 @@
         "region:us"
       ],
       "lastModified": "2026-04-02T19:23:57.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "webml-community/gemma-4-webgpu-kernels",
-      "title": "Gemma 4 WebGPU Kernels",
-      "description": null,
-      "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
-      "sdk": "static",
-      "likes": 233,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-06-17T22:28:48.000Z"
     },
     {
       "rank": 7,
