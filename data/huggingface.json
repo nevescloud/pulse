@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T14:36:34.864Z",
+  "updated": "2026-07-01T17:13:53.110Z",
   "models": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31715609,
-      "likes": 3174,
+      "likes": 3176,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
       "downloads": 16792173,
-      "likes": 559,
+      "likes": 560,
       "tags": [
         "transformers",
         "pytorch",
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15282357,
-      "likes": 342,
+      "likes": 343,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 14691247,
-      "likes": 6416,
+      "likes": 6418,
       "tags": [
         "text-to-speech",
         "en",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/kogai/laneformer-2b-it",
       "pipelineTag": "text-generation",
       "downloads": 640,
-      "likes": 27,
+      "likes": 28,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9867583,
-      "likes": 6193,
+      "likes": 6195,
       "tags": [
         "transformers",
         "safetensors",
