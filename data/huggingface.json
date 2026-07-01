@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T09:47:33.439Z",
+  "updated": "2026-07-01T14:36:34.864Z",
   "models": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31715609,
-      "likes": 3172,
+      "likes": 3174,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 16234116,
-      "likes": 1061,
+      "likes": 1062,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15282357,
-      "likes": 341,
+      "likes": 342,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 14691247,
-      "likes": 6415,
+      "likes": 6416,
       "tags": [
         "text-to-speech",
         "en",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/kogai/laneformer-2b-it",
       "pipelineTag": "text-generation",
       "downloads": 640,
-      "likes": 25,
+      "likes": 27,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9867583,
-      "likes": 6192,
+      "likes": 6193,
       "tags": [
         "transformers",
         "safetensors",
@@ -594,24 +594,6 @@
         "meta"
       ],
       "lastModified": null
-    },
-    {
-      "rank": 4,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 27983322,
-      "likes": 1376,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     }
   ]
 }
