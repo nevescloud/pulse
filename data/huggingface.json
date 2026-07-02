@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T22:17:16.595Z",
+  "updated": "2026-07-02T03:38:21.945Z",
   "models": [
     {
       "rank": 1,
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 61592131,
-      "likes": 2692,
+      "likes": 2693,
       "tags": [
         "transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 41100275,
-      "likes": 129,
+      "likes": 130,
       "tags": [
         "transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31715609,
-      "likes": 3176,
+      "likes": 3177,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -187,7 +187,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 22604963,
-      "likes": 966,
+      "likes": 967,
       "tags": [
         "transformers",
         "pytorch",
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 20164562,
-      "likes": 856,
+      "likes": 857,
       "tags": [
         "transformers",
         "pytorch",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 14691247,
-      "likes": 6419,
+      "likes": 6420,
       "tags": [
         "text-to-speech",
         "en",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13329647,
-      "likes": 1212,
+      "likes": 1213,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 72715,
-      "likes": 757,
+      "likes": 759,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9867583,
-      "likes": 6199,
+      "likes": 6200,
       "tags": [
         "transformers",
         "safetensors",
