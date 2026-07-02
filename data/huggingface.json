@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T16:49:08.427Z",
+  "updated": "2026-07-02T19:24:52.743Z",
   "models": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31963846,
-      "likes": 3179,
+      "likes": 3180,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 16223935,
-      "likes": 1064,
+      "likes": 1065,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 14354455,
-      "likes": 6425,
+      "likes": 6428,
       "tags": [
         "text-to-speech",
         "en",
@@ -366,7 +366,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13457975,
-      "likes": 1217,
+      "likes": 1219,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9688941,
-      "likes": 6205,
+      "likes": 6206,
       "tags": [
         "transformers",
         "safetensors",
@@ -576,24 +576,6 @@
         "meta"
       ],
       "lastModified": null
-    },
-    {
-      "rank": 3,
-      "id": "kogai/laneformer-2b-it",
-      "url": "https://huggingface.co/kogai/laneformer-2b-it",
-      "pipelineTag": "text-generation",
-      "downloads": 693,
-      "likes": 28,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "laneformer",
-        "text-generation",
-        "pytorch",
-        "causal-lm"
-      ],
-      "lastModified": null,
-      "description": "Kog Laneformer 2B is a latency-oriented Transformer variant built using Delayed Tensor Parallelism (DTP) to overlap tensor-parallel communication with useful computation and weight streaming."
     }
   ]
 }
