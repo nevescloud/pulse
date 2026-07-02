@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:24:52.743Z",
+  "updated": "2026-07-02T22:06:11.743Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 246427457,
-      "likes": 5025,
+      "likes": 5026,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 28147234,
-      "likes": 1377,
+      "likes": 1378,
       "tags": [
         "transformers",
         "safetensors",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 14354455,
-      "likes": 6428,
+      "likes": 6429,
       "tags": [
         "text-to-speech",
         "en",
@@ -366,7 +366,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13457975,
-      "likes": 1219,
+      "likes": 1221,
       "tags": [
         "transformers",
         "safetensors",
@@ -438,7 +438,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12878382,
-      "likes": 1393,
+      "likes": 1394,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9688941,
-      "likes": 6206,
+      "likes": 6207,
       "tags": [
         "transformers",
         "safetensors",
