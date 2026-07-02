@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T11:37:23.711Z",
+  "updated": "2026-07-02T14:01:19.325Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/usestrix/strix",
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "language": "Python",
-      "stars": 30735,
-      "forks": 3283,
-      "starsToday": 1211
+      "stars": 31070,
+      "forks": 3304,
+      "starsToday": 2167
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "url": "https://github.com/JuliusBrussee/caveman",
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "JavaScript",
-      "stars": 79468,
-      "forks": 4476,
+      "stars": 79808,
+      "forks": 4484,
       "starsToday": 866
     },
     {
@@ -34,9 +34,9 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 124931,
-      "forks": 20270,
-      "starsToday": 2114
+      "stars": 125081,
+      "forks": 20299,
+      "starsToday": 2925
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "language": "HTML",
-      "stars": 8874,
-      "forks": 994,
-      "starsToday": 2470
+      "stars": 8971,
+      "forks": 1002,
+      "starsToday": 942
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "url": "https://github.com/santifer/career-ops",
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "language": "JavaScript",
-      "stars": 57295,
-      "forks": 11328,
+      "stars": 57418,
+      "forks": 11339,
       "starsToday": 322
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 243940,
-      "forks": 21650,
+      "stars": 244066,
+      "forks": 21663,
       "starsToday": 1047
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "description": "Chrome DevTools for coding agents",
       "language": "TypeScript",
-      "stars": 44916,
-      "forks": 2918,
+      "stars": 44958,
+      "forks": 2922,
       "starsToday": 92
     },
     {
@@ -94,9 +94,9 @@
       "url": "https://github.com/browser-use/video-use",
       "description": "Edit videos with coding agents",
       "language": "Python",
-      "stars": 13491,
-      "forks": 1666,
-      "starsToday": 693
+      "stars": 13578,
+      "forks": 1677,
+      "starsToday": 550
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "url": "https://github.com/actions/checkout",
       "description": "Action for checking out a repo",
       "language": "TypeScript",
-      "stars": 8081,
-      "forks": 2518,
+      "stars": 8102,
+      "forks": 2521,
       "starsToday": 5
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 224853,
-      "forks": 34412,
+      "stars": 224925,
+      "forks": 34429,
       "starsToday": 721
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 17101,
-      "forks": 2851,
-      "starsToday": 694
+      "stars": 17160,
+      "forks": 2862,
+      "starsToday": 918
     },
     {
       "rank": 12,
@@ -142,8 +142,8 @@
       "url": "https://github.com/agentskills/agentskills",
       "description": "Specification and documentation for Agent Skills",
       "language": "Python",
-      "stars": 21396,
-      "forks": 1363,
+      "stars": 21442,
+      "forks": 1365,
       "starsToday": 47
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars": 22267,
-      "forks": 1357,
+      "stars": 22355,
+      "forks": 1362,
       "starsToday": 72
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/langflow-ai/langflow",
       "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
       "language": "Python",
-      "stars": 150394,
-      "forks": 9382,
+      "stars": 150463,
+      "forks": 9385,
       "starsToday": 74
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/pytorch/pytorch",
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
-      "stars": 101056,
-      "forks": 28214,
+      "stars": 101091,
+      "forks": 28218,
       "starsToday": 45
     },
     {
@@ -190,32 +190,20 @@
       "url": "https://github.com/harvard-edge/cs249r_book",
       "description": "Machine Learning Systems",
       "language": "Python",
-      "stars": 25148,
-      "forks": 3015,
+      "stars": 25227,
+      "forks": 3025,
       "starsToday": 33
     },
     {
       "rank": 17,
-      "owner": "microsoft",
-      "name": "AI-For-Beginners",
-      "fullName": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "stars": 51009,
-      "forks": 10308,
-      "starsToday": 1096
-    },
-    {
-      "rank": 18,
       "owner": "ryanmcdermott",
       "name": "clean-code-javascript",
       "fullName": "ryanmcdermott/clean-code-javascript",
       "url": "https://github.com/ryanmcdermott/clean-code-javascript",
       "description": "Clean Code concepts adapted for JavaScript",
       "language": "JavaScript",
-      "stars": 94460,
-      "forks": 12465,
+      "stars": 94490,
+      "forks": 12468,
       "starsToday": 11
     }
   ]
