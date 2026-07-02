@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T14:01:18.290Z",
+  "updated": "2026-07-02T16:49:08.427Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 246427457,
-      "likes": 5024,
+      "likes": 5025,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 61841631,
-      "likes": 2694,
+      "likes": 2695,
       "tags": [
         "transformers",
         "pytorch",
@@ -366,7 +366,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13457975,
-      "likes": 1216,
+      "likes": 1217,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 74256,
-      "likes": 762,
+      "likes": 765,
       "tags": [
         "transformers",
         "safetensors",

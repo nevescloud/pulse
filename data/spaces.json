@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T14:01:18.135Z",
+  "updated": "2026-07-02T16:49:08.237Z",
   "trending": [
     {
       "rank": 1,
@@ -227,7 +227,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3752,
+      "likes": 3751,
       "tags": [
         "gradio",
         "Multimodal",
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3275,
+      "likes": 3276,
       "tags": [
         "gradio",
         "mcp-server",
@@ -420,7 +420,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2835,
+      "likes": 2836,
       "tags": [
         "gradio",
         "mcp-server",
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 253,
+      "likes": 259,
       "tags": [
         "static",
         "region:us"
