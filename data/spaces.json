@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T08:56:45.974Z",
+  "updated": "2026-07-02T11:37:22.359Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14036,
+      "likes": 14035,
       "tags": [
         "docker",
         "leaderboard",
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11152,
+      "likes": 11153,
       "tags": [
         "docker",
         "region:us"
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10127,
+      "likes": 10126,
       "tags": [
         "gradio",
         "region:us"
@@ -97,7 +97,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
       "sdk": "static",
-      "likes": 5698,
+      "likes": 5697,
       "tags": [
         "static",
         "region:us"
@@ -139,7 +139,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5079,
+      "likes": 5077,
       "tags": [
         "gradio",
         "region:us"
@@ -153,7 +153,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/facebook/MusicGen",
       "sdk": "gradio",
-      "likes": 5077,
+      "likes": 5076,
       "tags": [
         "gradio",
         "music generation",
@@ -227,7 +227,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3754,
+      "likes": 3752,
       "tags": [
         "gradio",
         "Multimodal",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3481,
+      "likes": 3482,
       "tags": [
         "gradio",
         "mcp-server",
@@ -288,7 +288,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3320,
+      "likes": 3321,
       "tags": [
         "gradio",
         "region:us"
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 248,
+      "likes": 251,
       "tags": [
         "static",
         "region:us"
@@ -502,6 +502,20 @@
     },
     {
       "rank": 5,
+      "id": "webml-community/Gemma-4-WebGPU",
+      "title": "Gemma 4 WebGPU",
+      "description": "Run Gemma 4 locally in-browser on WebGPU w/ Transformers.js",
+      "url": "https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU",
+      "sdk": "static",
+      "likes": 235,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-04-02T19:23:57.000Z"
+    },
+    {
+      "rank": 6,
       "id": "webml-community/conversational-webgpu",
       "title": "Conversational WebGPU",
       "description": null,
@@ -513,20 +527,6 @@
         "region:us"
       ],
       "lastModified": "2026-05-12T19:33:30.000Z"
-    },
-    {
-      "rank": 6,
-      "id": "webml-community/Gemma-4-WebGPU",
-      "title": "Gemma 4 WebGPU",
-      "description": "Run Gemma 4 locally in-browser on WebGPU w/ Transformers.js",
-      "url": "https://huggingface.co/spaces/webml-community/Gemma-4-WebGPU",
-      "sdk": "static",
-      "likes": 234,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-04-02T19:23:57.000Z"
     },
     {
       "rank": 7,
