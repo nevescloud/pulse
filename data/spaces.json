@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T09:18:28.404Z",
+  "updated": "2026-07-03T14:05:04.368Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14035,
+      "likes": 14036,
       "tags": [
         "docker",
         "leaderboard",
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11155,
+      "likes": 11156,
       "tags": [
         "docker",
         "region:us"
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9478,
+      "likes": 9479,
       "tags": [
         "gradio",
         "region:us"
@@ -199,7 +199,7 @@
       "description": "GPT 4o like bot.",
       "url": "https://huggingface.co/spaces/KingNish/OpenGPT-4o",
       "sdk": "gradio",
-      "likes": 4307,
+      "likes": 4306,
       "tags": [
         "gradio",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3488,
+      "likes": 3489,
       "tags": [
         "gradio",
         "mcp-server",
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3387,
+      "likes": 3388,
       "tags": [
         "gradio",
         "region:us"
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3224,
+      "likes": 3225,
       "tags": [
         "docker",
         "research-article-template",
@@ -377,7 +377,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2880,
+      "likes": 2881,
       "tags": [
         "gradio",
         "region:us"
@@ -406,7 +406,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2839,
+      "likes": 2840,
       "tags": [
         "gradio",
         "mcp-server",
@@ -451,7 +451,7 @@
       "description": "Next-generation reasoning model that runs locally in-browser",
       "url": "https://huggingface.co/spaces/webml-community/deepseek-r1-webgpu",
       "sdk": "static",
-      "likes": 557,
+      "likes": 558,
       "tags": [
         "static",
         "region:us"
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 264,
+      "likes": 265,
       "tags": [
         "static",
         "region:us"
