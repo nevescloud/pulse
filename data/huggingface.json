@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:06:11.743Z",
+  "updated": "2026-07-03T03:19:11.219Z",
   "models": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 31963846,
-      "likes": 3180,
+      "likes": 3181,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 17291315,
-      "likes": 857,
+      "likes": 858,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 14354455,
-      "likes": 6429,
+      "likes": 6430,
       "tags": [
         "text-to-speech",
         "en",
@@ -438,7 +438,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12878382,
-      "likes": 1394,
+      "likes": 1395,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 74256,
-      "likes": 765,
+      "likes": 766,
       "tags": [
         "transformers",
         "safetensors",
