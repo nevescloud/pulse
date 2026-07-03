@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T14:05:04.609Z",
+  "updated": "2026-07-03T16:24:01.241Z",
   "models": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 32089007,
-      "likes": 3184,
+      "likes": 3187,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 16202970,
-      "likes": 1066,
+      "likes": 1067,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 15327298,
-      "likes": 1175,
+      "likes": 1176,
       "tags": [
         "transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15251672,
-      "likes": 344,
+      "likes": 345,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -366,7 +366,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13525399,
-      "likes": 1223,
+      "likes": 1224,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9489535,
-      "likes": 6213,
+      "likes": 6214,
       "tags": [
         "transformers",
         "safetensors",
@@ -593,6 +593,42 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 4,
+      "id": "ai-sage/GFusion-10B-A1.8B",
+      "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
+      "pipelineTag": "text-generation",
+      "downloads": 0,
+      "likes": 16,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "moe",
+        "diffusion"
+      ],
+      "lastModified": null,
+      "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
+    },
+    {
+      "rank": 5,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 28146342,
+      "likes": 1380,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     }
   ]
 }
