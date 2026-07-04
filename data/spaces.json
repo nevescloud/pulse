@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T13:26:42.776Z",
+  "updated": "2026-07-04T16:02:04.201Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10124,
+      "likes": 10125,
       "tags": [
         "gradio",
         "region:us"
@@ -245,7 +245,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/InstantX/InstantID",
       "sdk": "gradio",
-      "likes": 3620,
+      "likes": 3621,
       "tags": [
         "gradio",
         "region:us"
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3389,
+      "likes": 3390,
       "tags": [
         "gradio",
         "region:us"
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3276,
+      "likes": 3277,
       "tags": [
         "gradio",
         "mcp-server",
@@ -435,7 +435,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/HumanAIGC/OutfitAnyone",
       "sdk": "gradio",
-      "likes": 2813,
+      "likes": 2814,
       "tags": [
         "gradio",
         "region:us"

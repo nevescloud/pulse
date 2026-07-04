@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T13:26:43.189Z",
+  "updated": "2026-07-04T16:02:04.319Z",
   "models": [
     {
       "rank": 1,
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 16001721,
-      "likes": 1177,
+      "likes": 1178,
       "tags": [
         "transformers",
         "safetensors",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13568647,
-      "likes": 1225,
+      "likes": 1227,
       "tags": [
         "transformers",
         "safetensors",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11248247,
-      "likes": 3120,
+      "likes": 3121,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9285862,
-      "likes": 6218,
+      "likes": 6219,
       "tags": [
         "transformers",
         "safetensors",
