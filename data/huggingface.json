@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T16:02:04.319Z",
+  "updated": "2026-07-04T19:13:56.931Z",
   "models": [
     {
       "rank": 1,
@@ -474,7 +474,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 12471027,
-      "likes": 2047,
+      "likes": 2048,
       "tags": [
         "transformers",
         "pytorch",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11248247,
-      "likes": 3121,
+      "likes": 3122,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9285862,
-      "likes": 6219,
+      "likes": 6220,
       "tags": [
         "transformers",
         "safetensors",
@@ -612,24 +612,6 @@
       ],
       "lastModified": null,
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
-    },
-    {
-      "rank": 5,
-      "id": "ai-sage/GFusion-10B-A1.8B",
-      "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
-      "pipelineTag": "text-generation",
-      "downloads": 126,
-      "likes": 16,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "moe",
-        "diffusion"
-      ],
-      "lastModified": null,
-      "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
     }
   ]
 }
