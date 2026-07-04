@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T02:57:30.278Z",
+  "updated": "2026-07-04T06:25:03.968Z",
   "trending": [
     {
       "rank": 1,
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3388,
+      "likes": 3389,
       "tags": [
         "gradio",
         "region:us"
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3225,
+      "likes": 3226,
       "tags": [
         "docker",
         "research-article-template",
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 269,
+      "likes": 271,
       "tags": [
         "static",
         "region:us"
