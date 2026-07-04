@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T22:04:36.512Z",
+  "updated": "2026-07-04T02:57:30.484Z",
   "models": [
     {
       "rank": 1,
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 75109,
-      "likes": 769,
+      "likes": 770,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9489535,
-      "likes": 6214,
+      "likes": 6215,
       "tags": [
         "transformers",
         "safetensors",
