@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:13:56.931Z",
+  "updated": "2026-07-04T21:58:45.399Z",
   "models": [
     {
       "rank": 1,
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 16001721,
-      "likes": 1178,
+      "likes": 1180,
       "tags": [
         "transformers",
         "safetensors",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13568647,
-      "likes": 1227,
+      "likes": 1228,
       "tags": [
         "transformers",
         "safetensors",
@@ -438,7 +438,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12834959,
-      "likes": 1397,
+      "likes": 1398,
       "tags": [
         "transformers",
         "safetensors",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11248247,
-      "likes": 3122,
+      "likes": 3123,
       "tags": [
         "transformers",
         "safetensors",
@@ -612,6 +612,41 @@
       ],
       "lastModified": null,
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
+    },
+    {
+      "rank": 5,
+      "id": "ai-sage/GFusion-10B-A1.8B",
+      "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
+      "pipelineTag": "text-generation",
+      "downloads": 126,
+      "likes": 16,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "moe",
+        "diffusion"
+      ],
+      "lastModified": null,
+      "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
+    },
+    {
+      "rank": 6,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1308137,
+      "likes": 4671,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
     }
   ]
 }
