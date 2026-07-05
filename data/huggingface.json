@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:58:45.399Z",
+  "updated": "2026-07-05T03:27:47.340Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 244738593,
-      "likes": 5027,
+      "likes": 5029,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27994605,
-      "likes": 1383,
+      "likes": 1384,
       "tags": [
         "transformers",
         "safetensors",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11248247,
-      "likes": 3123,
+      "likes": 3124,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 76277,
-      "likes": 770,
+      "likes": 771,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9285862,
-      "likes": 6220,
+      "likes": 6222,
       "tags": [
         "transformers",
         "safetensors",
@@ -583,7 +583,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27994605,
-      "likes": 1383,
+      "likes": 1384,
       "tags": [
         "transformers",
         "safetensors",
@@ -630,23 +630,6 @@
       ],
       "lastModified": null,
       "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
-    },
-    {
-      "rank": 6,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1308137,
-      "likes": 4671,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     }
   ]
 }
