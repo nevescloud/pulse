@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T03:27:47.086Z",
+  "updated": "2026-07-05T08:52:59.062Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14037,
+      "likes": 14038,
       "tags": [
         "docker",
         "leaderboard",
@@ -97,7 +97,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
       "sdk": "static",
-      "likes": 5697,
+      "likes": 5698,
       "tags": [
         "static",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3918,
+      "likes": 3919,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3496,
+      "likes": 3497,
       "tags": [
         "gradio",
         "mcp-server",
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3282,
+      "likes": 3283,
       "tags": [
         "gradio",
         "mcp-server",
