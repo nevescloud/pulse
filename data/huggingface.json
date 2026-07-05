@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T11:03:49.594Z",
+  "updated": "2026-07-05T13:40:11.082Z",
   "models": [
     {
       "rank": 1,
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 20506108,
-      "likes": 859,
+      "likes": 860,
       "tags": [
         "transformers",
         "pytorch",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13685663,
-      "likes": 6438,
+      "likes": 6439,
       "tags": [
         "text-to-speech",
         "en",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13200917,
-      "likes": 3328,
+      "likes": 3329,
       "tags": [
         "transformers",
         "pytorch",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 77268,
-      "likes": 774,
+      "likes": 776,
       "tags": [
         "transformers",
         "safetensors",
@@ -601,7 +601,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 134749,
-      "likes": 656,
+      "likes": 657,
       "tags": [
         "transformers",
         "safetensors",
@@ -619,7 +619,7 @@
       "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 369,
-      "likes": 16,
+      "likes": 17,
       "tags": [
         "transformers",
         "safetensors",
