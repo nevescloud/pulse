@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:09:00.476Z",
+  "updated": "2026-07-05T19:18:07.883Z",
   "models": [
     {
       "rank": 1,
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 47685110,
-      "likes": 1298,
+      "likes": 1299,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27835708,
-      "likes": 1385,
+      "likes": 1386,
       "tags": [
         "transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15157645,
-      "likes": 345,
+      "likes": 346,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13685663,
-      "likes": 6441,
+      "likes": 6444,
       "tags": [
         "text-to-speech",
         "en",
@@ -366,7 +366,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13621066,
-      "likes": 1228,
+      "likes": 1229,
       "tags": [
         "transformers",
         "safetensors",
@@ -384,7 +384,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13200917,
-      "likes": 3329,
+      "likes": 3330,
       "tags": [
         "transformers",
         "pytorch",
@@ -420,7 +420,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12809009,
-      "likes": 1400,
+      "likes": 1401,
       "tags": [
         "transformers",
         "safetensors",
@@ -474,7 +474,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 12393957,
-      "likes": 2048,
+      "likes": 2049,
       "tags": [
         "transformers",
         "pytorch",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9024304,
-      "likes": 6226,
+      "likes": 6227,
       "tags": [
         "transformers",
         "safetensors",
@@ -583,7 +583,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27835708,
-      "likes": 1385,
+      "likes": 1386,
       "tags": [
         "transformers",
         "safetensors",
@@ -601,7 +601,7 @@
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
       "downloads": 134749,
-      "likes": 656,
+      "likes": 657,
       "tags": [
         "transformers",
         "safetensors",
@@ -615,6 +615,24 @@
     },
     {
       "rank": 5,
+      "id": "Nguuma/security-slm-unsloth-1.5b",
+      "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
+      "pipelineTag": "text-generation",
+      "downloads": 175,
+      "likes": 26,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gguf",
+        "text-generation-inference",
+        "unsloth",
+        "qwen2"
+      ],
+      "lastModified": null,
+      "description": "Developed by: Nguuma License: Apache-2.0 Base model: unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit Quantized format: GGUF Q4_K_M (~1.2 GB RAM at inference)"
+    },
+    {
+      "rank": 6,
       "id": "ai-sage/GFusion-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
       "pipelineTag": "text-generation",
@@ -632,12 +650,12 @@
       "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1312920,
-      "likes": 4675,
+      "likes": 4677,
       "tags": [
         "transformers",
         "safetensors",
