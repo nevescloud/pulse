@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T13:40:10.831Z",
+  "updated": "2026-07-05T16:09:00.270Z",
   "trending": [
     {
       "rank": 1,
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3285,
+      "likes": 3286,
       "tags": [
         "gradio",
         "mcp-server",
@@ -391,7 +391,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2877,
+      "likes": 2879,
       "tags": [
         "gradio",
         "mcp-server",
@@ -406,7 +406,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2842,
+      "likes": 2846,
       "tags": [
         "gradio",
         "mcp-server",
@@ -435,7 +435,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/HumanAIGC/OutfitAnyone",
       "sdk": "gradio",
-      "likes": 2814,
+      "likes": 2813,
       "tags": [
         "gradio",
         "region:us"
