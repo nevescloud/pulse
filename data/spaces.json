@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T15:33:40.862Z",
+  "updated": "2026-07-06T19:57:35.096Z",
   "trending": [
     {
       "rank": 1,
@@ -153,7 +153,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/facebook/MusicGen",
       "sdk": "gradio",
-      "likes": 5075,
+      "likes": 5076,
       "tags": [
         "gradio",
         "music generation",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3500,
+      "likes": 3504,
       "tags": [
         "gradio",
         "mcp-server",
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3285,
+      "likes": 3287,
       "tags": [
         "gradio",
         "mcp-server",
@@ -377,7 +377,7 @@
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
       "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
       "sdk": "gradio",
-      "likes": 2882,
+      "likes": 2883,
       "tags": [
         "gradio",
         "region:us"
@@ -391,7 +391,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2881,
+      "likes": 2882,
       "tags": [
         "gradio",
         "mcp-server",

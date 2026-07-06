@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T15:33:40.998Z",
+  "updated": "2026-07-06T19:57:35.462Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 246342719,
-      "likes": 5036,
+      "likes": 5037,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 64976904,
-      "likes": 2698,
+      "likes": 2699,
       "tags": [
         "transformers",
         "pytorch",
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 62257068,
-      "likes": 504,
+      "likes": 505,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 32901360,
-      "likes": 3193,
+      "likes": 3194,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 28010833,
-      "likes": 1390,
+      "likes": 1391,
       "tags": [
         "transformers",
         "safetensors",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 16766739,
-      "likes": 1183,
+      "likes": 1185,
       "tags": [
         "transformers",
         "safetensors",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 16410180,
-      "likes": 1069,
+      "likes": 1070,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 14133894,
-      "likes": 692,
+      "likes": 693,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13552639,
-      "likes": 6447,
+      "likes": 6449,
       "tags": [
         "text-to-speech",
         "en",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11392837,
-      "likes": 3132,
+      "likes": 3133,
       "tags": [
         "transformers",
         "safetensors",
@@ -544,29 +544,11 @@
   "smallModels": [
     {
       "rank": 1,
-      "id": "WeiboAI/VibeThinker-3B",
-      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
-      "pipelineTag": "text-generation",
-      "downloads": 78333,
-      "likes": 777,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "math",
-        "code"
-      ],
-      "lastModified": null,
-      "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
-    },
-    {
-      "rank": 2,
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 362020,
-      "likes": 853,
+      "likes": 856,
       "tags": [
         "transformers",
         "safetensors",
@@ -579,12 +561,30 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
+      "rank": 2,
+      "id": "WeiboAI/VibeThinker-3B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "pipelineTag": "text-generation",
+      "downloads": 78333,
+      "likes": 778,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "math",
+        "code"
+      ],
+      "lastModified": null,
+      "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
+    },
+    {
       "rank": 3,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9034017,
-      "likes": 6234,
+      "likes": 6235,
       "tags": [
         "transformers",
         "safetensors",
@@ -615,6 +615,24 @@
     },
     {
       "rank": 5,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 28010833,
+      "likes": 1391,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
+      "rank": 6,
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
@@ -632,30 +650,12 @@
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
     },
     {
-      "rank": 6,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 28010833,
-      "likes": 1390,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
       "rank": 7,
       "id": "ai-sage/GFusion-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 600,
-      "likes": 17,
+      "likes": 18,
       "tags": [
         "transformers",
         "safetensors",
