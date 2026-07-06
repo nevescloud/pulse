@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-06T03:35:40.447Z",
+  "updated": "2026-07-06T10:22:35.873Z",
   "models": [
     {
       "rank": 1,
       "id": "sentence-transformers/all-MiniLM-L6-v2",
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 244099047,
-      "likes": 5032,
+      "downloads": 246342719,
+      "likes": 5034,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -24,8 +24,8 @@
       "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
-      "downloads": 79982687,
-      "likes": 272,
+      "downloads": 80885006,
+      "likes": 273,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -42,8 +42,8 @@
       "id": "google-bert/bert-base-uncased",
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
-      "downloads": 62774318,
-      "likes": 2696,
+      "downloads": 64976904,
+      "likes": 2697,
       "tags": [
         "transformers",
         "pytorch",
@@ -60,8 +60,8 @@
       "id": "BAAI/bge-small-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 61557234,
-      "likes": 503,
+      "downloads": 62257068,
+      "likes": 504,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -78,8 +78,8 @@
       "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 47685110,
-      "likes": 1300,
+      "downloads": 48031535,
+      "likes": 1301,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -96,8 +96,8 @@
       "id": "google/electra-base-discriminator",
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
-      "downloads": 39011105,
-      "likes": 132,
+      "downloads": 39014692,
+      "likes": 133,
       "tags": [
         "transformers",
         "pytorch",
@@ -114,8 +114,8 @@
       "id": "sentence-transformers/all-mpnet-base-v2",
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 33023896,
-      "likes": 1318,
+      "downloads": 33397457,
+      "likes": 1319,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -132,8 +132,8 @@
       "id": "BAAI/bge-m3",
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
-      "downloads": 32338205,
-      "likes": 3191,
+      "downloads": 32901360,
+      "likes": 3192,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -150,8 +150,8 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 27835708,
-      "likes": 1386,
+      "downloads": 28010833,
+      "likes": 1388,
       "tags": [
         "transformers",
         "safetensors",
@@ -168,8 +168,8 @@
       "id": "timm/mobilenetv3_small_100.lamb_in1k",
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
       "pipelineTag": "image-classification",
-      "downloads": 26534440,
-      "likes": 83,
+      "downloads": 27251780,
+      "likes": 84,
       "tags": [
         "timm",
         "pytorch",
@@ -186,8 +186,8 @@
       "id": "openai/clip-vit-base-patch32",
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
-      "downloads": 22262188,
-      "likes": 970,
+      "downloads": 22606447,
+      "likes": 971,
       "tags": [
         "transformers",
         "pytorch",
@@ -204,8 +204,8 @@
       "id": "FacebookAI/xlm-roberta-base",
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
-      "downloads": 20506108,
-      "likes": 860,
+      "downloads": 21180812,
+      "likes": 861,
       "tags": [
         "transformers",
         "pytorch",
@@ -222,8 +222,8 @@
       "id": "google-t5/t5-small",
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
-      "downloads": 19836097,
-      "likes": 564,
+      "downloads": 20975845,
+      "likes": 565,
       "tags": [
         "transformers",
         "pytorch",
@@ -240,8 +240,8 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 16401211,
-      "likes": 1182,
+      "downloads": 16766739,
+      "likes": 1183,
       "tags": [
         "transformers",
         "safetensors",
@@ -255,29 +255,11 @@
     },
     {
       "rank": 15,
-      "id": "nomic-ai/nomic-embed-text-v1.5",
-      "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
-      "pipelineTag": "sentence-similarity",
-      "downloads": 16250819,
-      "likes": 859,
-      "tags": [
-        "sentence-transformers",
-        "onnx",
-        "safetensors",
-        "nomic_bert",
-        "feature-extraction",
-        "sentence-similarity"
-      ],
-      "lastModified": null,
-      "description": "Exciting Update!: nomic-embed-text-v1.5 is now multimodal! nomic-embed-vision-v1.5 is aligned to the embedding space of nomic-embed-text-v1.5, meaning any text embedding is multimodal!"
-    },
-    {
-      "rank": 16,
       "id": "BAAI/bge-reranker-v2-m3",
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
-      "downloads": 16223993,
-      "likes": 1067,
+      "downloads": 16410180,
+      "likes": 1068,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -290,12 +272,30 @@
       "description": "Different from embedding model, reranker uses question and document as input and directly output similarity instead of embedding. You can get a relevance score by inputting query and passage to the reranker. And the score can be mapped t…"
     },
     {
+      "rank": 16,
+      "id": "nomic-ai/nomic-embed-text-v1.5",
+      "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
+      "pipelineTag": "sentence-similarity",
+      "downloads": 16091130,
+      "likes": 860,
+      "tags": [
+        "sentence-transformers",
+        "onnx",
+        "safetensors",
+        "nomic_bert",
+        "feature-extraction",
+        "sentence-similarity"
+      ],
+      "lastModified": null,
+      "description": "Exciting Update!: nomic-embed-text-v1.5 is now multimodal! nomic-embed-vision-v1.5 is aligned to the embedding space of nomic-embed-text-v1.5, meaning any text embedding is multimodal!"
+    },
+    {
       "rank": 17,
       "id": "amazon/chronos-2",
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 15157645,
-      "likes": 346,
+      "downloads": 15292530,
+      "likes": 348,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -312,8 +312,8 @@
       "id": "BAAI/bge-large-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 14072512,
-      "likes": 691,
+      "downloads": 14133894,
+      "likes": 692,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -330,8 +330,8 @@
       "id": "facebook/opt-125m",
       "url": "https://huggingface.co/facebook/opt-125m",
       "pipelineTag": "text-generation",
-      "downloads": 13869888,
-      "likes": 271,
+      "downloads": 13961085,
+      "likes": 272,
       "tags": [
         "transformers",
         "pytorch",
@@ -345,28 +345,11 @@
     },
     {
       "rank": 20,
-      "id": "hexgrad/Kokoro-82M",
-      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "pipelineTag": "text-to-speech",
-      "downloads": 13685663,
-      "likes": 6445,
-      "tags": [
-        "text-to-speech",
-        "en",
-        "doi:10.57967/hf/4329",
-        "license:apache-2.0",
-        "region:us"
-      ],
-      "lastModified": null,
-      "description": "Kokoro is an open-weight TTS model with 82 million parameters. Despite its lightweight architecture, it delivers comparable quality to larger models while being significantly faster and more cost-efficient. With Apache-licensed weights, …"
-    },
-    {
-      "rank": 21,
       "id": "google/gemma-4-26B-A4B-it",
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
-      "downloads": 13621066,
-      "likes": 1230,
+      "downloads": 13928120,
+      "likes": 1232,
       "tags": [
         "transformers",
         "safetensors",
@@ -379,12 +362,29 @@
       "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on small models) and generating text output. This release includes open-weights models in both …"
     },
     {
+      "rank": 21,
+      "id": "hexgrad/Kokoro-82M",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "pipelineTag": "text-to-speech",
+      "downloads": 13552639,
+      "likes": 6447,
+      "tags": [
+        "text-to-speech",
+        "en",
+        "doi:10.57967/hf/4329",
+        "license:apache-2.0",
+        "region:us"
+      ],
+      "lastModified": null,
+      "description": "Kokoro is an open-weight TTS model with 82 million parameters. Despite its lightweight architecture, it delivers comparable quality to larger models while being significantly faster and more cost-efficient. With Apache-licensed weights, …"
+    },
+    {
       "rank": 22,
       "id": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
-      "downloads": 13200917,
-      "likes": 3329,
+      "downloads": 13305312,
+      "likes": 3330,
       "tags": [
         "transformers",
         "pytorch",
@@ -398,29 +398,29 @@
     },
     {
       "rank": 23,
-      "id": "autogluon/chronos-bolt-small",
-      "url": "https://huggingface.co/autogluon/chronos-bolt-small",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 13098385,
-      "likes": 45,
+      "id": "laion/clap-htsat-fused",
+      "url": "https://huggingface.co/laion/clap-htsat-fused",
+      "pipelineTag": "audio-classification",
+      "downloads": 13067933,
+      "likes": 109,
       "tags": [
+        "transformers",
+        "pytorch",
         "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "pretrained models",
-        "foundation models"
+        "clap",
+        "feature-extraction",
+        "zero-shot audio classification"
       ],
       "lastModified": null,
-      "description": "🚀 Update Feb 14, 2025: Chronos-Bolt models are now available on Amazon SageMaker JumpStart! Check out the tutorial notebook to learn how to deploy Chronos endpoints for production use in a few lines of code."
+      "description": "You can use this model for zero shot audio classification or extracting audio and/or textual features."
     },
     {
       "rank": 24,
       "id": "Qwen/Qwen2.5-7B-Instruct",
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12809009,
-      "likes": 1401,
+      "downloads": 12875414,
+      "likes": 1404,
       "tags": [
         "transformers",
         "safetensors",
@@ -434,29 +434,11 @@
     },
     {
       "rank": 25,
-      "id": "laion/clap-htsat-fused",
-      "url": "https://huggingface.co/laion/clap-htsat-fused",
-      "pipelineTag": "audio-classification",
-      "downloads": 12705610,
-      "likes": 108,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "safetensors",
-        "clap",
-        "feature-extraction",
-        "zero-shot audio classification"
-      ],
-      "lastModified": null,
-      "description": "You can use this model for zero shot audio classification or extracting audio and/or textual features."
-    },
-    {
-      "rank": 26,
       "id": "FacebookAI/roberta-large",
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
-      "downloads": 12664514,
-      "likes": 303,
+      "downloads": 12746606,
+      "likes": 304,
       "tags": [
         "transformers",
         "pytorch",
@@ -469,12 +451,30 @@
       "description": "Pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in this paper and first released in this repository. This model is case-sensitive: it makes a difference between english and English."
     },
     {
+      "rank": 26,
+      "id": "autogluon/chronos-bolt-small",
+      "url": "https://huggingface.co/autogluon/chronos-bolt-small",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 12701444,
+      "likes": 47,
+      "tags": [
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "pretrained models",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "🚀 Update Feb 14, 2025: Chronos-Bolt models are now available on Amazon SageMaker JumpStart! Check out the tutorial notebook to learn how to deploy Chronos endpoints for production use in a few lines of code."
+    },
+    {
       "rank": 27,
       "id": "openai/clip-vit-large-patch14",
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
-      "downloads": 12393957,
-      "likes": 2049,
+      "downloads": 12564222,
+      "likes": 2050,
       "tags": [
         "transformers",
         "pytorch",
@@ -491,8 +491,8 @@
       "id": "intfloat/multilingual-e5-large",
       "url": "https://huggingface.co/intfloat/multilingual-e5-large",
       "pipelineTag": "feature-extraction",
-      "downloads": 12174365,
-      "likes": 1214,
+      "downloads": 12282109,
+      "likes": 1215,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -509,8 +509,8 @@
       "id": "Bingsu/adetailer",
       "url": "https://huggingface.co/Bingsu/adetailer",
       "pipelineTag": null,
-      "downloads": 11791742,
-      "likes": 736,
+      "downloads": 11772017,
+      "likes": 737,
       "tags": [
         "ultralytics",
         "pytorch",
@@ -527,8 +527,8 @@
       "id": "google/gemma-4-31B-it",
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
-      "downloads": 11239621,
-      "likes": 3129,
+      "downloads": 11392837,
+      "likes": 3130,
       "tags": [
         "transformers",
         "safetensors",
@@ -547,7 +547,7 @@
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 77268,
+      "downloads": 78333,
       "likes": 777,
       "tags": [
         "transformers",
@@ -562,28 +562,11 @@
     },
     {
       "rank": 2,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 9024304,
-      "likes": 6229,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 3,
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 355741,
-      "likes": 844,
+      "downloads": 362020,
+      "likes": 848,
       "tags": [
         "transformers",
         "safetensors",
@@ -596,12 +579,29 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
+      "rank": 3,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 9034017,
+      "likes": 6232,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
       "rank": 4,
       "id": "Nguuma/security-slm-unsloth-1.5b",
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
-      "downloads": 175,
-      "likes": 29,
+      "downloads": 355,
+      "likes": 30,
       "tags": [
         "transformers",
         "safetensors",
@@ -618,7 +618,7 @@
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
-      "downloads": 134749,
+      "downloads": 116118,
       "likes": 658,
       "tags": [
         "transformers",
@@ -633,28 +633,10 @@
     },
     {
       "rank": 6,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 27835708,
-      "likes": 1386,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 7,
       "id": "ai-sage/GFusion-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
       "pipelineTag": "text-generation",
-      "downloads": 369,
+      "downloads": 600,
       "likes": 17,
       "tags": [
         "transformers",
