@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T19:57:35.462Z",
+  "updated": "2026-07-06T22:13:17.200Z",
   "models": [
     {
       "rank": 1,
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 28010833,
-      "likes": 1391,
+      "likes": 1392,
       "tags": [
         "transformers",
         "safetensors",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 16766739,
-      "likes": 1185,
+      "likes": 1186,
       "tags": [
         "transformers",
         "safetensors",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13928120,
-      "likes": 1233,
+      "likes": 1234,
       "tags": [
         "transformers",
         "safetensors",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11392837,
-      "likes": 3133,
+      "likes": 3134,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 362020,
-      "likes": 856,
+      "likes": 857,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 78333,
-      "likes": 778,
+      "likes": 779,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9034017,
-      "likes": 6235,
+      "likes": 6236,
       "tags": [
         "transformers",
         "safetensors",
@@ -619,7 +619,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 28010833,
-      "likes": 1391,
+      "likes": 1392,
       "tags": [
         "transformers",
         "safetensors",
@@ -633,6 +633,24 @@
     },
     {
       "rank": 6,
+      "id": "ai-sage/GFusion-10B-A1.8B",
+      "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
+      "pipelineTag": "text-generation",
+      "downloads": 600,
+      "likes": 19,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "moe",
+        "diffusion"
+      ],
+      "lastModified": null,
+      "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
+    },
+    {
+      "rank": 7,
       "id": "LiquidAI/LFM2.5-8B-A1B",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "pipelineTag": "text-generation",
@@ -648,24 +666,6 @@
       ],
       "lastModified": null,
       "description": "src=\"https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png\" alt=\"Liquid AI\" style=\"width: 100%; max-width: 100%; height: auto; display: inline-block; margin-bottom: 0.5em; margin-top: 0.…"
-    },
-    {
-      "rank": 7,
-      "id": "ai-sage/GFusion-10B-A1.8B",
-      "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
-      "pipelineTag": "text-generation",
-      "downloads": 600,
-      "likes": 18,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "moe",
-        "diffusion"
-      ],
-      "lastModified": null,
-      "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
     }
   ]
 }
