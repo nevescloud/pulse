@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T22:13:17.018Z",
+  "updated": "2026-07-07T03:26:37.935Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars": 51392,
-      "forks": 8376,
-      "starsToday": 1386
+      "stars": 51758,
+      "forks": 8435,
+      "starsToday": 1378
     },
     {
       "rank": 2,
@@ -21,10 +21,10 @@
       "fullName": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "stars": 70718,
-      "forks": 7663,
-      "starsToday": 1114
+      "language": "JavaScript",
+      "stars": 70986,
+      "forks": 7686,
+      "starsToday": 1112
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars": 19232,
-      "forks": 1950,
-      "starsToday": 2493
+      "stars": 19558,
+      "forks": 1981,
+      "starsToday": 2494
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 77450,
-      "forks": 10401,
-      "starsToday": 471
+      "stars": 77629,
+      "forks": 10425,
+      "starsToday": 470
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/Leonxlnx/taste-skill",
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "language": "JavaScript",
-      "stars": 58838,
-      "forks": 4007,
-      "starsToday": 1453
+      "stars": 59153,
+      "forks": 4027,
+      "starsToday": 1458
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "language": "Python",
-      "stars": 21111,
-      "forks": 2838,
-      "starsToday": 611
+      "stars": 21232,
+      "forks": 2847,
+      "starsToday": 610
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "description": "Use Codex from Claude Code to review code or delegate tasks.",
       "language": "JavaScript",
-      "stars": 26240,
-      "forks": 1572,
-      "starsToday": 910
+      "stars": 26343,
+      "forks": 1580,
+      "starsToday": 906
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 49687,
-      "forks": 4140,
-      "starsToday": 511
+      "stars": 49855,
+      "forks": 4154,
+      "starsToday": 458
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/ogulcancelik/herdr",
       "description": "agent multiplexer that lives in your terminal.",
       "language": "Rust",
-      "stars": 12812,
-      "forks": 745,
-      "starsToday": 783
+      "stars": 12957,
+      "forks": 749,
+      "starsToday": 779
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 4158,
-      "forks": 595,
-      "starsToday": 539
+      "stars": 4370,
+      "forks": 610,
+      "starsToday": 427
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/karakeep-app/karakeep",
       "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
       "language": "TypeScript",
-      "stars": 26850,
-      "forks": 1318,
-      "starsToday": 178
+      "stars": 26947,
+      "forks": 1322,
+      "starsToday": 199
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
       "language": "TypeScript",
-      "stars": 146147,
-      "forks": 8406,
-      "starsToday": 834
+      "stars": 146421,
+      "forks": 8422,
+      "starsToday": 867
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "url": "https://github.com/steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
-      "stars": 16704,
-      "forks": 1374,
+      "stars": 16773,
+      "forks": 1377,
       "starsToday": 598
     },
     {
@@ -166,9 +166,9 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars": 13458,
-      "forks": 819,
-      "starsToday": 355
+      "stars": 13573,
+      "forks": 830,
+      "starsToday": 382
     },
     {
       "rank": 15,
@@ -178,9 +178,9 @@
       "url": "https://github.com/sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics",
       "language": null,
-      "stars": 482230,
-      "forks": 35732,
-      "starsToday": 393
+      "stars": 482370,
+      "forks": 35739,
+      "starsToday": 345
     },
     {
       "rank": 16,
@@ -190,9 +190,9 @@
       "url": "https://github.com/gastownhall/gastown",
       "description": "Gas Town - multi-agent workspace manager",
       "language": "Go",
-      "stars": 16661,
-      "forks": 1537,
-      "starsToday": 293
+      "stars": 16733,
+      "forks": 1541,
+      "starsToday": 291
     }
   ]
 }
