@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:13:28.372Z",
+  "updated": "2026-07-07T19:55:29.911Z",
   "trending": [
     {
       "rank": 1,
@@ -139,7 +139,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5079,
+      "likes": 5080,
       "tags": [
         "gradio",
         "region:us"
@@ -316,7 +316,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3292,
+      "likes": 3294,
       "tags": [
         "gradio",
         "mcp-server",
@@ -406,7 +406,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2847,
+      "likes": 2848,
       "tags": [
         "gradio",
         "mcp-server",
@@ -661,7 +661,7 @@
       "description": "Visualize rich, dense image features locally in your browser",
       "url": "https://huggingface.co/spaces/webml-community/dinov3-web",
       "sdk": "static",
-      "likes": 158,
+      "likes": 159,
       "tags": [
         "static",
         "region:us"
