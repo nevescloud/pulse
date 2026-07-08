@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:10:38.506Z",
+  "updated": "2026-07-08T02:43:37.971Z",
   "models": [
     {
       "rank": 1,
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 33330183,
-      "likes": 3201,
+      "likes": 3202,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 16637954,
-      "likes": 1072,
+      "likes": 1073,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14083324,
-      "likes": 1242,
+      "likes": 1244,
       "tags": [
         "transformers",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13509796,
-      "likes": 6456,
+      "likes": 6460,
       "tags": [
         "text-to-speech",
         "en",
@@ -492,7 +492,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-large",
       "pipelineTag": "feature-extraction",
       "downloads": 12421260,
-      "likes": 1216,
+      "likes": 1217,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11499732,
-      "likes": 3140,
+      "likes": 3141,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 354385,
-      "likes": 867,
+      "likes": 868,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
       "downloads": 1053,
-      "likes": 36,
+      "likes": 37,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9004427,
-      "likes": 6251,
+      "likes": 6252,
       "tags": [
         "transformers",
         "safetensors",

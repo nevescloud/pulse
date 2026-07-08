@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:10:38.389Z",
+  "updated": "2026-07-08T02:43:37.907Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars": 10512,
-      "forks": 3579,
-      "starsToday": 2402
+      "stars": 11286,
+      "forks": 3734,
+      "starsToday": 2514
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
       "language": "Rust",
-      "stars": 20609,
-      "forks": 2072,
-      "starsToday": 1781
+      "stars": 20857,
+      "forks": 2083,
+      "starsToday": 1777
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": 72045,
-      "forks": 7803,
-      "starsToday": 1311
+      "stars": 72258,
+      "forks": 7826,
+      "starsToday": 1317
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 78447,
-      "forks": 10559,
-      "starsToday": 1122
+      "stars": 78555,
+      "forks": 10568,
+      "starsToday": 1129
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars": 52883,
-      "forks": 8627,
-      "starsToday": 1704
+      "stars": 53108,
+      "forks": 8656,
+      "starsToday": 1691
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars": 8418,
-      "forks": 708,
-      "starsToday": 665
+      "stars": 8508,
+      "forks": 715,
+      "starsToday": 664
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/AhmadIbrahiim/Website-downloader",
       "description": "💡 Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ] using Node.js",
       "language": "HTML",
-      "stars": 3929,
-      "forks": 983,
-      "starsToday": 173
+      "stars": 4084,
+      "forks": 991,
+      "starsToday": 140
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/steipete/CodexBar",
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
-      "stars": 17008,
-      "forks": 1386,
-      "starsToday": 377
+      "stars": 17060,
+      "forks": 1389,
+      "starsToday": 376
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/dotnet/skills",
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "language": "C#",
-      "stars": 4281,
+      "stars": 4332,
       "forks": 324,
-      "starsToday": 82
+      "starsToday": 64
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": 9826,
-      "forks": 671,
-      "starsToday": 802
+      "stars": 10160,
+      "forks": 685,
+      "starsToday": 893
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 5090,
-      "forks": 657,
-      "starsToday": 953
+      "stars": 5249,
+      "forks": 664,
+      "starsToday": 965
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/kyutai-labs/pocket-tts",
       "description": "A TTS that fits in your CPU (and pocket)",
       "language": "Python",
-      "stars": 6103,
-      "forks": 638,
-      "starsToday": 510
+      "stars": 6243,
+      "forks": 648,
+      "starsToday": 531
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
       "language": "Python",
-      "stars": 49061,
-      "forks": 4275,
-      "starsToday": 227
+      "stars": 49183,
+      "forks": 4283,
+      "starsToday": 144
     }
   ]
 }
