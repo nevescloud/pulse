@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T16:39:08.070Z",
+  "updated": "2026-07-08T19:25:24.977Z",
   "models": [
     {
       "rank": 1,
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 28074722,
-      "likes": 1399,
+      "likes": 1400,
       "tags": [
         "transformers",
         "safetensors",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17326548,
-      "likes": 1075,
+      "likes": 1076,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14083324,
-      "likes": 1247,
+      "likes": 1248,
       "tags": [
         "transformers",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13940663,
-      "likes": 3336,
+      "likes": 3337,
       "tags": [
         "transformers",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13509796,
-      "likes": 6477,
+      "likes": 6478,
       "tags": [
         "text-to-speech",
         "en",
@@ -562,23 +562,6 @@
     },
     {
       "rank": 2,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 9213787,
-      "likes": 6258,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 3,
       "id": "Nguuma/security-slm-unsloth-1.5b",
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
@@ -596,12 +579,12 @@
       "description": "Developed by: Nguuma License: Apache-2.0 Base model: unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit Quantized format: GGUF Q4_K_M (~1.2 GB RAM at inference)"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "id": "nvidia/Nemotron-Labs-Audex-2B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 0,
-      "likes": 27,
+      "likes": 29,
       "tags": [
         "transformers",
         "safetensors",
@@ -612,6 +595,23 @@
       ],
       "lastModified": null,
       "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
+    },
+    {
+      "rank": 4,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 9213787,
+      "likes": 6259,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
     },
     {
       "rank": 5,
