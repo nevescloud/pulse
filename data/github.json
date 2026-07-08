@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T11:04:40.146Z",
+  "updated": "2026-07-08T14:08:25.868Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars": 13180,
-      "forks": 4155,
-      "starsToday": 2514
+      "stars": 13874,
+      "forks": 4307,
+      "starsToday": 5071
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": 72724,
-      "forks": 7869,
-      "starsToday": 1317
+      "stars": 73082,
+      "forks": 7893,
+      "starsToday": 1322
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 78823,
-      "forks": 10599,
-      "starsToday": 1129
+      "stars": 78882,
+      "forks": 10613,
+      "starsToday": 793
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
-      "stars": 7300,
-      "forks": 685,
+      "stars": 7394,
+      "forks": 695,
       "starsToday": 610
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
-      "stars": 46369,
-      "forks": 2270,
+      "stars": 46409,
+      "forks": 2275,
       "starsToday": 30
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 50471,
-      "forks": 4213,
+      "stars": 50528,
+      "forks": 4219,
       "starsToday": 659
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
-      "stars": 23352,
-      "forks": 7422,
+      "stars": 23370,
+      "forks": 7424,
       "starsToday": 20
     },
     {
@@ -94,9 +94,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": 10893,
-      "forks": 728,
-      "starsToday": 893
+      "stars": 11132,
+      "forks": 751,
+      "starsToday": 1712
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars": 53556,
-      "forks": 8728,
-      "starsToday": 1691
+      "stars": 53707,
+      "forks": 8751,
+      "starsToday": 1226
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 249351,
-      "forks": 22131,
+      "stars": 249472,
+      "forks": 22142,
       "starsToday": 999
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars": 14197,
-      "forks": 872,
+      "stars": 14244,
+      "forks": 874,
       "starsToday": 685
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "language": "CSS",
-      "stars": 14554,
-      "forks": 567,
+      "stars": 14755,
+      "forks": 585,
       "starsToday": 2031
     },
     {
@@ -154,33 +154,45 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars": 6276,
-      "forks": 742,
+      "stars": 6299,
+      "forks": 744,
       "starsToday": 20
     },
     {
       "rank": 14,
+      "owner": "huxingyi",
+      "name": "autoremesher",
+      "fullName": "huxingyi/autoremesher",
+      "url": "https://github.com/huxingyi/autoremesher",
+      "description": "Automatic quad remeshing tool",
+      "language": "C++",
+      "stars": 1824,
+      "forks": 140,
+      "starsToday": 292
+    },
+    {
+      "rank": 15,
       "owner": "bradautomates",
       "name": "claude-video",
       "fullName": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 5638,
-      "forks": 690,
-      "starsToday": 965
+      "stars": 5773,
+      "forks": 695,
+      "starsToday": 948
     },
     {
-      "rank": 15,
+      "rank": 16,
       "owner": "TencentCloud",
       "name": "CubeSandbox",
       "fullName": "TencentCloud/CubeSandbox",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars": 8692,
+      "stars": 8757,
       "forks": 729,
-      "starsToday": 664
+      "starsToday": 555
     }
   ]
 }
