@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T19:25:24.977Z",
+  "updated": "2026-07-08T22:05:51.484Z",
   "models": [
     {
       "rank": 1,
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13509796,
-      "likes": 6478,
+      "likes": 6479,
       "tags": [
         "text-to-speech",
         "en",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 354385,
-      "likes": 872,
+      "likes": 874,
       "tags": [
         "transformers",
         "safetensors",
@@ -562,6 +562,41 @@
     },
     {
       "rank": 2,
+      "id": "nvidia/Nemotron-Labs-Audex-2B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
+      "pipelineTag": "text-generation",
+      "downloads": 0,
+      "likes": 32,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_audex",
+        "nvidia",
+        "nemotron-labs-audex",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
+    },
+    {
+      "rank": 3,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 9213787,
+      "likes": 6260,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 4,
       "id": "Nguuma/security-slm-unsloth-1.5b",
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
@@ -577,41 +612,6 @@
       ],
       "lastModified": null,
       "description": "Developed by: Nguuma License: Apache-2.0 Base model: unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit Quantized format: GGUF Q4_K_M (~1.2 GB RAM at inference)"
-    },
-    {
-      "rank": 3,
-      "id": "nvidia/Nemotron-Labs-Audex-2B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
-      "pipelineTag": "text-generation",
-      "downloads": 0,
-      "likes": 29,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_audex",
-        "nvidia",
-        "nemotron-labs-audex",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
-    },
-    {
-      "rank": 4,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 9213787,
-      "likes": 6259,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 5,
@@ -648,6 +648,24 @@
       ],
       "lastModified": null,
       "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
+    },
+    {
+      "rank": 7,
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "pipelineTag": "text-generation",
+      "downloads": 8592821,
+      "likes": 13452,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "conversational",
+        "custom_code"
+      ],
+      "lastModified": null,
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     }
   ]
 }

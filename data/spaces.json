@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T19:25:24.851Z",
+  "updated": "2026-07-08T22:05:51.182Z",
   "trending": [
     {
       "rank": 1,
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7539,
+      "likes": 7540,
       "tags": [
         "docker",
         "leaderboard",
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3393,
+      "likes": 3394,
       "tags": [
         "gradio",
         "region:us"
