@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T19:46:37.663Z",
+  "updated": "2026-07-09T22:27:13.904Z",
   "models": [
     {
       "rank": 1,
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 50200663,
-      "likes": 1309,
+      "likes": 1310,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 12400327,
-      "likes": 6489,
+      "likes": 6490,
       "tags": [
         "text-to-speech",
         "en",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 2239,
-      "likes": 139,
+      "likes": 140,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 362433,
-      "likes": 882,
+      "likes": 883,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 584,
-      "likes": 46,
+      "likes": 47,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
       "downloads": 1669,
-      "likes": 39,
+      "likes": 40,
       "tags": [
         "transformers",
         "safetensors",
@@ -655,7 +655,7 @@
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
       "downloads": 6268,
-      "likes": 175,
+      "likes": 177,
       "tags": [
         "transformers",
         "safetensors",
