@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T09:39:38.509Z",
+  "updated": "2026-07-09T15:10:20.366Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 255358654,
-      "likes": 5048,
+      "likes": 5049,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 50200663,
-      "likes": 1307,
+      "likes": 1309,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 18458633,
-      "likes": 1189,
+      "likes": 1190,
       "tags": [
         "transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15680846,
-      "likes": 861,
+      "likes": 862,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -475,7 +475,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-large",
       "pipelineTag": "feature-extraction",
       "downloads": 12741050,
-      "likes": 1219,
+      "likes": 1220,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 12400327,
-      "likes": 6485,
+      "likes": 6489,
       "tags": [
         "text-to-speech",
         "en",
@@ -528,7 +528,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11990921,
-      "likes": 3152,
+      "likes": 3154,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,7 +548,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 2239,
-      "likes": 77,
+      "likes": 135,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 362433,
-      "likes": 876,
+      "likes": 877,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 584,
-      "likes": 41,
+      "likes": 45,
       "tags": [
         "transformers",
         "safetensors",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9085724,
-      "likes": 6265,
+      "likes": 6267,
       "tags": [
         "transformers",
         "safetensors",
@@ -651,29 +651,11 @@
     },
     {
       "rank": 7,
-      "id": "ai-sage/GFusion-10B-A1.8B",
-      "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
-      "pipelineTag": "text-generation",
-      "downloads": 1278,
-      "likes": 20,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "moe",
-        "diffusion"
-      ],
-      "lastModified": null,
-      "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
-    },
-    {
-      "rank": 8,
       "id": "deepseek-ai/DeepSeek-R1",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
       "downloads": 9126918,
-      "likes": 13453,
+      "likes": 13454,
       "tags": [
         "transformers",
         "safetensors",
