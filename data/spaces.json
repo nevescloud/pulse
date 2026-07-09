@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T15:10:20.141Z",
+  "updated": "2026-07-09T19:46:37.375Z",
   "trending": [
     {
       "rank": 1,
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7546,
+      "likes": 7548,
       "tags": [
         "docker",
         "leaderboard",
@@ -97,7 +97,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
       "sdk": "static",
-      "likes": 5702,
+      "likes": 5703,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3524,
+      "likes": 3526,
       "tags": [
         "gradio",
         "mcp-server",
@@ -302,7 +302,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3300,
+      "likes": 3301,
       "tags": [
         "gradio",
         "mcp-server",
@@ -317,7 +317,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3296,
+      "likes": 3297,
       "tags": [
         "docker",
         "region:us"
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3232,
+      "likes": 3233,
       "tags": [
         "docker",
         "research-article-template",
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 289,
+      "likes": 290,
       "tags": [
         "static",
         "region:us"
