@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T22:05:51.306Z",
+  "updated": "2026-07-09T03:19:58.189Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": 73857,
-      "forks": 7969,
-      "starsToday": 1322
+      "stars": 74405,
+      "forks": 8018,
+      "starsToday": 1297
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 79088,
-      "forks": 10641,
-      "starsToday": 793
+      "stars": 79212,
+      "forks": 10657,
+      "starsToday": 799
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "language": "TypeScript",
-      "stars": 7587,
-      "forks": 704,
-      "starsToday": 351
+      "stars": 7742,
+      "forks": 715,
+      "starsToday": 318
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
-      "stars": 46522,
-      "forks": 2278,
-      "starsToday": 30
+      "stars": 46610,
+      "forks": 2283,
+      "starsToday": 46
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 50693,
-      "forks": 4230,
-      "starsToday": 373
+      "stars": 50832,
+      "forks": 4245,
+      "starsToday": 352
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/argoproj/argo-cd",
       "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
-      "stars": 23414,
-      "forks": 7424,
-      "starsToday": 20
+      "stars": 23454,
+      "forks": 7427,
+      "starsToday": 29
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": 11663,
-      "forks": 791,
-      "starsToday": 1712
+      "stars": 12126,
+      "forks": 822,
+      "starsToday": 1717
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars": 54087,
-      "forks": 8802,
-      "starsToday": 1226
+      "stars": 54327,
+      "forks": 8840,
+      "starsToday": 1218
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 249755,
-      "forks": 22160,
-      "starsToday": 999
+      "stars": 249976,
+      "forks": 22177,
+      "starsToday": 1116
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/alibaba/zvec",
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
-      "stars": 14364,
-      "forks": 884,
-      "starsToday": 370
+      "stars": 14458,
+      "forks": 893,
+      "starsToday": 395
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "language": "CSS",
-      "stars": 14985,
-      "forks": 592,
-      "starsToday": 916
+      "stars": 15089,
+      "forks": 597,
+      "starsToday": 1125
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars": 6357,
-      "forks": 746,
-      "starsToday": 20
+      "stars": 6404,
+      "forks": 750,
+      "starsToday": 28
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/huxingyi/autoremesher",
       "description": "Automatic quad remeshing tool",
       "language": "C++",
-      "stars": 1969,
-      "forks": 148,
-      "starsToday": 292
+      "stars": 2051,
+      "forks": 153,
+      "starsToday": 296
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 5996,
-      "forks": 714,
-      "starsToday": 948
+      "stars": 6131,
+      "forks": 730,
+      "starsToday": 951
     },
     {
       "rank": 15,
@@ -178,9 +178,9 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Rust",
-      "stars": 8892,
-      "forks": 736,
-      "starsToday": 555
+      "stars": 8991,
+      "forks": 741,
+      "starsToday": 564
     }
   ]
 }

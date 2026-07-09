@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T22:05:51.484Z",
+  "updated": "2026-07-09T03:19:57.543Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 255782403,
-      "likes": 5046,
+      "likes": 5048,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 42512702,
-      "likes": 135,
+      "likes": 136,
       "tags": [
         "transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 28074722,
-      "likes": 1400,
+      "likes": 1401,
       "tags": [
         "transformers",
         "safetensors",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14083324,
-      "likes": 1248,
+      "likes": 1249,
       "tags": [
         "transformers",
         "safetensors",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/hexgrad/Kokoro-82M",
       "pipelineTag": "text-to-speech",
       "downloads": 13509796,
-      "likes": 6479,
+      "likes": 6481,
       "tags": [
         "text-to-speech",
         "en",
@@ -474,7 +474,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12661459,
-      "likes": 1411,
+      "likes": 1413,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 0,
-      "likes": 32,
+      "likes": 39,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 9213787,
-      "likes": 6260,
+      "likes": 6263,
       "tags": [
         "transformers",
         "safetensors",
@@ -601,7 +601,7 @@
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
       "downloads": 1053,
-      "likes": 38,
+      "likes": 39,
       "tags": [
         "transformers",
         "safetensors",
@@ -615,24 +615,6 @@
     },
     {
       "rank": 5,
-      "id": "WeiboAI/VibeThinker-3B",
-      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
-      "pipelineTag": "text-generation",
-      "downloads": 79270,
-      "likes": 780,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "math",
-        "code"
-      ],
-      "lastModified": null,
-      "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
-    },
-    {
-      "rank": 6,
       "id": "ai-sage/GFusion-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GFusion-10B-A1.8B",
       "pipelineTag": "text-generation",
@@ -650,22 +632,40 @@
       "description": "GFusion-10B-A1.8B is an experimental instruction-tuned diffusion language model trained by adapting GigaChat3-10B-A1.8B-base to block diffusion generation, followed by context extension, SFT, and confidence tuning."
     },
     {
-      "rank": 7,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "rank": 6,
+      "id": "WeiboAI/VibeThinker-3B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 8592821,
-      "likes": 13452,
+      "downloads": 79270,
+      "likes": 780,
       "tags": [
         "transformers",
         "safetensors",
-        "deepseek_v3",
+        "qwen2",
         "text-generation",
-        "conversational",
-        "custom_code"
+        "math",
+        "code"
       ],
       "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
+      "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
+    },
+    {
+      "rank": 7,
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 27,
+      "likes": 40,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "quantized",
+        "minicpm5",
+        "thinking",
+        "fable5"
+      ],
+      "lastModified": null,
+      "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
     }
   ]
 }
