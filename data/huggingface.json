@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T16:55:49.103Z",
+  "updated": "2026-07-10T19:27:09.938Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34586436,
-      "likes": 3213,
+      "likes": 3215,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17429678,
-      "likes": 1077,
+      "likes": 1078,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15379879,
-      "likes": 862,
+      "likes": 863,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -475,7 +475,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12737053,
-      "likes": 1414,
+      "likes": 1415,
       "tags": [
         "transformers",
         "safetensors",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/laion/clap-htsat-fused",
       "pipelineTag": "audio-classification",
       "downloads": 12515322,
-      "likes": 113,
+      "likes": 114,
       "tags": [
         "transformers",
         "pytorch",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12001879,
-      "likes": 3164,
+      "likes": 3166,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 9029,
-      "likes": 153,
+      "likes": 155,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 362863,
-      "likes": 894,
+      "likes": 898,
       "tags": [
         "transformers",
         "safetensors",
@@ -674,7 +674,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
       "downloads": 9076634,
-      "likes": 13457,
+      "likes": 13456,
       "tags": [
         "transformers",
         "safetensors",
