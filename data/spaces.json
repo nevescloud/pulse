@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T14:27:04.150Z",
+  "updated": "2026-07-10T16:55:48.946Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11161,
+      "likes": 11162,
       "tags": [
         "docker",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3529,
+      "likes": 3530,
       "tags": [
         "gradio",
         "region:us"
@@ -348,7 +348,7 @@
       "description": "MidJour | A RealVisXL_Turbo | IRL HI-Res Images Gen",
       "url": "https://huggingface.co/spaces/mukaist/Midjourney",
       "sdk": "gradio",
-      "likes": 2984,
+      "likes": 2985,
       "tags": [
         "gradio",
         "region:us"

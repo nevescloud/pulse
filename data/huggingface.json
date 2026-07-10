@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T14:27:04.346Z",
+  "updated": "2026-07-10T16:55:49.103Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34586436,
-      "likes": 3212,
+      "likes": 3213,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12001879,
-      "likes": 3163,
+      "likes": 3164,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 9029,
-      "likes": 152,
+      "likes": 153,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 362863,
-      "likes": 891,
+      "likes": 894,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 1050,
-      "likes": 51,
+      "likes": 52,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8841328,
-      "likes": 6272,
+      "likes": 6273,
       "tags": [
         "transformers",
         "safetensors",
@@ -638,7 +638,7 @@
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
       "downloads": 6320,
-      "likes": 187,
+      "likes": 189,
       "tags": [
         "transformers",
         "safetensors",
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 83663,
-      "likes": 784,
+      "likes": 785,
       "tags": [
         "transformers",
         "safetensors",
@@ -667,6 +667,24 @@
       ],
       "lastModified": null,
       "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
+    },
+    {
+      "rank": 8,
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "pipelineTag": "text-generation",
+      "downloads": 9076634,
+      "likes": 13457,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "conversational",
+        "custom_code"
+      ],
+      "lastModified": null,
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
     }
   ]
 }
