@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T03:22:04.233Z",
+  "updated": "2026-07-10T09:35:15.741Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11162,
+      "likes": 11161,
       "tags": [
         "docker",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7550,
+      "likes": 7551,
       "tags": [
         "docker",
         "leaderboard",
@@ -139,7 +139,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5080,
+      "likes": 5081,
       "tags": [
         "gradio",
         "region:us"
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4936,
+      "likes": 4937,
       "tags": [
         "static",
         "leaderboard",
@@ -259,12 +259,12 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3527,
+      "likes": 3528,
       "tags": [
         "gradio",
         "region:us"
       ],
-      "lastModified": "2026-07-10T00:55:04.000Z"
+      "lastModified": "2026-07-10T05:34:25.000Z"
     },
     {
       "rank": 19,
@@ -287,7 +287,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3326,
+      "likes": 3327,
       "tags": [
         "gradio",
         "region:us"
@@ -301,7 +301,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3303,
+      "likes": 3305,
       "tags": [
         "gradio",
         "mcp-server",
@@ -376,7 +376,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2886,
+      "likes": 2887,
       "tags": [
         "gradio",
         "mcp-server",
@@ -405,7 +405,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2856,
+      "likes": 2859,
       "tags": [
         "gradio",
         "mcp-server",
@@ -492,7 +492,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 291,
+      "likes": 292,
       "tags": [
         "static",
         "region:us"
