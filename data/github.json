@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T22:27:13.999Z",
+  "updated": "2026-07-10T03:22:04.231Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "language": "TypeScript",
-      "stars": 18757,
-      "forks": 5436,
-      "starsToday": 3728
+      "stars": 19363,
+      "forks": 5563,
+      "starsToday": 3716
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/SmartlyDressedGames/U3-SDK",
       "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
       "language": "C#",
-      "stars": 1981,
-      "forks": 253,
-      "starsToday": 541
+      "stars": 2097,
+      "forks": 266,
+      "starsToday": 524
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
-      "stars": 75796,
-      "forks": 8152,
-      "starsToday": 2582
+      "stars": 76018,
+      "forks": 8174,
+      "starsToday": 2554
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "language": null,
-      "stars": 99565,
-      "forks": 11570,
-      "starsToday": 1233
+      "stars": 99894,
+      "forks": 11585,
+      "starsToday": 1391
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "language": "C#",
-      "stars": 13339,
-      "forks": 907,
-      "starsToday": 1923
+      "stars": 13618,
+      "forks": 924,
+      "starsToday": 1929
     },
     {
       "rank": 6,
@@ -70,7 +70,7 @@
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "language": "TypeScript",
-      "stars": 6560,
+      "stars": 6595,
       "forks": 781,
       "starsToday": 185
     },
@@ -82,9 +82,9 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
-      "stars": 47110,
-      "forks": 5554,
-      "starsToday": 347
+      "stars": 47218,
+      "forks": 5558,
+      "starsToday": 194
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
-      "stars": 19337,
-      "forks": 2618,
-      "starsToday": 543
+      "stars": 19495,
+      "forks": 2628,
+      "starsToday": 535
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/unclecode/crawl4ai",
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "language": "Python",
-      "stars": 71783,
-      "forks": 7375,
-      "starsToday": 195
+      "stars": 71903,
+      "forks": 7382,
+      "starsToday": 215
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
       "description": "An evolving how-to guide for securing a Linux server.",
       "language": null,
-      "stars": 29044,
-      "forks": 1935,
-      "starsToday": 306
+      "stars": 29138,
+      "forks": 1941,
+      "starsToday": 243
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/huxingyi/autoremesher",
       "description": "Automatic quad remeshing tool",
       "language": "C++",
-      "stars": 2338,
-      "forks": 171,
-      "starsToday": 405
+      "stars": 2399,
+      "forks": 173,
+      "starsToday": 403
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/bradautomates/claude-video",
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "language": "Python",
-      "stars": 6642,
-      "forks": 765,
-      "starsToday": 727
+      "stars": 6774,
+      "forks": 774,
+      "starsToday": 718
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/prisma/prisma",
       "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "language": "TypeScript",
-      "stars": 46875,
-      "forks": 2329,
-      "starsToday": 373
+      "stars": 46934,
+      "forks": 2330,
+      "starsToday": 376
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/kyutai-labs/pocket-tts",
       "description": "A TTS that fits in your CPU (and pocket)",
       "language": "Python",
-      "stars": 6948,
-      "forks": 698,
-      "starsToday": 273
+      "stars": 7029,
+      "forks": 705,
+      "starsToday": 235
     },
     {
       "rank": 15,
@@ -178,9 +178,9 @@
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "language": "JavaScript",
-      "stars": 55092,
-      "forks": 8995,
-      "starsToday": 1135
+      "stars": 55239,
+      "forks": 9029,
+      "starsToday": 1125
     }
   ]
 }
