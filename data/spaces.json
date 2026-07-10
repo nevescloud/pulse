@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:27:09.028Z",
+  "updated": "2026-07-10T22:03:08.933Z",
   "trending": [
     {
       "rank": 1,
@@ -264,7 +264,7 @@
         "gradio",
         "region:us"
       ],
-      "lastModified": "2026-07-10T05:34:25.000Z"
+      "lastModified": "2026-07-10T19:30:49.000Z"
     },
     {
       "rank": 19,
@@ -492,7 +492,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 293,
+      "likes": 294,
       "tags": [
         "static",
         "region:us"
