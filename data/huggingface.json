@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T15:56:31.639Z",
+  "updated": "2026-07-11T19:03:27.881Z",
   "models": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 72165550,
-      "likes": 2702,
+      "likes": 2703,
       "tags": [
         "transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34659174,
-      "likes": 3218,
+      "likes": 3219,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17417579,
-      "likes": 1080,
+      "likes": 1081,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13776808,
-      "likes": 3341,
+      "likes": 3342,
       "tags": [
         "transformers",
         "pytorch",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 1227,
-      "likes": 58,
+      "likes": 60,
       "tags": [
         "transformers",
         "safetensors",
@@ -599,6 +599,23 @@
     },
     {
       "rank": 4,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8659328,
+      "likes": 6281,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 5,
       "id": "Nguuma/security-slm-unsloth-1.5b",
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
@@ -614,23 +631,6 @@
       ],
       "lastModified": null,
       "description": "Developed by: Nguuma License: Apache-2.0 Base model: unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit Quantized format: GGUF Q4_K_M (~1.2 GB RAM at inference)"
-    },
-    {
-      "rank": 5,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8659328,
-      "likes": 6281,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 6,
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 5014,
-      "likes": 29,
+      "likes": 30,
       "tags": [
         "gguf",
         "llama.cpp",
