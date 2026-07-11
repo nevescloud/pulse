@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T07:56:22.145Z",
+  "updated": "2026-07-11T10:14:55.476Z",
   "models": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 72165550,
-      "likes": 2701,
+      "likes": 2702,
       "tags": [
         "transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 47351492,
-      "likes": 136,
+      "likes": 137,
       "tags": [
         "transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34659174,
-      "likes": 3216,
+      "likes": 3217,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -187,7 +187,7 @@
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
       "downloads": 26147457,
-      "likes": 566,
+      "likes": 567,
       "tags": [
         "transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17417579,
-      "likes": 1079,
+      "likes": 1080,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/facebook/opt-125m",
       "pipelineTag": "text-generation",
       "downloads": 15399476,
-      "likes": 274,
+      "likes": 275,
       "tags": [
         "transformers",
         "pytorch",
@@ -348,8 +348,8 @@
       "id": "google/gemma-4-26B-A4B-it",
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
-      "downloads": 14443799,
-      "likes": 1251,
+      "downloads": 14416730,
+      "likes": 1253,
       "tags": [
         "transformers",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
       "downloads": 14234043,
-      "likes": 48,
+      "likes": 49,
       "tags": [
         "safetensors",
         "t5",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13776808,
-      "likes": 3340,
+      "likes": 3341,
       "tags": [
         "transformers",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
       "downloads": 13473027,
-      "likes": 307,
+      "likes": 308,
       "tags": [
         "transformers",
         "pytorch",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 13226778,
-      "likes": 2052,
+      "likes": 2053,
       "tags": [
         "transformers",
         "pytorch",
@@ -475,7 +475,7 @@
       "url": "https://huggingface.co/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "pipelineTag": "text-generation",
       "downloads": 12608790,
-      "likes": 12,
+      "likes": 13,
       "tags": [
         "transformers",
         "safetensors",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-small",
       "pipelineTag": "sentence-similarity",
       "downloads": 12594461,
-      "likes": 359,
+      "likes": 360,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12101940,
-      "likes": 766,
+      "likes": 767,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,8 +548,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 9029,
-      "likes": 163,
+      "downloads": 29887,
+      "likes": 176,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -566,8 +566,8 @@
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 362863,
-      "likes": 903,
+      "downloads": 366106,
+      "likes": 904,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,8 +584,8 @@
       "id": "nvidia/Nemotron-Labs-Audex-2B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
-      "downloads": 1050,
-      "likes": 55,
+      "downloads": 1227,
+      "likes": 56,
       "tags": [
         "transformers",
         "safetensors",
@@ -599,28 +599,11 @@
     },
     {
       "rank": 4,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8659328,
-      "likes": 6278,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 5,
       "id": "Nguuma/security-slm-unsloth-1.5b",
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
-      "downloads": 1729,
-      "likes": 40,
+      "downloads": 1836,
+      "likes": 41,
       "tags": [
         "transformers",
         "safetensors",
@@ -631,6 +614,23 @@
       ],
       "lastModified": null,
       "description": "Developed by: Nguuma License: Apache-2.0 Base model: unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit Quantized format: GGUF Q4_K_M (~1.2 GB RAM at inference)"
+    },
+    {
+      "rank": 5,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8659328,
+      "likes": 6280,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
     },
     {
       "rank": 6,
@@ -655,8 +655,8 @@
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 2582,
-      "likes": 25,
+      "downloads": 5014,
+      "likes": 27,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -673,7 +673,7 @@
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 83663,
+      "downloads": 84238,
       "likes": 788,
       "tags": [
         "transformers",
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
       "downloads": 8978847,
-      "likes": 13457,
+      "likes": 13458,
       "tags": [
         "transformers",
         "safetensors",
