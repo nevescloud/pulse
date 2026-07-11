@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T22:03:10.982Z",
+  "updated": "2026-07-11T02:40:34.891Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 255138800,
-      "likes": 5050,
+      "likes": 5051,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12001879,
-      "likes": 3166,
+      "likes": 3168,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 9029,
-      "likes": 157,
+      "likes": 158,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 362863,
-      "likes": 900,
+      "likes": 901,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8841328,
-      "likes": 6273,
+      "likes": 6275,
       "tags": [
         "transformers",
         "safetensors",
@@ -652,11 +652,29 @@
     },
     {
       "rank": 7,
+      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 2582,
+      "likes": 24,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "llama-cpp",
+        "minicpm",
+        "minicpm5",
+        "minicpm5-1b"
+      ],
+      "lastModified": null,
+      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
+    },
+    {
+      "rank": 8,
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 83663,
-      "likes": 786,
+      "likes": 787,
       "tags": [
         "transformers",
         "safetensors",
@@ -669,12 +687,12 @@
       "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "deepseek-ai/DeepSeek-R1",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
       "downloads": 9076634,
-      "likes": 13456,
+      "likes": 13457,
       "tags": [
         "transformers",
         "safetensors",
