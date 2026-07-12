@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:48:16.554Z",
+  "updated": "2026-07-12T06:02:20.779Z",
   "models": [
     {
       "rank": 1,
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15251993,
-      "likes": 864,
+      "likes": 865,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14416730,
-      "likes": 1256,
+      "likes": 1257,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 366106,
-      "likes": 911,
+      "likes": 912,
       "tags": [
         "transformers",
         "safetensors",
@@ -620,7 +620,7 @@
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
       "downloads": 9635,
-      "likes": 191,
+      "likes": 192,
       "tags": [
         "transformers",
         "safetensors",
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
       "pipelineTag": "text-generation",
       "downloads": 1836,
-      "likes": 41,
+      "likes": 42,
       "tags": [
         "transformers",
         "safetensors",
