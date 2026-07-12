@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T15:59:38.152Z",
+  "updated": "2026-07-12T19:06:10.365Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34659039,
-      "likes": 3221,
+      "likes": 3222,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 18068574,
-      "likes": 1196,
+      "likes": 1197,
       "tags": [
         "transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15118789,
-      "likes": 355,
+      "likes": 356,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 49268,
-      "likes": 198,
+      "likes": 199,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 368595,
-      "likes": 915,
+      "likes": 916,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 1435,
-      "likes": 63,
+      "likes": 64,
       "tags": [
         "transformers",
         "safetensors",
@@ -599,28 +599,11 @@
     },
     {
       "rank": 4,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8491169,
-      "likes": 6289,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 5,
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 6231,
-      "likes": 34,
+      "likes": 37,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -633,12 +616,12 @@
       "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
     },
     {
-      "rank": 6,
+      "rank": 5,
       "id": "DeepHat/DeepHat-V1-7B",
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
       "downloads": 11827,
-      "likes": 192,
+      "likes": 193,
       "tags": [
         "transformers",
         "safetensors",
@@ -651,22 +634,39 @@
       "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
     },
     {
-      "rank": 7,
-      "id": "Nguuma/security-slm-unsloth-1.5b",
-      "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
+      "rank": 6,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 1904,
-      "likes": 42,
+      "downloads": 8491169,
+      "likes": 6290,
       "tags": [
         "transformers",
         "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 7,
+      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 48762,
+      "likes": 52,
+      "tags": [
+        "transformers",
         "gguf",
-        "text-generation-inference",
-        "unsloth",
-        "qwen2"
+        "llama",
+        "text-generation",
+        "GGUF",
+        "llama-cpp"
       ],
       "lastModified": null,
-      "description": "Developed by: Nguuma License: Apache-2.0 Base model: unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit Quantized format: GGUF Q4_K_M (~1.2 GB RAM at inference)"
+      "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
     },
     {
       "rank": 8,
@@ -674,7 +674,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 84763,
-      "likes": 794,
+      "likes": 795,
       "tags": [
         "transformers",
         "safetensors",
@@ -703,6 +703,24 @@
       ],
       "lastModified": null,
       "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
+    },
+    {
+      "rank": 10,
+      "id": "Nguuma/security-slm-unsloth-1.5b",
+      "url": "https://huggingface.co/Nguuma/security-slm-unsloth-1.5b",
+      "pipelineTag": "text-generation",
+      "downloads": 1904,
+      "likes": 42,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gguf",
+        "text-generation-inference",
+        "unsloth",
+        "qwen2"
+      ],
+      "lastModified": null,
+      "description": "Developed by: Nguuma License: Apache-2.0 Base model: unsloth/deepseek-r1-distill-qwen-1.5b-unsloth-bnb-4bit Quantized format: GGUF Q4_K_M (~1.2 GB RAM at inference)"
     }
   ]
 }
