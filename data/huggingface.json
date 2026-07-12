@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T13:19:53.237Z",
+  "updated": "2026-07-12T15:59:38.152Z",
   "models": [
     {
       "rank": 1,
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 14696307,
-      "likes": 698,
+      "likes": 699,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 49268,
-      "likes": 197,
+      "likes": 198,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 368595,
-      "likes": 913,
+      "likes": 915,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 1435,
-      "likes": 62,
+      "likes": 63,
       "tags": [
         "transformers",
         "safetensors",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8491169,
-      "likes": 6288,
+      "likes": 6289,
       "tags": [
         "transformers",
         "safetensors",
@@ -616,6 +616,24 @@
     },
     {
       "rank": 5,
+      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 6231,
+      "likes": 34,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "llama-cpp",
+        "minicpm",
+        "minicpm5",
+        "minicpm5-1b"
+      ],
+      "lastModified": null,
+      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
+    },
+    {
+      "rank": 6,
       "id": "DeepHat/DeepHat-V1-7B",
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
@@ -631,24 +649,6 @@
       ],
       "lastModified": null,
       "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
-    },
-    {
-      "rank": 6,
-      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 6231,
-      "likes": 33,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "llama-cpp",
-        "minicpm",
-        "minicpm5",
-        "minicpm5-1b"
-      ],
-      "lastModified": null,
-      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
     },
     {
       "rank": 7,
@@ -674,7 +674,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 84763,
-      "likes": 792,
+      "likes": 794,
       "tags": [
         "transformers",
         "safetensors",
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
       "downloads": 8739585,
-      "likes": 13458,
+      "likes": 13459,
       "tags": [
         "transformers",
         "safetensors",
