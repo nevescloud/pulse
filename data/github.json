@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T12:05:45.291Z",
+  "updated": "2026-07-13T17:12:15.944Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": 64273,
-      "forks": 6881,
+      "stars": 65346,
+      "forks": 6935,
       "starsToday": 1077
     },
     {
@@ -22,9 +22,9 @@
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars": 3600,
-      "forks": 132,
-      "starsToday": 444
+      "stars": 3756,
+      "forks": 139,
+      "starsToday": 1290
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 21182,
-      "forks": 3685,
-      "starsToday": 768
+      "stars": 21485,
+      "forks": 3724,
+      "starsToday": 1148
     },
     {
       "rank": 4,
@@ -46,8 +46,8 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 41662,
-      "forks": 4183,
+      "stars": 41767,
+      "forks": 4191,
       "starsToday": 57
     },
     {
@@ -58,9 +58,9 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 119187,
-      "forks": 17705,
-      "starsToday": 408
+      "stars": 119390,
+      "forks": 17731,
+      "starsToday": 1006
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 4714,
-      "forks": 263,
-      "starsToday": 155
+      "stars": 4913,
+      "forks": 270,
+      "starsToday": 802
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars": 50510,
-      "forks": 2038,
+      "stars": 50674,
+      "forks": 2040,
       "starsToday": 74
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars": 83785,
-      "forks": 8266,
+      "stars": 84247,
+      "forks": 8305,
       "starsToday": 1028
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars": 12229,
-      "forks": 1433,
+      "stars": 12443,
+      "forks": 1466,
       "starsToday": 435
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/github/spec-kit",
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
-      "stars": 120248,
-      "forks": 10669,
+      "stars": 120432,
+      "forks": 10676,
       "starsToday": 508
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars": 38093,
-      "forks": 6132,
+      "stars": 38327,
+      "forks": 6144,
       "starsToday": 260
     }
   ]
