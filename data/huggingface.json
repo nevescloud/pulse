@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:23:28.802Z",
+  "updated": "2026-07-13T21:56:48.518Z",
   "models": [
     {
       "rank": 1,
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14225793,
-      "likes": 1262,
+      "likes": 1263,
       "tags": [
         "transformers",
         "safetensors",
@@ -475,7 +475,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12569634,
-      "likes": 1419,
+      "likes": 1420,
       "tags": [
         "transformers",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12240365,
-      "likes": 3193,
+      "likes": 3194,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 68714,
-      "likes": 217,
+      "likes": 219,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -599,6 +599,24 @@
     },
     {
       "rank": 4,
+      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 48904,
+      "likes": 71,
+      "tags": [
+        "transformers",
+        "gguf",
+        "llama",
+        "text-generation",
+        "GGUF",
+        "llama-cpp"
+      ],
+      "lastModified": null,
+      "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
+    },
+    {
+      "rank": 5,
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
@@ -614,24 +632,6 @@
       ],
       "lastModified": null,
       "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
-    },
-    {
-      "rank": 5,
-      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
-      "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 48904,
-      "likes": 67,
-      "tags": [
-        "transformers",
-        "gguf",
-        "llama",
-        "text-generation",
-        "GGUF",
-        "llama-cpp"
-      ],
-      "lastModified": null,
-      "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
     },
     {
       "rank": 6,
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8452706,
-      "likes": 6298,
+      "likes": 6299,
       "tags": [
         "transformers",
         "safetensors",
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
       "pipelineTag": "text-generation",
       "downloads": 8778351,
-      "likes": 13462,
+      "likes": 13463,
       "tags": [
         "transformers",
         "safetensors",
