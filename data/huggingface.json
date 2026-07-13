@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T02:49:50.376Z",
+  "updated": "2026-07-13T06:19:32.751Z",
   "models": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17436149,
-      "likes": 1082,
+      "likes": 1083,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12201978,
-      "likes": 3183,
+      "likes": 3184,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 49268,
-      "likes": 202,
+      "likes": 206,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 6231,
-      "likes": 38,
+      "likes": 39,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8491169,
-      "likes": 6292,
+      "likes": 6293,
       "tags": [
         "transformers",
         "safetensors",
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 48762,
-      "likes": 59,
+      "likes": 60,
       "tags": [
         "transformers",
         "gguf",
