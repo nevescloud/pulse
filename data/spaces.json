@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T06:19:32.550Z",
+  "updated": "2026-07-13T12:05:45.129Z",
   "trending": [
     {
       "rank": 1,
@@ -139,7 +139,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5083,
+      "likes": 5082,
       "tags": [
         "gradio",
         "region:us"
@@ -227,7 +227,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3760,
+      "likes": 3761,
       "tags": [
         "gradio",
         "Multimodal",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3541,
+      "likes": 3542,
       "tags": [
         "gradio",
         "region:us"
@@ -287,7 +287,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3329,
+      "likes": 3330,
       "tags": [
         "gradio",
         "region:us"
@@ -301,7 +301,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3313,
+      "likes": 3314,
       "tags": [
         "gradio",
         "mcp-server",
@@ -376,7 +376,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2887,
+      "likes": 2888,
       "tags": [
         "gradio",
         "mcp-server",
