@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T21:51:13.946Z",
+  "updated": "2026-07-13T02:49:49.918Z",
   "trending": [
     {
       "rank": 1,
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3933,
+      "likes": 3934,
       "tags": [
         "static",
         "region:us"
@@ -492,7 +492,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 296,
+      "likes": 297,
       "tags": [
         "static",
         "region:us"
