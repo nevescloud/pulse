@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T16:15:06.800Z",
+  "updated": "2026-07-14T19:20:01.387Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 254155897,
-      "likes": 5067,
+      "likes": 5068,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17831635,
-      "likes": 1199,
+      "likes": 1200,
       "tags": [
         "transformers",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14195389,
-      "likes": 1264,
+      "likes": 1266,
       "tags": [
         "transformers",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12458742,
-      "likes": 1420,
+      "likes": 1421,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 227,
+      "likes": 229,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 378207,
-      "likes": 943,
+      "likes": 945,
       "tags": [
         "transformers",
         "safetensors",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 51051,
-      "likes": 78,
+      "likes": 79,
       "tags": [
         "transformers",
         "gguf",
@@ -670,6 +670,24 @@
     },
     {
       "rank": 8,
+      "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+      "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+      "pipelineTag": "text-generation",
+      "downloads": 54,
+      "likes": 21,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gigachat_audio",
+        "text-generation",
+        "audio",
+        "speech"
+      ],
+      "lastModified": null,
+      "description": "GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the t…"
+    },
+    {
+      "rank": 9,
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
@@ -685,24 +703,6 @@
       ],
       "lastModified": null,
       "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
-    },
-    {
-      "rank": 9,
-      "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
-      "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
-      "pipelineTag": "text-generation",
-      "downloads": 54,
-      "likes": 18,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gigachat_audio",
-        "text-generation",
-        "audio",
-        "speech"
-      ],
-      "lastModified": null,
-      "description": "GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the t…"
     },
     {
       "rank": 10,
