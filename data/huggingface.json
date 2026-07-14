@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T13:43:56.427Z",
+  "updated": "2026-07-14T16:15:06.800Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 254155897,
-      "likes": 5066,
+      "likes": 5067,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 23627271,
-      "likes": 978,
+      "likes": 979,
       "tags": [
         "transformers",
         "pytorch",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14195389,
-      "likes": 1263,
+      "likes": 1264,
       "tags": [
         "transformers",
         "safetensors",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12561436,
-      "likes": 768,
+      "likes": 769,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 226,
+      "likes": 227,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 378207,
-      "likes": 937,
+      "likes": 943,
       "tags": [
         "transformers",
         "safetensors",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8510091,
-      "likes": 6303,
+      "likes": 6305,
       "tags": [
         "transformers",
         "safetensors",
@@ -688,6 +688,24 @@
     },
     {
       "rank": 9,
+      "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+      "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+      "pipelineTag": "text-generation",
+      "downloads": 54,
+      "likes": 18,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gigachat_audio",
+        "text-generation",
+        "audio",
+        "speech"
+      ],
+      "lastModified": null,
+      "description": "GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the t…"
+    },
+    {
+      "rank": 10,
       "id": "tencent/HiLS-Attention-7B",
       "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
       "pipelineTag": "text-generation",
@@ -703,24 +721,6 @@
       ],
       "lastModified": null,
       "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
-    },
-    {
-      "rank": 10,
-      "id": "jica98/qwen3.5-4B-super-coder",
-      "url": "https://huggingface.co/jica98/qwen3.5-4B-super-coder",
-      "pipelineTag": "text-generation",
-      "downloads": 34667,
-      "likes": 40,
-      "tags": [
-        "safetensors",
-        "gguf",
-        "qwen3_5",
-        "coding",
-        "tool-calling",
-        "unsloth"
-      ],
-      "lastModified": null,
-      "description": "qwen3.5-4B-super-coder is a 4-bit quantized GGUF model optimized for fast, reliable coding, structured tool calling, and active reasoning (thinking mode) on consumer/mobile hardware. It is distilled from Claude Sonnet 4.6 & Opus 4.6, and…"
     }
   ]
 }
