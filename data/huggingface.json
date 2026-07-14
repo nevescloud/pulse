@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T02:31:11.027Z",
+  "updated": "2026-07-14T05:30:42.800Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 253402358,
-      "likes": 5064,
+      "likes": 5065,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -25,7 +25,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 85113639,
-      "likes": 278,
+      "likes": 279,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27322220,
-      "likes": 1408,
+      "likes": 1409,
       "tags": [
         "transformers",
         "safetensors",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17977492,
-      "likes": 1198,
+      "likes": 1199,
       "tags": [
         "transformers",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12240365,
-      "likes": 3195,
+      "likes": 3197,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 68714,
-      "likes": 221,
+      "likes": 222,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 48904,
-      "likes": 71,
+      "likes": 74,
       "tags": [
         "transformers",
         "gguf",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 7132,
-      "likes": 45,
+      "likes": 46,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8452706,
-      "likes": 6299,
+      "likes": 6300,
       "tags": [
         "transformers",
         "safetensors",
@@ -739,6 +739,24 @@
       ],
       "lastModified": null,
       "description": "qwen3.5-4B-super-coder is a 4-bit quantized GGUF model optimized for fast, reliable coding, structured tool calling, and active reasoning (thinking mode) on consumer/mobile hardware. It is distilled from Claude Sonnet 4.6 & Opus 4.6, and…"
+    },
+    {
+      "rank": 12,
+      "id": "FrontiersMind/Lumma-0.6B-Base",
+      "url": "https://huggingface.co/FrontiersMind/Lumma-0.6B-Base",
+      "pipelineTag": "text-generation",
+      "downloads": 1004,
+      "likes": 14,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nandi",
+        "text-generation",
+        "custom_code",
+        "en"
+      ],
+      "lastModified": null,
+      "description": "600M Parameters • 1 Trillion Training Tokens • 12,288 Context Length • Shared KV"
     }
   ]
 }
