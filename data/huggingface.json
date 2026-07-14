@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T10:45:53.837Z",
+  "updated": "2026-07-14T13:43:56.427Z",
   "models": [
     {
       "rank": 1,
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 78962390,
-      "likes": 2703,
+      "likes": 2704,
       "tags": [
         "transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 50739228,
-      "likes": 1315,
+      "likes": 1316,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34986108,
-      "likes": 3226,
+      "likes": 3227,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -223,7 +223,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 22988767,
-      "likes": 864,
+      "likes": 865,
       "tags": [
         "transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17521387,
-      "likes": 1084,
+      "likes": 1085,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15057937,
-      "likes": 357,
+      "likes": 358,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 225,
+      "likes": 226,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 378207,
-      "likes": 936,
+      "likes": 937,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
       "downloads": 1677,
-      "likes": 68,
+      "likes": 69,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 8693,
-      "likes": 47,
+      "likes": 48,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8510091,
-      "likes": 6301,
+      "likes": 6303,
       "tags": [
         "transformers",
         "safetensors",
@@ -688,24 +688,6 @@
     },
     {
       "rank": 9,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "pipelineTag": "text-generation",
-      "downloads": 8888471,
-      "likes": 13466,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "conversational",
-        "custom_code"
-      ],
-      "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
-    },
-    {
-      "rank": 10,
       "id": "tencent/HiLS-Attention-7B",
       "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
       "pipelineTag": "text-generation",
@@ -723,7 +705,7 @@
       "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "jica98/qwen3.5-4B-super-coder",
       "url": "https://huggingface.co/jica98/qwen3.5-4B-super-coder",
       "pipelineTag": "text-generation",
