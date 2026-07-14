@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T08:05:04.695Z",
+  "updated": "2026-07-14T10:45:53.837Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34986108,
-      "likes": 3225,
+      "likes": 3226,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15057937,
-      "likes": 356,
+      "likes": 357,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -548,8 +548,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 68714,
-      "likes": 224,
+      "downloads": 89892,
+      "likes": 225,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -566,8 +566,8 @@
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 374822,
-      "likes": 935,
+      "downloads": 378207,
+      "likes": 936,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "id": "nvidia/Nemotron-Labs-Audex-2B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
-      "downloads": 1546,
+      "downloads": 1677,
       "likes": 68,
       "tags": [
         "transformers",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 51051,
-      "likes": 75,
+      "likes": 78,
       "tags": [
         "transformers",
         "gguf",
@@ -620,8 +620,8 @@
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 7132,
-      "likes": 46,
+      "downloads": 8693,
+      "likes": 47,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -673,8 +673,8 @@
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 85296,
-      "likes": 797,
+      "downloads": 85981,
+      "likes": 798,
       "tags": [
         "transformers",
         "safetensors",
@@ -688,10 +688,28 @@
     },
     {
       "rank": 9,
+      "id": "deepseek-ai/DeepSeek-R1",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+      "pipelineTag": "text-generation",
+      "downloads": 8888471,
+      "likes": 13466,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "deepseek_v3",
+        "text-generation",
+        "conversational",
+        "custom_code"
+      ],
+      "lastModified": null,
+      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
+    },
+    {
+      "rank": 10,
       "id": "tencent/HiLS-Attention-7B",
       "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
       "pipelineTag": "text-generation",
-      "downloads": 402,
+      "downloads": 464,
       "likes": 15,
       "tags": [
         "transformers",
@@ -705,29 +723,11 @@
       "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
     },
     {
-      "rank": 10,
-      "id": "deepseek-ai/DeepSeek-R1",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
-      "pipelineTag": "text-generation",
-      "downloads": 8888471,
-      "likes": 13465,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "deepseek_v3",
-        "text-generation",
-        "conversational",
-        "custom_code"
-      ],
-      "lastModified": null,
-      "description": "We introduce our first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1. DeepSeek-R1-Zero, a model trained via large-scale reinforcement learning (RL) without supervised fine-tuning (SFT) as a preliminary step, demonstrated …"
-    },
-    {
       "rank": 11,
       "id": "jica98/qwen3.5-4B-super-coder",
       "url": "https://huggingface.co/jica98/qwen3.5-4B-super-coder",
       "pipelineTag": "text-generation",
-      "downloads": 32782,
+      "downloads": 34667,
       "likes": 40,
       "tags": [
         "safetensors",
@@ -739,24 +739,6 @@
       ],
       "lastModified": null,
       "description": "qwen3.5-4B-super-coder is a 4-bit quantized GGUF model optimized for fast, reliable coding, structured tool calling, and active reasoning (thinking mode) on consumer/mobile hardware. It is distilled from Claude Sonnet 4.6 & Opus 4.6, and…"
-    },
-    {
-      "rank": 12,
-      "id": "FrontiersMind/Lumma-0.6B-Base",
-      "url": "https://huggingface.co/FrontiersMind/Lumma-0.6B-Base",
-      "pipelineTag": "text-generation",
-      "downloads": 1004,
-      "likes": 14,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nandi",
-        "text-generation",
-        "custom_code",
-        "en"
-      ],
-      "lastModified": null,
-      "description": "600M Parameters • 1 Trillion Training Tokens • 12,288 Context Length • Shared KV"
     }
   ]
 }
