@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:20:01.387Z",
+  "updated": "2026-07-14T21:57:32.196Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 34986108,
-      "likes": 3227,
+      "likes": 3228,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17831635,
-      "likes": 1200,
+      "likes": 1201,
       "tags": [
         "transformers",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14195389,
-      "likes": 1266,
+      "likes": 1265,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 229,
+      "likes": 231,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 378207,
-      "likes": 945,
+      "likes": 947,
       "tags": [
         "transformers",
         "safetensors",
@@ -635,6 +635,24 @@
     },
     {
       "rank": 6,
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "pipelineTag": "text-generation",
+      "downloads": 3483,
+      "likes": 36,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "minicpm",
+        "minicpm5"
+      ],
+      "lastModified": null,
+      "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF"
+    },
+    {
+      "rank": 7,
       "id": "DeepHat/DeepHat-V1-7B",
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
@@ -652,7 +670,7 @@
       "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -669,12 +687,12 @@
       "lastModified": null
     },
     {
-      "rank": 8,
+      "rank": 9,
       "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 54,
-      "likes": 21,
+      "likes": 23,
       "tags": [
         "transformers",
         "safetensors",
@@ -687,12 +705,12 @@
       "description": "GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the t…"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 85981,
-      "likes": 798,
+      "likes": 797,
       "tags": [
         "transformers",
         "safetensors",
@@ -703,24 +721,6 @@
       ],
       "lastModified": null,
       "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
-    },
-    {
-      "rank": 10,
-      "id": "tencent/HiLS-Attention-7B",
-      "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
-      "pipelineTag": "text-generation",
-      "downloads": 464,
-      "likes": 15,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "olmo_hils",
-        "text-generation",
-        "long-context",
-        "sparse-attention"
-      ],
-      "lastModified": null,
-      "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
     }
   ]
 }
