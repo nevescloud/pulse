@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T05:31:38.085Z",
+  "updated": "2026-07-15T08:10:21.279Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 121114,
-      "forks": 17913,
+      "stars": 121315,
+      "forks": 17926,
       "starsToday": 1106
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 170762,
-      "forks": 14693,
+      "stars": 171102,
+      "forks": 14710,
       "starsToday": 1679
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": 69482,
-      "forks": 7224,
+      "stars": 69652,
+      "forks": 7237,
       "starsToday": 4276
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 61977,
-      "forks": 10918,
+      "stars": 62029,
+      "forks": 10924,
       "starsToday": 109
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 6341,
-      "forks": 358,
+      "stars": 6459,
+      "forks": 360,
       "starsToday": 1015
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 23077,
-      "forks": 3956,
+      "stars": 23188,
+      "forks": 3975,
       "starsToday": 1256
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars": 51888,
-      "forks": 2142,
+      "stars": 52005,
+      "forks": 2146,
       "starsToday": 783
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars": 13744,
-      "forks": 1645,
+      "stars": 13859,
+      "forks": 1660,
       "starsToday": 851
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
-      "stars": 56271,
-      "forks": 3696,
+      "stars": 56341,
+      "forks": 3697,
       "starsToday": 395
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/AIEraDev/Clypra",
       "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
       "language": "TypeScript",
-      "stars": 2715,
-      "forks": 282,
+      "stars": 2765,
+      "forks": 281,
       "starsToday": 85
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/par274/sharpemu",
       "description": "An experimental PlayStation 5 emulator project.",
       "language": "C#",
-      "stars": 2226,
-      "forks": 144,
+      "stars": 2311,
+      "forks": 152,
       "starsToday": 332
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/chenyme/grok2api",
       "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
       "language": "Go",
-      "stars": 5917,
-      "forks": 1934,
+      "stars": 5959,
+      "forks": 1937,
       "starsToday": 186
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars": 86703,
-      "forks": 8525,
+      "stars": 86944,
+      "forks": 8546,
       "starsToday": 1851
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars": 5403,
-      "forks": 713,
+      "stars": 5502,
+      "forks": 720,
       "starsToday": 112
     }
   ]
