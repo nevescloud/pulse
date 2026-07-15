@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T21:57:32.196Z",
+  "updated": "2026-07-15T02:29:26.160Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 254155897,
-      "likes": 5068,
+      "likes": 5067,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 15143301,
-      "likes": 865,
+      "likes": 866,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14195389,
-      "likes": 1265,
+      "likes": 1266,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 231,
+      "likes": 235,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -581,6 +581,24 @@
     },
     {
       "rank": 3,
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+      "pipelineTag": "text-generation",
+      "downloads": 3483,
+      "likes": 67,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "minicpm",
+        "minicpm5"
+      ],
+      "lastModified": null,
+      "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF"
+    },
+    {
+      "rank": 4,
       "id": "nvidia/Nemotron-Labs-Audex-2B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
@@ -598,12 +616,12 @@
       "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 51051,
-      "likes": 79,
+      "likes": 84,
       "tags": [
         "transformers",
         "gguf",
@@ -616,12 +634,12 @@
       "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 8693,
-      "likes": 48,
+      "likes": 49,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -632,24 +650,6 @@
       ],
       "lastModified": null,
       "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
-    },
-    {
-      "rank": 6,
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-      "pipelineTag": "text-generation",
-      "downloads": 3483,
-      "likes": 36,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "minicpm",
-        "minicpm5"
-      ],
-      "lastModified": null,
-      "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF"
     },
     {
       "rank": 7,
@@ -675,7 +675,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8510091,
-      "likes": 6305,
+      "likes": 6306,
       "tags": [
         "transformers",
         "safetensors",
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 54,
-      "likes": 23,
+      "likes": 24,
       "tags": [
         "transformers",
         "safetensors",

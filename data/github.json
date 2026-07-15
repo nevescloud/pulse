@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T21:57:32.176Z",
+  "updated": "2026-07-15T02:29:26.815Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 120690,
-      "forks": 17866,
-      "starsToday": 1104
+      "stars": 120915,
+      "forks": 17888,
+      "starsToday": 1106
     },
     {
       "rank": 2,
@@ -22,9 +22,9 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 170096,
-      "forks": 14636,
-      "starsToday": 1864
+      "stars": 170432,
+      "forks": 14663,
+      "starsToday": 1679
     },
     {
       "rank": 3,
@@ -34,9 +34,9 @@
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars": 4351,
-      "forks": 163,
-      "starsToday": 481
+      "stars": 4444,
+      "forks": 167,
+      "starsToday": 473
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": 69054,
-      "forks": 7199,
-      "starsToday": 4349
+      "stars": 69298,
+      "forks": 7217,
+      "starsToday": 4276
     },
     {
       "rank": 5,
@@ -58,9 +58,9 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "description": "An AI Hedge Fund Team",
       "language": "Python",
-      "stars": 61830,
-      "forks": 10911,
-      "starsToday": 156
+      "stars": 61907,
+      "forks": 10916,
+      "starsToday": 109
     },
     {
       "rank": 6,
@@ -70,9 +70,9 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 6059,
-      "forks": 348,
-      "starsToday": 1010
+      "stars": 6223,
+      "forks": 356,
+      "starsToday": 1015
     },
     {
       "rank": 7,
@@ -82,9 +82,9 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 22770,
-      "forks": 3910,
-      "starsToday": 1265
+      "stars": 22918,
+      "forks": 3935,
+      "starsToday": 1256
     },
     {
       "rank": 8,
@@ -94,9 +94,9 @@
       "url": "https://github.com/Raphire/Win11Debloat",
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
-      "stars": 51550,
-      "forks": 2119,
-      "starsToday": 779
+      "stars": 51757,
+      "forks": 2133,
+      "starsToday": 783
     },
     {
       "rank": 9,
@@ -106,9 +106,9 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars": 13395,
-      "forks": 1591,
-      "starsToday": 864
+      "stars": 13605,
+      "forks": 1629,
+      "starsToday": 851
     },
     {
       "rank": 10,
@@ -118,9 +118,9 @@
       "url": "https://github.com/penpot/penpot",
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
-      "stars": 56114,
-      "forks": 3693,
-      "starsToday": 264
+      "stars": 56192,
+      "forks": 3694,
+      "starsToday": 395
     },
     {
       "rank": 11,
@@ -130,9 +130,9 @@
       "url": "https://github.com/AIEraDev/Clypra",
       "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
       "language": "TypeScript",
-      "stars": 2581,
-      "forks": 279,
-      "starsToday": 66
+      "stars": 2660,
+      "forks": 281,
+      "starsToday": 85
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/par274/sharpemu",
       "description": "An experimental PlayStation 5 emulator project.",
       "language": "C#",
-      "stars": 2063,
-      "forks": 132,
-      "starsToday": 448
+      "stars": 2166,
+      "forks": 136,
+      "starsToday": 332
     },
     {
       "rank": 13,
@@ -154,9 +154,9 @@
       "url": "https://github.com/chenyme/grok2api",
       "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
       "language": "Go",
-      "stars": 5833,
-      "forks": 1925,
-      "starsToday": 179
+      "stars": 5880,
+      "forks": 1928,
+      "starsToday": 186
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars": 86232,
-      "forks": 8486,
-      "starsToday": 1858
+      "stars": 86491,
+      "forks": 8507,
+      "starsToday": 1851
     },
     {
       "rank": 15,
@@ -178,9 +178,9 @@
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars": 5171,
-      "forks": 699,
-      "starsToday": 69
+      "stars": 5294,
+      "forks": 706,
+      "starsToday": 112
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T21:57:31.758Z",
+  "updated": "2026-07-15T02:29:25.998Z",
   "trending": [
     {
       "rank": 1,
@@ -82,13 +82,13 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7559,
+      "likes": 7561,
       "tags": [
         "docker",
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-07-14T09:30:32.000Z"
+      "lastModified": "2026-07-14T23:04:12.000Z"
     },
     {
       "rank": 7,
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3936,
+      "likes": 3937,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3550,
+      "likes": 3551,
       "tags": [
         "gradio",
         "mcp-server",
@@ -387,6 +387,21 @@
     },
     {
       "rank": 27,
+      "id": "r3gm/wan2-2-fp8da-aoti-preview",
+      "title": "Wan2.2 14B Preview",
+      "description": "generate a video from an image with a text prompt",
+      "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
+      "sdk": "gradio",
+      "likes": 2887,
+      "tags": [
+        "gradio",
+        "mcp-server",
+        "region:us"
+      ],
+      "lastModified": "2026-05-15T03:23:22.000Z"
+    },
+    {
+      "rank": 28,
       "id": "mrfakename/E2-F5-TTS",
       "title": "F5-TTS",
       "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
@@ -398,21 +413,6 @@
         "region:us"
       ],
       "lastModified": "2026-05-20T15:19:59.000Z"
-    },
-    {
-      "rank": 28,
-      "id": "r3gm/wan2-2-fp8da-aoti-preview",
-      "title": "Wan2.2 14B Preview",
-      "description": "generate a video from an image with a text prompt",
-      "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
-      "sdk": "gradio",
-      "likes": 2886,
-      "tags": [
-        "gradio",
-        "mcp-server",
-        "region:us"
-      ],
-      "lastModified": "2026-05-15T03:23:22.000Z"
     },
     {
       "rank": 29,
@@ -479,7 +479,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 312,
+      "likes": 313,
       "tags": [
         "static",
         "region:us"
@@ -591,7 +591,7 @@
       "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
       "sdk": "static",
-      "likes": 183,
+      "likes": 185,
       "tags": [
         "static",
         "region:us"
