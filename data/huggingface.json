@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T19:10:48.611Z",
+  "updated": "2026-07-15T22:00:32.779Z",
   "models": [
     {
       "rank": 1,
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17831635,
-      "likes": 1201,
+      "likes": 1203,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 244,
+      "likes": 246,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 3483,
-      "likes": 128,
+      "likes": 129,
       "tags": [
         "transformers",
         "safetensors",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 51051,
-      "likes": 86,
+      "likes": 87,
       "tags": [
         "transformers",
         "gguf",
@@ -617,6 +617,24 @@
     },
     {
       "rank": 5,
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 595,
+      "likes": 49,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "quantized",
+        "minicpm5",
+        "thinking",
+        "fable5"
+      ],
+      "lastModified": null,
+      "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
+      "rank": 6,
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
@@ -634,7 +652,7 @@
       "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
     },
     {
-      "rank": 6,
+      "rank": 7,
       "id": "nvidia/Nemotron-Labs-Audex-2B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
@@ -652,7 +670,7 @@
       "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "id": "DeepHat/DeepHat-V1-7B",
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
@@ -670,30 +688,12 @@
       "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
     },
     {
-      "rank": 8,
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 595,
-      "likes": 27,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "quantized",
-        "minicpm5",
-        "thinking",
-        "fable5"
-      ],
-      "lastModified": null,
-      "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
-    },
-    {
       "rank": 9,
       "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 54,
-      "likes": 27,
+      "likes": 28,
       "tags": [
         "transformers",
         "safetensors",
@@ -711,7 +711,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8510091,
-      "likes": 6309,
+      "likes": 6310,
       "tags": [
         "transformers",
         "safetensors",
@@ -728,7 +728,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 85981,
-      "likes": 800,
+      "likes": 801,
       "tags": [
         "transformers",
         "safetensors",
