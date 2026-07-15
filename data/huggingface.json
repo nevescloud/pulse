@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T13:43:37.400Z",
+  "updated": "2026-07-15T16:22:00.597Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 253910237,
-      "likes": 5069,
+      "likes": 5070,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 80047159,
-      "likes": 2704,
+      "likes": 2705,
       "tags": [
         "transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 51086306,
-      "likes": 1316,
+      "likes": 1317,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 31575689,
-      "likes": 1325,
+      "likes": 1326,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
       "downloads": 27574739,
-      "likes": 569,
+      "likes": 570,
       "tags": [
         "transformers",
         "pytorch",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 240,
+      "likes": 242,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 3483,
-      "likes": 127,
+      "likes": 128,
       "tags": [
         "transformers",
         "safetensors",
@@ -617,24 +617,6 @@
     },
     {
       "rank": 5,
-      "id": "nvidia/Nemotron-Labs-Audex-2B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
-      "pipelineTag": "text-generation",
-      "downloads": 1677,
-      "likes": 70,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_audex",
-        "nvidia",
-        "nemotron-labs-audex",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
-    },
-    {
-      "rank": 6,
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
@@ -650,6 +632,24 @@
       ],
       "lastModified": null,
       "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
+    },
+    {
+      "rank": 6,
+      "id": "nvidia/Nemotron-Labs-Audex-2B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
+      "pipelineTag": "text-generation",
+      "downloads": 1677,
+      "likes": 70,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_audex",
+        "nvidia",
+        "nemotron-labs-audex",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
     },
     {
       "rank": 7,
@@ -671,6 +671,24 @@
     },
     {
       "rank": 8,
+      "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+      "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+      "pipelineTag": "text-generation",
+      "downloads": 54,
+      "likes": 27,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gigachat_audio",
+        "text-generation",
+        "audio",
+        "speech"
+      ],
+      "lastModified": null,
+      "description": "GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the t…"
+    },
+    {
+      "rank": 9,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -687,30 +705,12 @@
       "lastModified": null
     },
     {
-      "rank": 9,
-      "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
-      "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
-      "pipelineTag": "text-generation",
-      "downloads": 54,
-      "likes": 26,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gigachat_audio",
-        "text-generation",
-        "audio",
-        "speech"
-      ],
-      "lastModified": null,
-      "description": "GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the t…"
-    },
-    {
       "rank": 10,
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 85981,
-      "likes": 799,
+      "likes": 800,
       "tags": [
         "transformers",
         "safetensors",
@@ -728,7 +728,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 27226,
-      "likes": 195,
+      "likes": 198,
       "tags": [
         "transformers",
         "gguf",
@@ -742,6 +742,41 @@
     },
     {
       "rank": 12,
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 595,
+      "likes": 17,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "quantized",
+        "minicpm5",
+        "thinking",
+        "fable5"
+      ],
+      "lastModified": null,
+      "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
+      "rank": 13,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1459200,
+      "likes": 4715,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 14,
       "id": "tencent/HiLS-Attention-7B",
       "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
       "pipelineTag": "text-generation",
@@ -757,23 +792,6 @@
       ],
       "lastModified": null,
       "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
-    },
-    {
-      "rank": 13,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1459200,
-      "likes": 4714,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     }
   ]
 }
