@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T16:22:00.354Z",
+  "updated": "2026-07-15T19:10:48.227Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11167,
+      "likes": 11168,
       "tags": [
         "docker",
         "region:us"
@@ -88,7 +88,7 @@
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-07-14T23:04:12.000Z"
+      "lastModified": "2026-07-15T16:49:30.000Z"
     },
     {
       "rank": 7,
@@ -288,7 +288,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3330,
+      "likes": 3331,
       "tags": [
         "gradio",
         "region:us"
@@ -387,20 +387,6 @@
     },
     {
       "rank": 27,
-      "id": "mrfakename/E2-F5-TTS",
-      "title": "F5-TTS",
-      "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
-      "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
-      "sdk": "gradio",
-      "likes": 2887,
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "lastModified": "2026-05-20T15:19:59.000Z"
-    },
-    {
-      "rank": 28,
       "id": "r3gm/wan2-2-fp8da-aoti-preview",
       "title": "Wan2.2 14B Preview",
       "description": "generate a video from an image with a text prompt",
@@ -413,6 +399,20 @@
         "region:us"
       ],
       "lastModified": "2026-05-15T03:23:22.000Z"
+    },
+    {
+      "rank": 28,
+      "id": "mrfakename/E2-F5-TTS",
+      "title": "F5-TTS",
+      "description": "F5-TTS & E2-TTS: Zero-Shot Voice Cloning (Unofficial Demo)",
+      "url": "https://huggingface.co/spaces/mrfakename/E2-F5-TTS",
+      "sdk": "gradio",
+      "likes": 2886,
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "lastModified": "2026-05-20T15:19:59.000Z"
     },
     {
       "rank": 29,
@@ -479,7 +479,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 313,
+      "likes": 314,
       "tags": [
         "static",
         "region:us"
@@ -726,6 +726,20 @@
     },
     {
       "rank": 21,
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "title": "Bonsai 27B WebGPU Kernels",
+      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
+      "sdk": "static",
+      "likes": 110,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-07-14T23:12:47.000Z"
+    },
+    {
+      "rank": 22,
       "id": "webml-community/FunctionGemma-Physics-Playground",
       "title": "FunctionGemma Physics Playground",
       "description": "Use natural language to solve fun physics simulation puzzles",
@@ -739,7 +753,7 @@
       "lastModified": "2025-12-18T17:28:14.000Z"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "webml-community/qwen3-webgpu",
       "title": "Qwen3 WebGPU",
       "description": "A hybrid reasoning model that runs locally in your browser.",
@@ -751,20 +765,6 @@
         "region:us"
       ],
       "lastModified": "2025-04-29T02:03:46.000Z"
-    },
-    {
-      "rank": 23,
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "title": "Bonsai 27B WebGPU Kernels",
-      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
-      "sdk": "static",
-      "likes": 103,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-07-14T23:12:47.000Z"
     },
     {
       "rank": 24,
