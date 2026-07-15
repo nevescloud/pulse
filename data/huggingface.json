@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T08:10:21.307Z",
+  "updated": "2026-07-15T10:49:49.914Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 253910237,
-      "likes": 5068,
+      "likes": 5069,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 35038576,
-      "likes": 3228,
+      "likes": 3229,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 27190743,
-      "likes": 1410,
+      "likes": 1411,
       "tags": [
         "transformers",
         "safetensors",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 15057937,
-      "likes": 360,
+      "likes": 361,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 14044250,
-      "likes": 3343,
+      "likes": 3345,
       "tags": [
         "transformers",
         "pytorch",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 238,
+      "likes": 239,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 3483,
-      "likes": 114,
+      "likes": 127,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 378207,
-      "likes": 948,
+      "likes": 950,
       "tags": [
         "transformers",
         "safetensors",
@@ -639,7 +639,7 @@
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 8693,
-      "likes": 49,
+      "likes": 52,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
       "pipelineTag": "text-generation",
       "downloads": 12339,
-      "likes": 194,
+      "likes": 195,
       "tags": [
         "transformers",
         "safetensors",
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 54,
-      "likes": 24,
+      "likes": 25,
       "tags": [
         "transformers",
         "safetensors",
@@ -739,6 +739,24 @@
       ],
       "lastModified": null,
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
+      "rank": 12,
+      "id": "tencent/HiLS-Attention-7B",
+      "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
+      "pipelineTag": "text-generation",
+      "downloads": 464,
+      "likes": 15,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "olmo_hils",
+        "text-generation",
+        "long-context",
+        "sparse-attention"
+      ],
+      "lastModified": null,
+      "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
     }
   ]
 }
