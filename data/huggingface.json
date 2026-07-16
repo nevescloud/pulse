@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:11:07.832Z",
+  "updated": "2026-07-16T22:03:32.296Z",
   "models": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 83692946,
-      "likes": 281,
+      "likes": 282,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 23321805,
-      "likes": 866,
+      "likes": 867,
       "tags": [
         "transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17088344,
-      "likes": 1207,
+      "likes": 1208,
       "tags": [
         "transformers",
         "safetensors",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-large",
       "pipelineTag": "feature-extraction",
       "downloads": 12708802,
-      "likes": 1224,
+      "likes": 1225,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12654707,
-      "likes": 772,
+      "likes": 773,
       "tags": [
         "transformers",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12203723,
-      "likes": 3232,
+      "likes": 3236,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 4117,
-      "likes": 130,
+      "likes": 131,
       "tags": [
         "transformers",
         "safetensors",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 121296,
-      "likes": 260,
+      "likes": 261,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 369059,
-      "likes": 959,
+      "likes": 961,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 52825,
-      "likes": 91,
+      "likes": 92,
       "tags": [
         "transformers",
         "gguf",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 1901,
-      "likes": 32,
+      "likes": 34,
       "tags": [
         "transformers",
         "safetensors",
@@ -671,6 +671,23 @@
     },
     {
       "rank": 8,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8221617,
+      "likes": 6321,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
       "id": "nvidia/Nemotron-Labs-Audex-2B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
@@ -686,23 +703,6 @@
       ],
       "lastModified": null,
       "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
-    },
-    {
-      "rank": 9,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8221617,
-      "likes": 6321,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 10,
@@ -724,24 +724,6 @@
     },
     {
       "rank": 11,
-      "id": "DeepHat/DeepHat-V1-7B",
-      "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
-      "pipelineTag": "text-generation",
-      "downloads": 12050,
-      "likes": 196,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "code",
-        "qwen-coder"
-      ],
-      "lastModified": null,
-      "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
-    },
-    {
-      "rank": 12,
       "id": "InternScience/Agents-A1-4B",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
@@ -759,7 +741,7 @@
       "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -776,12 +758,30 @@
       "lastModified": null
     },
     {
+      "rank": 13,
+      "id": "DeepHat/DeepHat-V1-7B",
+      "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
+      "pipelineTag": "text-generation",
+      "downloads": 12050,
+      "likes": 196,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "code",
+        "qwen-coder"
+      ],
+      "lastModified": null,
+      "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
+    },
+    {
       "rank": 14,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 637,
-      "likes": 18,
+      "likes": 19,
       "tags": [
         "transformers",
         "safetensors",
@@ -799,7 +799,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 52988,
-      "likes": 200,
+      "likes": 201,
       "tags": [
         "transformers",
         "gguf",

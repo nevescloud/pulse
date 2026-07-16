@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:11:07.617Z",
+  "updated": "2026-07-16T22:03:32.156Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
-      "stars": 843,
-      "forks": 129,
+      "stars": 869,
+      "forks": 133,
       "starsToday": 81
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 10567,
-      "forks": 521,
+      "stars": 10748,
+      "forks": 530,
       "starsToday": 3181
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": 73797,
-      "forks": 7472,
+      "stars": 73897,
+      "forks": 7474,
       "starsToday": 3290
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 35759,
-      "forks": 2985,
+      "stars": 35799,
+      "forks": 2986,
       "starsToday": 146
     },
     {
@@ -56,10 +56,10 @@
       "name": "openinterpreter",
       "fullName": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
-      "description": "A coding agent for low-cost models",
+      "description": "A Codex-compatible coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars": 65911,
-      "forks": 5671,
+      "stars": 65941,
+      "forks": 5672,
       "starsToday": 633
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
       "language": "Shell",
-      "stars": 1469,
-      "forks": 150,
+      "stars": 1486,
+      "forks": 152,
       "starsToday": 323
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars": 14908,
-      "forks": 1789,
+      "stars": 14979,
+      "forks": 1796,
       "starsToday": 697
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 122701,
-      "forks": 18102,
+      "stars": 122787,
+      "forks": 18107,
       "starsToday": 935
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/lobehub/lobehub",
       "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
       "language": "TypeScript",
-      "stars": 80074,
-      "forks": 15609,
+      "stars": 80119,
+      "forks": 15610,
       "starsToday": 51
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/YimMenu/YimMenuV2",
       "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
-      "stars": 1491,
-      "forks": 357,
+      "stars": 1496,
+      "forks": 358,
       "starsToday": 122
     },
     {
@@ -130,7 +130,7 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "stars": 26783,
+      "stars": 26821,
       "forks": 3608,
       "starsToday": 647
     },
@@ -142,8 +142,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 173993,
-      "forks": 14927,
+      "stars": 174122,
+      "forks": 14942,
       "starsToday": 2073
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars": 9606,
-      "forks": 1315,
+      "stars": 9624,
+      "forks": 1316,
       "starsToday": 62
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars": 4132,
-      "forks": 172,
+      "stars": 4200,
+      "forks": 174,
       "starsToday": 141
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars": 88771,
-      "forks": 8683,
+      "stars": 88913,
+      "forks": 8689,
       "starsToday": 1138
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 526152,
-      "forks": 49782,
+      "stars": 526238,
+      "forks": 49790,
       "starsToday": 549
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/ossu/computer-science",
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
-      "stars": 206402,
-      "forks": 25625,
+      "stars": 206463,
+      "forks": 25629,
       "starsToday": 125
     }
   ]
