@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T02:37:34.469Z",
+  "updated": "2026-07-16T05:40:59.459Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": 72007,
-      "forks": 7368,
+      "stars": 72443,
+      "forks": 7396,
       "starsToday": 1664
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 8752,
-      "forks": 449,
+      "stars": 9171,
+      "forks": 467,
       "starsToday": 1277
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 172436,
-      "forks": 14809,
+      "stars": 172711,
+      "forks": 14830,
       "starsToday": 2130
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/moeru-ai/airi",
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "language": "TypeScript",
-      "stars": 42553,
-      "forks": 4253,
+      "stars": 42622,
+      "forks": 4257,
       "starsToday": 110
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "language": "Rust",
-      "stars": 4797,
-      "forks": 179,
+      "stars": 4848,
+      "forks": 182,
       "starsToday": 471
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "language": "Python",
-      "stars": 23765,
-      "forks": 4048,
+      "stars": 23865,
+      "forks": 4057,
       "starsToday": 915
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for low-cost models",
       "language": "Rust",
-      "stars": 65532,
-      "forks": 5655,
+      "stars": 65605,
+      "forks": 5659,
       "starsToday": 299
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "stars": 26343,
-      "forks": 3572,
+      "stars": 26441,
+      "forks": 3581,
       "starsToday": 172
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars": 5966,
-      "forks": 745,
+      "stars": 6028,
+      "forks": 749,
       "starsToday": 725
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 121981,
-      "forks": 17999,
+      "stars": 122107,
+      "forks": 18020,
       "starsToday": 1236
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/coreyhaines31/marketingskills",
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "language": "JavaScript",
-      "stars": 39810,
-      "forks": 6324,
+      "stars": 39904,
+      "forks": 6328,
       "starsToday": 340
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/YimMenu/YimMenuV2",
       "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
-      "stars": 1431,
-      "forks": 355,
+      "stars": 1453,
+      "forks": 356,
       "starsToday": 38
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars": 14435,
-      "forks": 1731,
+      "stars": 14525,
+      "forks": 1744,
       "starsToday": 949
     }
   ]

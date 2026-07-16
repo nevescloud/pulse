@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T02:37:33.795Z",
+  "updated": "2026-07-16T05:40:59.651Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 35038576,
-      "likes": 3230,
+      "likes": 3231,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17531532,
-      "likes": 1085,
+      "likes": 1086,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14195389,
-      "likes": 1269,
+      "likes": 1271,
       "tags": [
         "transformers",
         "safetensors",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12561436,
-      "likes": 769,
+      "likes": 770,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 89892,
-      "likes": 250,
+      "likes": 253,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -581,29 +581,11 @@
     },
     {
       "rank": 3,
-      "id": "openbmb/MiniCPM5-1B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 378207,
-      "likes": 951,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "minicpm",
-        "minicpm5"
-      ],
-      "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
-      "rank": 4,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 595,
-      "likes": 70,
+      "likes": 88,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -614,6 +596,24 @@
       ],
       "lastModified": null,
       "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
+      "rank": 4,
+      "id": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "pipelineTag": "text-generation",
+      "downloads": 378207,
+      "likes": 952,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "minicpm",
+        "minicpm5"
+      ],
+      "lastModified": null,
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
       "rank": 5,
@@ -707,6 +707,23 @@
     },
     {
       "rank": 10,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8510091,
+      "likes": 6312,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 11,
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
@@ -722,23 +739,6 @@
       ],
       "lastModified": null,
       "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
-    },
-    {
-      "rank": 11,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8510091,
-      "likes": 6309,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 12,
@@ -764,7 +764,7 @@
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1459200,
-      "likes": 4717,
+      "likes": 4719,
       "tags": [
         "transformers",
         "safetensors",
