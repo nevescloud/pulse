@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T22:00:32.645Z",
+  "updated": "2026-07-16T02:37:33.586Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9480,
+      "likes": 9481,
       "tags": [
         "gradio",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3939,
+      "likes": 3940,
       "tags": [
         "static",
         "region:us"
@@ -717,7 +717,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 117,
+      "likes": 124,
       "tags": [
         "static",
         "region:us"
@@ -731,7 +731,7 @@
       "description": "Blazingly fast text-to-speech 100% locally in your browser!",
       "url": "https://huggingface.co/spaces/webml-community/Supertonic-TTS-WebGPU",
       "sdk": "static",
-      "likes": 116,
+      "likes": 117,
       "tags": [
         "static",
         "region:us"
