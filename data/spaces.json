@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T11:00:13.163Z",
+  "updated": "2026-07-16T13:50:55.296Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14043,
+      "likes": 14044,
       "tags": [
         "docker",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3558,
+      "likes": 3559,
       "tags": [
         "gradio",
         "mcp-server",
@@ -302,7 +302,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3324,
+      "likes": 3325,
       "tags": [
         "gradio",
         "mcp-server",
@@ -689,7 +689,7 @@
       "description": "Visualize embeddings in 3D space, powered by EmbeddingGemma",
       "url": "https://huggingface.co/spaces/webml-community/semantic-galaxy",
       "sdk": "static",
-      "likes": 151,
+      "likes": 152,
       "tags": [
         "static",
         "region:us"
@@ -698,6 +698,20 @@
     },
     {
       "rank": 19,
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "title": "Bonsai 27B WebGPU Kernels",
+      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
+      "sdk": "static",
+      "likes": 143,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-07-14T23:12:47.000Z"
+    },
+    {
+      "rank": 20,
       "id": "webml-community/moonshine-web",
       "title": "Moonshine Web",
       "description": "Real-time in-browser speech recognition",
@@ -709,20 +723,6 @@
         "region:us"
       ],
       "lastModified": "2024-12-18T15:11:39.000Z"
-    },
-    {
-      "rank": 20,
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "title": "Bonsai 27B WebGPU Kernels",
-      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
-      "sdk": "static",
-      "likes": 135,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-07-14T23:12:47.000Z"
     },
     {
       "rank": 21,
