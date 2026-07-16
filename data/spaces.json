@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T13:50:55.296Z",
+  "updated": "2026-07-16T16:16:42.022Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14044,
+      "likes": 14045,
       "tags": [
         "docker",
         "leaderboard",
@@ -392,7 +392,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2889,
+      "likes": 2888,
       "tags": [
         "gradio",
         "mcp-server",
@@ -703,7 +703,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 143,
+      "likes": 149,
       "tags": [
         "static",
         "region:us"
