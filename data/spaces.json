@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T05:40:59.472Z",
+  "updated": "2026-07-16T11:00:13.163Z",
   "trending": [
     {
       "rank": 1,
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10129,
+      "likes": 10130,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7565,
+      "likes": 7566,
       "tags": [
         "docker",
         "leaderboard",
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3940,
+      "likes": 3942,
       "tags": [
         "static",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3557,
+      "likes": 3558,
       "tags": [
         "gradio",
         "mcp-server",
@@ -302,7 +302,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3322,
+      "likes": 3324,
       "tags": [
         "gradio",
         "mcp-server",
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3239,
+      "likes": 3240,
       "tags": [
         "docker",
         "research-article-template",
@@ -377,7 +377,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2891,
+      "likes": 2892,
       "tags": [
         "gradio",
         "mcp-server",
@@ -392,7 +392,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2888,
+      "likes": 2889,
       "tags": [
         "gradio",
         "mcp-server",
@@ -675,7 +675,7 @@
       "description": "Run 1.58-bit Bonsai LLMs locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-ternary-webgpu",
       "sdk": "static",
-      "likes": 152,
+      "likes": 153,
       "tags": [
         "static",
         "region:us"
@@ -717,7 +717,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 131,
+      "likes": 135,
       "tags": [
         "static",
         "region:us"
