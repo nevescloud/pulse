@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T16:16:42.461Z",
+  "updated": "2026-07-16T19:11:07.832Z",
   "models": [
     {
       "rank": 1,
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
       "downloads": 27239356,
-      "likes": 572,
+      "likes": 573,
       "tags": [
         "transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17088344,
-      "likes": 1206,
+      "likes": 1207,
       "tags": [
         "transformers",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12203723,
-      "likes": 3230,
+      "likes": 3232,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 4117,
-      "likes": 129,
+      "likes": 130,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 3691,
-      "likes": 93,
+      "likes": 94,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 52825,
-      "likes": 90,
+      "likes": 91,
       "tags": [
         "transformers",
         "gguf",
@@ -639,7 +639,7 @@
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 10552,
-      "likes": 54,
+      "likes": 55,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -693,7 +693,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8221617,
-      "likes": 6319,
+      "likes": 6321,
       "tags": [
         "transformers",
         "safetensors",
@@ -706,24 +706,6 @@
     },
     {
       "rank": 10,
-      "id": "DeepHat/DeepHat-V1-7B",
-      "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
-      "pipelineTag": "text-generation",
-      "downloads": 12050,
-      "likes": 196,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "code",
-        "qwen-coder"
-      ],
-      "lastModified": null,
-      "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
-    },
-    {
-      "rank": 11,
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
@@ -739,6 +721,24 @@
       ],
       "lastModified": null,
       "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
+    },
+    {
+      "rank": 11,
+      "id": "DeepHat/DeepHat-V1-7B",
+      "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
+      "pipelineTag": "text-generation",
+      "downloads": 12050,
+      "likes": 196,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "code",
+        "qwen-coder"
+      ],
+      "lastModified": null,
+      "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
     },
     {
       "rank": 12,
@@ -760,6 +760,23 @@
     },
     {
       "rank": 13,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1426445,
+      "likes": 4722,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 14,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
@@ -777,7 +794,7 @@
       "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
@@ -795,21 +812,22 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 15,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "rank": 16,
+      "id": "tencent/HiLS-Attention-7B",
+      "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
       "pipelineTag": "text-generation",
-      "downloads": 1426445,
-      "likes": 4721,
+      "downloads": 520,
+      "likes": 16,
       "tags": [
         "transformers",
         "safetensors",
-        "llama",
+        "olmo_hils",
         "text-generation",
-        "facebook",
-        "meta"
+        "long-context",
+        "sparse-attention"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
     }
   ]
 }
