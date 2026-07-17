@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T08:09:49.351Z",
+  "updated": "2026-07-17T10:46:58.657Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 253221637,
-      "likes": 5074,
+      "likes": 5075,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -363,6 +363,24 @@
     },
     {
       "rank": 21,
+      "id": "google/gemma-4-26B-A4B-it",
+      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+      "pipelineTag": "image-text-to-text",
+      "downloads": 14050306,
+      "likes": 1278,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
+    },
+    {
+      "rank": 22,
       "id": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
@@ -380,7 +398,7 @@
       "description": "Test the whole generation capabilities here: https://transformer.huggingface.co/doc/gpt2-large"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "id": "autogluon/chronos-bolt-small",
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
@@ -396,24 +414,6 @@
       ],
       "lastModified": null,
       "description": "🚀 Update Feb 14, 2025: Chronos-Bolt models are now available on Amazon SageMaker JumpStart! Check out the tutorial notebook to learn how to deploy Chronos endpoints for production use in a few lines of code."
-    },
-    {
-      "rank": 23,
-      "id": "google/gemma-4-26B-A4B-it",
-      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-      "pipelineTag": "image-text-to-text",
-      "downloads": 13874946,
-      "likes": 1278,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gemma4",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
     },
     {
       "rank": 24,
@@ -528,8 +528,8 @@
       "id": "google/gemma-4-31B-it",
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
-      "downloads": 12203723,
-      "likes": 3239,
+      "downloads": 12499574,
+      "likes": 3242,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,8 +548,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 4117,
-      "likes": 131,
+      "downloads": 4840,
+      "likes": 132,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 3691,
+      "downloads": 6367,
       "likes": 100,
       "tags": [
         "gguf",
@@ -584,8 +584,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 121296,
-      "likes": 269,
+      "downloads": 154762,
+      "likes": 271,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -602,8 +602,8 @@
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 369059,
-      "likes": 964,
+      "downloads": 386275,
+      "likes": 965,
       "tags": [
         "transformers",
         "safetensors",
@@ -638,8 +638,8 @@
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 10552,
-      "likes": 55,
+      "downloads": 11848,
+      "likes": 56,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -656,7 +656,7 @@
       "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
-      "downloads": 1901,
+      "downloads": 21543,
       "likes": 36,
       "tags": [
         "transformers",
@@ -675,7 +675,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8310650,
-      "likes": 6324,
+      "likes": 6326,
       "tags": [
         "transformers",
         "safetensors",
@@ -691,7 +691,7 @@
       "id": "nvidia/Nemotron-Labs-Audex-2B",
       "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
       "pipelineTag": "text-generation",
-      "downloads": 1798,
+      "downloads": 2157,
       "likes": 71,
       "tags": [
         "transformers",
@@ -709,7 +709,7 @@
       "id": "InternScience/Agents-A1-4B",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
-      "downloads": 518,
+      "downloads": 1586,
       "likes": 21,
       "tags": [
         "transformers",
@@ -727,7 +727,7 @@
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 82861,
+      "downloads": 78824,
       "likes": 802,
       "tags": [
         "transformers",
@@ -745,7 +745,7 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 637,
+      "downloads": 917,
       "likes": 20,
       "tags": [
         "transformers",
@@ -777,10 +777,28 @@
     },
     {
       "rank": 14,
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+      "pipelineTag": "text-generation",
+      "downloads": 18995,
+      "likes": 751,
+      "tags": [
+        "llama.cpp",
+        "gguf",
+        "1-bit",
+        "llama-cpp",
+        "cuda",
+        "metal"
+      ],
+      "lastModified": null,
+      "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 15,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 52988,
+      "downloads": 64286,
       "likes": 201,
       "tags": [
         "transformers",
@@ -794,29 +812,11 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 15,
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
-      "pipelineTag": "text-generation",
-      "downloads": 14343,
-      "likes": 750,
-      "tags": [
-        "llama.cpp",
-        "gguf",
-        "1-bit",
-        "llama-cpp",
-        "cuda",
-        "metal"
-      ],
-      "lastModified": null,
-      "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
-    },
-    {
       "rank": 16,
       "id": "tencent/HiLS-Attention-7B",
       "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
       "pipelineTag": "text-generation",
-      "downloads": 520,
+      "downloads": 567,
       "likes": 16,
       "tags": [
         "transformers",
