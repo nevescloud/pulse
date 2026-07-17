@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T05:42:27.335Z",
+  "updated": "2026-07-17T08:09:48.986Z",
   "trending": [
     {
       "rank": 1,
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4945,
+      "likes": 4946,
       "tags": [
         "static",
         "leaderboard",
@@ -392,7 +392,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2892,
+      "likes": 2893,
       "tags": [
         "gradio",
         "mcp-server",
@@ -614,6 +614,20 @@
     },
     {
       "rank": 13,
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "title": "Bonsai 27B WebGPU Kernels",
+      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
+      "sdk": "static",
+      "likes": 174,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-07-14T23:12:47.000Z"
+    },
+    {
+      "rank": 14,
       "id": "webml-community/bedtime-story-generator",
       "title": "Bedtime Story Generator",
       "description": "Craft magical tales in seconds.",
@@ -625,20 +639,6 @@
         "region:us"
       ],
       "lastModified": "2026-05-12T19:30:44.000Z"
-    },
-    {
-      "rank": 14,
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "title": "Bonsai 27B WebGPU Kernels",
-      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
-      "sdk": "static",
-      "likes": 169,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-07-14T23:12:47.000Z"
     },
     {
       "rank": 15,
