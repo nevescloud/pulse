@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T10:46:58.657Z",
+  "updated": "2026-07-17T13:37:53.836Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 253221637,
-      "likes": 5075,
+      "likes": 5076,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -25,7 +25,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 84992380,
-      "likes": 282,
+      "likes": 284,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 80085499,
-      "likes": 2706,
+      "likes": 2707,
       "tags": [
         "transformers",
         "pytorch",
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 66544791,
-      "likes": 512,
+      "likes": 513,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 55826084,
-      "likes": 140,
+      "likes": 141,
       "tags": [
         "transformers",
         "pytorch",
@@ -97,7 +97,7 @@
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 50874656,
-      "likes": 1320,
+      "likes": 1321,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 35139752,
-      "likes": 3234,
+      "likes": 3236,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -133,7 +133,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 30639693,
-      "likes": 1329,
+      "likes": 1330,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
       "downloads": 27803317,
-      "likes": 573,
+      "likes": 574,
       "tags": [
         "transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 26281600,
-      "likes": 1416,
+      "likes": 1418,
       "tags": [
         "transformers",
         "safetensors",
@@ -187,7 +187,7 @@
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
       "pipelineTag": "image-classification",
       "downloads": 24821867,
-      "likes": 90,
+      "likes": 92,
       "tags": [
         "timm",
         "pytorch",
@@ -205,7 +205,7 @@
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
       "downloads": 23861043,
-      "likes": 867,
+      "likes": 868,
       "tags": [
         "transformers",
         "pytorch",
@@ -223,7 +223,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 23640354,
-      "likes": 981,
+      "likes": 982,
       "tags": [
         "transformers",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17713939,
-      "likes": 1087,
+      "likes": 1089,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17314843,
-      "likes": 1208,
+      "likes": 1209,
       "tags": [
         "transformers",
         "safetensors",
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/facebook/opt-125m",
       "pipelineTag": "text-generation",
       "downloads": 15896389,
-      "likes": 277,
+      "likes": 278,
       "tags": [
         "transformers",
         "pytorch",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-small",
       "pipelineTag": "sentence-similarity",
       "downloads": 15032657,
-      "likes": 363,
+      "likes": 365,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
       "downloads": 14888586,
-      "likes": 868,
+      "likes": 869,
       "tags": [
         "sentence-transformers",
         "onnx",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 14831900,
-      "likes": 362,
+      "likes": 364,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 14387876,
-      "likes": 700,
+      "likes": 701,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14050306,
-      "likes": 1278,
+      "likes": 1279,
       "tags": [
         "transformers",
         "safetensors",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 14037132,
-      "likes": 3348,
+      "likes": 3349,
       "tags": [
         "transformers",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/autogluon/chronos-bolt-small",
       "pipelineTag": "time-series-forecasting",
       "downloads": 13917441,
-      "likes": 52,
+      "likes": 53,
       "tags": [
         "safetensors",
         "t5",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/lpiccinelli/unidepth-v2-vitl14",
       "pipelineTag": null,
       "downloads": 13712188,
-      "likes": 38,
+      "likes": 39,
       "tags": [
         "UniDepth",
         "pytorch",
@@ -439,7 +439,7 @@
       "url": "https://huggingface.co/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "pipelineTag": "text-generation",
       "downloads": 13604810,
-      "likes": 14,
+      "likes": 15,
       "tags": [
         "transformers",
         "safetensors",
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13291422,
-      "likes": 773,
+      "likes": 774,
       "tags": [
         "transformers",
         "safetensors",
@@ -475,7 +475,7 @@
       "url": "https://huggingface.co/openai/clip-vit-large-patch14",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 13186994,
-      "likes": 2053,
+      "likes": 2054,
       "tags": [
         "transformers",
         "pytorch",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
       "downloads": 12861213,
-      "likes": 309,
+      "likes": 310,
       "tags": [
         "transformers",
         "pytorch",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-large",
       "pipelineTag": "feature-extraction",
       "downloads": 12742758,
-      "likes": 1225,
+      "likes": 1226,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12499574,
-      "likes": 3242,
+      "likes": 3244,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 6367,
-      "likes": 100,
+      "likes": 101,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 386275,
-      "likes": 965,
+      "likes": 966,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 54978,
-      "likes": 95,
+      "likes": 96,
       "tags": [
         "transformers",
         "gguf",
@@ -639,7 +639,7 @@
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 11848,
-      "likes": 56,
+      "likes": 57,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
       "downloads": 21543,
-      "likes": 36,
+      "likes": 37,
       "tags": [
         "transformers",
         "safetensors",
@@ -688,24 +688,6 @@
     },
     {
       "rank": 9,
-      "id": "nvidia/Nemotron-Labs-Audex-2B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
-      "pipelineTag": "text-generation",
-      "downloads": 2157,
-      "likes": 71,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_audex",
-        "nvidia",
-        "nemotron-labs-audex",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
-    },
-    {
-      "rank": 10,
       "id": "InternScience/Agents-A1-4B",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
@@ -723,7 +705,7 @@
       "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
@@ -739,6 +721,24 @@
       ],
       "lastModified": null,
       "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
+    },
+    {
+      "rank": 11,
+      "id": "nvidia/Nemotron-Labs-Audex-2B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
+      "pipelineTag": "text-generation",
+      "downloads": 2157,
+      "likes": 71,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_audex",
+        "nvidia",
+        "nemotron-labs-audex",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
     },
     {
       "rank": 12,
@@ -764,7 +764,7 @@
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1451415,
-      "likes": 4723,
+      "likes": 4725,
       "tags": [
         "transformers",
         "safetensors",
@@ -810,24 +810,6 @@
       ],
       "lastModified": null,
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
-      "rank": 16,
-      "id": "tencent/HiLS-Attention-7B",
-      "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
-      "pipelineTag": "text-generation",
-      "downloads": 567,
-      "likes": 16,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "olmo_hils",
-        "text-generation",
-        "long-context",
-        "sparse-attention"
-      ],
-      "lastModified": null,
-      "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
     }
   ]
 }
