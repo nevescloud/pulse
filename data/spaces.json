@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T22:03:32.218Z",
+  "updated": "2026-07-17T02:39:55.909Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14045,
+      "likes": 14047,
       "tags": [
         "docker",
         "leaderboard",
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7567,
+      "likes": 7568,
       "tags": [
         "docker",
         "leaderboard",
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4944,
+      "likes": 4945,
       "tags": [
         "static",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3559,
+      "likes": 3560,
       "tags": [
         "gradio",
         "mcp-server",
@@ -288,7 +288,7 @@
       "description": "Text-to-3D and Image-to-3D Generation",
       "url": "https://huggingface.co/spaces/tencent/Hunyuan3D-2",
       "sdk": "gradio",
-      "likes": 3332,
+      "likes": 3333,
       "tags": [
         "gradio",
         "region:us"
@@ -392,7 +392,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2889,
+      "likes": 2892,
       "tags": [
         "gradio",
         "mcp-server",
@@ -628,6 +628,20 @@
     },
     {
       "rank": 14,
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "title": "Bonsai 27B WebGPU Kernels",
+      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
+      "sdk": "static",
+      "likes": 162,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-07-14T23:12:47.000Z"
+    },
+    {
+      "rank": 15,
       "id": "webml-community/smolvlm-realtime-webgpu",
       "title": "SmolVLM realtime WebGPU",
       "description": null,
@@ -641,7 +655,7 @@
       "lastModified": "2025-05-14T17:23:26.000Z"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "id": "webml-community/remove-background-webgpu",
       "title": "Remove Background WebGPU",
       "description": "In-browser image background removal",
@@ -655,7 +669,7 @@
       "lastModified": "2024-08-27T21:47:14.000Z"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "id": "webml-community/dinov3-web",
       "title": "DINOv3 Web",
       "description": "Visualize rich, dense image features locally in your browser",
@@ -667,20 +681,6 @@
         "region:us"
       ],
       "lastModified": "2025-08-15T23:05:49.000Z"
-    },
-    {
-      "rank": 17,
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "title": "Bonsai 27B WebGPU Kernels",
-      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
-      "sdk": "static",
-      "likes": 156,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-07-14T23:12:47.000Z"
     },
     {
       "rank": 18,

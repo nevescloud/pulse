@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T22:03:32.296Z",
+  "updated": "2026-07-17T02:39:56.032Z",
   "models": [
     {
       "rank": 1,
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/facebook/opt-125m",
       "pipelineTag": "text-generation",
       "downloads": 15556821,
-      "likes": 276,
+      "likes": 277,
       "tags": [
         "transformers",
         "pytorch",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 3691,
-      "likes": 94,
+      "likes": 95,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 121296,
-      "likes": 261,
+      "likes": 265,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 369059,
-      "likes": 961,
+      "likes": 962,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 52825,
-      "likes": 92,
+      "likes": 93,
       "tags": [
         "transformers",
         "gguf",
@@ -675,7 +675,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8221617,
-      "likes": 6321,
+      "likes": 6323,
       "tags": [
         "transformers",
         "safetensors",
@@ -728,7 +728,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
       "downloads": 518,
-      "likes": 18,
+      "likes": 19,
       "tags": [
         "transformers",
         "safetensors",
@@ -759,24 +759,6 @@
     },
     {
       "rank": 13,
-      "id": "DeepHat/DeepHat-V1-7B",
-      "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
-      "pipelineTag": "text-generation",
-      "downloads": 12050,
-      "likes": 196,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "code",
-        "qwen-coder"
-      ],
-      "lastModified": null,
-      "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
-    },
-    {
-      "rank": 14,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
@@ -794,7 +776,7 @@
       "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
@@ -812,7 +794,7 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "tencent/HiLS-Attention-7B",
       "url": "https://huggingface.co/tencent/HiLS-Attention-7B",
       "pipelineTag": "text-generation",
@@ -828,6 +810,42 @@
       ],
       "lastModified": null,
       "description": "HiLS-Attention is a chunk-wise sparse attention mechanism that learns chunk selection end-to-end under the language-modeling loss, enabling native sparse training for efficient long-context modeling. This repository hosts the 7B checkpoi…"
+    },
+    {
+      "rank": 16,
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+      "pipelineTag": "text-generation",
+      "downloads": 14343,
+      "likes": 749,
+      "tags": [
+        "llama.cpp",
+        "gguf",
+        "1-bit",
+        "llama-cpp",
+        "cuda",
+        "metal"
+      ],
+      "lastModified": null,
+      "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 17,
+      "id": "DeepHat/DeepHat-V1-7B",
+      "url": "https://huggingface.co/DeepHat/DeepHat-V1-7B",
+      "pipelineTag": "text-generation",
+      "downloads": 12050,
+      "likes": 196,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen2",
+        "text-generation",
+        "code",
+        "qwen-coder"
+      ],
+      "lastModified": null,
+      "description": "DeepHat is a model series that can be used for offensive and defensive cybersecurity. Access at Deephat.ai or go to Kindo.ai to create agents."
     }
   ]
 }
