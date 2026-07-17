@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T02:39:55.908Z",
+  "updated": "2026-07-17T05:42:27.724Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
-      "stars": 933,
-      "forks": 136,
+      "stars": 988,
+      "forks": 140,
       "starsToday": 60
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 11011,
-      "forks": 547,
+      "stars": 11199,
+      "forks": 555,
       "starsToday": 3372
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": 74086,
-      "forks": 7485,
+      "stars": 74235,
+      "forks": 7500,
       "starsToday": 3537
     },
     {
@@ -46,7 +46,7 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 35872,
+      "stars": 35933,
       "forks": 2996,
       "starsToday": 77
     },
@@ -58,8 +58,8 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars": 66015,
-      "forks": 5675,
+      "stars": 66073,
+      "forks": 5677,
       "starsToday": 661
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
       "language": "Shell",
-      "stars": 1538,
-      "forks": 155,
+      "stars": 1581,
+      "forks": 157,
       "starsToday": 196
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "language": "HTML",
-      "stars": 15090,
-      "forks": 1814,
+      "stars": 15159,
+      "forks": 1820,
       "starsToday": 710
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
       "language": "Python",
-      "stars": 122967,
-      "forks": 18132,
+      "stars": 123111,
+      "forks": 18150,
       "starsToday": 923
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://github.com/lobehub/lobehub",
       "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
       "language": "TypeScript",
-      "stars": 80202,
+      "stars": 80271,
       "forks": 15614,
       "starsToday": 71
     },
@@ -118,8 +118,8 @@
       "url": "https://github.com/YimMenu/YimMenuV2",
       "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
-      "stars": 1513,
-      "forks": 361,
+      "stars": 1520,
+      "forks": 363,
       "starsToday": 128
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "stars": 26915,
-      "forks": 3614,
+      "stars": 27004,
+      "forks": 3623,
       "starsToday": 656
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "language": "Shell",
-      "stars": 174384,
-      "forks": 14966,
+      "stars": 174594,
+      "forks": 14975,
       "starsToday": 2060
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars": 9658,
-      "forks": 1319,
+      "stars": 9694,
+      "forks": 1320,
       "starsToday": 13
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars": 4319,
-      "forks": 184,
+      "stars": 4415,
+      "forks": 186,
       "starsToday": 178
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "language": "Python",
-      "stars": 89170,
-      "forks": 8708,
+      "stars": 89349,
+      "forks": 8722,
       "starsToday": 1107
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 526387,
-      "forks": 49800,
+      "stars": 526513,
+      "forks": 49811,
       "starsToday": 435
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/ossu/computer-science",
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
-      "stars": 206575,
-      "forks": 25632,
+      "stars": 206653,
+      "forks": 25633,
       "starsToday": 107
     }
   ]
