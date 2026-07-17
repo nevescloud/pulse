@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T16:15:30.943Z",
+  "updated": "2026-07-17T19:09:16.366Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 527033,
-      "forks": 49880,
+      "stars": 527153,
+      "forks": 49890,
       "starsToday": 1070
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 36091,
-      "forks": 3007,
+      "stars": 36120,
+      "forks": 3009,
       "starsToday": 437
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "description": "Become a cracked AI/ML Research Engineer",
       "language": "TypeScript",
-      "stars": 6475,
-      "forks": 800,
+      "stars": 6529,
+      "forks": 805,
       "starsToday": 248
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/Nutlope/hallmark",
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
-      "stars": 11751,
-      "forks": 586,
+      "stars": 11843,
+      "forks": 593,
       "starsToday": 1486
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars": 9761,
-      "forks": 1325,
+      "stars": 9771,
+      "forks": 1327,
       "starsToday": 234
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/anthropics/cwc-workshops",
       "description": "",
       "language": "TypeScript",
-      "stars": 1525,
-      "forks": 481,
+      "stars": 1543,
+      "forks": 486,
       "starsToday": 37
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "description": "Bonsai Demo",
       "language": "Shell",
-      "stars": 1676,
-      "forks": 164,
+      "stars": 1686,
+      "forks": 166,
       "starsToday": 279
     },
     {
@@ -94,9 +94,9 @@
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
-      "stars": 71520,
+      "stars": 71524,
       "forks": 16191,
-      "starsToday": 11
+      "starsToday": 18
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 19662,
-      "forks": 2103,
+      "stars": 19685,
+      "forks": 2106,
       "starsToday": 57
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/docusealco/docuseal",
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
-      "stars": 17747,
-      "forks": 1764,
+      "stars": 17765,
+      "forks": 1767,
       "starsToday": 152
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "description": "A coding agent for open models like Kimi K3",
       "language": "Rust",
-      "stars": 66246,
-      "forks": 5695,
+      "stars": 66271,
+      "forks": 5698,
       "starsToday": 431
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/RyanCodrai/turbovec",
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Python",
-      "stars": 13209,
-      "forks": 1173,
+      "stars": 13239,
+      "forks": 1175,
       "starsToday": 280
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/HKUDS/DeepTutor",
       "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
       "language": "Python",
-      "stars": 27240,
-      "forks": 3639,
+      "stars": 27275,
+      "forks": 3642,
       "starsToday": 528
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/OpenCut-app/OpenCut",
       "description": "The open-source CapCut alternative",
       "language": "TypeScript",
-      "stars": 74646,
-      "forks": 7536,
+      "stars": 74695,
+      "forks": 7538,
       "starsToday": 1077
     }
   ]
