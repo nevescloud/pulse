@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T13:37:53.624Z",
+  "updated": "2026-07-17T16:15:30.478Z",
   "trending": [
     {
       "rank": 1,
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7570,
+      "likes": 7571,
       "tags": [
         "docker",
         "leaderboard",
@@ -302,7 +302,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3325,
+      "likes": 3326,
       "tags": [
         "gradio",
         "mcp-server",
@@ -600,6 +600,20 @@
     },
     {
       "rank": 12,
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "title": "Bonsai 27B WebGPU Kernels",
+      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
+      "sdk": "static",
+      "likes": 179,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-07-14T23:12:47.000Z"
+    },
+    {
+      "rank": 13,
       "id": "webml-community/whisper-large-v3-turbo-webgpu",
       "title": "Whisper Large V3 Turbo WebGPU",
       "description": "ML-powered speech recognition directly in your browser",
@@ -611,20 +625,6 @@
         "region:us"
       ],
       "lastModified": "2024-10-03T13:09:32.000Z"
-    },
-    {
-      "rank": 13,
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "title": "Bonsai 27B WebGPU Kernels",
-      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
-      "sdk": "static",
-      "likes": 176,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-07-14T23:12:47.000Z"
     },
     {
       "rank": 14,
@@ -773,7 +773,7 @@
       "description": "A powerful AI chatbot that runs locally in your browser",
       "url": "https://huggingface.co/spaces/webml-community/llama-3.2-webgpu",
       "sdk": "static",
-      "likes": 102,
+      "likes": 103,
       "tags": [
         "static",
         "region:us"
