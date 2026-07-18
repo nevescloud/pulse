@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:03:51.891Z",
+  "updated": "2026-07-18T21:51:22.925Z",
   "trending": [
     {
       "rank": 1,
@@ -302,7 +302,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3329,
+      "likes": 3331,
       "tags": [
         "gradio",
         "mcp-server",
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3242,
+      "likes": 3243,
       "tags": [
         "docker",
         "research-article-template",
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 306,
+      "likes": 307,
       "tags": [
         "static",
         "region:us"

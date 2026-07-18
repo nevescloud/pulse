@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:03:51.860Z",
+  "updated": "2026-07-18T21:51:22.934Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars": 12735,
-      "forks": 1331,
+      "stars": 12852,
+      "forks": 1337,
       "starsToday": 827
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/apache/ossie",
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "language": "Python",
-      "stars": 1233,
-      "forks": 151,
+      "stars": 1255,
+      "forks": 153,
       "starsToday": 48
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 36499,
-      "forks": 3023,
+      "stars": 36554,
+      "forks": 3027,
       "starsToday": 337
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/ibelick/ui-skills",
       "description": "Skills for Design Engineers",
       "language": "TypeScript",
-      "stars": 4886,
-      "forks": 205,
+      "stars": 4958,
+      "forks": 208,
       "starsToday": 242
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 39015,
-      "forks": 6544,
+      "stars": 39061,
+      "forks": 6550,
       "starsToday": 240
     },
     {
@@ -70,7 +70,7 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 20085,
+      "stars": 20125,
       "forks": 2123,
       "starsToday": 356
     },
@@ -82,7 +82,7 @@
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "description": "LIBERATED AI CHAT",
       "language": "TypeScript",
-      "stars": 9450,
+      "stars": 9480,
       "forks": 2252,
       "starsToday": 63
     },
@@ -94,8 +94,8 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars": 23258,
-      "forks": 2651,
+      "stars": 23300,
+      "forks": 2652,
       "starsToday": 242
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars": 1125,
-      "forks": 80,
+      "stars": 1178,
+      "forks": 82,
       "starsToday": 192
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 528103,
-      "forks": 49977,
+      "stars": 528187,
+      "forks": 49982,
       "starsToday": 1131
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars": 9390,
-      "forks": 1160,
+      "stars": 9441,
+      "forks": 1164,
       "starsToday": 48
     }
   ]
