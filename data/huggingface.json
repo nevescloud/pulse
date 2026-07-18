@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:50:06.337Z",
+  "updated": "2026-07-18T10:18:07.912Z",
   "models": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17343486,
-      "likes": 1210,
+      "likes": 1211,
       "tags": [
         "transformers",
         "safetensors",
@@ -330,7 +330,7 @@
       "id": "amazon/chronos-2",
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
-      "downloads": 14831900,
+      "downloads": 14605376,
       "likes": 366,
       "tags": [
         "chronos-forecasting",
@@ -363,24 +363,6 @@
     },
     {
       "rank": 21,
-      "id": "google/gemma-4-26B-A4B-it",
-      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-      "pipelineTag": "image-text-to-text",
-      "downloads": 14050306,
-      "likes": 1282,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gemma4",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
-    },
-    {
-      "rank": 22,
       "id": "openai-community/gpt2",
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
@@ -396,6 +378,24 @@
       ],
       "lastModified": null,
       "description": "Test the whole generation capabilities here: https://transformer.huggingface.co/doc/gpt2-large"
+    },
+    {
+      "rank": 22,
+      "id": "google/gemma-4-26B-A4B-it",
+      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+      "pipelineTag": "image-text-to-text",
+      "downloads": 13971140,
+      "likes": 1282,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
     },
     {
       "rank": 23,
@@ -528,8 +528,8 @@
       "id": "google/gemma-4-31B-it",
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
-      "downloads": 12499574,
-      "likes": 3254,
+      "downloads": 12608008,
+      "likes": 3255,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,8 +548,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 4840,
-      "likes": 136,
+      "downloads": 5271,
+      "likes": 138,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,8 +566,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 6367,
-      "likes": 106,
+      "downloads": 19279,
+      "likes": 107,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -584,8 +584,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 154762,
-      "likes": 274,
+      "downloads": 172409,
+      "likes": 275,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -602,8 +602,8 @@
       "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 54978,
-      "likes": 98,
+      "downloads": 56548,
+      "likes": 100,
       "tags": [
         "transformers",
         "gguf",
@@ -620,7 +620,7 @@
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 386275,
+      "downloads": 399068,
       "likes": 969,
       "tags": [
         "transformers",
@@ -638,7 +638,7 @@
       "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
-      "downloads": 21543,
+      "downloads": 43991,
       "likes": 38,
       "tags": [
         "transformers",
@@ -656,7 +656,7 @@
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 11848,
+      "downloads": 12552,
       "likes": 58,
       "tags": [
         "gguf",
@@ -691,7 +691,7 @@
       "id": "InternScience/Agents-A1-4B",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
-      "downloads": 1586,
+      "downloads": 2207,
       "likes": 23,
       "tags": [
         "transformers",
@@ -709,8 +709,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 917,
-      "likes": 22,
+      "downloads": 1178,
+      "likes": 23,
       "tags": [
         "transformers",
         "safetensors",
@@ -727,8 +727,8 @@
       "id": "WeiboAI/VibeThinker-3B",
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
-      "downloads": 78824,
-      "likes": 804,
+      "downloads": 73351,
+      "likes": 805,
       "tags": [
         "transformers",
         "safetensors",
@@ -742,29 +742,11 @@
     },
     {
       "rank": 12,
-      "id": "nvidia/Nemotron-Labs-Audex-2B",
-      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
-      "pipelineTag": "text-generation",
-      "downloads": 2157,
-      "likes": 72,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "nemotron_labs_audex",
-        "nvidia",
-        "nemotron-labs-audex",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
-    },
-    {
-      "rank": 13,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 64286,
-      "likes": 203,
+      "downloads": 73595,
+      "likes": 205,
       "tags": [
         "transformers",
         "gguf",
@@ -777,11 +759,28 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
+      "rank": 13,
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 2092460,
+      "likes": 2350,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
       "rank": 14,
       "id": "prism-ml/Bonsai-8B-gguf",
       "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
       "pipelineTag": "text-generation",
-      "downloads": 18995,
+      "downloads": 22529,
       "likes": 751,
       "tags": [
         "llama.cpp",
@@ -796,10 +795,28 @@
     },
     {
       "rank": 15,
+      "id": "nvidia/Nemotron-Labs-Audex-2B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B",
+      "pipelineTag": "text-generation",
+      "downloads": 2288,
+      "likes": 72,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "nemotron_labs_audex",
+        "nvidia",
+        "nemotron-labs-audex",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "We're excited to introduce Nemotron-Labs-Audex-2B, a unified audio-text LLM with a similar recipe as Nemotron-Labs-Audex-30B-A3B. Audex-2B extends the vocabulary for discrete audio tokens used for speech and general audio outputs, as wel…"
+    },
+    {
+      "rank": 16,
       "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 1341,
+      "downloads": 2764,
       "likes": 18,
       "tags": [
         "transformers",
@@ -811,23 +828,6 @@
       ],
       "lastModified": null,
       "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
-    },
-    {
-      "rank": 16,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 2092460,
-      "likes": 2348,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     }
   ]
 }
