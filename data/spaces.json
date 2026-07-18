@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T10:18:07.665Z",
+  "updated": "2026-07-18T13:15:40.460Z",
   "trending": [
     {
       "rank": 1,
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11172,
+      "likes": 11173,
       "tags": [
         "docker",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7573,
+      "likes": 7574,
       "tags": [
         "docker",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3565,
+      "likes": 3568,
       "tags": [
         "gradio",
         "mcp-server",
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 301,
+      "likes": 303,
       "tags": [
         "static",
         "region:us"
@@ -591,7 +591,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 188,
+      "likes": 192,
       "tags": [
         "static",
         "region:us"
