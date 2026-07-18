@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T05:26:18.793Z",
+  "updated": "2026-07-18T07:50:06.131Z",
   "trending": [
     {
       "rank": 1,
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7571,
+      "likes": 7573,
       "tags": [
         "docker",
         "leaderboard",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3562,
+      "likes": 3563,
       "tags": [
         "gradio",
         "mcp-server",
@@ -377,7 +377,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2898,
+      "likes": 2899,
       "tags": [
         "gradio",
         "mcp-server",
@@ -586,6 +586,20 @@
     },
     {
       "rank": 11,
+      "id": "webml-community/bonsai-webgpu-kernels",
+      "title": "Bonsai 27B WebGPU Kernels",
+      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
+      "sdk": "static",
+      "likes": 186,
+      "tags": [
+        "static",
+        "region:us"
+      ],
+      "lastModified": "2026-07-14T23:12:47.000Z"
+    },
+    {
+      "rank": 12,
       "id": "webml-community/bonsai-webgpu",
       "title": "Bonsai 1-bit WebGPU",
       "description": "Run 1-bit Bonsai LLMs locally in your browser on WebGPU",
@@ -597,20 +611,6 @@
         "region:us"
       ],
       "lastModified": "2026-04-15T16:05:17.000Z"
-    },
-    {
-      "rank": 12,
-      "id": "webml-community/bonsai-webgpu-kernels",
-      "title": "Bonsai 27B WebGPU Kernels",
-      "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
-      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
-      "sdk": "static",
-      "likes": 185,
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "lastModified": "2026-07-14T23:12:47.000Z"
     },
     {
       "rank": 13,
