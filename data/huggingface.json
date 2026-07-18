@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T21:54:24.841Z",
+  "updated": "2026-07-18T02:30:55.466Z",
   "models": [
     {
       "rank": 1,
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 26281600,
-      "likes": 1420,
+      "likes": 1421,
       "tags": [
         "transformers",
         "safetensors",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 14831900,
-      "likes": 365,
+      "likes": 366,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 14050306,
-      "likes": 1281,
+      "likes": 1282,
       "tags": [
         "transformers",
         "safetensors",
@@ -529,7 +529,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12499574,
-      "likes": 3248,
+      "likes": 3251,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 4840,
-      "likes": 133,
+      "likes": 134,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 6367,
-      "likes": 101,
+      "likes": 103,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -635,24 +635,6 @@
     },
     {
       "rank": 6,
-      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 11848,
-      "likes": 57,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "llama-cpp",
-        "minicpm",
-        "minicpm5",
-        "minicpm5-1b"
-      ],
-      "lastModified": null,
-      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
-    },
-    {
-      "rank": 7,
       "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
@@ -670,12 +652,30 @@
       "description": "GigaChat Audio 10B is an audio-native LLM built on top of the GigaChat 3.1 Lightning text model. A Conformer speech encoder and a modality adapter feed audio embeddings directly into a Mixture-of-Experts decoder, so the model keeps the t…"
     },
     {
+      "rank": 7,
+      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 11848,
+      "likes": 58,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "llama-cpp",
+        "minicpm",
+        "minicpm5",
+        "minicpm5-1b"
+      ],
+      "lastModified": null,
+      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
+    },
+    {
       "rank": 8,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8310650,
-      "likes": 6329,
+      "likes": 6331,
       "tags": [
         "transformers",
         "safetensors",
@@ -692,7 +692,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
       "downloads": 1586,
-      "likes": 22,
+      "likes": 23,
       "tags": [
         "transformers",
         "safetensors",
@@ -728,7 +728,7 @@
       "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
       "pipelineTag": "text-generation",
       "downloads": 78824,
-      "likes": 803,
+      "likes": 804,
       "tags": [
         "transformers",
         "safetensors",
@@ -760,24 +760,6 @@
     },
     {
       "rank": 13,
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
-      "pipelineTag": "text-generation",
-      "downloads": 18995,
-      "likes": 751,
-      "tags": [
-        "llama.cpp",
-        "gguf",
-        "1-bit",
-        "llama-cpp",
-        "cuda",
-        "metal"
-      ],
-      "lastModified": null,
-      "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
-    },
-    {
-      "rank": 14,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
@@ -795,7 +777,7 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 15,
+      "rank": 14,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -812,7 +794,7 @@
       "lastModified": null
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
@@ -827,6 +809,42 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 16,
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+      "pipelineTag": "text-generation",
+      "downloads": 18995,
+      "likes": 751,
+      "tags": [
+        "llama.cpp",
+        "gguf",
+        "1-bit",
+        "llama-cpp",
+        "cuda",
+        "metal"
+      ],
+      "lastModified": null,
+      "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
+    },
+    {
+      "rank": 17,
+      "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 1341,
+      "likes": 18,
+      "tags": [
+        "transformers",
+        "gguf",
+        "quantized",
+        "vlm",
+        "vision",
+        "agentic"
+      ],
+      "lastModified": null,
+      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     }
   ]
 }
