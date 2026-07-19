@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T10:27:52.400Z",
+  "updated": "2026-07-19T13:17:42.510Z",
   "trending": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3572,
+      "likes": 3574,
       "tags": [
         "gradio",
         "mcp-server",
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 307,
+      "likes": 308,
       "tags": [
         "static",
         "region:us"
@@ -577,7 +577,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 203,
+      "likes": 204,
       "tags": [
         "static",
         "region:us"
