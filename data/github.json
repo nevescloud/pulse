@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T15:57:53.681Z",
+  "updated": "2026-07-19T19:06:24.709Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 20801,
-      "forks": 2154,
+      "stars": 20976,
+      "forks": 2164,
       "starsToday": 551
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars": 18235,
-      "forks": 1442,
+      "stars": 18283,
+      "forks": 1448,
       "starsToday": 328
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 39481,
-      "forks": 6601,
+      "stars": 39566,
+      "forks": 6611,
       "starsToday": 507
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars": 43122,
-      "forks": 5275,
+      "stars": 43210,
+      "forks": 5282,
       "starsToday": 629
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars": 1650,
-      "forks": 103,
+      "stars": 1723,
+      "forks": 105,
       "starsToday": 605
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/andrewrabert/jellium-desktop",
       "description": "An unofficial desktop client for Jellyfin",
       "language": "Rust",
-      "stars": 1237,
-      "forks": 104,
+      "stars": 1256,
+      "forks": 107,
       "starsToday": 54
     },
     {
@@ -82,9 +82,9 @@
       "url": "https://github.com/github/copilot-sdk",
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "language": "Java",
-      "stars": 9909,
-      "forks": 1346,
-      "starsToday": 111
+      "stars": 9923,
+      "forks": 1348,
+      "starsToday": 46
     },
     {
       "rank": 8,
@@ -94,8 +94,8 @@
       "url": "https://github.com/PostHog/posthog",
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "language": "Python",
-      "stars": 36834,
-      "forks": 3048,
+      "stars": 36878,
+      "forks": 3051,
       "starsToday": 424
     },
     {
@@ -106,9 +106,9 @@
       "url": "https://github.com/microsoft/terminal",
       "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
       "language": "C++",
-      "stars": 104077,
-      "forks": 9432,
-      "starsToday": 13
+      "stars": 104122,
+      "forks": 9435,
+      "starsToday": 103
     },
     {
       "rank": 10,
@@ -118,8 +118,8 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars": 36631,
-      "forks": 2541,
+      "stars": 36658,
+      "forks": 2543,
       "starsToday": 62
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/1jehuang/jcode",
       "description": "Coding Agent Harness",
       "language": "Rust",
-      "stars": 8741,
-      "forks": 1008,
+      "stars": 8807,
+      "forks": 1022,
       "starsToday": 199
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/trycua/cua",
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "language": "HTML",
-      "stars": 20183,
-      "forks": 1338,
+      "stars": 20200,
+      "forks": 1339,
       "starsToday": 136
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars": 9769,
-      "forks": 1181,
+      "stars": 9816,
+      "forks": 1190,
       "starsToday": 418
     },
     {
@@ -166,7 +166,7 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "description": "",
       "language": "Batchfile",
-      "stars": 30989,
+      "stars": 31008,
       "forks": 2374,
       "starsToday": 117
     },
@@ -178,8 +178,8 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
-      "stars": 528744,
-      "forks": 50024,
+      "stars": 528827,
+      "forks": 50029,
       "starsToday": 761
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/lyogavin/airllm",
       "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
-      "stars": 23557,
-      "forks": 2676,
+      "stars": 23584,
+      "forks": 2677,
       "starsToday": 374
     },
     {
@@ -202,8 +202,8 @@
       "url": "https://github.com/Canner/WrenAI",
       "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
       "language": "Python",
-      "stars": 16101,
-      "forks": 1834,
+      "stars": 16136,
+      "forks": 1835,
       "starsToday": 96
     },
     {
@@ -214,8 +214,8 @@
       "url": "https://github.com/PKUFlyingPig/cs-self-learning",
       "description": "计算机自学指南",
       "language": "HTML",
-      "stars": 74104,
-      "forks": 7938,
+      "stars": 74128,
+      "forks": 7939,
       "starsToday": 128
     }
   ]
