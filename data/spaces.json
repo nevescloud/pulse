@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T13:17:42.510Z",
+  "updated": "2026-07-19T15:57:53.522Z",
   "trending": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3574,
+      "likes": 3575,
       "tags": [
         "gradio",
         "mcp-server",
@@ -302,7 +302,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3333,
+      "likes": 3334,
       "tags": [
         "gradio",
         "mcp-server",
@@ -493,7 +493,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/webml-community/gemma-4-webgpu-kernels",
       "sdk": "static",
-      "likes": 308,
+      "likes": 309,
       "tags": [
         "static",
         "region:us"
