@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T09:14:02.000Z",
+  "updated": "2026-07-20T14:06:01.132Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 240643472,
-      "likes": 5095,
+      "likes": 5097,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -25,7 +25,7 @@
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
       "downloads": 81260742,
-      "likes": 286,
+      "likes": 287,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -79,7 +79,7 @@
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
       "downloads": 52202882,
-      "likes": 143,
+      "likes": 144,
       "tags": [
         "transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 33603363,
-      "likes": 3242,
+      "likes": 3243,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -151,7 +151,7 @@
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
       "downloads": 26349824,
-      "likes": 577,
+      "likes": 578,
       "tags": [
         "transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 25275857,
-      "likes": 1431,
+      "likes": 1432,
       "tags": [
         "transformers",
         "safetensors",
@@ -187,7 +187,7 @@
       "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
       "pipelineTag": "image-classification",
       "downloads": 22789564,
-      "likes": 95,
+      "likes": 96,
       "tags": [
         "timm",
         "pytorch",
@@ -241,7 +241,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 17013397,
-      "likes": 1095,
+      "likes": 1096,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 16507100,
-      "likes": 1220,
+      "likes": 1221,
       "tags": [
         "transformers",
         "safetensors",
@@ -295,7 +295,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-small",
       "pipelineTag": "sentence-similarity",
       "downloads": 14666263,
-      "likes": 368,
+      "likes": 369,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -331,7 +331,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 13861014,
-      "likes": 369,
+      "likes": 370,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -349,7 +349,7 @@
       "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 13502772,
-      "likes": 702,
+      "likes": 703,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13186660,
-      "likes": 1294,
+      "likes": 1295,
       "tags": [
         "transformers",
         "safetensors",
@@ -493,7 +493,7 @@
       "url": "https://huggingface.co/intfloat/multilingual-e5-large",
       "pipelineTag": "feature-extraction",
       "downloads": 11990073,
-      "likes": 1228,
+      "likes": 1229,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11987240,
-      "likes": 3281,
+      "likes": 3284,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 5494,
-      "likes": 153,
+      "likes": 157,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 28012,
-      "likes": 123,
+      "likes": 125,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 178511,
-      "likes": 284,
+      "likes": 286,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -617,21 +617,21 @@
     },
     {
       "rank": 5,
-      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
-      "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "id": "InternScience/Agents-A1-4B",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
-      "downloads": 54499,
-      "likes": 108,
+      "downloads": 2364,
+      "likes": 38,
       "tags": [
         "transformers",
-        "gguf",
-        "llama",
-        "text-generation",
-        "GGUF",
-        "llama-cpp"
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "vlm",
+        "vision"
       ],
       "lastModified": null,
-      "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
+      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     },
     {
       "rank": 6,
@@ -653,21 +653,21 @@
     },
     {
       "rank": 7,
-      "id": "InternScience/Agents-A1-4B",
-      "url": "https://huggingface.co/InternScience/Agents-A1-4B",
+      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 2364,
-      "likes": 35,
+      "downloads": 54499,
+      "likes": 108,
       "tags": [
         "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "vlm",
-        "vision"
+        "gguf",
+        "llama",
+        "text-generation",
+        "GGUF",
+        "llama-cpp"
       ],
       "lastModified": null,
-      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
+      "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
     },
     {
       "rank": 8,
@@ -675,7 +675,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 1195,
-      "likes": 27,
+      "likes": 28,
       "tags": [
         "transformers",
         "safetensors",
@@ -693,7 +693,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 7911617,
-      "likes": 6353,
+      "likes": 6354,
       "tags": [
         "transformers",
         "safetensors",
@@ -706,21 +706,21 @@
     },
     {
       "rank": 10,
-      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 12750,
-      "likes": 62,
+      "downloads": 25275857,
+      "likes": 1432,
       "tags": [
-        "gguf",
-        "llama.cpp",
-        "llama-cpp",
-        "minicpm",
-        "minicpm5",
-        "minicpm5-1b"
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
       ],
       "lastModified": null,
-      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 11,
@@ -742,29 +742,11 @@
     },
     {
       "rank": 12,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 25275857,
-      "likes": 1431,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 13,
       "id": "prism-ml/Bonsai-8B-gguf",
       "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
       "pipelineTag": "text-generation",
       "downloads": 23197,
-      "likes": 754,
+      "likes": 755,
       "tags": [
         "llama.cpp",
         "gguf",
@@ -777,12 +759,12 @@
       "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1989261,
-      "likes": 2356,
+      "likes": 2357,
       "tags": [
         "transformers",
         "safetensors",
@@ -792,31 +774,68 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 14,
+      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 12750,
+      "likes": 62,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "llama-cpp",
+        "minicpm",
+        "minicpm5",
+        "minicpm5-1b"
+      ],
+      "lastModified": null,
+      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
     },
     {
       "rank": 15,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "id": "FINAL-Bench/Aether-7B-5Attn",
+      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
       "pipelineTag": "text-generation",
-      "downloads": 1446293,
-      "likes": 4733,
+      "downloads": 2,
+      "likes": 28,
       "tags": [
         "transformers",
         "safetensors",
-        "llama",
+        "aether_v2_7way",
         "text-generation",
-        "facebook",
-        "meta"
+        "foundation-model",
+        "sovereign-ai"
       ],
-      "lastModified": null
+      "lastModified": null,
+      "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
     },
     {
       "rank": 16,
+      "id": "FINAL-Bench/Aether-7B-5Attn-it",
+      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn-it",
+      "pipelineTag": "text-generation",
+      "downloads": 2,
+      "likes": 27,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "aether_v2_7way",
+        "text-generation",
+        "foundation-model",
+        "sovereign-ai"
+      ],
+      "lastModified": null,
+      "description": "This checkpoint has been refreshed with an expanded Korean instruction-tuning run."
+    },
+    {
+      "rank": 17,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 77722,
-      "likes": 207,
+      "likes": 209,
       "tags": [
         "transformers",
         "gguf",
@@ -829,22 +848,39 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 17,
-      "id": "FINAL-Bench/Aether-7B-5Attn",
-      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
+      "rank": 18,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 2,
-      "likes": 26,
+      "downloads": 1446293,
+      "likes": 4735,
       "tags": [
         "transformers",
         "safetensors",
-        "aether_v2_7way",
+        "llama",
         "text-generation",
-        "foundation-model",
-        "sovereign-ai"
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 19,
+      "id": "prism-ml/Ternary-Bonsai-8B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf",
+      "pipelineTag": "text-generation",
+      "downloads": 34730,
+      "likes": 123,
+      "tags": [
+        "gguf",
+        "ternary",
+        "1.58-bit",
+        "llama-cpp",
+        "q2_0",
+        "on-device"
       ],
       "lastModified": null,
-      "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
+      "description": "Ternary (1.58-bit) language model in GGUF Q2_0 format for llama.cpp"
     }
   ]
 }
