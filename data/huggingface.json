@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T16:23:32.851Z",
+  "updated": "2026-07-20T19:43:32.844Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 240643472,
-      "likes": 5098,
+      "likes": 5099,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -223,7 +223,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 22713093,
-      "likes": 983,
+      "likes": 984,
       "tags": [
         "transformers",
         "pytorch",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11987240,
-      "likes": 3287,
+      "likes": 3292,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 5494,
-      "likes": 157,
+      "likes": 159,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 28012,
-      "likes": 128,
+      "likes": 131,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 178511,
-      "likes": 288,
+      "likes": 289,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 398340,
-      "likes": 980,
+      "likes": 981,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
       "downloads": 2364,
-      "likes": 39,
+      "likes": 40,
       "tags": [
         "transformers",
         "safetensors",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 54499,
-      "likes": 108,
+      "likes": 109,
       "tags": [
         "transformers",
         "gguf",
@@ -693,7 +693,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 7911617,
-      "likes": 6355,
+      "likes": 6358,
       "tags": [
         "transformers",
         "safetensors",
@@ -706,6 +706,24 @@
     },
     {
       "rank": 10,
+      "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 3243,
+      "likes": 22,
+      "tags": [
+        "transformers",
+        "gguf",
+        "quantized",
+        "vlm",
+        "vision",
+        "agentic"
+      ],
+      "lastModified": null,
+      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
+    },
+    {
+      "rank": 11,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
@@ -721,24 +739,6 @@
       ],
       "lastModified": null,
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 11,
-      "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
-      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 3243,
-      "likes": 21,
-      "tags": [
-        "transformers",
-        "gguf",
-        "quantized",
-        "vlm",
-        "vision",
-        "agentic"
-      ],
-      "lastModified": null,
-      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     },
     {
       "rank": 12,
@@ -813,6 +813,23 @@
     },
     {
       "rank": 16,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1446293,
+      "likes": 4736,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 17,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
@@ -830,12 +847,12 @@
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 12750,
-      "likes": 62,
+      "likes": 63,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -846,23 +863,6 @@
       ],
       "lastModified": null,
       "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
-    },
-    {
-      "rank": 18,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1446293,
-      "likes": 4735,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
     },
     {
       "rank": 19,
@@ -881,6 +881,24 @@
       ],
       "lastModified": null,
       "description": "Ternary (1.58-bit) language model in GGUF Q2_0 format for llama.cpp"
+    },
+    {
+      "rank": 20,
+      "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 2302,
+      "likes": 14,
+      "tags": [
+        "transformers",
+        "gguf",
+        "quantized",
+        "vlm",
+        "vision",
+        "agentic"
+      ],
+      "lastModified": null,
+      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     }
   ]
 }
