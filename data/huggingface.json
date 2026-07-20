@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:43:32.844Z",
+  "updated": "2026-07-20T21:59:38.630Z",
   "models": [
     {
       "rank": 1,
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13186660,
-      "likes": 1295,
+      "likes": 1296,
       "tags": [
         "transformers",
         "safetensors",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11987240,
-      "likes": 3292,
+      "likes": 3295,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 28012,
-      "likes": 131,
+      "likes": 134,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -693,7 +693,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 7911617,
-      "likes": 6358,
+      "likes": 6359,
       "tags": [
         "transformers",
         "safetensors",
@@ -764,7 +764,7 @@
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
       "pipelineTag": "text-generation",
       "downloads": 2,
-      "likes": 29,
+      "likes": 31,
       "tags": [
         "transformers",
         "safetensors",
@@ -799,7 +799,7 @@
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn-it",
       "pipelineTag": "text-generation",
       "downloads": 2,
-      "likes": 27,
+      "likes": 29,
       "tags": [
         "transformers",
         "safetensors",
