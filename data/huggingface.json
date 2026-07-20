@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T14:06:01.132Z",
+  "updated": "2026-07-20T16:23:32.851Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 240643472,
-      "likes": 5097,
+      "likes": 5098,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 12574782,
-      "likes": 777,
+      "likes": 778,
       "tags": [
         "transformers",
         "safetensors",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11987240,
-      "likes": 3284,
+      "likes": 3287,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 28012,
-      "likes": 125,
+      "likes": 128,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 178511,
-      "likes": 286,
+      "likes": 288,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
       "downloads": 2364,
-      "likes": 38,
+      "likes": 39,
       "tags": [
         "transformers",
         "safetensors",
@@ -693,7 +693,7 @@
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 7911617,
-      "likes": 6354,
+      "likes": 6355,
       "tags": [
         "transformers",
         "safetensors",
@@ -760,6 +760,24 @@
     },
     {
       "rank": 13,
+      "id": "FINAL-Bench/Aether-7B-5Attn",
+      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
+      "pipelineTag": "text-generation",
+      "downloads": 2,
+      "likes": 29,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "aether_v2_7way",
+        "text-generation",
+        "foundation-model",
+        "sovereign-ai"
+      ],
+      "lastModified": null,
+      "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
+    },
+    {
+      "rank": 14,
       "id": "meta-llama/Llama-3.2-3B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
@@ -776,43 +794,7 @@
       "lastModified": null
     },
     {
-      "rank": 14,
-      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 12750,
-      "likes": 62,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "llama-cpp",
-        "minicpm",
-        "minicpm5",
-        "minicpm5-1b"
-      ],
-      "lastModified": null,
-      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
-    },
-    {
       "rank": 15,
-      "id": "FINAL-Bench/Aether-7B-5Attn",
-      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
-      "pipelineTag": "text-generation",
-      "downloads": 2,
-      "likes": 28,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "aether_v2_7way",
-        "text-generation",
-        "foundation-model",
-        "sovereign-ai"
-      ],
-      "lastModified": null,
-      "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
-    },
-    {
-      "rank": 16,
       "id": "FINAL-Bench/Aether-7B-5Attn-it",
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn-it",
       "pipelineTag": "text-generation",
@@ -830,7 +812,7 @@
       "description": "This checkpoint has been refreshed with an expanded Korean instruction-tuning run."
     },
     {
-      "rank": 17,
+      "rank": 16,
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
       "pipelineTag": "text-generation",
@@ -846,6 +828,24 @@
       ],
       "lastModified": null,
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
+      "rank": 17,
+      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 12750,
+      "likes": 62,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "llama-cpp",
+        "minicpm",
+        "minicpm5",
+        "minicpm5-1b"
+      ],
+      "lastModified": null,
+      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
     },
     {
       "rank": 18,
