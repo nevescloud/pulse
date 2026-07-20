@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:52:40.824Z",
+  "updated": "2026-07-20T03:18:37.396Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 248516777,
-      "likes": 5091,
+      "likes": 5092,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -43,7 +43,7 @@
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
       "downloads": 78430360,
-      "likes": 2710,
+      "likes": 2711,
       "tags": [
         "transformers",
         "pytorch",
@@ -61,7 +61,7 @@
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
       "downloads": 65211911,
-      "likes": 514,
+      "likes": 515,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -169,7 +169,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
       "downloads": 26124974,
-      "likes": 1429,
+      "likes": 1430,
       "tags": [
         "transformers",
         "safetensors",
@@ -367,7 +367,7 @@
       "url": "https://huggingface.co/openai-community/gpt2",
       "pipelineTag": "text-generation",
       "downloads": 13741183,
-      "likes": 3357,
+      "likes": 3358,
       "tags": [
         "transformers",
         "pytorch",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13639249,
-      "likes": 1289,
+      "likes": 1290,
       "tags": [
         "transformers",
         "safetensors",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12337374,
-      "likes": 3273,
+      "likes": 3275,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 5494,
-      "likes": 147,
+      "likes": 149,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 28012,
-      "likes": 119,
+      "likes": 121,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -585,7 +585,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 178511,
-      "likes": 280,
+      "likes": 282,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -603,7 +603,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 408278,
-      "likes": 977,
+      "likes": 978,
       "tags": [
         "transformers",
         "safetensors",
@@ -621,7 +621,7 @@
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 56338,
-      "likes": 107,
+      "likes": 108,
       "tags": [
         "transformers",
         "gguf",
@@ -657,7 +657,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
       "downloads": 2364,
-      "likes": 27,
+      "likes": 30,
       "tags": [
         "transformers",
         "safetensors",
@@ -671,28 +671,11 @@
     },
     {
       "rank": 8,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8164214,
-      "likes": 6343,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 9,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 1195,
-      "likes": 24,
+      "likes": 26,
       "tags": [
         "transformers",
         "safetensors",
@@ -703,6 +686,23 @@
       ],
       "lastModified": null,
       "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF"
+    },
+    {
+      "rank": 9,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8164214,
+      "likes": 6346,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
     },
     {
       "rank": 10,
@@ -724,6 +724,24 @@
     },
     {
       "rank": 11,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 26124974,
+      "likes": 1430,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+    },
+    {
+      "rank": 12,
       "id": "prism-ml/Bonsai-8B-gguf",
       "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
       "pipelineTag": "text-generation",
@@ -741,7 +759,7 @@
       "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
       "pipelineTag": "text-generation",
@@ -759,25 +777,42 @@
       "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     },
     {
-      "rank": 13,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "rank": 14,
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 26124974,
-      "likes": 1429,
+      "downloads": 2036549,
+      "likes": 2355,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen3",
+        "llama",
         "text-generation",
-        "conversational",
-        "license:apache-2.0"
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
+      "lastModified": null
     },
     {
-      "rank": 14,
+      "rank": 15,
+      "id": "openbmb/MiniCPM5-1B-GGUF",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 78354,
+      "likes": 207,
+      "tags": [
+        "transformers",
+        "gguf",
+        "minicpm",
+        "minicpm5",
+        "llama",
+        "text-generation"
+      ],
+      "lastModified": null,
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
+      "rank": 16,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
@@ -794,57 +829,40 @@
       "lastModified": null
     },
     {
-      "rank": 15,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 2036549,
-      "likes": 2353,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 16,
-      "id": "openbmb/MiniCPM5-1B-GGUF",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 78354,
-      "likes": 206,
-      "tags": [
-        "transformers",
-        "gguf",
-        "minicpm",
-        "minicpm5",
-        "llama",
-        "text-generation"
-      ],
-      "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
       "rank": 17,
-      "id": "WeiboAI/VibeThinker-3B",
-      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "id": "FINAL-Bench/Aether-7B-5Attn",
+      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
       "pipelineTag": "text-generation",
-      "downloads": 69130,
-      "likes": 806,
+      "downloads": 2,
+      "likes": 25,
       "tags": [
         "transformers",
         "safetensors",
-        "qwen2",
+        "aether_v2_7way",
         "text-generation",
-        "math",
-        "code"
+        "foundation-model",
+        "sovereign-ai"
       ],
       "lastModified": null,
-      "description": "For programming tasks, we recommend using this model on competitive programming problems (e.g., LeetCode-style)."
+      "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
+    },
+    {
+      "rank": 18,
+      "id": "FINAL-Bench/Aether-7B-5Attn-it",
+      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn-it",
+      "pipelineTag": "text-generation",
+      "downloads": 2,
+      "likes": 24,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "aether_v2_7way",
+        "text-generation",
+        "foundation-model",
+        "sovereign-ai"
+      ],
+      "lastModified": null,
+      "description": "Instruction-tuned (SFT) version of the fully-open Aether-7B-5Attn base model. Post-trained for multiple-choice / benchmark-style answering. 6.59B MoE (~2.98B active), 49 layers on a 7×7 Latin square. Apache-2.0."
     }
   ]
 }
