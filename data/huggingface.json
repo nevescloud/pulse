@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T02:42:59.212Z",
+  "updated": "2026-07-21T05:51:06.576Z",
   "models": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 16507100,
-      "likes": 1221,
+      "likes": 1220,
       "tags": [
         "transformers",
         "safetensors",
@@ -385,7 +385,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13186660,
-      "likes": 1297,
+      "likes": 1298,
       "tags": [
         "transformers",
         "safetensors",
@@ -511,7 +511,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 11987240,
-      "likes": 3297,
+      "likes": 3302,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 28012,
-      "likes": 135,
+      "likes": 137,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -599,6 +599,24 @@
     },
     {
       "rank": 4,
+      "id": "InternScience/Agents-A1-4B",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B",
+      "pipelineTag": "text-generation",
+      "downloads": 2364,
+      "likes": 46,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3_5",
+        "image-text-to-text",
+        "vlm",
+        "vision"
+      ],
+      "lastModified": null,
+      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
+    },
+    {
+      "rank": 5,
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
@@ -614,24 +632,6 @@
       ],
       "lastModified": null,
       "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
-    },
-    {
-      "rank": 5,
-      "id": "InternScience/Agents-A1-4B",
-      "url": "https://huggingface.co/InternScience/Agents-A1-4B",
-      "pipelineTag": "text-generation",
-      "downloads": 2364,
-      "likes": 44,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_5",
-        "image-text-to-text",
-        "vlm",
-        "vision"
-      ],
-      "lastModified": null,
-      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     },
     {
       "rank": 6,
@@ -671,28 +671,11 @@
     },
     {
       "rank": 8,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 7911617,
-      "likes": 6362,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 9,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
       "downloads": 1195,
-      "likes": 28,
+      "likes": 30,
       "tags": [
         "transformers",
         "safetensors",
@@ -703,6 +686,23 @@
       ],
       "lastModified": null,
       "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF"
+    },
+    {
+      "rank": 9,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 7911617,
+      "likes": 6365,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
     },
     {
       "rank": 10,
@@ -746,7 +746,7 @@
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
       "pipelineTag": "text-generation",
       "downloads": 2,
-      "likes": 31,
+      "likes": 32,
       "tags": [
         "transformers",
         "safetensors",
@@ -777,24 +777,6 @@
     },
     {
       "rank": 14,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 25275857,
-      "likes": 1433,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
-    },
-    {
-      "rank": 15,
       "id": "FINAL-Bench/Aether-7B-5Attn-it",
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn-it",
       "pipelineTag": "text-generation",
@@ -812,12 +794,12 @@
       "description": "This checkpoint has been refreshed with an expanded Korean instruction-tuning run."
     },
     {
-      "rank": 16,
+      "rank": 15,
       "id": "meta-llama/Meta-Llama-3-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 1446293,
-      "likes": 4737,
+      "likes": 4738,
       "tags": [
         "transformers",
         "safetensors",
@@ -827,6 +809,24 @@
         "meta"
       ],
       "lastModified": null
+    },
+    {
+      "rank": 16,
+      "id": "Qwen/Qwen3-0.6B",
+      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+      "pipelineTag": "text-generation",
+      "downloads": 25275857,
+      "likes": 1433,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
       "rank": 17,
@@ -863,6 +863,24 @@
       ],
       "lastModified": null,
       "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
+    },
+    {
+      "rank": 19,
+      "id": "prism-ml/Ternary-Bonsai-8B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf",
+      "pipelineTag": "text-generation",
+      "downloads": 34730,
+      "likes": 123,
+      "tags": [
+        "gguf",
+        "ternary",
+        "1.58-bit",
+        "llama-cpp",
+        "q2_0",
+        "on-device"
+      ],
+      "lastModified": null,
+      "description": "Ternary (1.58-bit) language model in GGUF Q2_0 format for llama.cpp"
     }
   ]
 }
