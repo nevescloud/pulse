@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-21T05:51:06.576Z",
+  "updated": "2026-07-21T08:28:53.509Z",
   "models": [
     {
       "rank": 1,
       "id": "sentence-transformers/all-MiniLM-L6-v2",
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 240643472,
+      "downloads": 241315604,
       "likes": 5102,
       "tags": [
         "sentence-transformers",
@@ -24,7 +24,7 @@
       "id": "cross-encoder/ms-marco-MiniLM-L6-v2",
       "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
       "pipelineTag": "text-ranking",
-      "downloads": 81260742,
+      "downloads": 81752732,
       "likes": 287,
       "tags": [
         "sentence-transformers",
@@ -42,7 +42,7 @@
       "id": "google-bert/bert-base-uncased",
       "url": "https://huggingface.co/google-bert/bert-base-uncased",
       "pipelineTag": "fill-mask",
-      "downloads": 76450882,
+      "downloads": 79205163,
       "likes": 2712,
       "tags": [
         "transformers",
@@ -60,7 +60,7 @@
       "id": "BAAI/bge-small-en-v1.5",
       "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
       "pipelineTag": "feature-extraction",
-      "downloads": 62961873,
+      "downloads": 63242349,
       "likes": 516,
       "tags": [
         "sentence-transformers",
@@ -78,7 +78,7 @@
       "id": "google/electra-base-discriminator",
       "url": "https://huggingface.co/google/electra-base-discriminator",
       "pipelineTag": null,
-      "downloads": 52202882,
+      "downloads": 52470315,
       "likes": 144,
       "tags": [
         "transformers",
@@ -96,7 +96,7 @@
       "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 47560362,
+      "downloads": 48004181,
       "likes": 1327,
       "tags": [
         "sentence-transformers",
@@ -132,7 +132,7 @@
       "id": "sentence-transformers/all-mpnet-base-v2",
       "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
       "pipelineTag": "sentence-similarity",
-      "downloads": 28935489,
+      "downloads": 28762655,
       "likes": 1333,
       "tags": [
         "sentence-transformers",
@@ -150,7 +150,7 @@
       "id": "google-t5/t5-small",
       "url": "https://huggingface.co/google-t5/t5-small",
       "pipelineTag": "translation",
-      "downloads": 26349824,
+      "downloads": 26293300,
       "likes": 578,
       "tags": [
         "transformers",
@@ -168,7 +168,7 @@
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 25275857,
+      "downloads": 25843960,
       "likes": 1433,
       "tags": [
         "transformers",
@@ -183,28 +183,28 @@
     },
     {
       "rank": 11,
-      "id": "timm/mobilenetv3_small_100.lamb_in1k",
-      "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
-      "pipelineTag": "image-classification",
-      "downloads": 22789564,
-      "likes": 96,
+      "id": "openai/clip-vit-base-patch32",
+      "url": "https://huggingface.co/openai/clip-vit-base-patch32",
+      "pipelineTag": "zero-shot-image-classification",
+      "downloads": 22886207,
+      "likes": 984,
       "tags": [
-        "timm",
-        "pytorch",
-        "safetensors",
-        "image-classification",
         "transformers",
-        "dataset:imagenet-1k"
+        "pytorch",
+        "tf",
+        "jax",
+        "clip",
+        "zero-shot-image-classification"
       ],
       "lastModified": null,
-      "description": "A MobileNet-v3 image classification model. Trained on ImageNet-1k in timm using recipe template described below."
+      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
     },
     {
       "rank": 12,
       "id": "FacebookAI/xlm-roberta-base",
       "url": "https://huggingface.co/FacebookAI/xlm-roberta-base",
       "pipelineTag": "fill-mask",
-      "downloads": 22728286,
+      "downloads": 22806665,
       "likes": 874,
       "tags": [
         "transformers",
@@ -219,28 +219,28 @@
     },
     {
       "rank": 13,
-      "id": "openai/clip-vit-base-patch32",
-      "url": "https://huggingface.co/openai/clip-vit-base-patch32",
-      "pipelineTag": "zero-shot-image-classification",
-      "downloads": 22713093,
-      "likes": 984,
+      "id": "timm/mobilenetv3_small_100.lamb_in1k",
+      "url": "https://huggingface.co/timm/mobilenetv3_small_100.lamb_in1k",
+      "pipelineTag": "image-classification",
+      "downloads": 22453521,
+      "likes": 96,
       "tags": [
-        "transformers",
+        "timm",
         "pytorch",
-        "tf",
-        "jax",
-        "clip",
-        "zero-shot-image-classification"
+        "safetensors",
+        "image-classification",
+        "transformers",
+        "dataset:imagenet-1k"
       ],
       "lastModified": null,
-      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
+      "description": "A MobileNet-v3 image classification model. Trained on ImageNet-1k in timm using recipe template described below."
     },
     {
       "rank": 14,
       "id": "BAAI/bge-reranker-v2-m3",
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
-      "downloads": 17013397,
+      "downloads": 17222980,
       "likes": 1096,
       "tags": [
         "sentence-transformers",
@@ -258,8 +258,8 @@
       "id": "Qwen/Qwen3-8B",
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
-      "downloads": 16507100,
-      "likes": 1220,
+      "downloads": 16434800,
+      "likes": 1221,
       "tags": [
         "transformers",
         "safetensors",
@@ -276,7 +276,7 @@
       "id": "facebook/opt-125m",
       "url": "https://huggingface.co/facebook/opt-125m",
       "pipelineTag": "text-generation",
-      "downloads": 15493983,
+      "downloads": 15783053,
       "likes": 282,
       "tags": [
         "transformers",
@@ -294,7 +294,7 @@
       "id": "intfloat/multilingual-e5-small",
       "url": "https://huggingface.co/intfloat/multilingual-e5-small",
       "pipelineTag": "sentence-similarity",
-      "downloads": 14666263,
+      "downloads": 14809773,
       "likes": 369,
       "tags": [
         "sentence-transformers",
@@ -309,10 +309,28 @@
     },
     {
       "rank": 18,
+      "id": "amazon/chronos-2",
+      "url": "https://huggingface.co/amazon/chronos-2",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 14047049,
+      "likes": 371,
+      "tags": [
+        "chronos-forecasting",
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "Update Jun 5, 2026: ☁️ Deploy Chronos-2 on AWS with AutoGluon-Cloud. Real-time, serverless, or batch inference in 3 lines of code — pandas DataFrames in, forecasts out. Check out the new deployment guide."
+    },
+    {
+      "rank": 19,
       "id": "nomic-ai/nomic-embed-text-v1.5",
       "url": "https://huggingface.co/nomic-ai/nomic-embed-text-v1.5",
       "pipelineTag": "sentence-similarity",
-      "downloads": 13929929,
+      "downloads": 14026045,
       "likes": 872,
       "tags": [
         "sentence-transformers",
@@ -326,101 +344,11 @@
       "description": "Exciting Update!: nomic-embed-text-v1.5 is now multimodal! nomic-embed-vision-v1.5 is aligned to the embedding space of nomic-embed-text-v1.5, meaning any text embedding is multimodal!"
     },
     {
-      "rank": 19,
-      "id": "amazon/chronos-2",
-      "url": "https://huggingface.co/amazon/chronos-2",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 13861014,
-      "likes": 370,
-      "tags": [
-        "chronos-forecasting",
-        "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "foundation models"
-      ],
-      "lastModified": null,
-      "description": "Update Jun 5, 2026: ☁️ Deploy Chronos-2 on AWS with AutoGluon-Cloud. Real-time, serverless, or batch inference in 3 lines of code — pandas DataFrames in, forecasts out. Check out the new deployment guide."
-    },
-    {
       "rank": 20,
-      "id": "BAAI/bge-large-en-v1.5",
-      "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
-      "pipelineTag": "feature-extraction",
-      "downloads": 13502772,
-      "likes": 703,
-      "tags": [
-        "sentence-transformers",
-        "pytorch",
-        "onnx",
-        "safetensors",
-        "bert",
-        "feature-extraction"
-      ],
-      "lastModified": null,
-      "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
-    },
-    {
-      "rank": 21,
-      "id": "openai-community/gpt2",
-      "url": "https://huggingface.co/openai-community/gpt2",
-      "pipelineTag": "text-generation",
-      "downloads": 13330731,
-      "likes": 3362,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "tflite",
-        "rust"
-      ],
-      "lastModified": null,
-      "description": "Test the whole generation capabilities here: https://transformer.huggingface.co/doc/gpt2-large"
-    },
-    {
-      "rank": 22,
-      "id": "google/gemma-4-26B-A4B-it",
-      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-      "pipelineTag": "image-text-to-text",
-      "downloads": 13186660,
-      "likes": 1298,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gemma4",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
-    },
-    {
-      "rank": 23,
-      "id": "Qwen/Qwen2.5-1.5B-Instruct",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 12574782,
-      "likes": 778,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen2",
-        "text-generation",
-        "chat",
-        "conversational"
-      ],
-      "lastModified": null,
-      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
-    },
-    {
-      "rank": 24,
       "id": "lpiccinelli/unidepth-v2-vitl14",
       "url": "https://huggingface.co/lpiccinelli/unidepth-v2-vitl14",
       "pipelineTag": null,
-      "downloads": 12569035,
+      "downloads": 13677729,
       "likes": 44,
       "tags": [
         "UniDepth",
@@ -434,29 +362,65 @@
       "description": "This model has been pushed to the Hub using the PytorchModelHubMixin integration:"
     },
     {
-      "rank": 25,
-      "id": "autogluon/chronos-bolt-small",
-      "url": "https://huggingface.co/autogluon/chronos-bolt-small",
-      "pipelineTag": "time-series-forecasting",
-      "downloads": 12395461,
-      "likes": 56,
+      "rank": 21,
+      "id": "BAAI/bge-large-en-v1.5",
+      "url": "https://huggingface.co/BAAI/bge-large-en-v1.5",
+      "pipelineTag": "feature-extraction",
+      "downloads": 13465726,
+      "likes": 703,
       "tags": [
+        "sentence-transformers",
+        "pytorch",
+        "onnx",
         "safetensors",
-        "t5",
-        "time series",
-        "forecasting",
-        "pretrained models",
-        "foundation models"
+        "bert",
+        "feature-extraction"
       ],
       "lastModified": null,
-      "description": "🚀 Update Feb 14, 2025: Chronos-Bolt models are now available on Amazon SageMaker JumpStart! Check out the tutorial notebook to learn how to deploy Chronos endpoints for production use in a few lines of code."
+      "description": "If you are looking for a model that supports more languages, longer texts, and other retrieval methods, you can try using bge-m3."
     },
     {
-      "rank": 26,
+      "rank": 22,
+      "id": "openai-community/gpt2",
+      "url": "https://huggingface.co/openai-community/gpt2",
+      "pipelineTag": "text-generation",
+      "downloads": 13416073,
+      "likes": 3362,
+      "tags": [
+        "transformers",
+        "pytorch",
+        "tf",
+        "jax",
+        "tflite",
+        "rust"
+      ],
+      "lastModified": null,
+      "description": "Test the whole generation capabilities here: https://transformer.huggingface.co/doc/gpt2-large"
+    },
+    {
+      "rank": 23,
+      "id": "google/gemma-4-26B-A4B-it",
+      "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+      "pipelineTag": "image-text-to-text",
+      "downloads": 13234055,
+      "likes": 1299,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
+    },
+    {
+      "rank": 24,
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "url": "https://huggingface.co/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "pipelineTag": "text-generation",
-      "downloads": 12329391,
+      "downloads": 13201077,
       "likes": 16,
       "tags": [
         "transformers",
@@ -470,29 +434,65 @@
       "description": "This is a minimal model built for unit tests in the TRL library."
     },
     {
-      "rank": 27,
-      "id": "openai/clip-vit-large-patch14",
-      "url": "https://huggingface.co/openai/clip-vit-large-patch14",
-      "pipelineTag": "zero-shot-image-classification",
-      "downloads": 12021006,
-      "likes": 2058,
+      "rank": 25,
+      "id": "Qwen/Qwen2.5-1.5B-Instruct",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 12534927,
+      "likes": 780,
       "tags": [
         "transformers",
-        "pytorch",
-        "tf",
-        "jax",
         "safetensors",
-        "clip"
+        "qwen2",
+        "text-generation",
+        "chat",
+        "conversational"
       ],
       "lastModified": null,
-      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
+      "description": "Qwen2.5 is the latest series of Qwen large language models. For Qwen2.5, we release a number of base language models and instruction-tuned language models ranging from 0.5 to 72 billion parameters. Qwen2.5 brings the following improvemen…"
+    },
+    {
+      "rank": 26,
+      "id": "autogluon/chronos-bolt-small",
+      "url": "https://huggingface.co/autogluon/chronos-bolt-small",
+      "pipelineTag": "time-series-forecasting",
+      "downloads": 12313588,
+      "likes": 56,
+      "tags": [
+        "safetensors",
+        "t5",
+        "time series",
+        "forecasting",
+        "pretrained models",
+        "foundation models"
+      ],
+      "lastModified": null,
+      "description": "🚀 Update Feb 14, 2025: Chronos-Bolt models are now available on Amazon SageMaker JumpStart! Check out the tutorial notebook to learn how to deploy Chronos endpoints for production use in a few lines of code."
+    },
+    {
+      "rank": 27,
+      "id": "google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "pipelineTag": "image-text-to-text",
+      "downloads": 12113203,
+      "likes": 3305,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma4",
+        "image-text-to-text",
+        "conversational",
+        "license:apache-2.0"
+      ],
+      "lastModified": null,
+      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
     },
     {
       "rank": 28,
       "id": "intfloat/multilingual-e5-large",
       "url": "https://huggingface.co/intfloat/multilingual-e5-large",
       "pipelineTag": "feature-extraction",
-      "downloads": 11990073,
+      "downloads": 11877569,
       "likes": 1229,
       "tags": [
         "sentence-transformers",
@@ -507,28 +507,28 @@
     },
     {
       "rank": 29,
-      "id": "google/gemma-4-31B-it",
-      "url": "https://huggingface.co/google/gemma-4-31B-it",
-      "pipelineTag": "image-text-to-text",
-      "downloads": 11987240,
-      "likes": 3302,
+      "id": "openai/clip-vit-large-patch14",
+      "url": "https://huggingface.co/openai/clip-vit-large-patch14",
+      "pipelineTag": "zero-shot-image-classification",
+      "downloads": 11768485,
+      "likes": 2058,
       "tags": [
         "transformers",
+        "pytorch",
+        "tf",
+        "jax",
         "safetensors",
-        "gemma4",
-        "image-text-to-text",
-        "conversational",
-        "license:apache-2.0"
+        "clip"
       ],
       "lastModified": null,
-      "description": "Gemma is a family of open models built by Google DeepMind. Gemma 4 models are multimodal, handling text and image input (with audio supported on E2B, E4B, and 12B) and generating text output. This release includes open-weights models in …"
+      "description": "Disclaimer: The model card is taken and modified from the official CLIP repository, it can be found here."
     },
     {
       "rank": 30,
       "id": "FacebookAI/roberta-large",
       "url": "https://huggingface.co/FacebookAI/roberta-large",
       "pipelineTag": "fill-mask",
-      "downloads": 11852161,
+      "downloads": 11759048,
       "likes": 312,
       "tags": [
         "transformers",
@@ -656,7 +656,7 @@
       "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 54499,
+      "downloads": 55939,
       "likes": 110,
       "tags": [
         "transformers",
@@ -671,6 +671,23 @@
     },
     {
       "rank": 8,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 7952429,
+      "likes": 6367,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
@@ -688,29 +705,12 @@
       "description": "GGUF quantizations for local deployment: MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF"
     },
     {
-      "rank": 9,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 7911617,
-      "likes": 6365,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 10,
       "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 3243,
-      "likes": 24,
+      "likes": 25,
       "tags": [
         "transformers",
         "gguf",
@@ -724,10 +724,28 @@
     },
     {
       "rank": 11,
+      "id": "FINAL-Bench/Aether-7B-5Attn",
+      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
+      "pipelineTag": "text-generation",
+      "downloads": 2,
+      "likes": 34,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "aether_v2_7way",
+        "text-generation",
+        "foundation-model",
+        "sovereign-ai"
+      ],
+      "lastModified": null,
+      "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
+    },
+    {
+      "rank": 12,
       "id": "prism-ml/Bonsai-8B-gguf",
       "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
       "pipelineTag": "text-generation",
-      "downloads": 23197,
+      "downloads": 27456,
       "likes": 756,
       "tags": [
         "llama.cpp",
@@ -741,39 +759,22 @@
       "description": "End-to-end 1-bit language model for llama.cpp (CUDA, Metal, CPU)"
     },
     {
-      "rank": 12,
-      "id": "FINAL-Bench/Aether-7B-5Attn",
-      "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
+      "rank": 13,
+      "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 2,
-      "likes": 32,
+      "downloads": 2302,
+      "likes": 17,
       "tags": [
         "transformers",
-        "safetensors",
-        "aether_v2_7way",
-        "text-generation",
-        "foundation-model",
-        "sovereign-ai"
+        "gguf",
+        "quantized",
+        "vlm",
+        "vision",
+        "agentic"
       ],
       "lastModified": null,
-      "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
-    },
-    {
-      "rank": 13,
-      "id": "meta-llama/Llama-3.2-3B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1989261,
-      "likes": 2357,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
+      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     },
     {
       "rank": 14,
@@ -781,7 +782,7 @@
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn-it",
       "pipelineTag": "text-generation",
       "downloads": 2,
-      "likes": 29,
+      "likes": 30,
       "tags": [
         "transformers",
         "safetensors",
@@ -795,11 +796,11 @@
     },
     {
       "rank": 15,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "id": "meta-llama/Llama-3.2-3B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 1446293,
-      "likes": 4738,
+      "downloads": 1987423,
+      "likes": 2357,
       "tags": [
         "transformers",
         "safetensors",
@@ -812,10 +813,27 @@
     },
     {
       "rank": 16,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 1486910,
+      "likes": 4738,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 17,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
-      "downloads": 25275857,
+      "downloads": 25843960,
       "likes": 1433,
       "tags": [
         "transformers",
@@ -829,7 +847,7 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
       "pipelineTag": "text-generation",
@@ -847,29 +865,11 @@
       "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
     },
     {
-      "rank": 18,
-      "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
-      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 2302,
-      "likes": 15,
-      "tags": [
-        "transformers",
-        "gguf",
-        "quantized",
-        "vlm",
-        "vision",
-        "agentic"
-      ],
-      "lastModified": null,
-      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
-    },
-    {
       "rank": 19,
       "id": "prism-ml/Ternary-Bonsai-8B-gguf",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf",
       "pipelineTag": "text-generation",
-      "downloads": 34730,
+      "downloads": 43476,
       "likes": 123,
       "tags": [
         "gguf",
