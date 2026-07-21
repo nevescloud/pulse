@@ -1,246 +1,258 @@
 {
-  "updated": "2026-07-20T21:59:38.206Z",
+  "updated": "2026-07-21T02:42:58.860Z",
   "since": "daily",
   "repos": [
     {
       "rank": 1,
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "fullName": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "language": "Python",
+      "stars": 10587,
+      "forks": 991,
+      "starsToday": 4434
+    },
+    {
+      "rank": 2,
       "owner": "tirth8205",
       "name": "code-review-graph",
       "fullName": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 22996,
-      "forks": 2266,
-      "starsToday": 1876
+      "stars": 23391,
+      "forks": 2282,
+      "starsToday": 1833
     },
     {
-      "rank": 2,
+      "rank": 3,
       "owner": "1jehuang",
       "name": "jcode",
       "fullName": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "description": "The most intelligent agent harness for code",
       "language": "Rust",
-      "stars": 9566,
-      "forks": 1078,
-      "starsToday": 612
+      "stars": 9711,
+      "forks": 1086,
+      "starsToday": 568
     },
     {
-      "rank": 3,
+      "rank": 4,
       "owner": "diegosouzapw",
       "name": "OmniRoute",
       "fullName": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "language": "TypeScript",
-      "stars": 21635,
-      "forks": 2945,
-      "starsToday": 1300
+      "stars": 22001,
+      "forks": 2976,
+      "starsToday": 1107
     },
     {
-      "rank": 4,
+      "rank": 5,
       "owner": "rohitg00",
       "name": "ai-engineering-from-scratch",
       "fullName": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 40465,
-      "forks": 6716,
-      "starsToday": 846
+      "stars": 40632,
+      "forks": 6731,
+      "starsToday": 823
     },
     {
-      "rank": 5,
+      "rank": 6,
       "owner": "msitarzewski",
       "name": "agency-agents",
       "fullName": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
-      "stars": 134646,
-      "forks": 21957,
-      "starsToday": 744
+      "stars": 134793,
+      "forks": 21978,
+      "starsToday": 862
     },
     {
-      "rank": 6,
+      "rank": 7,
       "owner": "kvcache-ai",
       "name": "ktransformers",
       "fullName": "kvcache-ai/ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
       "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
       "language": "Python",
-      "stars": 18718,
+      "stars": 18758,
       "forks": 1463,
-      "starsToday": 448
+      "starsToday": 458
     },
     {
-      "rank": 7,
+      "rank": 8,
       "owner": "jamiepine",
       "name": "voicebox",
       "fullName": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars": 44104,
-      "forks": 5362,
-      "starsToday": 839
+      "stars": 44252,
+      "forks": 5376,
+      "starsToday": 821
     },
     {
-      "rank": 8,
+      "rank": 9,
       "owner": "topoteretes",
       "name": "cognee",
       "fullName": "topoteretes/cognee",
       "url": "https://github.com/topoteretes/cognee",
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "language": "Python",
-      "stars": 28746,
-      "forks": 2740,
-      "starsToday": 249
+      "stars": 28829,
+      "forks": 2745,
+      "starsToday": 234
     },
     {
-      "rank": 9,
+      "rank": 10,
       "owner": "Robbyant",
       "name": "lingbot-map",
       "fullName": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "description": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
       "language": "Python",
-      "stars": 14160,
-      "forks": 1480,
-      "starsToday": 554
+      "stars": 14298,
+      "forks": 1486,
+      "starsToday": 565
     },
     {
-      "rank": 10,
+      "rank": 11,
       "owner": "every-app",
       "name": "open-seo",
       "fullName": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
-      "stars": 5775,
-      "forks": 641,
-      "starsToday": 983
+      "stars": 5929,
+      "forks": 653,
+      "starsToday": 939
     },
     {
-      "rank": 11,
+      "rank": 12,
       "owner": "MoonshotAI",
       "name": "kimi-cli",
       "fullName": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "description": "Kimi Code CLI is your next CLI agent.",
       "language": "Python",
-      "stars": 10208,
-      "forks": 1217,
-      "starsToday": 405
+      "stars": 10271,
+      "forks": 1222,
+      "starsToday": 410
     },
     {
-      "rank": 12,
+      "rank": 13,
       "owner": "AstrBotDevs",
       "name": "AstrBot",
       "fullName": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "description": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "language": "Python",
-      "stars": 37050,
-      "forks": 2575,
-      "starsToday": 330
+      "stars": 37147,
+      "forks": 2584,
+      "starsToday": 317
     },
     {
-      "rank": 13,
+      "rank": 14,
       "owner": "PrefectHQ",
       "name": "fastmcp",
       "fullName": "PrefectHQ/fastmcp",
       "url": "https://github.com/PrefectHQ/fastmcp",
       "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
       "language": "Python",
-      "stars": 26505,
-      "forks": 2162,
-      "starsToday": 77
+      "stars": 26565,
+      "forks": 2165,
+      "starsToday": 96
     },
     {
-      "rank": 14,
+      "rank": 15,
       "owner": "KnockOutEZ",
       "name": "wigolo",
       "fullName": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "language": "TypeScript",
-      "stars": 2472,
-      "forks": 144,
-      "starsToday": 695
+      "stars": 2605,
+      "forks": 155,
+      "starsToday": 689
     },
     {
-      "rank": 15,
+      "rank": 16,
       "owner": "tokio-rs",
       "name": "topcoat",
       "fullName": "tokio-rs/topcoat",
       "url": "https://github.com/tokio-rs/topcoat",
       "description": "A batteries-included framework for building web apps",
       "language": "Rust",
-      "stars": 1487,
-      "forks": 40,
-      "starsToday": 374
+      "stars": 1600,
+      "forks": 41,
+      "starsToday": 371
     },
     {
-      "rank": 16,
+      "rank": 17,
       "owner": "iptv-org",
       "name": "iptv",
       "fullName": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "description": "Collection of publicly available IPTV channels from all over the world",
       "language": "TypeScript",
-      "stars": 133738,
-      "forks": 7559,
-      "starsToday": 144
+      "stars": 133802,
+      "forks": 7565,
+      "starsToday": 240
     },
     {
-      "rank": 17,
+      "rank": 18,
       "owner": "oblien",
       "name": "openship",
       "fullName": "oblien/openship",
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars": 4670,
-      "forks": 323,
-      "starsToday": 1719
+      "stars": 4916,
+      "forks": 342,
+      "starsToday": 1641
     },
     {
-      "rank": 18,
+      "rank": 19,
       "owner": "microsoft",
       "name": "Ontology-Playground",
       "fullName": "microsoft/Ontology-Playground",
       "url": "https://github.com/microsoft/Ontology-Playground",
       "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
       "language": "TypeScript",
-      "stars": 1690,
-      "forks": 228,
-      "starsToday": 487
+      "stars": 1764,
+      "forks": 234,
+      "starsToday": 464
     },
     {
-      "rank": 19,
+      "rank": 20,
       "owner": "handy-computer",
       "name": "transcribe.cpp",
       "fullName": "handy-computer/transcribe.cpp",
       "url": "https://github.com/handy-computer/transcribe.cpp",
       "description": "ggml speech-to-text inference for 16+ model families",
       "language": "C++",
-      "stars": 1204,
-      "forks": 29,
-      "starsToday": 401
+      "stars": 1298,
+      "forks": 31,
+      "starsToday": 395
     },
     {
-      "rank": 20,
+      "rank": 21,
       "owner": "moonshine-ai",
       "name": "moonshine",
       "fullName": "moonshine-ai/moonshine",
       "url": "https://github.com/moonshine-ai/moonshine",
       "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
       "language": "C++",
-      "stars": 9766,
-      "forks": 516,
-      "starsToday": 264
+      "stars": 9915,
+      "forks": 519,
+      "starsToday": 282
     }
   ]
 }
