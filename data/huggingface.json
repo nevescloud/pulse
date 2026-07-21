@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T08:28:53.509Z",
+  "updated": "2026-07-21T11:08:25.948Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 241315604,
-      "likes": 5102,
+      "likes": 5103,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -403,7 +403,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13234055,
-      "likes": 1299,
+      "likes": 1300,
       "tags": [
         "transformers",
         "safetensors",
@@ -548,8 +548,8 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 5494,
-      "likes": 159,
+      "downloads": 6165,
+      "likes": 160,
       "tags": [
         "transformers",
         "safetensors",
@@ -566,7 +566,7 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 28012,
+      "downloads": 51746,
       "likes": 137,
       "tags": [
         "gguf",
@@ -584,7 +584,7 @@
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 178511,
+      "downloads": 195045,
       "likes": 289,
       "tags": [
         "gguf",
@@ -602,7 +602,7 @@
       "id": "InternScience/Agents-A1-4B",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
-      "downloads": 2364,
+      "downloads": 8148,
       "likes": 46,
       "tags": [
         "transformers",
@@ -620,7 +620,7 @@
       "id": "openbmb/MiniCPM5-1B",
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
-      "downloads": 398340,
+      "downloads": 391126,
       "likes": 982,
       "tags": [
         "transformers",
@@ -638,8 +638,8 @@
       "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "url": "https://huggingface.co/ai-sage/GigaChat3.1-Audio-10B-A1.8B",
       "pipelineTag": "text-generation",
-      "downloads": 53421,
-      "likes": 39,
+      "downloads": 68515,
+      "likes": 40,
       "tags": [
         "transformers",
         "safetensors",
@@ -653,6 +653,23 @@
     },
     {
       "rank": 7,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 7952429,
+      "likes": 6369,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 8,
       "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
@@ -670,28 +687,11 @@
       "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
     },
     {
-      "rank": 8,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 7952429,
-      "likes": 6367,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 9,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
       "pipelineTag": "text-generation",
-      "downloads": 1195,
+      "downloads": 1496,
       "likes": 30,
       "tags": [
         "transformers",
@@ -709,8 +709,8 @@
       "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 3243,
-      "likes": 25,
+      "downloads": 4632,
+      "likes": 26,
       "tags": [
         "transformers",
         "gguf",
@@ -727,8 +727,8 @@
       "id": "FINAL-Bench/Aether-7B-5Attn",
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
       "pipelineTag": "text-generation",
-      "downloads": 2,
-      "likes": 34,
+      "downloads": 666,
+      "likes": 35,
       "tags": [
         "transformers",
         "safetensors",
@@ -763,7 +763,7 @@
       "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 2302,
+      "downloads": 3703,
       "likes": 17,
       "tags": [
         "transformers",
@@ -781,7 +781,7 @@
       "id": "FINAL-Bench/Aether-7B-5Attn-it",
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn-it",
       "pipelineTag": "text-generation",
-      "downloads": 2,
+      "downloads": 10,
       "likes": 30,
       "tags": [
         "transformers",
@@ -813,23 +813,6 @@
     },
     {
       "rank": 16,
-      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 1486910,
-      "likes": 4738,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
-      "rank": 17,
       "id": "Qwen/Qwen3-0.6B",
       "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
       "pipelineTag": "text-generation",
@@ -847,25 +830,24 @@
       "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     },
     {
-      "rank": 18,
-      "id": "ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
-      "url": "https://huggingface.co/ewinregirgojr/MiniCPM5-1B-Agentic-Tooluse-GGUF",
+      "rank": 17,
+      "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct",
       "pipelineTag": "text-generation",
-      "downloads": 12750,
-      "likes": 63,
+      "downloads": 1486910,
+      "likes": 4738,
       "tags": [
-        "gguf",
-        "llama.cpp",
-        "llama-cpp",
-        "minicpm",
-        "minicpm5",
-        "minicpm5-1b"
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
       ],
-      "lastModified": null,
-      "description": "Current GGUF exports of the July 2026 Nemotron SFT+DPO repaired MiniCPM5-1B-Agentic-Tooluse-Merged-FP16."
+      "lastModified": null
     },
     {
-      "rank": 19,
+      "rank": 18,
       "id": "prism-ml/Ternary-Bonsai-8B-gguf",
       "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-8B-gguf",
       "pipelineTag": "text-generation",
