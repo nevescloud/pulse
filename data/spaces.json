@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T22:03:08.605Z",
+  "updated": "2026-07-22T02:40:32.773Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14052,
+      "likes": 14053,
       "tags": [
         "docker",
         "leaderboard",
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11181,
+      "likes": 11182,
       "tags": [
         "docker",
         "region:us"
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10133,
+      "likes": 10134,
       "tags": [
         "gradio",
         "region:us"
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9485,
+      "likes": 9486,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7578,
+      "likes": 7579,
       "tags": [
         "docker",
         "leaderboard",
@@ -97,7 +97,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
       "sdk": "static",
-      "likes": 5704,
+      "likes": 5705,
       "tags": [
         "static",
         "region:us"
@@ -170,7 +170,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/lmarena-ai/arena-leaderboard",
       "sdk": "static",
-      "likes": 4951,
+      "likes": 4952,
       "tags": [
         "static",
         "leaderboard",
@@ -245,7 +245,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/InstantX/InstantID",
       "sdk": "gradio",
-      "likes": 3628,
+      "likes": 3629,
       "tags": [
         "gradio",
         "region:us"
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3588,
+      "likes": 3589,
       "tags": [
         "gradio",
         "mcp-server",
@@ -377,7 +377,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2924,
+      "likes": 2925,
       "tags": [
         "gradio",
         "mcp-server",
@@ -479,7 +479,7 @@
       "description": "State-of-the-art image generation, in your browser.",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-image-webgpu",
       "sdk": "static",
-      "likes": 318,
+      "likes": 319,
       "tags": [
         "static",
         "region:us"
@@ -507,7 +507,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 242,
+      "likes": 246,
       "tags": [
         "static",
         "region:us"
