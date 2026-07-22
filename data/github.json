@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T11:09:39.468Z",
+  "updated": "2026-07-22T13:54:06.608Z",
   "since": "daily",
   "repos": [
     {
@@ -10,9 +10,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 67299,
-      "forks": 10375,
-      "starsToday": 1295
+      "stars": 67753,
+      "forks": 10413,
+      "starsToday": 4131
     },
     {
       "rank": 2,
@@ -22,8 +22,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 82909,
-      "forks": 11170,
+      "stars": 83126,
+      "forks": 11182,
       "starsToday": 1114
     },
     {
@@ -34,9 +34,9 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars": 7562,
-      "forks": 324,
-      "starsToday": 1866
+      "stars": 7744,
+      "forks": 333,
+      "starsToday": 1682
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
       "url": "https://github.com/schollz/croc",
       "description": "Easily and securely send things from one computer to another 🐊 📦",
       "language": "Go",
-      "stars": 37132,
-      "forks": 1469,
-      "starsToday": 361
+      "stars": 37245,
+      "forks": 1471,
+      "starsToday": 737
     },
     {
       "rank": 5,
@@ -58,8 +58,8 @@
       "url": "https://github.com/likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
-      "stars": 4053,
-      "forks": 288,
+      "stars": 4112,
+      "forks": 294,
       "starsToday": 58
     },
     {
@@ -70,9 +70,9 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 70248,
-      "forks": 7860,
-      "starsToday": 1235
+      "stars": 70352,
+      "forks": 7866,
+      "starsToday": 766
     },
     {
       "rank": 7,
@@ -82,8 +82,8 @@
       "url": "https://github.com/jamiepine/voicebox",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
-      "stars": 45362,
-      "forks": 5543,
+      "stars": 45453,
+      "forks": 5554,
       "starsToday": 565
     },
     {
@@ -94,9 +94,9 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars": 24289,
-      "forks": 3244,
-      "starsToday": 2034
+      "stars": 24479,
+      "forks": 3274,
+      "starsToday": 1648
     },
     {
       "rank": 9,
@@ -106,8 +106,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 32421,
-      "forks": 5576,
+      "stars": 32458,
+      "forks": 5583,
       "starsToday": 134
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars": 68470,
-      "forks": 7779,
+      "stars": 68542,
+      "forks": 7788,
       "starsToday": 155
     },
     {
@@ -130,9 +130,9 @@
       "url": "https://github.com/oblien/openship",
       "description": "Self-hosted deployment platform",
       "language": "TypeScript",
-      "stars": 6731,
-      "forks": 491,
-      "starsToday": 1562
+      "stars": 6903,
+      "forks": 502,
+      "starsToday": 1304
     },
     {
       "rank": 12,
@@ -142,9 +142,9 @@
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars": 1898,
-      "forks": 294,
-      "starsToday": 298
+      "stars": 1954,
+      "forks": 300,
+      "starsToday": 314
     },
     {
       "rank": 13,
@@ -154,8 +154,8 @@
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "description": "Learn it. Build it. Ship it for others.",
       "language": "Python",
-      "stars": 41782,
-      "forks": 6960,
+      "stars": 41894,
+      "forks": 6974,
       "starsToday": 1007
     },
     {
@@ -166,9 +166,9 @@
       "url": "https://github.com/tirth8205/code-review-graph",
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "language": "Python",
-      "stars": 25036,
-      "forks": 2373,
-      "starsToday": 1925
+      "stars": 25093,
+      "forks": 2379,
+      "starsToday": 872
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "language": "TypeScript",
-      "stars": 10666,
-      "forks": 7258,
+      "stars": 10709,
+      "forks": 7264,
       "starsToday": 60
     },
     {
@@ -190,9 +190,9 @@
       "url": "https://github.com/DioxusLabs/dioxus",
       "description": "Fullstack app framework for web, desktop, and mobile.",
       "language": "Rust",
-      "stars": 37848,
-      "forks": 1779,
-      "starsToday": 271
+      "stars": 37890,
+      "forks": 1781,
+      "starsToday": 411
     },
     {
       "rank": 17,
@@ -202,9 +202,9 @@
       "url": "https://github.com/hyprwm/Hyprland",
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
-      "stars": 37172,
-      "forks": 1866,
-      "starsToday": 58
+      "stars": 37197,
+      "forks": 1868,
+      "starsToday": 353
     },
     {
       "rank": 18,
@@ -214,8 +214,8 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
-      "stars": 8103,
-      "forks": 576,
+      "stars": 8162,
+      "forks": 580,
       "starsToday": 96
     },
     {
@@ -226,9 +226,9 @@
       "url": "https://github.com/dottxt-ai/outlines",
       "description": "Structured Outputs",
       "language": "Python",
-      "stars": 14974,
-      "forks": 801,
-      "starsToday": 65
+      "stars": 15016,
+      "forks": 802,
+      "starsToday": 362
     }
   ]
 }
