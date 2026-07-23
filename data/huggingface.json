@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T19:17:59.355Z",
+  "updated": "2026-07-23T22:03:18.160Z",
   "models": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
       "pipelineTag": "sentence-similarity",
       "downloads": 254761864,
-      "likes": 5112,
+      "likes": 5113,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 35583655,
-      "likes": 3253,
+      "likes": 3254,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 16303586,
-      "likes": 375,
+      "likes": 376,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13601581,
-      "likes": 1310,
+      "likes": 1311,
       "tags": [
         "transformers",
         "safetensors",
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12666488,
-      "likes": 3345,
+      "likes": 3346,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
       "pipelineTag": "text-generation",
       "downloads": 4532,
-      "likes": 305,
+      "likes": 308,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/fdtn-ai/antares-1b",
       "pipelineTag": "text-generation",
       "downloads": 2747,
-      "likes": 113,
+      "likes": 116,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 120534,
-      "likes": 158,
+      "likes": 160,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
       "downloads": 44004,
-      "likes": 59,
+      "likes": 60,
       "tags": [
         "transformers",
         "safetensors",
@@ -705,29 +705,11 @@
     },
     {
       "rank": 10,
-      "id": "Virtue-AI-HUB/VulnLLM-R-7B",
-      "url": "https://huggingface.co/Virtue-AI-HUB/VulnLLM-R-7B",
-      "pipelineTag": "text-generation",
-      "downloads": 44945,
-      "likes": 222,
-      "tags": [
-        "safetensors",
-        "qwen2",
-        "security",
-        "vulnerability-detection",
-        "code-analysis",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "VulnLLM-R is the first specialized reasoning Large Language Model designed specifically for software vulnerability detection."
-    },
-    {
-      "rank": 11,
       "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
       "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 9718,
-      "likes": 33,
+      "likes": 35,
       "tags": [
         "transformers",
         "gguf",
@@ -738,6 +720,24 @@
       ],
       "lastModified": null,
       "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
+    },
+    {
+      "rank": 11,
+      "id": "Virtue-AI-HUB/VulnLLM-R-7B",
+      "url": "https://huggingface.co/Virtue-AI-HUB/VulnLLM-R-7B",
+      "pipelineTag": "text-generation",
+      "downloads": 44945,
+      "likes": 223,
+      "tags": [
+        "safetensors",
+        "qwen2",
+        "security",
+        "vulnerability-detection",
+        "code-analysis",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "VulnLLM-R is the first specialized reasoning Large Language Model designed specifically for software vulnerability detection."
     },
     {
       "rank": 12,
@@ -759,11 +759,29 @@
     },
     {
       "rank": 13,
+      "id": "mitkox/antares-1b-Q8_0-GGUF",
+      "url": "https://huggingface.co/mitkox/antares-1b-Q8_0-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 959,
+      "likes": 24,
+      "tags": [
+        "transformers",
+        "gguf",
+        "security",
+        "vulnerability-detection",
+        "agentic",
+        "terminal-agent"
+      ],
+      "lastModified": null,
+      "description": "This model was converted to GGUF format from fdtn-ai/antares-1b using llama.cpp via the ggml.ai's GGUF-my-repo space. Refer to the original model card for more details on the model."
+    },
+    {
+      "rank": 14,
       "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 61437,
-      "likes": 116,
+      "likes": 117,
       "tags": [
         "transformers",
         "gguf",
@@ -776,22 +794,22 @@
       "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
     },
     {
-      "rank": 14,
-      "id": "mitkox/antares-1b-Q8_0-GGUF",
-      "url": "https://huggingface.co/mitkox/antares-1b-Q8_0-GGUF",
+      "rank": 15,
+      "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 959,
+      "downloads": 11147,
       "likes": 23,
       "tags": [
         "transformers",
         "gguf",
-        "security",
-        "vulnerability-detection",
-        "agentic",
-        "terminal-agent"
+        "quantized",
+        "vlm",
+        "vision",
+        "agentic"
       ],
       "lastModified": null,
-      "description": "This model was converted to GGUF format from fdtn-ai/antares-1b using llama.cpp via the ggml.ai's GGUF-my-repo space. Refer to the original model card for more details on the model."
+      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     }
   ]
 }
