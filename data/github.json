@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:25:42.858Z",
+  "updated": "2026-07-23T19:18:00.060Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars": 5950,
-      "forks": 464,
+      "stars": 6306,
+      "forks": 504,
       "starsToday": 2460
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 71009,
-      "forks": 10749,
+      "stars": 71240,
+      "forks": 10769,
       "starsToday": 3196
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 32910,
-      "forks": 5636,
+      "stars": 32963,
+      "forks": 5639,
       "starsToday": 398
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
-      "stars": 8762,
-      "forks": 608,
+      "stars": 8816,
+      "forks": 610,
       "starsToday": 563
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The best browser for both you and your AI agents work in parallel.",
       "language": "JavaScript",
-      "stars": 1421,
-      "forks": 82,
+      "stars": 1505,
+      "forks": 87,
       "starsToday": 219
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 70950,
-      "forks": 7911,
+      "stars": 71011,
+      "forks": 7914,
       "starsToday": 599
     },
     {
@@ -80,10 +80,10 @@
       "name": "OmniRoute",
       "fullName": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars": 26657,
-      "forks": 3496,
+      "stars": 26862,
+      "forks": 3524,
       "starsToday": 1925
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars": 69248,
-      "forks": 7836,
+      "stars": 69320,
+      "forks": 7843,
       "starsToday": 637
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars": 9830,
-      "forks": 1088,
+      "stars": 9878,
+      "forks": 1090,
       "starsToday": 293
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars": 2295,
-      "forks": 320,
+      "stars": 2318,
+      "forks": 322,
       "starsToday": 315
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 11243,
-      "forks": 781,
+      "stars": 11342,
+      "forks": 784,
       "starsToday": 265
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 84910,
-      "forks": 11340,
+      "stars": 85034,
+      "forks": 11355,
       "starsToday": 1726
     },
     {
@@ -154,7 +154,7 @@
       "url": "https://github.com/Julian-adv/OpenMMO",
       "description": "",
       "language": "Rust",
-      "stars": 1272,
+      "stars": 1303,
       "forks": 163,
       "starsToday": 395
     },
@@ -166,8 +166,8 @@
       "url": "https://github.com/likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
-      "stars": 4593,
-      "forks": 310,
+      "stars": 4634,
+      "forks": 313,
       "starsToday": 475
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
-      "stars": 12008,
-      "forks": 445,
+      "stars": 12113,
+      "forks": 448,
       "starsToday": 590
     },
     {
@@ -190,8 +190,8 @@
       "url": "https://github.com/jellyfin/jellyfin",
       "description": "The Free Software Media System - Server Backend & API",
       "language": "C#",
-      "stars": 54635,
-      "forks": 5162,
+      "stars": 54673,
+      "forks": 5164,
       "starsToday": 66
     }
   ]

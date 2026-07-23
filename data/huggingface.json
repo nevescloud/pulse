@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:25:41.958Z",
+  "updated": "2026-07-23T19:17:59.355Z",
   "models": [
     {
       "rank": 1,
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 18476865,
-      "likes": 1103,
+      "likes": 1104,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -313,7 +313,7 @@
       "url": "https://huggingface.co/amazon/chronos-2",
       "pipelineTag": "time-series-forecasting",
       "downloads": 16303586,
-      "likes": 374,
+      "likes": 375,
       "tags": [
         "chronos-forecasting",
         "safetensors",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13601581,
-      "likes": 1309,
+      "likes": 1310,
       "tags": [
         "transformers",
         "safetensors",
@@ -439,7 +439,7 @@
       "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 13278800,
-      "likes": 780,
+      "likes": 781,
       "tags": [
         "transformers",
         "safetensors",
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12666488,
-      "likes": 3344,
+      "likes": 3345,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
       "pipelineTag": "text-generation",
       "downloads": 4532,
-      "likes": 296,
+      "likes": 305,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/fdtn-ai/antares-1b",
       "pipelineTag": "text-generation",
       "downloads": 2747,
-      "likes": 106,
+      "likes": 113,
       "tags": [
         "transformers",
         "safetensors",
@@ -584,7 +584,7 @@
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 120534,
-      "likes": 157,
+      "likes": 158,
       "tags": [
         "gguf",
         "llama.cpp",
@@ -602,7 +602,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B",
       "pipelineTag": "text-generation",
       "downloads": 44004,
-      "likes": 58,
+      "likes": 59,
       "tags": [
         "transformers",
         "safetensors",
@@ -652,6 +652,24 @@
     },
     {
       "rank": 7,
+      "id": "openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "pipelineTag": "text-generation",
+      "downloads": 479982,
+      "likes": 992,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "minicpm",
+        "minicpm5"
+      ],
+      "lastModified": null,
+      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
+    },
+    {
+      "rank": 8,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
@@ -667,24 +685,6 @@
       ],
       "lastModified": null,
       "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
-    },
-    {
-      "rank": 8,
-      "id": "openbmb/MiniCPM5-1B",
-      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
-      "pipelineTag": "text-generation",
-      "downloads": 479982,
-      "likes": 990,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "minicpm",
-        "minicpm5"
-      ],
-      "lastModified": null,
-      "description": "We are releasing MiniCPM5-1B, the first model in the MiniCPM5 series. It is a dense 1B Transformer built for on-device, local deployment, and resource-constrained scenarios, reaching 1B-class open-source SOTA."
     },
     {
       "rank": 9,
@@ -781,7 +781,7 @@
       "url": "https://huggingface.co/mitkox/antares-1b-Q8_0-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 959,
-      "likes": 21,
+      "likes": 23,
       "tags": [
         "transformers",
         "gguf",
@@ -792,24 +792,6 @@
       ],
       "lastModified": null,
       "description": "This model was converted to GGUF format from fdtn-ai/antares-1b using llama.cpp via the ggml.ai's GGUF-my-repo space. Refer to the original model card for more details on the model."
-    },
-    {
-      "rank": 15,
-      "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
-      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 11147,
-      "likes": 23,
-      "tags": [
-        "transformers",
-        "gguf",
-        "quantized",
-        "vlm",
-        "vision",
-        "agentic"
-      ],
-      "lastModified": null,
-      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
     }
   ]
 }
