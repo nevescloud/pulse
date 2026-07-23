@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T08:30:29.672Z",
+  "updated": "2026-07-23T11:09:47.692Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14054,
+      "likes": 14055,
       "tags": [
         "docker",
         "leaderboard",
@@ -40,7 +40,7 @@
       "description": "Create your own AI comic with a single prompt",
       "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
       "sdk": "docker",
-      "likes": 11185,
+      "likes": 11186,
       "tags": [
         "docker",
         "region:us"
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10135,
+      "likes": 10136,
       "tags": [
         "gradio",
         "region:us"
@@ -82,13 +82,13 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7583,
+      "likes": 7584,
       "tags": [
         "docker",
         "leaderboard",
         "region:us"
       ],
-      "lastModified": "2026-07-22T19:15:13.000Z"
+      "lastModified": "2026-07-23T09:10:59.000Z"
     },
     {
       "rank": 7,
@@ -125,7 +125,7 @@
       "description": "Wan2.2 Animate",
       "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
       "sdk": "gradio",
-      "likes": 5117,
+      "likes": 5118,
       "tags": [
         "gradio",
         "region:us"
@@ -227,7 +227,7 @@
       "description": "Apply the motion of a video on a portrait",
       "url": "https://huggingface.co/spaces/KlingTeam/LivePortrait",
       "sdk": "gradio",
-      "likes": 3766,
+      "likes": 3767,
       "tags": [
         "gradio",
         "Multimodal",
@@ -259,7 +259,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/mrfakename/Z-Image-Turbo",
       "sdk": "gradio",
-      "likes": 3594,
+      "likes": 3595,
       "tags": [
         "gradio",
         "mcp-server",
@@ -377,7 +377,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2930,
+      "likes": 2932,
       "tags": [
         "gradio",
         "mcp-server",
@@ -507,7 +507,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 291,
+      "likes": 294,
       "tags": [
         "static",
         "region:us"
