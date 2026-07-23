@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T05:54:21.514Z",
+  "updated": "2026-07-23T08:30:29.672Z",
   "trending": [
     {
       "rank": 1,
@@ -68,7 +68,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
       "sdk": "gradio",
-      "likes": 9488,
+      "likes": 9489,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7582,
+      "likes": 7583,
       "tags": [
         "docker",
         "leaderboard",
@@ -125,7 +125,7 @@
       "description": "Wan2.2 Animate",
       "url": "https://huggingface.co/spaces/Wan-AI/Wan2.2-Animate",
       "sdk": "gradio",
-      "likes": 5118,
+      "likes": 5117,
       "tags": [
         "gradio",
         "region:us"
@@ -317,7 +317,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/akhaliq/anycoder",
       "sdk": "docker",
-      "likes": 3301,
+      "likes": 3302,
       "tags": [
         "docker",
         "region:us"
@@ -507,7 +507,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 288,
+      "likes": 291,
       "tags": [
         "static",
         "region:us"
