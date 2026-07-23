@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T11:09:47.885Z",
+  "updated": "2026-07-23T14:00:29.461Z",
   "models": [
     {
       "rank": 1,
@@ -115,7 +115,7 @@
       "url": "https://huggingface.co/BAAI/bge-m3",
       "pipelineTag": "sentence-similarity",
       "downloads": 35583655,
-      "likes": 3251,
+      "likes": 3252,
       "tags": [
         "sentence-transformers",
         "pytorch",
@@ -259,7 +259,7 @@
       "url": "https://huggingface.co/BAAI/bge-reranker-v2-m3",
       "pipelineTag": "text-classification",
       "downloads": 18476865,
-      "likes": 1102,
+      "likes": 1103,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -277,7 +277,7 @@
       "url": "https://huggingface.co/Qwen/Qwen3-8B",
       "pipelineTag": "text-generation",
       "downloads": 17001212,
-      "likes": 1227,
+      "likes": 1228,
       "tags": [
         "transformers",
         "safetensors",
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12666488,
-      "likes": 3339,
+      "likes": 3341,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
       "pipelineTag": "text-generation",
       "downloads": 4532,
-      "likes": 274,
+      "likes": 285,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/fdtn-ai/antares-1b",
       "pipelineTag": "text-generation",
       "downloads": 2747,
-      "likes": 99,
+      "likes": 101,
       "tags": [
         "transformers",
         "safetensors",
@@ -652,24 +652,6 @@
     },
     {
       "rank": 7,
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 241177,
-      "likes": 297,
-      "tags": [
-        "gguf",
-        "llama.cpp",
-        "quantized",
-        "minicpm5",
-        "thinking",
-        "fable5"
-      ],
-      "lastModified": null,
-      "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
-    },
-    {
-      "rank": 8,
       "id": "Nanbeige/Nanbeige4.2-3B-Base",
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B-Base",
       "pipelineTag": "text-generation",
@@ -687,12 +669,30 @@
       "description": "Nanbeige4.2-3B-Base is a new base model in the Nanbeige4 series, trained from scratch with improvements to both model architecture and training data. It delivers substantial gains over the previous generation and outperforms opensource b…"
     },
     {
+      "rank": 8,
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 241177,
+      "likes": 297,
+      "tags": [
+        "gguf",
+        "llama.cpp",
+        "quantized",
+        "minicpm5",
+        "thinking",
+        "fable5"
+      ],
+      "lastModified": null,
+      "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
+    },
+    {
       "rank": 9,
       "id": "meta-llama/Llama-3.1-8B-Instruct",
       "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
       "pipelineTag": "text-generation",
       "downloads": 8435024,
-      "likes": 6381,
+      "likes": 6382,
       "tags": [
         "transformers",
         "safetensors",
@@ -723,6 +723,24 @@
     },
     {
       "rank": 11,
+      "id": "Virtue-AI-HUB/VulnLLM-R-7B",
+      "url": "https://huggingface.co/Virtue-AI-HUB/VulnLLM-R-7B",
+      "pipelineTag": "text-generation",
+      "downloads": 44945,
+      "likes": 221,
+      "tags": [
+        "safetensors",
+        "qwen2",
+        "security",
+        "vulnerability-detection",
+        "code-analysis",
+        "reasoning"
+      ],
+      "lastModified": null,
+      "description": "VulnLLM-R is the first specialized reasoning Large Language Model designed specifically for software vulnerability detection."
+    },
+    {
+      "rank": 12,
       "id": "FINAL-Bench/Aether-7B-5Attn",
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
       "pipelineTag": "text-generation",
@@ -738,24 +756,6 @@
       ],
       "lastModified": null,
       "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
-    },
-    {
-      "rank": 12,
-      "id": "Virtue-AI-HUB/VulnLLM-R-7B",
-      "url": "https://huggingface.co/Virtue-AI-HUB/VulnLLM-R-7B",
-      "pipelineTag": "text-generation",
-      "downloads": 44945,
-      "likes": 220,
-      "tags": [
-        "safetensors",
-        "qwen2",
-        "security",
-        "vulnerability-detection",
-        "code-analysis",
-        "reasoning"
-      ],
-      "lastModified": null,
-      "description": "VulnLLM-R is the first specialized reasoning Large Language Model designed specifically for software vulnerability detection."
     },
     {
       "rank": 13,
@@ -799,7 +799,7 @@
       "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
       "pipelineTag": "text-generation",
       "downloads": 11147,
-      "likes": 22,
+      "likes": 23,
       "tags": [
         "transformers",
         "gguf",
@@ -810,24 +810,6 @@
       ],
       "lastModified": null,
       "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
-    },
-    {
-      "rank": 16,
-      "id": "Qwen/Qwen3-0.6B",
-      "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
-      "pipelineTag": "text-generation",
-      "downloads": 28270190,
-      "likes": 1438,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3",
-        "text-generation",
-        "conversational",
-        "license:apache-2.0"
-      ],
-      "lastModified": null,
-      "description": "Qwen3 is the latest generation of large language models in Qwen series, offering a comprehensive suite of dense and mixture-of-experts (MoE) models. Built upon extensive training, Qwen3 delivers groundbreaking advancements in reasoning, …"
     }
   ]
 }

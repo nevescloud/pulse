@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T11:09:47.644Z",
+  "updated": "2026-07-23T14:00:30.153Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars": 4975,
-      "forks": 387,
+      "stars": 5528,
+      "forks": 426,
       "starsToday": 3252
     },
     {
@@ -22,9 +22,9 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 70455,
-      "forks": 10681,
-      "starsToday": 4139
+      "stars": 70770,
+      "forks": 10715,
+      "starsToday": 3196
     },
     {
       "rank": 3,
@@ -34,129 +34,129 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 32802,
-      "forks": 5625,
-      "starsToday": 137
+      "stars": 32868,
+      "forks": 5629,
+      "starsToday": 398
     },
     {
       "rank": 4,
-      "owner": "ayghri",
-      "name": "i-have-adhd",
-      "fullName": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "stars": 8882,
-      "forks": 410,
-      "starsToday": 1699
-    },
-    {
-      "rank": 5,
       "owner": "Pumpkin-MC",
       "name": "Pumpkin",
       "fullName": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
-      "stars": 8667,
-      "forks": 602,
-      "starsToday": 108
+      "stars": 8713,
+      "forks": 603,
+      "starsToday": 563
     },
     {
-      "rank": 6,
+      "rank": 5,
       "owner": "citrolabs",
       "name": "ego-lite",
       "fullName": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The best browser for both you and your AI agents work in parallel.",
       "language": "JavaScript",
-      "stars": 1210,
-      "forks": 73,
+      "stars": 1316,
+      "forks": 79,
       "starsToday": 219
     },
     {
-      "rank": 7,
+      "rank": 6,
       "owner": "chrislgarry",
       "name": "Apollo-11",
       "fullName": "chrislgarry/Apollo-11",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 70851,
-      "forks": 7903,
-      "starsToday": 768
+      "stars": 70895,
+      "forks": 7908,
+      "starsToday": 599
     },
     {
-      "rank": 8,
+      "rank": 7,
       "owner": "diegosouzapw",
       "name": "OmniRoute",
       "fullName": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars": 26187,
-      "forks": 3437,
-      "starsToday": 1651
+      "stars": 26423,
+      "forks": 3471,
+      "starsToday": 1925
     },
     {
-      "rank": 9,
+      "rank": 8,
       "owner": "ComposioHQ",
       "name": "awesome-claude-skills",
       "fullName": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars": 69098,
-      "forks": 7826,
-      "starsToday": 163
+      "stars": 69179,
+      "forks": 7829,
+      "starsToday": 637
     },
     {
-      "rank": 10,
+      "rank": 9,
       "owner": "earthtojake",
       "name": "text-to-cad",
       "fullName": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars": 9700,
-      "forks": 1076,
+      "stars": 9773,
+      "forks": 1081,
       "starsToday": 621
     },
     {
-      "rank": 11,
+      "rank": 10,
       "owner": "agegr",
       "name": "pi-web",
       "fullName": "agegr/pi-web",
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars": 2215,
-      "forks": 317,
-      "starsToday": 314
+      "stars": 2258,
+      "forks": 320,
+      "starsToday": 315
     },
     {
-      "rank": 12,
+      "rank": 11,
       "owner": "alibaba",
       "name": "open-code-review",
       "fullName": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 11041,
-      "forks": 770,
+      "stars": 11147,
+      "forks": 777,
       "starsToday": 162
     },
     {
-      "rank": 13,
+      "rank": 12,
       "owner": "ruvnet",
       "name": "RuView",
       "fullName": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 84584,
-      "forks": 11292,
-      "starsToday": 741
+      "stars": 84791,
+      "forks": 11323,
+      "starsToday": 1726
+    },
+    {
+      "rank": 13,
+      "owner": "Julian-adv",
+      "name": "OpenMMO",
+      "fullName": "Julian-adv/OpenMMO",
+      "url": "https://github.com/Julian-adv/OpenMMO",
+      "description": "",
+      "language": "Rust",
+      "stars": 1236,
+      "forks": 163,
+      "starsToday": 395
     },
     {
       "rank": 14,
@@ -166,9 +166,9 @@
       "url": "https://github.com/likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
-      "stars": 4522,
-      "forks": 309,
-      "starsToday": 80
+      "stars": 4558,
+      "forks": 310,
+      "starsToday": 475
     },
     {
       "rank": 15,
@@ -178,8 +178,8 @@
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
-      "stars": 11786,
-      "forks": 437,
+      "stars": 11923,
+      "forks": 442,
       "starsToday": 590
     },
     {
@@ -190,9 +190,9 @@
       "url": "https://github.com/jellyfin/jellyfin",
       "description": "The Free Software Media System - Server Backend & API",
       "language": "C#",
-      "stars": 54591,
-      "forks": 5159,
-      "starsToday": 53
+      "stars": 54617,
+      "forks": 5160,
+      "starsToday": 66
     }
   ]
 }
