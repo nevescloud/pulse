@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:03:17.755Z",
+  "updated": "2026-07-24T02:41:32.550Z",
   "trending": [
     {
       "rank": 1,
@@ -22,7 +22,7 @@
       "description": "Track, rank and evaluate open LLMs and chatbots",
       "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
       "sdk": "docker",
-      "likes": 14055,
+      "likes": 14056,
       "tags": [
         "docker",
         "leaderboard",
@@ -54,7 +54,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
       "sdk": "gradio",
-      "likes": 10137,
+      "likes": 10139,
       "tags": [
         "gradio",
         "region:us"
@@ -82,7 +82,7 @@
       "description": "Embedding Leaderboard",
       "url": "https://huggingface.co/spaces/mteb/leaderboard",
       "sdk": "docker",
-      "likes": 7584,
+      "likes": 7585,
       "tags": [
         "docker",
         "leaderboard",
@@ -274,7 +274,7 @@
       "description": "Upgraded to v1.0!",
       "url": "https://huggingface.co/spaces/hexgrad/Kokoro-TTS",
       "sdk": "gradio",
-      "likes": 3404,
+      "likes": 3405,
       "tags": [
         "gradio",
         "region:us"
@@ -288,7 +288,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3345,
+      "likes": 3346,
       "tags": [
         "gradio",
         "mcp-server",
@@ -331,7 +331,7 @@
       "description": "The secrets to building world-class LLMs",
       "url": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook",
       "sdk": "docker",
-      "likes": 3244,
+      "likes": 3245,
       "tags": [
         "docker",
         "research-article-template",
@@ -349,7 +349,7 @@
       "description": "MidJour | A RealVisXL_Turbo | IRL HI-Res Images Gen",
       "url": "https://huggingface.co/spaces/mukaist/Midjourney",
       "sdk": "gradio",
-      "likes": 2988,
+      "likes": 2989,
       "tags": [
         "gradio",
         "region:us"
@@ -363,7 +363,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator",
       "sdk": "gradio",
-      "likes": 2974,
+      "likes": 2975,
       "tags": [
         "gradio",
         "region:us"
@@ -392,7 +392,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/not-lain/background-removal",
       "sdk": "gradio",
-      "likes": 2899,
+      "likes": 2900,
       "tags": [
         "gradio",
         "mcp-server",
@@ -507,7 +507,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 302,
+      "likes": 304,
       "tags": [
         "static",
         "region:us"

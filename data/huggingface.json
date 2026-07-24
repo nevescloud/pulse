@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:03:18.160Z",
+  "updated": "2026-07-24T02:41:32.829Z",
   "models": [
     {
       "rank": 1,
@@ -187,7 +187,7 @@
       "url": "https://huggingface.co/openai/clip-vit-base-patch32",
       "pipelineTag": "zero-shot-image-classification",
       "downloads": 24057727,
-      "likes": 984,
+      "likes": 985,
       "tags": [
         "transformers",
         "pytorch",
@@ -421,7 +421,7 @@
       "url": "https://huggingface.co/google/gemma-4-26B-A4B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 13601581,
-      "likes": 1311,
+      "likes": 1312,
       "tags": [
         "transformers",
         "safetensors",
@@ -457,7 +457,7 @@
       "url": "https://huggingface.co/google/gemma-4-31B-it",
       "pipelineTag": "image-text-to-text",
       "downloads": 12666488,
-      "likes": 3346,
+      "likes": 3347,
       "tags": [
         "transformers",
         "safetensors",
@@ -549,7 +549,7 @@
       "url": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
       "pipelineTag": "text-generation",
       "downloads": 4532,
-      "likes": 308,
+      "likes": 324,
       "tags": [
         "transformers",
         "safetensors",
@@ -567,7 +567,7 @@
       "url": "https://huggingface.co/fdtn-ai/antares-1b",
       "pipelineTag": "text-generation",
       "downloads": 2747,
-      "likes": 116,
+      "likes": 121,
       "tags": [
         "transformers",
         "safetensors",
@@ -656,7 +656,7 @@
       "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
       "pipelineTag": "text-generation",
       "downloads": 479982,
-      "likes": 992,
+      "likes": 993,
       "tags": [
         "transformers",
         "safetensors",
@@ -670,6 +670,23 @@
     },
     {
       "rank": 8,
+      "id": "meta-llama/Llama-3.1-8B-Instruct",
+      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+      "pipelineTag": "text-generation",
+      "downloads": 8435024,
+      "likes": 6384,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "facebook",
+        "meta"
+      ],
+      "lastModified": null
+    },
+    {
+      "rank": 9,
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "url": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "pipelineTag": "text-generation",
@@ -687,42 +704,7 @@
       "description": "GGUF quantizations of MiniCPM5-1B-Claude-Opus-Fable5-Thinking for llama.cpp, Ollama, LM Studio, jan, KoboldCpp, and other GGUF runtimes."
     },
     {
-      "rank": 9,
-      "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
-      "pipelineTag": "text-generation",
-      "downloads": 8435024,
-      "likes": 6382,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "facebook",
-        "meta"
-      ],
-      "lastModified": null
-    },
-    {
       "rank": 10,
-      "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
-      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 9718,
-      "likes": 35,
-      "tags": [
-        "transformers",
-        "gguf",
-        "quantized",
-        "vlm",
-        "vision",
-        "agentic"
-      ],
-      "lastModified": null,
-      "description": "Agents‑A1 is a long-horizon agentic model from InternScience, built to scale heterogeneous agentic abilities across multiple domains including Long‑horizon Search, Engineering, Scientific Research, Instruction Following, and Tool-calling…"
-    },
-    {
-      "rank": 11,
       "id": "Virtue-AI-HUB/VulnLLM-R-7B",
       "url": "https://huggingface.co/Virtue-AI-HUB/VulnLLM-R-7B",
       "pipelineTag": "text-generation",
@@ -740,12 +722,12 @@
       "description": "VulnLLM-R is the first specialized reasoning Large Language Model designed specifically for software vulnerability detection."
     },
     {
-      "rank": 12,
+      "rank": 11,
       "id": "FINAL-Bench/Aether-7B-5Attn",
       "url": "https://huggingface.co/FINAL-Bench/Aether-7B-5Attn",
       "pipelineTag": "text-generation",
       "downloads": 3535,
-      "likes": 37,
+      "likes": 39,
       "tags": [
         "transformers",
         "safetensors",
@@ -756,6 +738,24 @@
       ],
       "lastModified": null,
       "description": "A 6.59B MoE language model that arranges its attention across 49 layers on a 7×7 Latin square. Weights · training data recipe · training code · complete training logs · full architecture source — all released."
+    },
+    {
+      "rank": 12,
+      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "pipelineTag": "text-generation",
+      "downloads": 61437,
+      "likes": 118,
+      "tags": [
+        "transformers",
+        "gguf",
+        "llama",
+        "text-generation",
+        "GGUF",
+        "llama-cpp"
+      ],
+      "lastModified": null,
+      "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
     },
     {
       "rank": 13,
@@ -777,29 +777,11 @@
     },
     {
       "rank": 14,
-      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
-      "url": "https://huggingface.co/RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "id": "InternScience/Agents-A1-4B-Q8_0-GGUF",
+      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q8_0-GGUF",
       "pipelineTag": "text-generation",
-      "downloads": 61437,
-      "likes": 117,
-      "tags": [
-        "transformers",
-        "gguf",
-        "llama",
-        "text-generation",
-        "GGUF",
-        "llama-cpp"
-      ],
-      "lastModified": null,
-      "description": "Fine-tuned for Offensive Security • Defensive Security • Vulnerability Research • Exploit Development"
-    },
-    {
-      "rank": 15,
-      "id": "InternScience/Agents-A1-4B-Q4_K_M-GGUF",
-      "url": "https://huggingface.co/InternScience/Agents-A1-4B-Q4_K_M-GGUF",
-      "pipelineTag": "text-generation",
-      "downloads": 11147,
-      "likes": 23,
+      "downloads": 9718,
+      "likes": 36,
       "tags": [
         "transformers",
         "gguf",
