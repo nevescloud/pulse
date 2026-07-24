@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T02:41:33.325Z",
+  "updated": "2026-07-24T05:49:55.511Z",
   "since": "daily",
   "repos": [
     {
@@ -10,8 +10,8 @@
       "url": "https://github.com/block/buzz",
       "description": "A hive mind communication platform",
       "language": "Rust",
-      "stars": 7145,
-      "forks": 565,
+      "stars": 7521,
+      "forks": 597,
       "starsToday": 2162
     },
     {
@@ -22,8 +22,8 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 71775,
-      "forks": 10813,
+      "stars": 72039,
+      "forks": 10838,
       "starsToday": 3175
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "description": "Kronos: A Foundation Model for the Language of Financial Markets",
       "language": "Python",
-      "stars": 33117,
-      "forks": 5652,
+      "stars": 33194,
+      "forks": 5657,
       "starsToday": 401
     },
     {
@@ -46,8 +46,8 @@
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
-      "stars": 8960,
-      "forks": 616,
+      "stars": 9023,
+      "forks": 620,
       "starsToday": 565
     },
     {
@@ -58,8 +58,8 @@
       "url": "https://github.com/citrolabs/ego-lite",
       "description": "The best browser for both you and your AI agents work in parallel.",
       "language": "JavaScript",
-      "stars": 1736,
-      "forks": 95,
+      "stars": 1867,
+      "forks": 101,
       "starsToday": 247
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/chrislgarry/Apollo-11",
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
-      "stars": 71133,
-      "forks": 7921,
+      "stars": 71176,
+      "forks": 7924,
       "starsToday": 592
     },
     {
@@ -82,8 +82,8 @@
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "language": "TypeScript",
-      "stars": 27351,
-      "forks": 3584,
+      "stars": 27578,
+      "forks": 3611,
       "starsToday": 1929
     },
     {
@@ -94,8 +94,8 @@
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "language": "Python",
-      "stars": 69495,
-      "forks": 7858,
+      "stars": 69569,
+      "forks": 7863,
       "starsToday": 636
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/earthtojake/text-to-cad",
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "language": "JavaScript",
-      "stars": 10043,
-      "forks": 1102,
+      "stars": 10125,
+      "forks": 1110,
       "starsToday": 230
     },
     {
@@ -118,8 +118,8 @@
       "url": "https://github.com/agegr/pi-web",
       "description": "Web UI for the pi coding agent",
       "language": "TypeScript",
-      "stars": 2398,
-      "forks": 327,
+      "stars": 2464,
+      "forks": 336,
       "starsToday": 315
     },
     {
@@ -130,8 +130,8 @@
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
-      "stars": 11632,
-      "forks": 803,
+      "stars": 11791,
+      "forks": 813,
       "starsToday": 180
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/ruvnet/RuView",
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
-      "stars": 85270,
-      "forks": 11379,
+      "stars": 85368,
+      "forks": 11391,
       "starsToday": 1708
     },
     {
@@ -154,8 +154,8 @@
       "url": "https://github.com/likec4/likec4",
       "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
       "language": "TypeScript",
-      "stars": 4733,
-      "forks": 321,
+      "stars": 4779,
+      "forks": 327,
       "starsToday": 472
     },
     {
@@ -166,8 +166,8 @@
       "url": "https://github.com/Automattic/harper",
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
-      "stars": 12387,
-      "forks": 461,
+      "stars": 12491,
+      "forks": 465,
       "starsToday": 624
     },
     {
@@ -178,8 +178,8 @@
       "url": "https://github.com/jellyfin/jellyfin",
       "description": "The Free Software Media System - Server Backend & API",
       "language": "C#",
-      "stars": 54754,
-      "forks": 5167,
+      "stars": 54801,
+      "forks": 5169,
       "starsToday": 66
     }
   ]

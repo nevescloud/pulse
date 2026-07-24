@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T02:41:32.550Z",
+  "updated": "2026-07-24T05:49:54.754Z",
   "trending": [
     {
       "rank": 1,
@@ -139,7 +139,7 @@
       "description": null,
       "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
       "sdk": "gradio",
-      "likes": 5091,
+      "likes": 5092,
       "tags": [
         "gradio",
         "region:us"
@@ -213,7 +213,7 @@
       "description": "The ultimate guide to training LLM on large GPU Clusters",
       "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook",
       "sdk": "static",
-      "likes": 3947,
+      "likes": 3948,
       "tags": [
         "static",
         "region:us"
@@ -288,7 +288,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/zerogpu-aoti/wan2-2-fp8da-aoti-faster",
       "sdk": "gradio",
-      "likes": 3346,
+      "likes": 3347,
       "tags": [
         "gradio",
         "mcp-server",
@@ -377,7 +377,7 @@
       "description": "generate a video from an image with a text prompt",
       "url": "https://huggingface.co/spaces/r3gm/wan2-2-fp8da-aoti-preview",
       "sdk": "gradio",
-      "likes": 2935,
+      "likes": 2936,
       "tags": [
         "gradio",
         "mcp-server",
@@ -507,7 +507,7 @@
       "description": "Run a 1-bit 27B LLM locally in your browser on WebGPU",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels",
       "sdk": "static",
-      "likes": 304,
+      "likes": 306,
       "tags": [
         "static",
         "region:us"
